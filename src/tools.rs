@@ -1,5 +1,5 @@
 //! Détection, téléchargement et extraction des outils (Streamlink, libmpv).
-//! Les versions validées (étiquette, archive, empreinte) sont inscrites dans `licfmt::outils` ; l'adresse de
+//! Les versions validées (étiquette, archive, empreinte) sont inscrites dans `commun::outils` ; l'adresse de
 //! téléchargement vient toujours de l'API des releases GitHub et doit pointer vers le dépôt attendu.
 #![cfg_attr(not(test), deny(clippy::indexing_slicing))] // données reçues du réseau, aucune indexation qui panique
 use serde::Deserialize;
@@ -27,17 +27,17 @@ impl Tool {
     /// Nom court utilisé dans le manifeste des versions validées.
     fn key(self) -> &'static str {
         match self {
-            Tool::Streamlink if cfg!(target_os = "macos") => licfmt::outils::STREAMLINK_MACOS,
-            Tool::Libmpv if cfg!(target_os = "macos") => licfmt::outils::LIBMPV_MACOS,
-            Tool::Streamlink if cfg!(target_os = "linux") => licfmt::outils::STREAMLINK_LINUX,
-            Tool::Libmpv if cfg!(target_os = "linux") => licfmt::outils::LIBMPV_LINUX,
-            Tool::Streamlink => licfmt::outils::STREAMLINK,
-            Tool::Libmpv => licfmt::outils::LIBMPV,
+            Tool::Streamlink if cfg!(target_os = "macos") => commun::outils::STREAMLINK_MACOS,
+            Tool::Libmpv if cfg!(target_os = "macos") => commun::outils::LIBMPV_MACOS,
+            Tool::Streamlink if cfg!(target_os = "linux") => commun::outils::STREAMLINK_LINUX,
+            Tool::Libmpv if cfg!(target_os = "linux") => commun::outils::LIBMPV_LINUX,
+            Tool::Streamlink => commun::outils::STREAMLINK,
+            Tool::Libmpv => commun::outils::LIBMPV,
         }
     }
 
     fn repo(self) -> &'static str {
-        licfmt::outils::repo(self.key()).unwrap_or_default()
+        commun::outils::repo(self.key()).unwrap_or_default()
     }
 
     /// Nom du fichier de l'outil sur ce système (`streamlink` et `libmpv.2.dylib` sur Mac, `libmpv.so.2` sous Linux).
@@ -133,16 +133,16 @@ fn agent() -> ureq::Agent {
         .into()
 }
 
-/// Version validée de ce composant (inscrite dans `licfmt::outils`). Sans version validée, rien n'est installé.
-pub fn validated(tool: Tool) -> Result<licfmt::outils::Pinned, String> {
-    licfmt::outils::pinned(tool.key()).ok_or_else(|| {
+/// Version validée de ce composant (inscrite dans `commun::outils`). Sans version validée, rien n'est installé.
+pub fn validated(tool: Tool) -> Result<commun::outils::Pinned, String> {
+    commun::outils::pinned(tool.key()).ok_or_else(|| {
         crate::i18n::tr("Versions des composants non validées par l'éditeur.").to_string()
     })
 }
 
 /// Release GitHub d'une étiquette validée, et son archive au nom exact du manifeste. L'adresse vient toujours de
 /// l'API GitHub ; elle doit pointer vers les releases du dépôt attendu.
-fn fetch_release(tool: Tool, pinned: &licfmt::outils::Pinned) -> Result<Asset, String> {
+fn fetch_release(tool: Tool, pinned: &commun::outils::Pinned) -> Result<Asset, String> {
     let url = format!(
         "https://api.github.com/repos/{}/releases/tags/{}",
         tool.repo(),
@@ -162,7 +162,7 @@ fn fetch_release(tool: Tool, pinned: &licfmt::outils::Pinned) -> Result<Asset, S
         .into_iter()
         .find(|a| a.name == pinned.asset)
         .ok_or_else(|| crate::i18n::tr("Archive validée introuvable sur GitHub.").to_string())?;
-    if !licfmt::outils::download_url_ok(tool.key(), &asset.browser_download_url) {
+    if !commun::outils::download_url_ok(tool.key(), &asset.browser_download_url) {
         return Err(crate::i18n::tr("Adresse de téléchargement inattendue.").into());
     }
     Ok(asset)
@@ -201,7 +201,7 @@ fn download(url: &str, dest: &Path, progress: &dyn Fn(f32)) -> Result<String, St
     if done == 0 {
         return Err(crate::i18n::tr("Le fichier téléchargé est vide.").into());
     }
-    Ok(licfmt::to_hex(&hasher.finalize()))
+    Ok(commun::to_hex(&hasher.finalize()))
 }
 
 /// Recherche récursive d'un fichier par nom (insensible à la casse).
@@ -236,7 +236,7 @@ pub const ASSET_FILE: &str = "velka-asset.txt";
 static MANIFEST_LIBMPV_LGPL: std::sync::atomic::AtomicBool =
     std::sync::atomic::AtomicBool::new(false);
 
-/// Nom d'archive d'un build libmpv LGPL (voir `licfmt::outils::pick_libmpv_lgpl`).
+/// Nom d'archive d'un build libmpv LGPL (voir `commun::outils::pick_libmpv_lgpl`).
 fn is_lgpl_asset(name: &str) -> bool {
     let n = name.trim().to_ascii_lowercase();
     // Windows : `mpv-dev-lgpl-…` (zhongfly/mpv-winbuild) ; Mac et Linux : `libmpv-lgpl-…` (Keeyzn/velka-composants-mac,
@@ -631,7 +631,7 @@ pub fn install(tool: Tool, progress: &dyn Fn(f32, &str)) -> Result<PathBuf, Stri
 fn install_inner(
     tool: Tool,
     asset: &Asset,
-    pinned: &licfmt::outils::Pinned,
+    pinned: &commun::outils::Pinned,
     root: &Path,
     work: &Path,
     progress: &dyn Fn(f32, &str),
@@ -1292,7 +1292,7 @@ mod tests {
         let _ = fs::remove_dir_all(&base);
     }
 
-    /// Mac, de bout en bout : version validée (`licfmt::outils`), téléchargement depuis
+    /// Mac, de bout en bout : version validée (`commun::outils`), téléchargement depuis
     /// Keeyzn/velka-composants-mac, empreinte, installation dans le dossier `tools`, puis état « à jour ». Réseau réel :
     /// lancé par la CI Mac seulement.
     #[cfg(target_os = "macos")]
@@ -1302,7 +1302,7 @@ mod tests {
         installation_reelle();
     }
 
-    /// Linux, de bout en bout : version validée (`licfmt::outils`), téléchargement depuis
+    /// Linux, de bout en bout : version validée (`commun::outils`), téléchargement depuis
     /// Keeyzn/velka-composants-linux, empreinte, installation dans le dossier `tools`, puis état « à jour ». Réseau réel.
     #[cfg(target_os = "linux")]
     #[test]

@@ -949,8 +949,6 @@ impl VelkaApp {
         self.tick_pip_wait(ctx);
     }
 
-    // ---------- Activation ----------
-
     // ---------- Outils ----------
 
     /// Photos de profil des favoris, des récents et de la chaîne en cours (chacune une seule fois).

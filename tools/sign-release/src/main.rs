@@ -108,17 +108,17 @@ fn parse_sums(text: &str) -> Result<Vec<(String, String)>, String> {
 }
 
 fn sha256_hex(data: &[u8]) -> String {
-    licfmt::to_hex(&Sha256::digest(data))
+    commun::to_hex(&Sha256::digest(data))
 }
 
 /// Entrée signée du manifeste pour un fichier.
 fn entry(sk: &SigningKey, version: &str, name: &str, data: &[u8]) -> serde_json::Value {
     let sha = sha256_hex(data);
     let size = data.len() as u64;
-    let sig = licfmt::publication_sign(
+    let sig = commun::publication_sign(
         sk,
-        licfmt::Publication::MiseAJour,
-        &licfmt::update_text(version, &sha, size),
+        commun::Publication::MiseAJour,
+        &commun::update_text(version, &sha, size),
     );
     serde_json::json!({ "asset": name, "size": size, "sha256": sha, "sig": sig })
 }
@@ -133,14 +133,14 @@ fn build_manifest(
     let mut m = serde_json::json!({ "version": version });
     for (platform, name, data) in files {
         let e = entry(sk, version, name, data);
-        let text = licfmt::update_text(
+        let text = commun::update_text(
             version,
             e["sha256"].as_str().unwrap_or_default(),
             data.len() as u64,
         );
-        if !licfmt::publication_verify(
+        if !commun::publication_verify(
             public,
-            licfmt::Publication::MiseAJour,
+            commun::Publication::MiseAJour,
             &text,
             e["sig"].as_str().unwrap_or_default(),
         ) {
@@ -207,7 +207,7 @@ fn keygen(target: &str, replace: bool) -> Result<(), String> {
     }
     let pub_path = publication_pub();
     let current = std::fs::read_to_string(&pub_path).unwrap_or_default();
-    if licfmt::public_key_from_hex(&current).is_some() && !replace {
+    if commun::public_key_from_hex(&current).is_some() && !replace {
         return Err("assets/publication.pub contient déjà une clé : les installations existantes ne vérifieraient plus les \
                     mises à jour signées avec une nouvelle clé. Ajoutez --remplacer seulement si c'est voulu."
             .into());
@@ -225,13 +225,13 @@ fn keygen(target: &str, replace: bool) -> Result<(), String> {
     let mut f = options.open(&target).map_err(|e| {
         format!("écriture de la clé privée impossible (le fichier existe déjà ?) : {e}")
     })?;
-    f.write_all(format!("{}\n", licfmt::to_hex(&seed)).as_bytes())
+    f.write_all(format!("{}\n", commun::to_hex(&seed)).as_bytes())
         .map_err(|e| e.to_string())?;
     drop(f);
     if let Err(e) = restrict(&target) {
         eprintln!("ATTENTION : {e}. Restreignez les droits du fichier à la main.");
     }
-    let public = licfmt::to_hex(&sk.verifying_key().to_bytes());
+    let public = commun::to_hex(&sk.verifying_key().to_bytes());
     std::fs::write(&pub_path, format!("{public}\n"))
         .map_err(|e| format!("écriture de assets/publication.pub impossible : {e}"))?;
     println!("Nouvelle paire de clés créée.");
@@ -247,10 +247,10 @@ fn load_key() -> Result<(SigningKey, [u8; 32]), String> {
         .map_err(|_| format!("variable {KEY_ENV} absente (chemin du fichier de clé privée)"))?;
     let text = std::fs::read_to_string(&path)
         .map_err(|e| format!("lecture de la clé privée impossible : {e}"))?;
-    let sk = licfmt::signing_key_from_hex(&text)
+    let sk = commun::signing_key_from_hex(&text)
         .ok_or("clé privée invalide (64 caractères hexadécimaux attendus)")?;
     let expected = std::fs::read_to_string(publication_pub()).unwrap_or_default();
-    let expected = licfmt::public_key_from_hex(&expected)
+    let expected = commun::public_key_from_hex(&expected)
         .ok_or("assets/publication.pub est vide ou invalide : lancez d'abord « keygen »")?;
     if sk.verifying_key().to_bytes() != expected {
         return Err(
@@ -469,10 +469,10 @@ mod tests {
             (e["asset"].as_str(), e["size"].as_u64()),
             (Some("velka.exe"), Some(3))
         );
-        let text = licfmt::update_text("1.2.3", e["sha256"].as_str().unwrap(), 3);
-        assert!(licfmt::publication_verify(
+        let text = commun::update_text("1.2.3", e["sha256"].as_str().unwrap(), 3);
+        assert!(commun::publication_verify(
             &pk,
-            licfmt::Publication::MiseAJour,
+            commun::Publication::MiseAJour,
             &text,
             e["sig"].as_str().unwrap()
         ));

@@ -29,7 +29,7 @@ impl VelkaApp {
         if crate::smoke::enabled() {
             return;
         }
-        let today = licfmt::today_days();
+        let today = commun::today_days();
         let s = &mut self.settings;
         if s.first_use_day == 0 {
             s.first_use_day = today;

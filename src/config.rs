@@ -513,7 +513,7 @@ impl Settings {
         let Ok(stored) = fs::read_to_string(path) else {
             return;
         };
-        let Some(sec) = licfmt::dpapi::open_text(&stored)
+        let Some(sec) = commun::dpapi::open_text(&stored)
             .filter(|(_, plain)| !plain)
             .and_then(|(t, _)| serde_json::from_str::<Secrets>(&t).ok())
         else {
@@ -564,7 +564,7 @@ impl Settings {
         } else {
             let sealed = serde_json::to_string(&sec)
                 .ok()
-                .and_then(|t| licfmt::dpapi::seal_text(&t));
+                .and_then(|t| commun::dpapi::seal_text(&t));
             match sealed {
                 Some(t) => write_atomic(&spath, t.as_bytes()).is_ok(),
                 None => false,
@@ -692,7 +692,7 @@ fn set_aside(path: &Path, copy: bool) {
             }
         }
     }
-    let (y, m, d) = licfmt::civil_from_days(licfmt::today_days());
+    let (y, m, d) = commun::civil_from_days(commun::today_days());
     let stem = format!("settings.illisible-{y}-{m:02}-{d:02}");
     for n in 0..100 {
         let name = if n == 0 {
@@ -1256,7 +1256,7 @@ mod tests {
     /// Les jetons ne sont jamais écrits en clair dans settings.json ; ils reviennent au chargement.
     #[test]
     fn jetons_chiffres_a_part() {
-        if licfmt::dpapi::session_without_keychain() {
+        if commun::dpapi::session_without_keychain() {
             eprintln!("session SSH sur Mac : Trousseau inaccessible, essai sauté");
             return;
         }
@@ -1274,7 +1274,7 @@ mod tests {
             assert!(!json.contains(t) && !sec.contains(t), "{t} en clair");
         }
         assert!(!json.contains("oauth_token") && json.contains("\"account_login\": \"moi\""));
-        assert!(sec.starts_with(licfmt::dpapi::PREFIX));
+        assert!(sec.starts_with(commun::dpapi::PREFIX));
         assert_eq!(Settings::load_from(&p), s);
         // Déconnexion : secrets.dat disparaît.
         let vide = Settings {
@@ -1291,7 +1291,7 @@ mod tests {
     /// Un jeton réécrit par une ancienne version dans settings.json l'emporte sur secrets.dat.
     #[test]
     fn migration_des_jetons() {
-        if licfmt::dpapi::session_without_keychain() {
+        if commun::dpapi::session_without_keychain() {
             eprintln!("session SSH sur Mac : Trousseau inaccessible, essai sauté");
             return;
         }
@@ -1318,7 +1318,7 @@ mod tests {
             ("nouveau", "r")
         );
         // secrets.dat abîmé : ignoré, sans plantage.
-        fs::write(secrets_path(&p), format!("{}00ff", licfmt::dpapi::PREFIX)).unwrap();
+        fs::write(secrets_path(&p), format!("{}00ff", commun::dpapi::PREFIX)).unwrap();
         fs::write(&p, "{}").unwrap();
         assert_eq!(Settings::load_from(&p).oauth_token, "");
         // secrets.dat en clair (copié à la main) : refusé.

@@ -8,12 +8,12 @@ repository = "https://github.com/Keeyzn/velka-app"
 publish = false
 
 [workspace]
-members = ["crates/licfmt", "tools/sign-release"]
+members = ["crates/commun", "tools/sign-release"]
 
 [dependencies]
 directories = "6"
 eframe = { version = "0.37", default-features = false, features = ["glow", "default_fonts", "clipboard", "links", "accesskit"] }
-licfmt = { path = "crates/licfmt" }
+commun = { path = "crates/commun" }
 image = { version = "0.25.10", default-features = false, features = ["png", "jpeg", "gif"] }
 libloading = "0.9.1"
 serde = { version = "1.0.229", features = ["derive"] }

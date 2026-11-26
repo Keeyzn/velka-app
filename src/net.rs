@@ -202,7 +202,7 @@ pub fn retry_hint<B>(resp: &ureq::http::Response<B>) -> Option<Duration> {
         return Some(Duration::from_secs(s));
     }
     let reset = h("ratelimit-reset").and_then(|v| v.parse::<u64>().ok())?;
-    let now = u64::from(licfmt::now_secs());
+    let now = u64::from(commun::now_secs());
     Some(Duration::from_secs(reset.saturating_sub(now).max(1)))
 }
 
@@ -305,7 +305,7 @@ mod tests {
             .body(())
             .unwrap();
         assert_eq!(retry_hint(&r), Some(Duration::from_secs(42)));
-        let reset = licfmt::now_secs() as u64 + 30;
+        let reset = commun::now_secs() as u64 + 30;
         let r = ureq::http::Response::builder()
             .status(200)
             .header("Ratelimit-Reset", reset.to_string())

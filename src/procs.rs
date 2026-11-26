@@ -632,7 +632,7 @@ pub fn local_stamp() -> String {
 
 #[cfg(not(any(windows, target_os = "macos", target_os = "linux")))]
 pub fn local_stamp() -> String {
-    licfmt::now_secs().to_string()
+    commun::now_secs().to_string()
 }
 
 /// Clé « Run » de l'utilisateur (démarrage avec Windows) et nom de notre valeur.

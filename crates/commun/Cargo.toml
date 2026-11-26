@@ -1,5 +1,5 @@
 [package]
-name = "licfmt"
+name = "commun"
 version = "0.1.0"
 edition = "2021"
 description = "Outils communs de Velka : signatures de publication, composants tiers, secrets chiffrés"

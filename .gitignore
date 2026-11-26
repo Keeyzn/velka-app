@@ -6,7 +6,6 @@
 
 # Données locales et secrets : jamais dans le dépôt
 secrets.dat
-license.dat
 settings.json
 history.txt
 secrets.key

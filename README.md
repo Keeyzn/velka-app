@@ -73,6 +73,6 @@ velka <chaîne> [--pip] [--no-chat] [--screen 2] [--volume 80] [--on-top] [--cha
 
 ## Licence
 
-Velka est distribué sous licence [GNU GPL version 3 ou ultérieure](LICENSE). Les bibliothèques et composants tiers
+Copyright (C) 2026 Keeyzn. Velka est distribué sous licence [GNU GPL version 3 ou ultérieure](LICENSE). Les bibliothèques et composants tiers
 (dont libmpv sous LGPL, Streamlink sous BSD-2-Clause et la police Inter sous OFL) sont listés dans
 [installer/THIRD-PARTY-NOTICES.txt](installer/THIRD-PARTY-NOTICES.txt).

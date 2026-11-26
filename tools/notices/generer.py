@@ -18,7 +18,7 @@ RACINE = pathlib.Path(__file__).resolve().parents[2]
 SORTIE = RACINE / "installer" / "THIRD-PARTY-NOTICES.txt"
 CIBLE = "x86_64-pc-windows-msvc"
 RACINE_PAQUET = "velka"
-LOCALES = {"velka", "licfmt", "sign-release"}  # crates du dépôt : pas des tiers
+LOCALES = {"velka", "commun", "sign-release"}  # crates du dépôt : pas des tiers
 PREFIXES = ("LICEN", "COPYING", "NOTICE", "UNLICENSE", "COPYRIGHT")
 # Crates sans fichier de licence dans leurs sources : (licence, justification). Vide tant que tout est couvert.
 EXCEPTIONS = {}

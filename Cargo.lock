@@ -651,6 +651,15 @@ dependencies = [
 ]
 
 [[package]]
+name = "commun"
+version = "0.1.0"
+dependencies = [
+ "chacha20poly1305",
+ "ed25519-dalek",
+ "windows",
+]
+
+[[package]]
 name = "concurrent-queue"
 version = "2.5.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -1898,15 +1907,6 @@ dependencies = [
 ]
 
 [[package]]
-name = "licfmt"
-version = "0.1.0"
-dependencies = [
- "chacha20poly1305",
- "ed25519-dalek",
- "windows",
-]
-
-[[package]]
 name = "linebender_resource_handle"
 version = "0.1.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -3013,9 +3013,9 @@ checksum = "f8fadd59c855ef2080decdef8ff161eb6661b86933c9d82e5ba29dc602a55aba"
 name = "sign-release"
 version = "0.1.0"
 dependencies = [
+ "commun",
  "ed25519-dalek",
  "getrandom 0.3.4",
- "licfmt",
  "serde_json",
  "sha2",
 ]
@@ -3592,13 +3592,13 @@ dependencies = [
 name = "velka"
 version = "2.0.0"
 dependencies = [
+ "commun",
  "directories",
  "ed25519-dalek",
  "eframe",
  "image",
  "libc",
  "libloading 0.9.1",
- "licfmt",
  "serde",
  "serde_json",
  "sevenz-rust2",

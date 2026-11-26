@@ -210,10 +210,10 @@ fn parse_info(v: &serde_json::Value, public_key: &[u8; 32]) -> Result<Info, Stri
     if !valid {
         return Err("manifeste de mise à jour invalide".into());
     }
-    let text = licfmt::update_text(&info.version, &info.sha256, info.size);
-    if !licfmt::publication_verify(
+    let text = commun::update_text(&info.version, &info.sha256, info.size);
+    if !commun::publication_verify(
         public_key,
-        licfmt::Publication::MiseAJour,
+        commun::Publication::MiseAJour,
         &text,
         v["sig"].as_str().unwrap_or_default(),
     ) {
@@ -577,10 +577,10 @@ mod tests {
         let sk = ed25519_dalek::SigningKey::from_bytes(&[2; 32]);
         let pk = sk.verifying_key().to_bytes();
         let sha = "ab".repeat(32);
-        let sig = licfmt::publication_sign(
+        let sig = commun::publication_sign(
             &sk,
-            licfmt::Publication::MiseAJour,
-            &licfmt::update_text("9.0.0", &sha, 5_000_000),
+            commun::Publication::MiseAJour,
+            &commun::update_text("9.0.0", &sha, 5_000_000),
         );
         let rep = |version: &str, size: u64, sha: &str, sig: &str| serde_json::json!({ "version": version, "size": size, "sha256": sha, "sig": sig });
         let ok = parse_info(&rep("9.0.0", 5_000_000, &sha, &sig), &pk).unwrap();
@@ -719,10 +719,10 @@ mod tests {
         let sk = ed25519_dalek::SigningKey::from_bytes(&[2; 32]);
         let pk = sk.verifying_key().to_bytes();
         let sha = "ab".repeat(32);
-        let sig = licfmt::publication_sign(
+        let sig = commun::publication_sign(
             &sk,
-            licfmt::Publication::MiseAJour,
-            &licfmt::update_text("999.0.0", &sha, 5_000_000),
+            commun::Publication::MiseAJour,
+            &commun::update_text("999.0.0", &sha, 5_000_000),
         );
         let manifeste = |sig: &str| {
             let mut m = serde_json::json!({ "version": "999.0.0" });
@@ -753,10 +753,10 @@ mod tests {
         assert!(info.url.ends_with("/dl/v999/velka-app"), "{}", info.url);
         // Signature d'une autre clé (dépôt compromis).
         let autre = ed25519_dalek::SigningKey::from_bytes(&[3; 32]);
-        let fausse = licfmt::publication_sign(
+        let fausse = commun::publication_sign(
             &autre,
-            licfmt::Publication::MiseAJour,
-            &licfmt::update_text("999.0.0", &sha, 5_000_000),
+            commun::Publication::MiseAJour,
+            &commun::update_text("999.0.0", &sha, 5_000_000),
         );
         assert!(
             verifier(manifeste(&fausse)).is_err(),
@@ -792,10 +792,10 @@ mod tests {
         let sk = ed25519_dalek::SigningKey::from_bytes(&[2; 32]);
         let pk = sk.verifying_key().to_bytes();
         let sha = "ab".repeat(32);
-        let sig = licfmt::publication_sign(
+        let sig = commun::publication_sign(
             &sk,
-            licfmt::Publication::MiseAJour,
-            &licfmt::update_text("999.0.0", &sha, 5_000_000),
+            commun::Publication::MiseAJour,
+            &commun::update_text("999.0.0", &sha, 5_000_000),
         );
         let mut m = serde_json::json!({ "version": "999.0.0" });
         m[platform()] = serde_json::json!({ "asset": "velka-app", "size": 5_000_000, "sha256": sha, "sig": sig });
@@ -839,14 +839,14 @@ mod tests {
     fn cle_embarquee_refuse_signature_invalide_ou_etrangere() {
         let pk = crate::publication::public_key();
         let sha = "cd".repeat(32);
-        let text = licfmt::update_text("999.0.0", &sha, 5_000_000);
+        let text = commun::update_text("999.0.0", &sha, 5_000_000);
         let autre = ed25519_dalek::SigningKey::from_bytes(&[0x5a; 32]);
         assert_ne!(
             autre.verifying_key().to_bytes(),
             pk,
             "clé d'essai différente de la clé embarquée"
         );
-        let etrangere = licfmt::publication_sign(&autre, licfmt::Publication::MiseAJour, &text);
+        let etrangere = commun::publication_sign(&autre, commun::Publication::MiseAJour, &text);
         let entree = |sig: &str| serde_json::json!({ "version": "999.0.0", "size": 5_000_000, "sha256": sha, "sig": sig });
         assert!(
             parse_info(&entree(&etrangere), &pk).is_err(),

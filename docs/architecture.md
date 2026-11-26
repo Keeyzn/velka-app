@@ -10,7 +10,7 @@ Rust stable, édition 2021. `eframe`/`egui` 0.37 (`glow`, `default_fonts`, `clip
 `libloading` (libmpv chargée dynamiquement), `ureq` 3, `tungstenite`, `serde`, `zip`, `sevenz-rust2`, `image`,
 `windows` 0.62, `winresource`. Police Inter embarquée. Release : `lto`, `panic="abort"`, `strip`, `debug = false`.
 `.cargo/config.toml` : `crt-static` sous Windows (ne pas retirer). Espace de travail Cargo : application `velka`,
-`crates/licfmt` (signatures de publication, composants tiers, secrets chiffrés) et `tools/sign-release` (clé de
+`crates/commun` (signatures de publication, composants tiers, secrets chiffrés) et `tools/sign-release` (clé de
 publication et manifeste de mise à jour signé, sur le PC du mainteneur).
 
 ## Modules `src/`
@@ -25,7 +25,7 @@ publication et manifeste de mise à jour signé, sur le PC du mainteneur).
 | `mpv.rs` | Bindings libmpv + rendu OpenGL dans egui (FBO puis blit dans le `PaintCallback`) ; options du lecteur `MPV_OPTIONS`. |
 | `stream.rs` | Streamlink en processus caché, serveur HTTP local ; arguments `STREAMLINK_ARGS`. |
 | `procs*.rs` | Fonctions système par plateforme : Job Object (Windows), notifications, démarrage avec le système, instance unique. |
-| `tools.rs` | Streamlink/libmpv : détection, téléchargement, versions validées (`licfmt::outils`), extraction. |
+| `tools.rs` | Streamlink/libmpv : détection, téléchargement, versions validées (`commun::outils`), extraction. |
 | `twitch.rs`, `follows.rs`, `auth.rs` | GraphQL non officiel (seul endroit), Helix officiel, connexion Device Code (sans secret). |
 | `avatars.rs`, `thumbs.rs`, `cache.rs` | Photos de profil (cache 7 j), aperçus des lives, purge du cache d'images. |
 | `update.rs`, `publication.rs` | Mise à jour depuis les Releases GitHub (`GITHUB_REPO`), manifeste `velka-maj.json` signé Ed25519, retour arrière automatique. |
