@@ -1,0 +1,535 @@
+Aide	ヘルプ
+Réduire	最小化
+Agrandir	最大化
+Restaurer	元に戻す
+Fermer	閉じる
+Échap	Esc
+Français	フランス語
+Anglais	英語
+Espagnol	スペイン語
+Portugais	ポルトガル語
+Allemand	ドイツ語
+Italien	イタリア語
+Néerlandais	オランダ語
+Polonais	ポーランド語
+Russe	ロシア語
+Ukrainien	ウクライナ語
+Turc	トルコ語
+Vietnamien	ベトナム語
+Indonésien	インドネシア語
+Chinois simplifié	中国語（簡体字）
+Chinois traditionnel	中国語（繁体字）
+Japonais	日本語
+Coréen	韓国語
+Tchèque	チェコ語
+Roumain	ルーマニア語
+Hongrois	ハンガリー語
+Suédois	スウェーデン語
+Danois	デンマーク語
+Norvégien	ノルウェー語
+Finnois	フィンランド語
+Grec	ギリシャ語
+Annuler	キャンセル
+spectateurs	人が視聴中
+Hors ligne	オフライン
+Cette chaîne n'existe pas.	このチャンネルは存在しません。
+Statut indisponible, vous pouvez quand même essayer.	状態を取得できませんが、試すことはできます。
+Accueil	ホーム
+En direct	配信中
+chaînes	チャンネル
+Favoris	お気に入り
+Spectateurs	視聴者
+au total	合計
+Résultat	結果
+Vérification…	確認中…
+Regarder	視聴
+Nom de chaîne invalide.	チャンネル名が無効です。
+En direct parmi vos favoris	お気に入りで配信中
+Aucun favori en direct pour le moment.	今配信中のお気に入りはありません。
+Récents	最近
+Retirer de l'historique	履歴から削除
+Rechercher	検索
+Plateforme	プラットフォーム
+Réglages	設定
+Quitter le PiP	PiP を終了
+Reprise dans un instant…	まもなく再開します…
+Retour	戻る
+Arrêter	停止
+Quitter le plein écran	全画面を終了
+Plein écran	全画面
+Lecture	再生
+Réactiver le son	ミュート解除
+Couper le son	ミュート
+Chat	チャット
+Changement de qualité…	画質を切り替え中…
+Réessayer	再試行
+depuis	配信時間
+connexion…	接続中…
+changement de qualité…	画質を切り替え中…
+interrompu	中断
+Lecture vidéo	動画の再生
+Qualité par défaut	既定の画質
+Faible latence	低遅延
+Désactiver pour un flux plus stable	配信を安定させるにはオフにします
+Réduire la barre latérale	サイドバーを折りたたむ
+Agrandir la barre latérale	サイドバーを広げる
+Chat à gauche de la vidéo	チャットを動画の左に表示
+Toujours au premier plan	常に手前に表示
+Chat en surimpression en plein écran	全画面時にチャットを動画に重ねる
+Apparence	外観
+Général	一般
+Thème	テーマ
+Langue	言語
+Sombre	スレート
+Dark	ダーク
+Clair	ライト
+Compte Twitch	Twitch アカウント
+Connecté en tant que	ログイン中：
+Vous pouvez écrire dans le chat.	チャットに書き込めます。
+chaînes suivies sur Twitch chargées.	件のフォロー中の Twitch チャンネルを読み込みました。
+Impossible de charger vos chaînes suivies pour le moment.	フォロー中のチャンネルを今は読み込めません。
+Chargement de vos chaînes suivies…	フォロー中のチャンネルを読み込み中…
+En direct parmi vos chaînes suivies sur Twitch	フォロー中の Twitch チャンネルで配信中
+Suivies sur Twitch	Twitch でフォロー中
+Prévient quand un favori passe en direct	お気に入りが配信を始めると知らせます
+Activé : vos favoris sont vérifiés toutes les minutes en arrière-plan, même pendant un live. Cela utilise un peu plus d'internet et de mémoire.	オン：視聴中でも、お気に入りを毎分バックグラウンドで確認します。通信量とメモリを少し多く使います。
+Chaînes dans la barre latérale	サイドバーのチャンネル
+Chaînes sur l'accueil	ホームのチャンネル
+Qualité utilisée à l'ouverture d'un live. « Source » est la qualité maximale de la chaîne ; « Audio » ne joue que le son.	配信を開いたときの画質。「Source」はチャンネルの最高画質、「Audio」は音声のみです。
+Réduit le retard entre le streamer et vous. Désactivez-le si la vidéo saccade ou se coupe.	配信者との遅延を減らします。映像がカクついたり途切れたりする場合はオフにしてください。
+Garde la fenêtre devant toutes les autres applications.	ウィンドウをほかのすべてのアプリより手前に保ちます。
+Affiche le chat par-dessus la vidéo quand vous êtes en plein écran.	全画面のとき、チャットを動画の上に表示します。
+Faire rouler la molette au-dessus de la vidéo monte ou baisse le volume.	動画の上でマウスホイールを回すと音量が上下します。
+Un clic sur la vidéo met en pause ou relance la lecture.	動画をクリックすると一時停止または再開します。
+Garde un niveau sonore régulier (normalisation du son) : relève les passages faibles et atténue les passages forts, d'une chaîne à l'autre et au sein d'un même live.	音量を一定に保ちます（音声の正規化）。小さい部分を持ち上げ、大きい部分を抑えます。チャンネル間でも、同じライブの中でも働きます。
+Vitesse de la molette dans les listes et dans le chat. À 1,0 ×, un cran de molette fait défiler 3 lignes de 75 px, de façon fluide.	リストとチャットでのホイールの速さ。1.0 × では、ホイール 1 段で 75 px の行を 3 行なめらかにスクロールします。
+À chaque lancement, l'application démarre avec le volume choisi ci-dessous, au lieu du dernier volume réglé.	起動するたびに、前回の音量ではなく下で選んだ音量で始まります。
+100 % = volume normal. 130 % permet d'amplifier une chaîne trop silencieuse, mais le son peut saturer.	100 % = 通常の音量。130 % は小さすぎるチャンネルを大きくできますが、音が割れることがあります。
+Temps sans bouger la souris avant que les boutons posés sur la vidéo disparaissent.	マウスを動かさずに、動画上のボタンが消えるまでの時間。
+Quand vous quittez la page d'un live avec « Retour », il continue dans une petite fenêtre en bas à droite. Désactivé : il s'arrête.	「戻る」で配信ページを離れると、右下の小さなウィンドウで再生が続きます。オフ：停止します。
+Fréquence à laquelle l'accueil vérifie quelles chaînes sont en direct. Plus c'est rapide, plus cela utilise internet. « Manuelle » : seulement avec le bouton Actualiser.	ホームが配信中のチャンネルを確認する頻度。速いほど通信量が増えます。「手動」：更新ボタンを押したときだけ。
+Télécharge une image du direct pour chaque carte. Désactivez pour économiser des données.	カードごとに配信の画像をダウンロードします。データを節約するにはオフにします。
+Les chaînes que vous suivez sur votre compte Twitch (il faut être connecté dans la carte « Compte Twitch »).	Twitch アカウントでフォローしているチャンネル（「Twitch アカウント」カードでログインが必要です）。
+Nombre maximum de chaînes Twitch en direct listées dans la barre de gauche (ce n'est pas un délai).	左のバーに表示する配信中の Twitch チャンネルの最大数（時間ではありません）。
+Nombre maximum de chaînes Twitch en direct affichées sur la page d'accueil (ce n'est pas un délai).	ホームに表示する配信中の Twitch チャンネルの最大数（時間ではありません）。
+Garde le jeu sélectionné dans la barre « Jeux en direct » au prochain lancement.	「配信中のゲーム」バーで選んだゲームを次回の起動時も保持します。
+Ouvrir : le live s'affiche en grand. PiP : il s'ouvre directement dans une petite fenêtre flottante.	開く：配信を大きく表示します。PiP：小さなフローティングウィンドウで直接開きます。
+Les messages qui contiennent un de ces mots (séparés par des virgules) sont surlignés en jaune dans le chat.	これらの語（カンマ区切り）を含むメッセージは、チャットで黄色く強調されます。
+Quand une chaîne est hors ligne ou que son live se termine, propose d'autres lives : vos chaînes suivies du même jeu d'abord.	チャンネルがオフラインのときや配信が終わったとき、ほかの配信を提案します。まずは同じゲームのフォロー中のチャンネルから。
+Nombre de chaînes proposées quand un live est hors ligne ou terminé.	配信がオフラインまたは終了したときに提案するチャンネル数。
+Les boutons latéraux de la souris changent de page, comme dans un navigateur. Alt + flèche gauche ou droite fait pareil.	マウスのサイドボタンで、ブラウザーのようにページを移動します。Alt + 左右の矢印キーでも同じです。
+Le pointeur devient une main au-dessus des boutons et des cartes.	ボタンやカードの上でポインターが手の形になります。
+Complet : fondus, glissements, cascades et compteurs animés. Réduit : fondus et changements de couleur seulement, sans déplacement. Désactivé : aucune animation (utile sur un ordinateur lent). Le réglage d'animations de Windows n'est pas pris en compte.	標準: フェード、スライド、順次表示、アニメーションするカウンター。控えめ: フェードと色の変化のみで、動きはありません。オフ: アニメーションなし（遅いパソコン向け）。Windows のアニメーション設定は反映されません。
+Affiche une notification Windows quand l'un de vos favoris passe en direct. L'application doit rester ouverte (elle peut être réduite).	お気に入りが配信を始めると Windows の通知を表示します。アプリは開いたままにしてください（最小化は可能）。
+Lance Velka automatiquement quand vous ouvrez votre session Windows.	Windows にサインインすると Velka を自動で起動します。
+Photos de profil et émotes déjà téléchargées. Les vider libère de la place ; elles se retéléchargent au besoin.	ダウンロード済みのプロフィール画像とエモート。消去すると空き容量が増え、必要なときに再ダウンロードされます。
+Notifications Windows	Windows の通知
+Prévient quand un favori passe en direct. Vérifie vos favoris toutes les minutes, même pendant un live : utilise un peu plus d'internet et de mémoire.	お気に入りが配信を始めると知らせます。視聴中でも毎分お気に入りを確認するため、通信量とメモリを少し多く使います。
+Envoyer une notification de test	テスト通知を送信
+est en direct	が配信中
+Notification de test : tout fonctionne.	テスト通知：正常に動作しています。
+Volume et lecteur	音量とプレーヤー
+Démarrer en muet	ミュートで起動
+Volume fixe au lancement	起動時の音量を固定
+Sinon : le dernier volume utilisé	オフの場合：最後に使った音量
+Volume au lancement	起動時の音量
+Volume maximum	最大音量
+Masquage des contrôles	操作ボタンを隠すまで
+Jamais	しない
+Capture d'écran	スクリーンショット
+Infos techniques	技術情報
+Capture enregistrée :	スクリーンショットを保存しました：
+Capture impossible.	スクリーンショットを撮れませんでした。
+Minuteur de veille	スリープタイマー
+Désactivé	オフ
+Arrêt du live dans	配信停止まで
+logiciel	ソフトウェア
+Résolution	解像度
+Images par seconde	フレームレート
+Débit vidéo	映像ビットレート
+Débit audio	音声ビットレート
+Images perdues	ドロップフレーム
+Images perdues au décodage	デコード時のドロップフレーム
+Mémoire tampon	バッファー
+Format vidéo	映像形式
+Décodage	デコード
+Arrête le live automatiquement après la durée choisie, à partir du moment où vous changez ce réglage. Une minute avant, un compte à rebours s'affiche sur la vidéo. Le minuteur revient sur Désactivé à chaque nouveau live et à chaque lancement de l'application.	選んだ時間が過ぎるとライブを自動で停止します。時間はこの設定を変更した時点から数えます。1分前に動画の上にカウントダウンが表示されます。タイマーは、新しいライブを開くたび、およびアプリを起動するたびに「無効」に戻ります。
+Émotes 7TV, BTTV et FFZ	7TV・BTTV・FFZ のエモート
+Émotes animées	アニメーションエモート
+Badges du chat	チャットのバッジ
+Affiche les émotes des extensions 7TV, BetterTTV et FrankerFaceZ (globales et propres à la chaîne). Elles sont chargées à l'ouverture du live.	拡張機能 7TV、BetterTTV、FrankerFaceZ のエモート（全体用とチャンネル専用）を表示します。配信を開いたときに読み込みます。
+Anime les émotes qui le sont (Twitch et extensions). Utilise un peu plus le processeur quand le chat en affiche.	動くエモートをアニメーション表示します（Twitch と拡張機能）。チャットに表示されている間、CPU を少し多く使います。
+Affiche les badges (abonné, modérateur, VIP…) devant les pseudos.	名前の前にバッジ（サブスクライバー、モデレーター、VIP…）を表示します。
+Netteté de l'image	画像のシャープネス
+Agrandissement de haute qualité	高品質な拡大
+Désactivée	オフ
+Légère	弱
+Moyenne	中
+Forte	強
+Image plus fine en 480p et 720p	480p と 720p の画質を向上
+Renforce les contours de l'image (calculé par la carte graphique). Utile sur un flux flou ; trop fort, l'image paraît granuleuse.	画像の輪郭を強調します（グラフィックボードで処理）。ぼやけた配信に便利ですが、強すぎると粗く見えます。
+Utilise un filtre d'agrandissement plus fin quand la vidéo est plus petite que la fenêtre (480p, 720p). Demande davantage à la carte graphique.	動画がウィンドウより小さいとき（480p、720p）に、より精細な拡大フィルターを使います。グラフィックボードの負荷が増えます。
+Compte	アカウント
+Qualité et flux	画質とストリーム
+Audio	音声
+Lecteur et comportement	プレーヤーと動作
+Affichage et lisibilité	表示と読みやすさ
+Filtrage et alertes	フィルターと通知
+Notifications	通知
+Avancé et Système	詳細設定とシステム
+Stockage et configuration	ストレージと構成
+Émotes et badges	エモートとバッジ
+Les changements s'appliquent tout de suite.	変更はすぐに反映されます。
+2,5 s	2.5 秒
+Mo	MB
+Ko	KB
+Rechercher un réglage	設定を検索
+Résultats de la recherche	検索結果
+Aucun réglage trouvé.	設定が見つかりません。
+Mini-lecteur	ミニプレーヤー
+Garder le live dans un coin quand on quitte la page	ページを離れても配信を隅に残す
+Accueil et barre latérale	ホームとサイドバー
+Actualisation	更新間隔
+Manuelle	手動
+Actualiser	更新
+Aperçus des lives	配信のプレビュー
+Images du direct sur les cartes	カードに配信の画像を表示
+Chaînes suivies sur Twitch	Twitch でフォロー中のチャンネル
+Dans la barre latérale, sur l'accueil et dans les recommandations	サイドバー、ホーム、おすすめに表示
+Dans la barre latérale	サイドバーに表示
+Sur l'accueil	ホームに表示
+Se souvenir du jeu choisi	選んだゲームを記憶
+Clic sur une carte	カードのクリック
+Ouvrir	開く
+Taille du texte	文字サイズ
+Masquer les bots	ボットを隠す
+Horodatage des messages	メッセージの時刻
+Mots surlignés	強調する語
+mot, pseudo… (séparés par des virgules)	語、名前…（カンマ区切り）
+Recommandations	おすすめ
+Recommandations de chaînes	おすすめチャンネル
+Proposer des chaînes quand un live est hors ligne ou terminé	配信がオフラインまたは終了したときにチャンネルを提案
+Nombre de recommandations	おすすめの数
+Mouvement et lisibilité	動きと読みやすさ
+Navigation et souris	ナビゲーションとマウス
+Vérification des mises à jour	アップデートの確認
+Nouvelle version disponible :	新しいバージョンがあります：
+Mettre à jour	アップデート
+Téléchargement de la mise à jour…	アップデートをダウンロード中…
+Mise à jour impossible :	アップデートできませんでした：
+Boutons Précédent / Suivant de la souris	マウスの戻る / 進むボタン
+Main sur les éléments cliquables	クリックできる要素で手のポインター
+Animations	アニメーション
+Raccourcis clavier	キーボードショートカット
+Appuyez sur une touche…	キーを押してください…
+Rétablir les raccourcis	ショートカットを元に戻す
+Raccourcis non modifiables	変更できないショートカット
+Quitter le plein écran, le PiP ou le live	全画面・PiP・ライブを終了
+Rechercher une chaîne	チャンネルを検索
+Zoom de l'interface	インターフェースのズーム
+Page précédente / suivante	前 / 次のページ
+Pause / lecture	一時停止 / 再生
+Volume +	音量 +
+Volume -	音量 -
+Afficher / masquer le chat	チャットの表示 / 非表示
+Image dans l'image	ピクチャー・イン・ピクチャー
+Système	システム
+Démarrer avec Windows	Windows と同時に起動
+Ouvre l'application à l'ouverture de session	サインイン時にアプリを開きます
+Cache des images	画像キャッシュ
+Vider	消去
+Espace	スペース
+Flèche haut	上矢印
+Flèche bas	下矢印
+Flèche gauche	左矢印
+Flèche droite	右矢印
+Entrée	Enter
+Jeux en direct	配信中のゲーム
+Aucun live pour ce jeu en ce moment.	このゲームの配信は今ありません。
+Chaînes recommandées	おすすめのチャンネル
+Ajouter aux favoris	お気に入りに追加
+Se déconnecter	ログアウト
+En attente de votre accord sur Twitch…	Twitch での承認を待っています…
+Rouvrir la page Twitch	Twitch のページをもう一度開く
+Connexion à Twitch…	Twitch に接続中…
+Connectez-vous pour écrire dans le chat.	チャットに書き込むにはログインしてください。
+Se connecter avec Twitch	Twitch でログイン
+La connexion Twitch n'est pas disponible dans cette version.	このバージョンでは Twitch でのログインは使えません。
+Connexion refusée sur Twitch.	Twitch でログインが拒否されました。
+Le code a expiré, recommencez.	コードの有効期限が切れました。やり直してください。
+Twitch a refusé la connexion.	Twitch がログインを拒否しました。
+Impossible de joindre Twitch. Vérifiez votre connexion.	Twitch に接続できません。接続を確認してください。
+Twitch a refusé la demande de connexion.	Twitch がログイン要求を拒否しました。
+Composants externes	外部コンポーネント
+Non installé	未インストール
+Prêt	準備完了
+Installer	インストール
+Chemins personnalisés (facultatif)	カスタムパス（任意）
+Journaux et diagnostic	ログと診断
+Volume	音量
+Molette de la souris sur la vidéo = volume	動画上のマウスホイール = 音量
+Clic sur la vidéo = pause	動画をクリック = 一時停止
+Volume stable	音量の安定化
+Limite les écarts de volume entre les chaînes	チャンネル間の音量差を抑えます
+Vitesse de défilement	スクロールの速さ
+Résultats	結果
+Zone de réinitialisation	リセットゾーン
+Réinitialiser	リセット
+Désinstaller	アンインストール
+Oui, réinitialiser	はい、リセットします
+Oui, désinstaller	はい、アンインストールします
+Ouvrir le dossier du journal	ログのフォルダーを開く
+Connexion au chat…	チャットに接続中…
+Chat connecté	チャットに接続しました
+Reconnexion du chat	チャットに再接続中
+Envoyer un message	メッセージを送信
+Jeton requis pour écrire (Réglages)	書き込むにはトークンが必要です（設定）
+Revenir en bas	一番下へ
+Réponse de Twitch inattendue pour ce jeton.	このトークンに対する Twitch の応答が予期しないものでした。
+Jeton refusé par Twitch (expiré ou invalide).	Twitch がトークンを拒否しました（期限切れまたは無効）。
+Connexion refusée avec ce jeton.	このトークンでの接続は拒否されました。
+Bienvenue dans Velka	Velka へようこそ
+Tout installer	すべてインストール
+Installation en cours…	インストール中…
+La chaîne est hors ligne.	チャンネルはオフラインです。
+Pas de connexion à Twitch. Vérifiez votre réseau.	Twitch に接続できません。ネットワークを確認してください。
+Le flux met trop de temps à démarrer.	配信の開始に時間がかかりすぎています。
+Le flux s'est interrompu :	配信が中断されました：
+arrêt inattendu	予期しない停止
+Impossible de lancer Streamlink :	Streamlink を起動できません：
+Préparation…	準備中…
+Le rendu OpenGL n'est pas disponible.	OpenGL の描画を利用できません。
+Aucun port local disponible.	使用できるローカルポートがありません。
+Impossible de joindre GitHub :	GitHub に接続できません：
+Réponse GitHub illisible :	GitHub の応答を読み取れません：
+Aucune archive compatible dans la dernière version.	最新バージョンに対応するアーカイブがありません。
+Téléchargement impossible :	ダウンロードできませんでした：
+Écriture impossible :	書き込めませんでした：
+Téléchargement interrompu :	ダウンロードが中断されました：
+Le fichier téléchargé est vide.	ダウンロードしたファイルが空です。
+Recherche de la dernière version…	最新バージョンを検索中…
+Dossier inaccessible :	フォルダーにアクセスできません：
+Téléchargement…	ダウンロード中…
+Extraction…	展開中…
+Extraction impossible :	展開できませんでした：
+Archive invalide :	無効なアーカイブ：
+streamlink.exe introuvable dans l'archive.	アーカイブに streamlink.exe が見つかりません。
+Structure d'archive inattendue.	アーカイブの構成が予期しないものです。
+libmpv-2.dll introuvable dans l'archive.	アーカイブに libmpv-2.dll が見つかりません。
+Installation impossible :	インストールできませんでした：
+Fichier installé introuvable ou vide.	インストールしたファイルが見つからないか空です。
+Installé	インストール済み
+Accessibilité	アクセシビリティ
+Taille de l'interface	インターフェースのサイズ
+Mise à l'échelle	拡大縮小
+Contraste élevé	ハイコントラスト
+Automatique	自動
+Activé	オン
+Focus clavier renforcé	キーボードフォーカスの強調
+Couleurs	カラー
+Palette de couleurs	カラーパレット
+Turquoise	ターコイズ
+Bleu	ブルー
+Vert	グリーン
+Orange foncé	ダークオレンジ
+Rose	ピンク
+Personnalisée	カスタム
+Couleur d'accent personnalisée	カスタムのアクセントカラー
+Code couleur	カラーコード
+Rouge	赤
+Exemple	サンプル
+Contraste du texte sur l'accent	アクセントカラー上の文字のコントラスト
+Conforme	基準を満たす
+Insuffisant, minimum	不十分、最低
+Couleur non appliquée : le contraste est trop faible.	この色は適用されません。コントラストが低すぎます。
+Couleur conforme la plus proche :	基準を満たす最も近い色:
+Utiliser cette couleur	この色を使う
+Rétablir les couleurs par défaut	既定の色に戻す
+Mises à jour	アップデート
+À jour	最新
+Mise à jour disponible	アップデートがあります
+Chemin personnalisé	カスタムパス
+Version inconnue	バージョン不明
+Installée :	インストール済み:
+Disponible :	利用可能:
+Mise à jour en cours…	更新中…
+Redémarrage nécessaire	再起動が必要
+Impossible de vérifier les mises à jour :	アップデートを確認できません:
+Échec de la mise à jour, version précédente conservée :	更新に失敗しました。前のバージョンを保持しています:
+Versions des composants non validées par l'éditeur.	コンポーネントのバージョンは発行元に承認されていません。
+Archive validée introuvable sur GitHub.	承認済みのアーカイブが GitHub に見つかりません。
+Adresse de téléchargement inattendue.	想定外のダウンロード先です。
+Empreinte du fichier téléchargé incorrecte.	ダウンロードしたファイルのチェックサムが一致しません。
+Téléchargement refusé par le serveur.	サーバーがダウンロードを拒否しました。
+Fichier reçu invalide (taille ou empreinte différente).	受信したファイルが無効です（サイズまたはチェックサムが一致しません）。
+Serveur injoignable :	サーバーに接続できません：
+Remplacement impossible :	置き換えに失敗しました：
+Relance impossible :	再起動に失敗しました：
+Impossible de charger libmpv :	libmpv を読み込めません：
+Fonction libmpv manquante :	libmpv の関数が見つかりません：
+Le lecteur n'a pas pu démarrer.	プレーヤーを起動できませんでした。
+Initialisation du lecteur impossible :	プレーヤーの初期化に失敗しました：
+Rendu vidéo impossible :	映像の描画に失敗しました：
+Option du lecteur refusée :	プレーヤーがオプションを拒否しました：
+Propriété du lecteur refusée :	プレーヤーがプロパティを拒否しました：
+Commande du lecteur refusée :	プレーヤーがコマンドを拒否しました：
+Se connecter	ログイン
+Autres langues	その他の言語
+Personnaliser	カスタマイズ
+Améliorer le contraste	コントラストを改善
+Replier le chat	チャットを折りたたむ
+Afficher le chat	チャットを表示
+Qualité maximale proposée par la chaîne, sans réduction.	チャンネルが提供する最高画質です。縮小はされません。
+Fenêtre PiP au format de la vidéo	PiPウィンドウを動画の比率に合わせる
+En mini-fenêtre PiP, la fenêtre prend le format du live pour supprimer les bandes noires.	PiPの小さなウィンドウをライブの縦横比に合わせ、黒帯をなくします。
+spectateur	視聴者
+Actualisation en cours	更新中…
+Qualité	画質
+Redémarrer l'application	アプリを再起動
+Passer	スキップ
+Suivant	次へ
+C'est parti	始めましょう
+Chat avec émotes	エモート付きチャット
+Mini-lecteur et PiP	ミニプレーヤーとPiP
+Choisissez votre style	スタイルを選択
+Couleur d'accent	アクセントカラー
+Réglez la lecture	再生を設定
+Restez informé	最新情報を受け取る
+Tout se règle aussi plus tard dans les Réglages.	すべて後から設定で変更できます。
+Thème et couleur de l'application.	アプリのテーマと色。
+Les réglages les plus utiles, en un coup d'œil.	よく使う設定をひと目で。
+Ne ratez plus vos streamers préférés.	お気に入りの配信者を見逃しません。
+Ultra légère et optimisée, parfaite pour jouer en même temps.	超軽量で最適化済み。ゲームをしながらでも快適です。
+Revoir le didacticiel	チュートリアルをもう一度見る
+Le live démarre sans le son ; vous le réactivez quand vous voulez.	配信は音なしで始まります。いつでも音をオンに戻せます。
+Agrandit ou réduit le texte des messages du chat.	チャットメッセージの文字を大きく、または小さくします。
+Affiche l'heure devant chaque message du chat.	各チャットメッセージの前に時刻を表示します。
+Place le chat à gauche de la vidéo au lieu de la droite.	チャットを動画の右ではなく左に配置します。
+Favori	お気に入り
+Aucun favori pour le moment. Cherchez une chaîne puis choisissez « Ajouter aux favoris ».	お気に入りはまだありません。チャンネルを検索して「お気に入りに追加」を選んでください。
+Orange (par défaut)	オレンジ（デフォルト）
+Retirer des favoris	お気に入りから削除
+Connexion en cours	接続中
+Audio du live uniquement	ライブの音声のみ
+Lecteur au format de la vidéo	プレーヤーを動画の比率に合わせる
+Dans la fenêtre principale, l'image prend exactement le format du live (coins arrondis, sans bandes autour) et reste centrée.	メインウィンドウで、映像がライブの比率にぴったり合います（角丸、帯なし）。中央に配置されます。
+Taille et place d'origine	元のサイズと位置
+Chaîne ouverte au démarrage	起動時に開くチャンネル
+Démarrage et fenêtre	起動とウィンドウ
+Son live s'ouvre au lancement si elle est en direct. Sinon, l'accueil s'affiche normalement.	チャンネルがライブ中なら、起動時にそのライブが開きます。それ以外は通常どおりホームが表示されます。
+Nom de la chaîne	チャンネル名
+Au lancement, si cette chaîne est en direct, son live s'ouvre directement dans le lecteur. Hors ligne ou introuvable, l'accueil s'affiche normalement.	起動時にそのチャンネルがライブ中なら、プレーヤーで直接開きます。オフラインまたは見つからない場合は通常どおりホームが表示されます。
+Enregistrée	保存済み
+En attente de messages…	メッセージを待っています…
+Confirmer la déconnexion	ログアウトを確認
+Affiche d'abord les lives qui ont le plus de spectateurs.	視聴者数が多いライブを先に表示します。
+Affiche d'abord les lives qui ont le moins de spectateurs.	視聴者数が少ないライブを先に表示します。
+Éclaircit ou assombrit la couleur choisie pour que le texte reste lisible.	選んだ色を明るく、または暗くして、文字を読みやすく保ちます。
+Spectateurs : décroissant	視聴者：降順
+Spectateurs : croissant	視聴者：昇順
+5 s	5 秒
+10 s	10 秒
+Pour charger vos chaînes suivies, déconnectez-vous puis reconnectez-vous.	フォロー中のチャンネルを読み込むには、いったんログアウトして、もう一度ログインしてください。
+Reconnectez-vous dans Réglages pour afficher vos chaînes suivies sur Twitch.	Twitch のフォロー中チャンネルを表示するには、設定で再ログインしてください。
+Une page Twitch s'est ouverte. Vérifiez ce code, puis cliquez sur « Autoriser » :	Twitch のページが開きました。このコードを確認して、「承認」をクリックしてください：
+Utilisée en ce moment : redémarrez l'application pour la mettre à jour.	使用中です。更新するにはアプリを再起動してください。
+Réinitialiser remet les réglages, les favoris et l'historique à zéro. Les outils restent installés.	リセットすると、設定、お気に入り、履歴が初期状態に戻ります。ツールはインストールされたままです。
+Désinstaller supprime les outils, les réglages, l'historique et le cache, puis ferme l'application.	アンインストールすると、ツール、設定、履歴、キャッシュが削除され、アプリが終了します。
+Tout remettre à zéro ? Réglages, favoris et historique seront perdus.	すべてリセットしますか？設定、お気に入り、履歴は失われます。
+Tout supprimer ? Outils, réglages, historique et cache seront effacés définitivement.	すべて削除しますか？ツール、設定、履歴、キャッシュは完全に消去されます。
+Ce jeton n'a pas le droit d'écrire dans le chat (chat:edit).	このトークンにはチャットへ書き込む権限がありません（chat:edit）。
+Ils sont installés dans votre dossier utilisateur, sans droits administrateur.	管理者権限なしで、ユーザーフォルダーにインストールされます。
+libmpv est introuvable. Réinstallez les outils depuis les réglages.	libmpv が見つかりません。設定からツールを再インストールしてください。
+Streamlink est introuvable. Réinstallez les outils depuis les réglages.	Streamlink が見つかりません。設定からツールを再インストールしてください。
+Afficher le menu	メニューを表示
+Masquer le menu	メニューを隠す
+Chat réservé aux followers	フォロワー限定チャット
+Échec de la connexion.	接続に失敗しました。
+Connexion annulée	接続をキャンセルしました
+Rapport de la dernière fermeture inattendue, sans donnée personnelle. Rien n'est envoyé automatiquement.	前回の予期しない終了のレポートです。個人情報は含まれません。自動的に送信されることはありません。
+Copier le rapport de plantage	クラッシュレポートをコピー
+Rapport copié.	レポートをコピーしました。
+Copier le diagnostic	診断情報をコピー
+Diagnostic copié.	診断情報をコピーしました。
+Complet	標準
+Réduit	控えめ
+État et version de Streamlink et de libmpv, mise à jour, et chemins personnalisés (facultatifs) vers streamlink.exe et libmpv-2.dll.	Streamlink と libmpv の状態とバージョン、更新、streamlink.exe と libmpv-2.dll への任意のカスタムパス。
+Ouvre le dossier du journal, copie le diagnostic (version, Windows, carte graphique, composants) ou le rapport de plantage local pour le support. Rien n'est envoyé automatiquement.	ログフォルダーを開き、サポート用に診断情報（バージョン、Windows、グラフィックスカード、コンポーネント）またはローカルのクラッシュレポートをコピーします。自動的に送信されるものはありません。
+À propos	このアプリについて
+Version de l'application	アプリのバージョン
+Décodage vidéo matériel (GPU)	ハードウェアビデオデコード(GPU)
+Utile si la vidéo saccade ou si le processeur chauffe. « Automatique » : réglage d'origine de l'application. « Activé » : la carte graphique décode la vidéo, avec retour automatique au décodage normal si elle n'y arrive pas. « Désactivé » : décodage normal par le processeur. Le changement s'applique tout de suite : le live en cours est relancé.	映像がカクつく場合やプロセッサが熱くなる場合に役立ちます。「自動」:アプリ本来の設定です。「オン」:グラフィックスカードが映像をデコードし、失敗した場合は自動で通常のデコードに戻ります。「オフ」:プロセッサによる通常のデコードです。変更はすぐに反映され、再生中のライブが再起動されます。
+Périphérique de sortie	出力デバイス
+Périphérique par défaut du système	システムの既定のデバイス
+Choisit le casque ou les enceintes pour le son des lives, sans changer le son de Windows. « Périphérique par défaut du système » suit le choix de Windows. Le changement s'applique tout de suite. Si le périphérique choisi disparaît (casque débranché), l'application revient au choix par défaut.	Windowsのサウンド設定を変えずに、ライブの音声を出力するヘッドホンやスピーカーを選びます。「システムの既定のデバイス」はWindowsの選択に従います。変更はすぐに反映されます。選んだデバイスがなくなった場合(ヘッドホンを抜いたときなど)は、既定の選択に戻ります。
+Le périphérique audio choisi n'est plus disponible : retour au périphérique par défaut.	選択したオーディオデバイスが利用できなくなりました。既定のデバイスに戻します。
+Captures d'écran	スクリーンショット
+Dossier d'enregistrement	保存先フォルダー
+Parcourir…	参照…
+Ouvrir le dossier	フォルダーを開く
+Dossier où la touche S enregistre les captures d'écran. Par défaut : le dossier « Velka » de vos Images. Le dossier choisi doit accepter l'écriture ; s'il disparaît (disque débranché, dossier supprimé), l'application revient au dossier par défaut. Le changement s'applique à la prochaine capture.	Sキーでスクリーンショットを保存するフォルダーです。既定は「ピクチャ」の「Velka」フォルダーです。選んだフォルダーは書き込みができる必要があります。フォルダーがなくなった場合(ドライブの取り外し、フォルダーの削除など)は、既定のフォルダーに戻ります。変更は次のスクリーンショットから反映されます。
+Le dossier des captures n'est plus disponible : retour au dossier par défaut.	スクリーンショットのフォルダーが利用できなくなりました。既定のフォルダーに戻します。
+Ce dossier n'accepte pas l'écriture : choisissez-en un autre.	このフォルダーには書き込めません。別のフォルダーを選んでください。
+Aucun	なし
+Effacer un raccourci	ショートカットを消去
+Réduire dans la zone de notification à la fermeture	閉じるときに通知領域へ最小化
+L'application reste active en fond pour les notifications	通知のためアプリはバックグラウンドで動作し続けます
+La croix de fermeture cache la fenêtre dans la zone de notification (près de l'horloge) au lieu de quitter ; le live en cours est arrêté. Clic gauche sur l'icône : rouvrir. Clic droit : Ouvrir ou Quitter. Pour être prévenu quand un favori passe en direct, activez aussi « Notifications Windows ».	閉じるボタンで終了せず、ウィンドウを通知領域（時計の近く）に隠します。再生中のライブは停止します。アイコンを左クリックで再表示、右クリックで「開く」または「終了」。お気に入りの配信開始を知るには「Windows の通知」も有効にしてください。
+Ouvrir Velka	Velka を開く
+Quitter	終了
+Velka reste actif dans la zone de notification. Clic droit sur l'icône pour quitter.	Velka は通知領域で実行中です。終了するにはアイコンを右クリックしてください。
+Rechercher des mises à jour	更新を確認
+Vous utilisez la dernière version.	最新バージョンをお使いです。
+Mise à jour {version} disponible	更新 {version} が利用可能です
+Impossible de se connecter. Vérifiez votre connexion internet.	接続できません。インターネット接続を確認してください。
+La recherche de mise à jour a échoué.	更新の確認に失敗しました。
+Historique des chaînes	チャンネルの履歴
+Effacer l'historique	履歴を消去
+Historique effacé.	履歴を消去しました。
+Ouvrir le dossier de configuration	設定フォルダーを開く
+Options du lecteur	プレーヤーのオプション
+Perso	カスタム
+Durée personnalisée	カスタム時間
+Ajuster uniquement la taille du texte du chat	チャットの文字サイズだけを調整
+Ajuster la taille globale de l'interface	インターフェース全体のサイズを調整
+Connectez-vous à Twitch pour activer	有効にするには Twitch にログインしてください
+Pas de connexion Internet.	インターネットに接続されていません。
+La connexion Internet s'est coupée.	インターネット接続が切断されました。
+Licences des composants	コンポーネントのライセンス
+Le lecteur vidéo utilise libmpv (mpv) et FFmpeg, sous licence LGPL version 2.1 ou ultérieure. Vous pouvez remplacer libmpv par votre propre version dans {section}.	ビデオプレーヤーは libmpv (mpv) と FFmpeg を使用しており、ライセンスは LGPL バージョン 2.1 以降です。libmpv は {section} で独自のバージョンに置き換えられます。
+Code source et compilation	ソースコードとビルドスクリプト
+Velka n'a pas pu ouvrir sa fenêtre : la carte graphique ou son pilote ne prend pas en charge OpenGL 3.0. Mettez à jour le pilote de la carte graphique, puis relancez Velka. Sur un bureau à distance ou une machine virtuelle, l'affichage peut ne pas être pris en charge.	Velka のウィンドウを開けませんでした。グラフィックカードまたはそのドライバーが OpenGL 3.0 に対応していません。グラフィックカードのドライバーを更新してから、Velka を再起動してください。リモートデスクトップや仮想マシンでは表示できない場合があります。
+La carte graphique n'annonce pas OpenGL 3.0 : la vidéo peut rester noire. Mettez à jour le pilote de la carte graphique. Sur un bureau à distance ou une machine virtuelle, l'affichage peut ne pas être pris en charge.	グラフィックカードが OpenGL 3.0 を報告していません。映像が黒いままになる場合があります。グラフィックカードのドライバーを更新してください。リモートデスクトップや仮想マシンでは表示できない場合があります。
+Démarrer avec macOS	macOS と同時に起動
+Démarrer avec Linux	Linux と同時に起動
+Lance Velka automatiquement quand vous ouvrez votre session macOS.	macOS にサインインすると Velka を自動で起動します。
+Lance Velka automatiquement quand vous ouvrez votre session Linux.	Linux にサインインすると Velka を自動で起動します。
+Notifications macOS	macOS の通知
+Notifications Linux	Linux の通知
+Affiche une notification macOS quand l'un de vos favoris passe en direct. L'application doit rester ouverte (elle peut être réduite).	お気に入りが配信を始めると macOS の通知を表示します。アプリは開いたままにしてください（最小化は可能）。
+Affiche une notification Linux quand l'un de vos favoris passe en direct. L'application doit rester ouverte (elle peut être réduite).	お気に入りが配信を始めると Linux の通知を表示します。アプリは開いたままにしてください（最小化は可能）。
+Multistream	マルチ配信
+Regardez jusqu'à 4 lives en même temps.	最大4つのライブを同時に視聴できます。
+Ajouter une chaîne	チャンネルを追加
+Ajouter	追加
+Tout arrêter	すべて停止
+Cette chaîne est déjà affichée.	このチャンネルはすでに表示されています。
+4 lives au maximum.	ライブは最大4つまでです。
+Ajoutez une chaîne pour commencer.	チャンネルを追加して開始します。
+Retirer ce live	このライブを削除
+Écouter ce live	このライブを聴く
+Cumuler le son des lives en Multistream	マルチ配信でライブの音声を重ねる
+Un clic sur un live ajoute son son au lieu de le remplacer	ライブをクリックすると音声を置き換えずに追加します
+Sur la page Multistream, un clic sur un live fait entendre son son en plus de ceux déjà écoutés, jusqu'aux quatre lives. Le bouton du son de chaque live le coupe.	マルチ配信ページでライブをクリックすると、すでに聴いているライブに加えてその音声も流れます（最大4つすべて）。各ライブの音声ボタンでミュートできます。
+Couper tous les sons	すべてミュート
+Lecteur Twitch léger avec multistream, chat et notifications.	マルチストリーム、チャット、通知に対応した軽量な Twitch プレーヤー。
+Quelques composants sont nécessaires pour lire les lives Twitch.	Twitch の配信を再生するには、いくつかのコンポーネントが必要です。
+Logiciel libre sous licence GPL-3.0 ou ultérieure.	GPL-3.0 以降のライセンスで提供されるフリーソフトウェア。
+Application non affiliée à Twitch.	Twitch とは提携していないアプリです。
+Code source sur GitHub	GitHub のソースコード
+Soutenir le projet	プロジェクトを支援
+La connexion Twitch n'a pas pu être enregistrée de façon sécurisée (trousseau du système indisponible) : elle sera perdue à la fermeture de Velka.	Twitch のログインを安全に保存できませんでした（システムのキーチェーンが使用できません）。Velka を閉じるとログインは失われます。
+Velka est gratuit et le restera. Si l'application vous plaît, un petit don aide à la faire vivre.	Velka は無料で、これからも無料です。アプリを気に入っていただけたら、少額の寄付が開発の支えになります。
+Plus tard	後で
+Rappel pour soutenir le projet	プロジェクト支援のお知らせ
+Affiche de temps en temps sur l'accueil, au plus une fois par mois, un message avec un lien pour soutenir le projet.	ホーム画面に、月に 1 回まで、プロジェクトを支援するためのリンク付きメッセージをときどき表示します。

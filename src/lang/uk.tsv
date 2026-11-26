@@ -1,0 +1,535 @@
+Aide	Довідка
+Réduire	Згорнути
+Agrandir	Розгорнути
+Restaurer	Відновити
+Fermer	Закрити
+Échap	Esc
+Français	Французька
+Anglais	Англійська
+Espagnol	Іспанська
+Portugais	Португальська
+Allemand	Німецька
+Italien	Італійська
+Néerlandais	Нідерландська
+Polonais	Польська
+Russe	Російська
+Ukrainien	Українська
+Turc	Турецька
+Vietnamien	В'єтнамська
+Indonésien	Індонезійська
+Chinois simplifié	Китайська (спрощена)
+Chinois traditionnel	Китайська (традиційна)
+Japonais	Японська
+Coréen	Корейська
+Tchèque	Чеська
+Roumain	Румунська
+Hongrois	Угорська
+Suédois	Шведська
+Danois	Данська
+Norvégien	Норвезька
+Finnois	Фінська
+Grec	Грецька
+Annuler	Скасувати
+spectateurs	глядачів
+Hors ligne	Не в мережі
+Cette chaîne n'existe pas.	Такого каналу не існує.
+Statut indisponible, vous pouvez quand même essayer.	Статус недоступний, але можна спробувати.
+Accueil	Головна
+En direct	В ефірі
+chaînes	каналів
+Favoris	Обране
+Spectateurs	Глядачі
+au total	усього
+Résultat	Результат
+Vérification…	Перевірка…
+Regarder	Дивитися
+Nom de chaîne invalide.	Неприпустима назва каналу.
+En direct parmi vos favoris	В ефірі з обраного
+Aucun favori en direct pour le moment.	Зараз ніхто з обраного не в ефірі.
+Récents	Нещодавні
+Retirer de l'historique	Видалити з історії
+Rechercher	Пошук
+Plateforme	Платформа
+Réglages	Налаштування
+Quitter le PiP	Вийти з PiP
+Reprise dans un instant…	Продовження за мить…
+Retour	Назад
+Arrêter	Зупинити
+Quitter le plein écran	Вийти з повноекранного режиму
+Plein écran	На весь екран
+Lecture	Відтворити
+Réactiver le son	Увімкнути звук
+Couper le son	Вимкнути звук
+Chat	Чат
+Changement de qualité…	Зміна якості…
+Réessayer	Повторити
+depuis	уже
+connexion…	під'єднання…
+changement de qualité…	зміна якості…
+interrompu	перервано
+Lecture vidéo	Відтворення відео
+Qualité par défaut	Якість за замовчуванням
+Faible latence	Низька затримка
+Désactiver pour un flux plus stable	Вимкніть для стабільнішої трансляції
+Réduire la barre latérale	Згорнути бічну панель
+Agrandir la barre latérale	Розгорнути бічну панель
+Chat à gauche de la vidéo	Чат ліворуч від відео
+Toujours au premier plan	Поверх усіх вікон
+Chat en surimpression en plein écran	Чат поверх відео в повноекранному режимі
+Apparence	Вигляд
+Général	Загальні
+Thème	Тема
+Langue	Мова
+Sombre	Графітова
+Dark	Темна
+Clair	Світла
+Compte Twitch	Обліковий запис Twitch
+Connecté en tant que	Ви увійшли як
+Vous pouvez écrire dans le chat.	Ви можете писати в чат.
+chaînes suivies sur Twitch chargées.	відстежуваних каналів Twitch завантажено.
+Impossible de charger vos chaînes suivies pour le moment.	Зараз не вдається завантажити ваші відстежувані канали.
+Chargement de vos chaînes suivies…	Завантаження відстежуваних каналів…
+En direct parmi vos chaînes suivies sur Twitch	В ефірі з ваших каналів на Twitch
+Suivies sur Twitch	Відстежувані на Twitch
+Prévient quand un favori passe en direct	Повідомляє, коли обраний канал починає трансляцію
+Activé : vos favoris sont vérifiés toutes les minutes en arrière-plan, même pendant un live. Cela utilise un peu plus d'internet et de mémoire.	Увімкнено: обране перевіряється щохвилини у фоні, навіть під час перегляду. Це використовує трохи більше інтернету й пам'яті.
+Chaînes dans la barre latérale	Канали на бічній панелі
+Chaînes sur l'accueil	Канали на головній
+Qualité utilisée à l'ouverture d'un live. « Source » est la qualité maximale de la chaîne ; « Audio » ne joue que le son.	Якість під час відкриття трансляції. «Source» — максимальна якість каналу; «Audio» відтворює лише звук.
+Réduit le retard entre le streamer et vous. Désactivez-le si la vidéo saccade ou se coupe.	Зменшує затримку відносно стримера. Вимкніть, якщо відео смикається або обривається.
+Garde la fenêtre devant toutes les autres applications.	Тримає вікно поверх усіх інших застосунків.
+Affiche le chat par-dessus la vidéo quand vous êtes en plein écran.	Показує чат поверх відео в повноекранному режимі.
+Faire rouler la molette au-dessus de la vidéo monte ou baisse le volume.	Коліщатко миші над відео збільшує або зменшує гучність.
+Un clic sur la vidéo met en pause ou relance la lecture.	Клацання по відео ставить на паузу або відновлює відтворення.
+Garde un niveau sonore régulier (normalisation du son) : relève les passages faibles et atténue les passages forts, d'une chaîne à l'autre et au sein d'un même live.	Підтримує рівний рівень звуку (нормалізація звуку): підсилює тихі місця й приглушує гучні — між каналами та в межах однієї трансляції.
+Vitesse de la molette dans les listes et dans le chat. À 1,0 ×, un cran de molette fait défiler 3 lignes de 75 px, de façon fluide.	Швидкість коліщатка в списках і в чаті. При 1,0 × один крок плавно прокручує 3 рядки по 75 пікс.
+À chaque lancement, l'application démarre avec le volume choisi ci-dessous, au lieu du dernier volume réglé.	Під час кожного запуску застосунок використовує гучність, вибрану нижче, а не останню встановлену.
+100 % = volume normal. 130 % permet d'amplifier une chaîne trop silencieuse, mais le son peut saturer.	100 % = звичайна гучність. 130 % підсилює надто тихий канал, але звук може спотворюватися.
+Temps sans bouger la souris avant que les boutons posés sur la vidéo disparaissent.	Час без руху миші, після якого кнопки над відео зникають.
+Quand vous quittez la page d'un live avec « Retour », il continue dans une petite fenêtre en bas à droite. Désactivé : il s'arrête.	Якщо залишити сторінку трансляції кнопкою «Назад», вона продовжиться в маленькому вікні праворуч унизу. Вимкнено: вона зупиняється.
+Fréquence à laquelle l'accueil vérifie quelles chaînes sont en direct. Plus c'est rapide, plus cela utilise internet. « Manuelle » : seulement avec le bouton Actualiser.	Як часто головна перевіряє, які канали в ефірі. Що частіше, то більше інтернету. «Вручну»: лише кнопкою «Оновити».
+Télécharge une image du direct pour chaque carte. Désactivez pour économiser des données.	Завантажує кадр трансляції для кожної картки. Вимкніть, щоб заощадити трафік.
+Les chaînes que vous suivez sur votre compte Twitch (il faut être connecté dans la carte « Compte Twitch »).	Канали, які ви відстежуєте в обліковому записі Twitch (потрібно увійти в картці «Обліковий запис Twitch»).
+Nombre maximum de chaînes Twitch en direct listées dans la barre de gauche (ce n'est pas un délai).	Максимальна кількість каналів Twitch в ефірі на лівій панелі (це не час).
+Nombre maximum de chaînes Twitch en direct affichées sur la page d'accueil (ce n'est pas un délai).	Максимальна кількість каналів Twitch в ефірі на головній сторінці (це не час).
+Garde le jeu sélectionné dans la barre « Jeux en direct » au prochain lancement.	Запам'ятовує гру, вибрану на панелі «Ігри в ефірі», до наступного запуску.
+Ouvrir : le live s'affiche en grand. PiP : il s'ouvre directement dans une petite fenêtre flottante.	Відкрити: трансляція відкривається великою. PiP: відразу відкривається в маленькому плаваючому вікні.
+Les messages qui contiennent un de ces mots (séparés par des virgules) sont surlignés en jaune dans le chat.	Повідомлення з одним із цих слів (через кому) виділяються в чаті жовтим.
+Quand une chaîne est hors ligne ou que son live se termine, propose d'autres lives : vos chaînes suivies du même jeu d'abord.	Коли канал не в мережі або ефір закінчився, пропонує інші трансляції: спочатку ваші канали з тією самою грою.
+Nombre de chaînes proposées quand un live est hors ligne ou terminé.	Кількість запропонованих каналів, коли трансляція не в мережі або завершилася.
+Les boutons latéraux de la souris changent de page, comme dans un navigateur. Alt + flèche gauche ou droite fait pareil.	Бічні кнопки миші перемикають сторінки, як у браузері. Alt + стрілка ліворуч або праворуч робить те саме.
+Le pointeur devient une main au-dessus des boutons et des cartes.	Вказівник стає рукою над кнопками й картками.
+Complet : fondus, glissements, cascades et compteurs animés. Réduit : fondus et changements de couleur seulement, sans déplacement. Désactivé : aucune animation (utile sur un ordinateur lent). Le réglage d'animations de Windows n'est pas pris en compte.	Повні: плавні переходи, зсуви, каскадна поява та анімовані лічильники. Скорочені: лише плавні переходи й зміна кольору, без руху. Вимкнені: жодної анімації (корисно на повільному комп’ютері). Налаштування анімації Windows не враховується.
+Affiche une notification Windows quand l'un de vos favoris passe en direct. L'application doit rester ouverte (elle peut être réduite).	Показує сповіщення Windows, коли канал з обраного починає ефір. Застосунок має залишатися відкритим (можна згорнути).
+Lance Velka automatiquement quand vous ouvrez votre session Windows.	Запускає Velka автоматично під час входу в Windows.
+Photos de profil et émotes déjà téléchargées. Les vider libère de la place ; elles se retéléchargent au besoin.	Уже завантажені аватари й емоути. Очищення звільняє місце; за потреби вони завантажаться знову.
+Notifications Windows	Сповіщення Windows
+Prévient quand un favori passe en direct. Vérifie vos favoris toutes les minutes, même pendant un live : utilise un peu plus d'internet et de mémoire.	Повідомляє, коли канал з обраного починає ефір. Перевіряє обране щохвилини, навіть під час перегляду: використовує трохи більше інтернету й пам'яті.
+Envoyer une notification de test	Надіслати тестове сповіщення
+est en direct	в ефірі
+Notification de test : tout fonctionne.	Тестове сповіщення: усе працює.
+Volume et lecteur	Гучність і плеєр
+Démarrer en muet	Запускати без звуку
+Volume fixe au lancement	Фіксована гучність під час запуску
+Sinon : le dernier volume utilisé	Інакше: остання використана гучність
+Volume au lancement	Гучність під час запуску
+Volume maximum	Максимальна гучність
+Masquage des contrôles	Приховувати кнопки через
+Jamais	Ніколи
+Capture d'écran	Знімок екрана
+Infos techniques	Технічна інформація
+Capture enregistrée :	Знімок збережено:
+Capture impossible.	Не вдалося зробити знімок.
+Minuteur de veille	Таймер сну
+Désactivé	Вимкнено
+Arrêt du live dans	Ефір зупиниться через
+logiciel	програмне
+Résolution	Роздільна здатність
+Images par seconde	Кадрів за секунду
+Débit vidéo	Бітрейт відео
+Débit audio	Бітрейт аудіо
+Images perdues	Втрачені кадри
+Images perdues au décodage	Кадри, втрачені під час декодування
+Mémoire tampon	Буфер
+Format vidéo	Формат відео
+Décodage	Декодування
+Arrête le live automatiquement après la durée choisie, à partir du moment où vous changez ce réglage. Une minute avant, un compte à rebours s'affiche sur la vidéo. Le minuteur revient sur Désactivé à chaque nouveau live et à chaque lancement de l'application.	Автоматично зупиняє трансляцію через вибраний час, відлік іде з моменту зміни цього налаштування. За хвилину до цього над відео з'являється зворотний відлік. Таймер повертається в стан «Вимкнено» при кожній новій трансляції та при кожному запуску застосунку.
+Émotes 7TV, BTTV et FFZ	Емоути 7TV, BTTV і FFZ
+Émotes animées	Анімовані емоути
+Badges du chat	Значки в чаті
+Affiche les émotes des extensions 7TV, BetterTTV et FrankerFaceZ (globales et propres à la chaîne). Elles sont chargées à l'ouverture du live.	Показує емоути розширень 7TV, BetterTTV і FrankerFaceZ (загальні та каналу). Вони завантажуються під час відкриття трансляції.
+Anime les émotes qui le sont (Twitch et extensions). Utilise un peu plus le processeur quand le chat en affiche.	Анімує анімовані емоути (Twitch і розширення). Трохи більше навантажує процесор, коли чат їх показує.
+Affiche les badges (abonné, modérateur, VIP…) devant les pseudos.	Показує значки (підписник, модератор, VIP…) перед іменами.
+Netteté de l'image	Різкість зображення
+Agrandissement de haute qualité	Якісне масштабування
+Désactivée	Вимкнено
+Légère	Слабка
+Moyenne	Середня
+Forte	Сильна
+Image plus fine en 480p et 720p	Чіткіше зображення в 480p і 720p
+Renforce les contours de l'image (calculé par la carte graphique). Utile sur un flux flou ; trop fort, l'image paraît granuleuse.	Підкреслює контури зображення (обчислює відеокарта). Корисно для розмитої трансляції; надто сильно — зображення стає зернистим.
+Utilise un filtre d'agrandissement plus fin quand la vidéo est plus petite que la fenêtre (480p, 720p). Demande davantage à la carte graphique.	Використовує точніший фільтр масштабування, коли відео менше за вікно (480p, 720p). Більше навантажує відеокарту.
+Compte	Обліковий запис
+Qualité et flux	Якість і потік
+Audio	Звук
+Lecteur et comportement	Плеєр і поведінка
+Affichage et lisibilité	Відображення та читабельність
+Filtrage et alertes	Фільтрація та сповіщення
+Notifications	Сповіщення
+Avancé et Système	Додатково і система
+Stockage et configuration	Сховище і конфігурація
+Émotes et badges	Емоути й значки
+Les changements s'appliquent tout de suite.	Зміни застосовуються одразу.
+2,5 s	2,5 с
+Mo	МБ
+Ko	КБ
+Rechercher un réglage	Пошук налаштування
+Résultats de la recherche	Результати пошуку
+Aucun réglage trouvé.	Налаштування не знайдено.
+Mini-lecteur	Міні-плеєр
+Garder le live dans un coin quand on quitte la page	Залишати трансляцію в куті після виходу зі сторінки
+Accueil et barre latérale	Головна й бічна панель
+Actualisation	Оновлення
+Manuelle	Вручну
+Actualiser	Оновити
+Aperçus des lives	Попередній перегляд трансляцій
+Images du direct sur les cartes	Кадри трансляції на картках
+Chaînes suivies sur Twitch	Відстежувані канали Twitch
+Dans la barre latérale, sur l'accueil et dans les recommandations	На бічній панелі, на головній і в рекомендаціях
+Dans la barre latérale	На бічній панелі
+Sur l'accueil	На головній
+Se souvenir du jeu choisi	Запам'ятовувати вибрану гру
+Clic sur une carte	Клацання по картці
+Ouvrir	Відкрити
+Taille du texte	Розмір тексту
+Masquer les bots	Приховувати ботів
+Horodatage des messages	Час повідомлень
+Mots surlignés	Виділені слова
+mot, pseudo… (séparés par des virgules)	слово, нік… (через кому)
+Recommandations	Рекомендації
+Recommandations de chaînes	Рекомендовані канали
+Proposer des chaînes quand un live est hors ligne ou terminé	Пропонувати канали, коли трансляція не в мережі або завершилася
+Nombre de recommandations	Кількість рекомендацій
+Mouvement et lisibilité	Рух і читабельність
+Navigation et souris	Навігація та миша
+Vérification des mises à jour	Перевірка оновлень
+Nouvelle version disponible :	Доступна нова версія:
+Mettre à jour	Оновити
+Téléchargement de la mise à jour…	Завантаження оновлення…
+Mise à jour impossible :	Не вдалося оновити:
+Boutons Précédent / Suivant de la souris	Кнопки миші Назад / Вперед
+Main sur les éléments cliquables	Рука над елементами, які можна натиснути
+Animations	Анімації
+Raccourcis clavier	Сполучення клавіш
+Appuyez sur une touche…	Натисніть клавішу…
+Rétablir les raccourcis	Скинути сполучення
+Raccourcis non modifiables	Незмінні комбінації клавіш
+Quitter le plein écran, le PiP ou le live	Вийти з повноекранного режиму, PiP або ефіру
+Rechercher une chaîne	Знайти канал
+Zoom de l'interface	Масштаб інтерфейсу
+Page précédente / suivante	Попередня / наступна сторінка
+Pause / lecture	Пауза / відтворення
+Volume +	Гучність +
+Volume -	Гучність -
+Afficher / masquer le chat	Показати / приховати чат
+Image dans l'image	Картинка в картинці
+Système	Система
+Démarrer avec Windows	Запускати разом із Windows
+Ouvre l'application à l'ouverture de session	Відкриває застосунок під час входу в систему
+Cache des images	Кеш зображень
+Vider	Очистити
+Espace	Пробіл
+Flèche haut	Стрілка вгору
+Flèche bas	Стрілка вниз
+Flèche gauche	Стрілка ліворуч
+Flèche droite	Стрілка праворуч
+Entrée	Enter
+Jeux en direct	Ігри в ефірі
+Aucun live pour ce jeu en ce moment.	Зараз немає трансляцій цієї гри.
+Chaînes recommandées	Рекомендовані канали
+Ajouter aux favoris	Додати в обране
+Se déconnecter	Вийти
+En attente de votre accord sur Twitch…	Очікування вашого підтвердження на Twitch…
+Rouvrir la page Twitch	Знову відкрити сторінку Twitch
+Connexion à Twitch…	Під'єднання до Twitch…
+Connectez-vous pour écrire dans le chat.	Увійдіть, щоб писати в чат.
+Se connecter avec Twitch	Увійти через Twitch
+La connexion Twitch n'est pas disponible dans cette version.	Вхід через Twitch недоступний у цій версії.
+Connexion refusée sur Twitch.	Twitch відхилив вхід.
+Le code a expiré, recommencez.	Термін дії коду минув, почніть знову.
+Twitch a refusé la connexion.	Twitch відмовив у вході.
+Impossible de joindre Twitch. Vérifiez votre connexion.	Не вдається під'єднатися до Twitch. Перевірте з'єднання.
+Twitch a refusé la demande de connexion.	Twitch відхилив запит на вхід.
+Composants externes	Зовнішні компоненти
+Non installé	Не встановлено
+Prêt	Готово
+Installer	Установити
+Chemins personnalisés (facultatif)	Власні шляхи (необов'язково)
+Journaux et diagnostic	Журнали та діагностика
+Volume	Гучність
+Molette de la souris sur la vidéo = volume	Коліщатко миші над відео = гучність
+Clic sur la vidéo = pause	Клацання по відео = пауза
+Volume stable	Стабільна гучність
+Limite les écarts de volume entre les chaînes	Зменшує різницю в гучності між каналами
+Vitesse de défilement	Швидкість прокручування
+Résultats	Результати
+Zone de réinitialisation	Зона скидання
+Réinitialiser	Скинути
+Désinstaller	Видалити
+Oui, réinitialiser	Так, скинути
+Oui, désinstaller	Так, видалити
+Ouvrir le dossier du journal	Відкрити папку журналу
+Connexion au chat…	Під'єднання до чату…
+Chat connecté	Чат під'єднано
+Reconnexion du chat	Повторне під'єднання чату
+Envoyer un message	Надіслати повідомлення
+Jeton requis pour écrire (Réglages)	Щоб писати, потрібен токен (Налаштування)
+Revenir en bas	Униз
+Réponse de Twitch inattendue pour ce jeton.	Неочікувана відповідь Twitch для цього токена.
+Jeton refusé par Twitch (expiré ou invalide).	Twitch відхилив токен (прострочений або недійсний).
+Connexion refusée avec ce jeton.	З'єднання з цим токеном відхилено.
+Bienvenue dans Velka	Ласкаво просимо до Velka
+Tout installer	Установити все
+Installation en cours…	Установлення…
+La chaîne est hors ligne.	Канал не в мережі.
+Pas de connexion à Twitch. Vérifiez votre réseau.	Немає зв'язку з Twitch. Перевірте мережу.
+Le flux met trop de temps à démarrer.	Трансляція надто довго запускається.
+Le flux s'est interrompu :	Трансляцію перервано:
+arrêt inattendu	неочікувана зупинка
+Impossible de lancer Streamlink :	Не вдалося запустити Streamlink:
+Préparation…	Підготовка…
+Le rendu OpenGL n'est pas disponible.	Відображення OpenGL недоступне.
+Aucun port local disponible.	Немає вільного локального порту.
+Impossible de joindre GitHub :	Не вдається під'єднатися до GitHub:
+Réponse GitHub illisible :	Незрозуміла відповідь GitHub:
+Aucune archive compatible dans la dernière version.	В останній версії немає відповідного архіву.
+Téléchargement impossible :	Помилка завантаження:
+Écriture impossible :	Помилка запису:
+Téléchargement interrompu :	Завантаження перервано:
+Le fichier téléchargé est vide.	Завантажений файл порожній.
+Recherche de la dernière version…	Пошук останньої версії…
+Dossier inaccessible :	Папка недоступна:
+Téléchargement…	Завантаження…
+Extraction…	Розпакування…
+Extraction impossible :	Помилка розпакування:
+Archive invalide :	Пошкоджений архів:
+streamlink.exe introuvable dans l'archive.	В архіві немає streamlink.exe.
+Structure d'archive inattendue.	Неочікувана структура архіву.
+libmpv-2.dll introuvable dans l'archive.	В архіві немає libmpv-2.dll.
+Installation impossible :	Помилка встановлення:
+Fichier installé introuvable ou vide.	Установлений файл відсутній або порожній.
+Installé	Установлено
+Accessibilité	Доступність
+Taille de l'interface	Розмір інтерфейсу
+Mise à l'échelle	Масштабування
+Contraste élevé	Висока контрастність
+Automatique	Автоматично
+Activé	Увімкнено
+Focus clavier renforcé	Посилений фокус клавіатури
+Couleurs	Кольори
+Palette de couleurs	Колірна палітра
+Turquoise	Бірюзовий
+Bleu	Синій
+Vert	Зелений
+Orange foncé	Темно-помаранчевий
+Rose	Рожевий
+Personnalisée	Власний
+Couleur d'accent personnalisée	Власний колір акценту
+Code couleur	Код кольору
+Rouge	Червоний
+Exemple	Приклад
+Contraste du texte sur l'accent	Контраст тексту на акценті
+Conforme	Відповідає
+Insuffisant, minimum	Недостатньо, мінімум
+Couleur non appliquée : le contraste est trop faible.	Колір не застосовано: контраст занадто низький.
+Couleur conforme la plus proche :	Найближчий відповідний колір:
+Utiliser cette couleur	Використати цей колір
+Rétablir les couleurs par défaut	Відновити кольори за замовчуванням
+Mises à jour	Оновлення
+À jour	Актуально
+Mise à jour disponible	Доступне оновлення
+Chemin personnalisé	Власний шлях
+Version inconnue	Невідома версія
+Installée :	Встановлено:
+Disponible :	Доступно:
+Mise à jour en cours…	Оновлення…
+Redémarrage nécessaire	Потрібен перезапуск
+Impossible de vérifier les mises à jour :	Не вдалося перевірити оновлення:
+Échec de la mise à jour, version précédente conservée :	Не вдалося оновити, попередню версію збережено:
+Versions des composants non validées par l'éditeur.	Версії компонентів не схвалені видавцем.
+Archive validée introuvable sur GitHub.	Схвалений архів не знайдено на GitHub.
+Adresse de téléchargement inattendue.	Неочікувана адреса завантаження.
+Empreinte du fichier téléchargé incorrecte.	Контрольна сума завантаженого файлу не збігається.
+Téléchargement refusé par le serveur.	Сервер відхилив завантаження.
+Fichier reçu invalide (taille ou empreinte différente).	Отриманий файл недійсний (розмір або контрольна сума не збігаються).
+Serveur injoignable :	Сервер недоступний:
+Remplacement impossible :	Не вдалося замінити:
+Relance impossible :	Не вдалося перезапустити:
+Impossible de charger libmpv :	Не вдалося завантажити libmpv:
+Fonction libmpv manquante :	Відсутня функція libmpv:
+Le lecteur n'a pas pu démarrer.	Не вдалося запустити програвач.
+Initialisation du lecteur impossible :	Не вдалося ініціалізувати програвач:
+Rendu vidéo impossible :	Не вдалося показати відео:
+Option du lecteur refusée :	Програвач відхилив параметр:
+Propriété du lecteur refusée :	Програвач відхилив властивість:
+Commande du lecteur refusée :	Програвач відхилив команду:
+Se connecter	Увійти
+Autres langues	Інші мови
+Personnaliser	Налаштувати
+Améliorer le contraste	Покращити контраст
+Replier le chat	Згорнути чат
+Afficher le chat	Показати чат
+Qualité maximale proposée par la chaîne, sans réduction.	Найвища якість, яку пропонує канал, без зменшення.
+Fenêtre PiP au format de la vidéo	Вікно PiP за форматом відео
+En mini-fenêtre PiP, la fenêtre prend le format du live pour supprimer les bandes noires.	У міні-вікні PiP вікно приймає співвідношення сторін трансляції, щоб прибрати чорні смуги.
+spectateur	глядач
+Actualisation en cours	Оновлення…
+Qualité	Якість
+Redémarrer l'application	Перезапустити застосунок
+Passer	Пропустити
+Suivant	Далі
+C'est parti	Починаймо
+Chat avec émotes	Чат зі смайлами
+Mini-lecteur et PiP	Міні-плеєр і PiP
+Choisissez votre style	Оберіть стиль
+Couleur d'accent	Колір акценту
+Réglez la lecture	Налаштуйте відтворення
+Restez informé	Будьте в курсі
+Tout se règle aussi plus tard dans les Réglages.	Усе можна змінити пізніше в налаштуваннях.
+Thème et couleur de l'application.	Тема й колір застосунку.
+Les réglages les plus utiles, en un coup d'œil.	Найкорисніші налаштування з першого погляду.
+Ne ratez plus vos streamers préférés.	Не пропускайте улюблених стримерів.
+Ultra légère et optimisée, parfaite pour jouer en même temps.	Надлегкий і оптимізований, ідеально для гри одночасно.
+Revoir le didacticiel	Показати навчання знову
+Le live démarre sans le son ; vous le réactivez quand vous voulez.	Трансляція починається без звуку; увімкнути його можна будь-коли.
+Agrandit ou réduit le texte des messages du chat.	Збільшує або зменшує текст повідомлень у чаті.
+Affiche l'heure devant chaque message du chat.	Показує час перед кожним повідомленням у чаті.
+Place le chat à gauche de la vidéo au lieu de la droite.	Розміщує чат ліворуч від відео замість правої сторони.
+Favori	Вибране
+Aucun favori pour le moment. Cherchez une chaîne puis choisissez « Ajouter aux favoris ».	Поки немає вибраного. Знайдіть канал і оберіть «Додати до вибраного».
+Orange (par défaut)	Помаранчевий (за замовчуванням)
+Retirer des favoris	Видалити з вибраного
+Connexion en cours	Підключення
+Audio du live uniquement	Лише звук трансляції
+Lecteur au format de la vidéo	Плеєр у форматі відео
+Dans la fenêtre principale, l'image prend exactement le format du live (coins arrondis, sans bandes autour) et reste centrée.	У головному вікні зображення точно відповідає формату трансляції (заокруглені кути, без смуг) і лишається по центру.
+Taille et place d'origine	Початковий розмір і положення
+Chaîne ouverte au démarrage	Канал, що відкривається під час запуску
+Démarrage et fenêtre	Запуск і вікно
+Son live s'ouvre au lancement si elle est en direct. Sinon, l'accueil s'affiche normalement.	Його трансляція відкриється під час запуску, якщо канал в ефірі. Інакше, як зазвичай, з'явиться головна сторінка.
+Nom de la chaîne	Назва каналу
+Au lancement, si cette chaîne est en direct, son live s'ouvre directement dans le lecteur. Hors ligne ou introuvable, l'accueil s'affiche normalement.	Якщо канал в ефірі під час запуску, його трансляція одразу відкриється в плеєрі. Офлайн або не знайдено: звичайна головна сторінка.
+Enregistrée	Збережено
+En attente de messages…	Очікування повідомлень…
+Confirmer la déconnexion	Підтвердити вихід
+Affiche d'abord les lives qui ont le plus de spectateurs.	Спочатку показує трансляції з найбільшою кількістю глядачів.
+Affiche d'abord les lives qui ont le moins de spectateurs.	Спочатку показує трансляції з найменшою кількістю глядачів.
+Éclaircit ou assombrit la couleur choisie pour que le texte reste lisible.	Освітлює або затемнює вибраний колір, щоб текст залишався читабельним.
+Spectateurs : décroissant	Глядачі: за спаданням
+Spectateurs : croissant	Глядачі: за зростанням
+5 s	5 с
+10 s	10 с
+Pour charger vos chaînes suivies, déconnectez-vous puis reconnectez-vous.	Щоб завантажити відстежувані канали, вийдіть і увійдіть знову.
+Reconnectez-vous dans Réglages pour afficher vos chaînes suivies sur Twitch.	Увійдіть знову в розділі «Налаштування», щоб показати відстежувані канали Twitch.
+Une page Twitch s'est ouverte. Vérifiez ce code, puis cliquez sur « Autoriser » :	Відкрилася сторінка Twitch. Перевірте цей код і натисніть «Дозволити»:
+Utilisée en ce moment : redémarrez l'application pour la mettre à jour.	Використовується зараз: перезапустіть застосунок, щоб оновити його.
+Réinitialiser remet les réglages, les favoris et l'historique à zéro. Les outils restent installés.	Скидання повертає налаштування, обране та історію до початкового стану. Інструменти залишаються встановленими.
+Désinstaller supprime les outils, les réglages, l'historique et le cache, puis ferme l'application.	Видалення стирає інструменти, налаштування, історію та кеш, а потім закриває застосунок.
+Tout remettre à zéro ? Réglages, favoris et historique seront perdus.	Скинути все? Налаштування, обране та історія будуть втрачені.
+Tout supprimer ? Outils, réglages, historique et cache seront effacés définitivement.	Видалити все? Інструменти, налаштування, історія та кеш будуть стерті безповоротно.
+Ce jeton n'a pas le droit d'écrire dans le chat (chat:edit).	Цей токен не має права писати в чат (chat:edit).
+Ils sont installés dans votre dossier utilisateur, sans droits administrateur.	Вони встановлюються у вашу папку користувача без прав адміністратора.
+libmpv est introuvable. Réinstallez les outils depuis les réglages.	libmpv не знайдено. Перевстановіть інструменти в налаштуваннях.
+Streamlink est introuvable. Réinstallez les outils depuis les réglages.	Streamlink не знайдено. Перевстановіть інструменти в налаштуваннях.
+Afficher le menu	Показати меню
+Masquer le menu	Сховати меню
+Chat réservé aux followers	Чат лише для підписників
+Échec de la connexion.	Не вдалося підключитися.
+Connexion annulée	Підключення скасовано
+Rapport de la dernière fermeture inattendue, sans donnée personnelle. Rien n'est envoyé automatiquement.	Звіт про останнє неочікуване завершення, без особистих даних. Нічого не надсилається автоматично.
+Copier le rapport de plantage	Скопіювати звіт про збій
+Rapport copié.	Звіт скопійовано.
+Copier le diagnostic	Скопіювати діагностику
+Diagnostic copié.	Діагностику скопійовано.
+Complet	Повні
+Réduit	Скорочені
+État et version de Streamlink et de libmpv, mise à jour, et chemins personnalisés (facultatifs) vers streamlink.exe et libmpv-2.dll.	Стан і версія Streamlink та libmpv, оновлення й необов'язкові власні шляхи до streamlink.exe та libmpv-2.dll.
+Ouvre le dossier du journal, copie le diagnostic (version, Windows, carte graphique, composants) ou le rapport de plantage local pour le support. Rien n'est envoyé automatiquement.	Відкриває папку журналу й копіює діагностику (версія, Windows, відеокарта, компоненти) або локальний звіт про збій для підтримки. Нічого не надсилається автоматично.
+À propos	Про програму
+Version de l'application	Версія застосунку
+Décodage vidéo matériel (GPU)	Апаратне декодування відео (GPU)
+Utile si la vidéo saccade ou si le processeur chauffe. « Automatique » : réglage d'origine de l'application. « Activé » : la carte graphique décode la vidéo, avec retour automatique au décodage normal si elle n'y arrive pas. « Désactivé » : décodage normal par le processeur. Le changement s'applique tout de suite : le live en cours est relancé.	Допомагає, якщо відео гальмує або процесор перегрівається. «Авто»: початкове налаштування застосунку. «Увімкнено»: відео декодує відеокарта, а в разі збою відбувається автоматичне повернення до звичайного декодування. «Вимкнено»: звичайне декодування процесором. Зміна діє одразу: поточна трансляція перезапускається.
+Périphérique de sortie	Пристрій виведення
+Périphérique par défaut du système	Пристрій за замовчуванням у системі
+Choisit le casque ou les enceintes pour le son des lives, sans changer le son de Windows. « Périphérique par défaut du système » suit le choix de Windows. Le changement s'applique tout de suite. Si le périphérique choisi disparaît (casque débranché), l'application revient au choix par défaut.	Вибирає навушники або колонки для звуку трансляцій, не змінюючи звук Windows. «Пристрій за замовчуванням у системі» слідує вибору Windows. Зміна діє одразу. Якщо вибраний пристрій зникне (навушники відключено), застосунок повернеться до вибору за замовчуванням.
+Le périphérique audio choisi n'est plus disponible : retour au périphérique par défaut.	Вибраний аудіопристрій більше недоступний: повернення до пристрою за замовчуванням.
+Captures d'écran	Знімки екрана
+Dossier d'enregistrement	Папка збереження
+Parcourir…	Огляд…
+Ouvrir le dossier	Відкрити папку
+Dossier où la touche S enregistre les captures d'écran. Par défaut : le dossier « Velka » de vos Images. Le dossier choisi doit accepter l'écriture ; s'il disparaît (disque débranché, dossier supprimé), l'application revient au dossier par défaut. Le changement s'applique à la prochaine capture.	Папка, до якої клавіша S зберігає знімки екрана. За замовчуванням: папка «Velka» у «Зображеннях». Вибрана папка має дозволяти запис; якщо вона зникне (диск відключено, папку видалено), застосунок повернеться до папки за замовчуванням. Зміна діє з наступного знімка.
+Le dossier des captures n'est plus disponible : retour au dossier par défaut.	Папка знімків екрана більше недоступна: повернення до папки за замовчуванням.
+Ce dossier n'accepte pas l'écriture : choisissez-en un autre.	У цю папку не можна записувати: виберіть іншу.
+Aucun	Немає
+Effacer un raccourci	Очистити сполучення
+Réduire dans la zone de notification à la fermeture	Згортати в область сповіщень при закритті
+L'application reste active en fond pour les notifications	Застосунок працюватиме у фоні заради сповіщень
+La croix de fermeture cache la fenêtre dans la zone de notification (près de l'horloge) au lieu de quitter ; le live en cours est arrêté. Clic gauche sur l'icône : rouvrir. Clic droit : Ouvrir ou Quitter. Pour être prévenu quand un favori passe en direct, activez aussi « Notifications Windows ».	Кнопка закриття ховає вікно в області сповіщень (біля годинника), а не завершує програму; поточну трансляцію зупиняється. Лівий клік по значку: відкрити знову. Правий клік: Відкрити або Вийти. Увімкніть також «Сповіщення Windows», щоб дізнаватися, коли улюблений канал почне трансляцію.
+Ouvrir Velka	Відкрити Velka
+Quitter	Вийти
+Velka reste actif dans la zone de notification. Clic droit sur l'icône pour quitter.	Velka і далі працює в області сповіщень. Клацніть значок правою кнопкою, щоб вийти.
+Rechercher des mises à jour	Перевірити оновлення
+Vous utilisez la dernière version.	Ви користуєтеся останньою версією.
+Mise à jour {version} disponible	Доступне оновлення {version}
+Impossible de se connecter. Vérifiez votre connexion internet.	Не вдалося підключитися. Перевірте підключення до інтернету.
+La recherche de mise à jour a échoué.	Не вдалося перевірити оновлення.
+Historique des chaînes	Історія каналів
+Effacer l'historique	Очистити історію
+Historique effacé.	Історію очищено.
+Ouvrir le dossier de configuration	Відкрити теку налаштувань
+Options du lecteur	Параметри програвача
+Perso	Своє
+Durée personnalisée	Власна тривалість
+Ajuster uniquement la taille du texte du chat	Змінити лише розмір тексту чату
+Ajuster la taille globale de l'interface	Змінити загальний розмір інтерфейсу
+Connectez-vous à Twitch pour activer	Увійдіть у Twitch, щоб увімкнути
+Pas de connexion Internet.	Немає підключення до інтернету.
+La connexion Internet s'est coupée.	Підключення до інтернету перервано.
+Licences des composants	Ліцензії компонентів
+Le lecteur vidéo utilise libmpv (mpv) et FFmpeg, sous licence LGPL version 2.1 ou ultérieure. Vous pouvez remplacer libmpv par votre propre version dans {section}.	Відеоплеєр використовує libmpv (mpv) і FFmpeg за ліцензією LGPL версії 2.1 або новішої. Ви можете замінити libmpv власною версією в розділі «{section}».
+Code source et compilation	Вихідний код і скрипти збірки
+Velka n'a pas pu ouvrir sa fenêtre : la carte graphique ou son pilote ne prend pas en charge OpenGL 3.0. Mettez à jour le pilote de la carte graphique, puis relancez Velka. Sur un bureau à distance ou une machine virtuelle, l'affichage peut ne pas être pris en charge.	Velka не вдалося відкрити вікно: відеокарта або її драйвер не підтримує OpenGL 3.0. Оновіть драйвер відеокарти, а потім перезапустіть Velka. На віддаленому робочому столі або у віртуальній машині відображення може не підтримуватися.
+La carte graphique n'annonce pas OpenGL 3.0 : la vidéo peut rester noire. Mettez à jour le pilote de la carte graphique. Sur un bureau à distance ou une machine virtuelle, l'affichage peut ne pas être pris en charge.	Відеокарта не повідомляє про OpenGL 3.0: відео може залишатися чорним. Оновіть драйвер відеокарти. На віддаленому робочому столі або у віртуальній машині відображення може не підтримуватися.
+Démarrer avec macOS	Запускати разом із macOS
+Démarrer avec Linux	Запускати разом із Linux
+Lance Velka automatiquement quand vous ouvrez votre session macOS.	Запускає Velka автоматично під час входу в macOS.
+Lance Velka automatiquement quand vous ouvrez votre session Linux.	Запускає Velka автоматично під час входу в Linux.
+Notifications macOS	Сповіщення macOS
+Notifications Linux	Сповіщення Linux
+Affiche une notification macOS quand l'un de vos favoris passe en direct. L'application doit rester ouverte (elle peut être réduite).	Показує сповіщення macOS, коли канал з обраного починає ефір. Застосунок має залишатися відкритим (можна згорнути).
+Affiche une notification Linux quand l'un de vos favoris passe en direct. L'application doit rester ouverte (elle peut être réduite).	Показує сповіщення Linux, коли канал з обраного починає ефір. Застосунок має залишатися відкритим (можна згорнути).
+Multistream	Мультистрим
+Regardez jusqu'à 4 lives en même temps.	Дивіться до 4 трансляцій одночасно.
+Ajouter une chaîne	Додати канал
+Ajouter	Додати
+Tout arrêter	Зупинити все
+Cette chaîne est déjà affichée.	Цей канал уже показано.
+4 lives au maximum.	Не більше 4 трансляцій.
+Ajoutez une chaîne pour commencer.	Додайте канал, щоб почати.
+Retirer ce live	Прибрати цю трансляцію
+Écouter ce live	Слухати цю трансляцію
+Cumuler le son des lives en Multistream	Поєднувати звук трансляцій у мультистримі
+Un clic sur un live ajoute son son au lieu de le remplacer	Клацання по трансляції додає її звук замість заміни
+Sur la page Multistream, un clic sur un live fait entendre son son en plus de ceux déjà écoutés, jusqu'aux quatre lives. Le bouton du son de chaque live le coupe.	На сторінці мультистриму клацання по трансляції вмикає її звук на додачу до вже ввімкнених, аж до всіх чотирьох трансляцій. Кнопка звуку кожної трансляції вимикає її звук.
+Couper tous les sons	Вимкнути весь звук
+Lecteur Twitch léger avec multistream, chat et notifications.	Легкий плеєр Twitch з мультистримом, чатом і сповіщеннями.
+Quelques composants sont nécessaires pour lire les lives Twitch.	Для перегляду трансляцій Twitch потрібні деякі компоненти.
+Logiciel libre sous licence GPL-3.0 ou ultérieure.	Вільне програмне забезпечення за ліцензією GPL-3.0 або новішою.
+Application non affiliée à Twitch.	Застосунок не пов'язаний із Twitch.
+Code source sur GitHub	Вихідний код на GitHub
+Soutenir le projet	Підтримати проєкт
+La connexion Twitch n'a pas pu être enregistrée de façon sécurisée (trousseau du système indisponible) : elle sera perdue à la fermeture de Velka.	Не вдалося надійно зберегти вхід у Twitch (системна в'язка ключів недоступна): його буде втрачено після закриття Velka.
+Velka est gratuit et le restera. Si l'application vous plaît, un petit don aide à la faire vivre.	Velka безкоштовна і такою залишиться. Якщо застосунок вам подобається, невеликий донат допомагає його розвивати.
+Plus tard	Пізніше
+Rappel pour soutenir le projet	Нагадування про підтримку проєкту
+Affiche de temps en temps sur l'accueil, au plus une fois par mois, un message avec un lien pour soutenir le projet.	Час від часу, не частіше ніж раз на місяць, показує на головній сторінці повідомлення з посиланням для підтримки проєкту.

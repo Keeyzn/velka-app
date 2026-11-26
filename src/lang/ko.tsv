@@ -1,0 +1,535 @@
+Aide	도움말
+Réduire	최소화
+Agrandir	최대화
+Restaurer	이전 크기로
+Fermer	닫기
+Échap	Esc
+Français	프랑스어
+Anglais	영어
+Espagnol	스페인어
+Portugais	포르투갈어
+Allemand	독일어
+Italien	이탈리아어
+Néerlandais	네덜란드어
+Polonais	폴란드어
+Russe	러시아어
+Ukrainien	우크라이나어
+Turc	튀르키예어
+Vietnamien	베트남어
+Indonésien	인도네시아어
+Chinois simplifié	중국어(간체)
+Chinois traditionnel	중국어(번체)
+Japonais	일본어
+Coréen	한국어
+Tchèque	체코어
+Roumain	루마니아어
+Hongrois	헝가리어
+Suédois	스웨덴어
+Danois	덴마크어
+Norvégien	노르웨이어
+Finnois	핀란드어
+Grec	그리스어
+Annuler	취소
+spectateurs	명 시청 중
+Hors ligne	오프라인
+Cette chaîne n'existe pas.	존재하지 않는 채널입니다.
+Statut indisponible, vous pouvez quand même essayer.	상태를 알 수 없지만 시도해 볼 수 있습니다.
+Accueil	홈
+En direct	생방송
+chaînes	개 채널
+Favoris	즐겨찾기
+Spectateurs	시청자
+au total	합계
+Résultat	결과
+Vérification…	확인 중…
+Regarder	시청
+Nom de chaîne invalide.	채널 이름이 올바르지 않습니다.
+En direct parmi vos favoris	즐겨찾기 중 생방송
+Aucun favori en direct pour le moment.	지금 생방송 중인 즐겨찾기가 없습니다.
+Récents	최근
+Retirer de l'historique	기록에서 삭제
+Rechercher	검색
+Plateforme	플랫폼
+Réglages	설정
+Quitter le PiP	PiP 종료
+Reprise dans un instant…	잠시 후 다시 시작됩니다…
+Retour	뒤로
+Arrêter	정지
+Quitter le plein écran	전체 화면 종료
+Plein écran	전체 화면
+Lecture	재생
+Réactiver le son	음소거 해제
+Couper le son	음소거
+Chat	채팅
+Changement de qualité…	화질 변경 중…
+Réessayer	다시 시도
+depuis	방송 시간
+connexion…	연결 중…
+changement de qualité…	화질 변경 중…
+interrompu	중단됨
+Lecture vidéo	동영상 재생
+Qualité par défaut	기본 화질
+Faible latence	낮은 지연 시간
+Désactiver pour un flux plus stable	방송을 더 안정적으로 보려면 끄세요
+Réduire la barre latérale	사이드바 접기
+Agrandir la barre latérale	사이드바 펼치기
+Chat à gauche de la vidéo	동영상 왼쪽에 채팅
+Toujours au premier plan	항상 위에 표시
+Chat en surimpression en plein écran	전체 화면에서 동영상 위에 채팅 표시
+Apparence	화면 표시
+Général	일반
+Thème	테마
+Langue	언어
+Sombre	슬레이트
+Dark	어둡게
+Clair	밝게
+Compte Twitch	Twitch 계정
+Connecté en tant que	로그인 계정:
+Vous pouvez écrire dans le chat.	채팅에 글을 쓸 수 있습니다.
+chaînes suivies sur Twitch chargées.	개의 팔로우한 Twitch 채널을 불러왔습니다.
+Impossible de charger vos chaînes suivies pour le moment.	지금은 팔로우한 채널을 불러올 수 없습니다.
+Chargement de vos chaînes suivies…	팔로우한 채널을 불러오는 중…
+En direct parmi vos chaînes suivies sur Twitch	팔로우한 Twitch 채널 중 생방송
+Suivies sur Twitch	Twitch 팔로우
+Prévient quand un favori passe en direct	즐겨찾기가 방송을 시작하면 알려 줍니다
+Activé : vos favoris sont vérifiés toutes les minutes en arrière-plan, même pendant un live. Cela utilise un peu plus d'internet et de mémoire.	켜짐: 시청 중에도 즐겨찾기를 1분마다 백그라운드에서 확인합니다. 인터넷과 메모리를 조금 더 사용합니다.
+Chaînes dans la barre latérale	사이드바의 채널
+Chaînes sur l'accueil	홈의 채널
+Qualité utilisée à l'ouverture d'un live. « Source » est la qualité maximale de la chaîne ; « Audio » ne joue que le son.	방송을 열 때 사용하는 화질입니다. "Source"는 채널의 최고 화질이고 "Audio"는 소리만 재생합니다.
+Réduit le retard entre le streamer et vous. Désactivez-le si la vidéo saccade ou se coupe.	스트리머와의 지연을 줄입니다. 영상이 끊기거나 멈추면 끄세요.
+Garde la fenêtre devant toutes les autres applications.	창을 다른 모든 앱보다 앞에 유지합니다.
+Affiche le chat par-dessus la vidéo quand vous êtes en plein écran.	전체 화면일 때 동영상 위에 채팅을 표시합니다.
+Faire rouler la molette au-dessus de la vidéo monte ou baisse le volume.	동영상 위에서 마우스 휠을 굴리면 볼륨이 올라가거나 내려갑니다.
+Un clic sur la vidéo met en pause ou relance la lecture.	동영상을 클릭하면 일시 정지하거나 다시 재생합니다.
+Garde un niveau sonore régulier (normalisation du son) : relève les passages faibles et atténue les passages forts, d'une chaîne à l'autre et au sein d'un même live.	소리 크기를 일정하게 유지합니다(오디오 정규화). 작은 부분은 키우고 큰 부분은 줄이며, 채널 간에도 같은 방송 안에서도 적용됩니다.
+Vitesse de la molette dans les listes et dans le chat. À 1,0 ×, un cran de molette fait défiler 3 lignes de 75 px, de façon fluide.	목록과 채팅의 휠 속도입니다. 1.0 ×에서는 휠 한 칸에 75 px 줄 3개가 부드럽게 스크롤됩니다.
+À chaque lancement, l'application démarre avec le volume choisi ci-dessous, au lieu du dernier volume réglé.	실행할 때마다 마지막으로 맞춘 볼륨 대신 아래에서 고른 볼륨으로 시작합니다.
+100 % = volume normal. 130 % permet d'amplifier une chaîne trop silencieuse, mais le son peut saturer.	100 % = 기본 볼륨. 130 %는 너무 작은 채널을 키울 수 있지만 소리가 찢어질 수 있습니다.
+Temps sans bouger la souris avant que les boutons posés sur la vidéo disparaissent.	마우스를 움직이지 않을 때 동영상 위 버튼이 사라지기까지의 시간입니다.
+Quand vous quittez la page d'un live avec « Retour », il continue dans une petite fenêtre en bas à droite. Désactivé : il s'arrête.	"뒤로"로 방송 페이지를 떠나면 오른쪽 아래 작은 창에서 계속 재생됩니다. 꺼짐: 정지합니다.
+Fréquence à laquelle l'accueil vérifie quelles chaînes sont en direct. Plus c'est rapide, plus cela utilise internet. « Manuelle » : seulement avec le bouton Actualiser.	홈에서 생방송 중인 채널을 확인하는 빈도입니다. 빠를수록 인터넷을 더 씁니다. "수동": 새로 고침 버튼으로만 확인합니다.
+Télécharge une image du direct pour chaque carte. Désactivez pour économiser des données.	카드마다 방송 이미지를 내려받습니다. 데이터를 아끼려면 끄세요.
+Les chaînes que vous suivez sur votre compte Twitch (il faut être connecté dans la carte « Compte Twitch »).	Twitch 계정에서 팔로우한 채널입니다("Twitch 계정" 카드에서 로그인해야 합니다).
+Nombre maximum de chaînes Twitch en direct listées dans la barre de gauche (ce n'est pas un délai).	왼쪽 바에 표시할 생방송 중인 Twitch 채널의 최대 개수입니다(시간이 아닙니다).
+Nombre maximum de chaînes Twitch en direct affichées sur la page d'accueil (ce n'est pas un délai).	홈에 표시할 생방송 중인 Twitch 채널의 최대 개수입니다(시간이 아닙니다).
+Garde le jeu sélectionné dans la barre « Jeux en direct » au prochain lancement.	"생방송 중인 게임" 바에서 고른 게임을 다음 실행 때도 유지합니다.
+Ouvrir : le live s'affiche en grand. PiP : il s'ouvre directement dans une petite fenêtre flottante.	열기: 방송을 크게 표시합니다. PiP: 작은 플로팅 창에서 바로 엽니다.
+Les messages qui contiennent un de ces mots (séparés par des virgules) sont surlignés en jaune dans le chat.	이 단어 중 하나(쉼표로 구분)가 들어간 메시지는 채팅에서 노란색으로 강조됩니다.
+Quand une chaîne est hors ligne ou que son live se termine, propose d'autres lives : vos chaînes suivies du même jeu d'abord.	채널이 오프라인이거나 방송이 끝나면 다른 방송을 추천합니다. 같은 게임의 팔로우한 채널이 먼저입니다.
+Nombre de chaînes proposées quand un live est hors ligne ou terminé.	방송이 오프라인이거나 끝났을 때 추천할 채널 수입니다.
+Les boutons latéraux de la souris changent de page, comme dans un navigateur. Alt + flèche gauche ou droite fait pareil.	마우스 옆 버튼으로 브라우저처럼 페이지를 이동합니다. Alt + 왼쪽 또는 오른쪽 화살표도 같습니다.
+Le pointeur devient une main au-dessus des boutons et des cartes.	버튼과 카드 위에서 포인터가 손 모양으로 바뀝니다.
+Complet : fondus, glissements, cascades et compteurs animés. Réduit : fondus et changements de couleur seulement, sans déplacement. Désactivé : aucune animation (utile sur un ordinateur lent). Le réglage d'animations de Windows n'est pas pris en compte.	전체: 페이드, 이동, 순차 표시, 애니메이션 카운터. 축소: 페이드와 색상 변화만 사용하고 움직임은 없음. 끔: 애니메이션 없음(느린 컴퓨터에 유용). Windows의 애니메이션 설정은 반영되지 않습니다.
+Affiche une notification Windows quand l'un de vos favoris passe en direct. L'application doit rester ouverte (elle peut être réduite).	즐겨찾기가 방송을 시작하면 Windows 알림을 표시합니다. 앱이 열려 있어야 합니다(최소화 가능).
+Lance Velka automatiquement quand vous ouvrez votre session Windows.	Windows에 로그인하면 Velka를 자동으로 실행합니다.
+Photos de profil et émotes déjà téléchargées. Les vider libère de la place ; elles se retéléchargent au besoin.	이미 내려받은 프로필 사진과 이모트입니다. 비우면 공간이 생기며, 필요할 때 다시 내려받습니다.
+Notifications Windows	Windows 알림
+Prévient quand un favori passe en direct. Vérifie vos favoris toutes les minutes, même pendant un live : utilise un peu plus d'internet et de mémoire.	즐겨찾기가 방송을 시작하면 알려 줍니다. 시청 중에도 1분마다 즐겨찾기를 확인하므로 인터넷과 메모리를 조금 더 사용합니다.
+Envoyer une notification de test	테스트 알림 보내기
+est en direct	님이 생방송 중
+Notification de test : tout fonctionne.	테스트 알림: 모두 정상입니다.
+Volume et lecteur	볼륨과 플레이어
+Démarrer en muet	음소거로 시작
+Volume fixe au lancement	시작할 때 고정 볼륨
+Sinon : le dernier volume utilisé	아니면: 마지막으로 사용한 볼륨
+Volume au lancement	시작 볼륨
+Volume maximum	최대 볼륨
+Masquage des contrôles	컨트롤 숨기기까지
+Jamais	안 함
+Capture d'écran	스크린샷
+Infos techniques	기술 정보
+Capture enregistrée :	스크린샷 저장됨:
+Capture impossible.	스크린샷을 찍을 수 없습니다.
+Minuteur de veille	취침 타이머
+Désactivé	꺼짐
+Arrêt du live dans	방송 정지까지
+logiciel	소프트웨어
+Résolution	해상도
+Images par seconde	초당 프레임
+Débit vidéo	영상 비트레이트
+Débit audio	오디오 비트레이트
+Images perdues	손실된 프레임
+Images perdues au décodage	디코딩 중 손실된 프레임
+Mémoire tampon	버퍼
+Format vidéo	영상 형식
+Décodage	디코딩
+Arrête le live automatiquement après la durée choisie, à partir du moment où vous changez ce réglage. Une minute avant, un compte à rebours s'affiche sur la vidéo. Le minuteur revient sur Désactivé à chaque nouveau live et à chaque lancement de l'application.	선택한 시간이 지나면 라이브를 자동으로 중지합니다. 이 설정을 바꾼 시점부터 계산합니다. 1분 전에 영상 위에 카운트다운이 표시됩니다. 타이머는 새 라이브를 열 때마다, 앱을 시작할 때마다 '사용 안 함'으로 돌아갑니다.
+Émotes 7TV, BTTV et FFZ	7TV, BTTV, FFZ 이모트
+Émotes animées	움직이는 이모트
+Badges du chat	채팅 배지
+Affiche les émotes des extensions 7TV, BetterTTV et FrankerFaceZ (globales et propres à la chaîne). Elles sont chargées à l'ouverture du live.	7TV, BetterTTV, FrankerFaceZ 확장 프로그램의 이모트(전역 및 채널 전용)를 표시합니다. 방송을 열 때 불러옵니다.
+Anime les émotes qui le sont (Twitch et extensions). Utilise un peu plus le processeur quand le chat en affiche.	움직이는 이모트를 재생합니다(Twitch 및 확장 프로그램). 채팅에 표시될 때 프로세서를 조금 더 사용합니다.
+Affiche les badges (abonné, modérateur, VIP…) devant les pseudos.	이름 앞에 배지(구독자, 매니저, VIP…)를 표시합니다.
+Netteté de l'image	화면 선명도
+Agrandissement de haute qualité	고품질 확대
+Désactivée	꺼짐
+Légère	약하게
+Moyenne	보통
+Forte	강하게
+Image plus fine en 480p et 720p	480p와 720p에서 더 선명한 화면
+Renforce les contours de l'image (calculé par la carte graphique). Utile sur un flux flou ; trop fort, l'image paraît granuleuse.	화면의 윤곽을 강조합니다(그래픽 카드가 처리). 흐린 방송에 유용하며, 너무 강하면 화면이 거칠어 보입니다.
+Utilise un filtre d'agrandissement plus fin quand la vidéo est plus petite que la fenêtre (480p, 720p). Demande davantage à la carte graphique.	동영상이 창보다 작을 때(480p, 720p) 더 정교한 확대 필터를 사용합니다. 그래픽 카드 부담이 늘어납니다.
+Compte	계정
+Qualité et flux	화질 및 스트림
+Audio	소리
+Lecteur et comportement	플레이어 및 동작
+Affichage et lisibilité	표시 및 가독성
+Filtrage et alertes	필터링 및 알림
+Notifications	알림
+Avancé et Système	고급 및 시스템
+Stockage et configuration	저장소 및 구성
+Émotes et badges	이모트와 배지
+Les changements s'appliquent tout de suite.	변경 사항은 바로 적용됩니다.
+2,5 s	2.5초
+Mo	MB
+Ko	KB
+Rechercher un réglage	설정 검색
+Résultats de la recherche	검색 결과
+Aucun réglage trouvé.	찾은 설정이 없습니다.
+Mini-lecteur	미니 플레이어
+Garder le live dans un coin quand on quitte la page	페이지를 떠나도 방송을 구석에 유지
+Accueil et barre latérale	홈과 사이드바
+Actualisation	새로 고침 주기
+Manuelle	수동
+Actualiser	새로 고침
+Aperçus des lives	방송 미리보기
+Images du direct sur les cartes	카드에 방송 이미지 표시
+Chaînes suivies sur Twitch	Twitch에서 팔로우한 채널
+Dans la barre latérale, sur l'accueil et dans les recommandations	사이드바, 홈, 추천에 표시
+Dans la barre latérale	사이드바에 표시
+Sur l'accueil	홈에 표시
+Se souvenir du jeu choisi	선택한 게임 기억
+Clic sur une carte	카드 클릭
+Ouvrir	열기
+Taille du texte	글자 크기
+Masquer les bots	봇 숨기기
+Horodatage des messages	메시지 시각
+Mots surlignés	강조할 단어
+mot, pseudo… (séparés par des virgules)	단어, 닉네임…(쉼표로 구분)
+Recommandations	추천
+Recommandations de chaînes	채널 추천
+Proposer des chaînes quand un live est hors ligne ou terminé	방송이 오프라인이거나 끝나면 채널 추천
+Nombre de recommandations	추천 개수
+Mouvement et lisibilité	움직임 및 가독성
+Navigation et souris	탐색 및 마우스
+Vérification des mises à jour	업데이트 확인
+Nouvelle version disponible :	새 버전이 있습니다:
+Mettre à jour	업데이트
+Téléchargement de la mise à jour…	업데이트 내려받는 중…
+Mise à jour impossible :	업데이트할 수 없습니다:
+Boutons Précédent / Suivant de la souris	마우스 뒤로 / 앞으로 버튼
+Main sur les éléments cliquables	클릭 가능한 요소에 손 모양 포인터
+Animations	애니메이션
+Raccourcis clavier	키보드 단축키
+Appuyez sur une touche…	키를 누르세요…
+Rétablir les raccourcis	단축키 초기화
+Raccourcis non modifiables	변경할 수 없는 단축키
+Quitter le plein écran, le PiP ou le live	전체 화면, PiP, 라이브 나가기
+Rechercher une chaîne	채널 검색
+Zoom de l'interface	인터페이스 확대/축소
+Page précédente / suivante	이전 / 다음 페이지
+Pause / lecture	일시 정지 / 재생
+Volume +	볼륨 +
+Volume -	볼륨 -
+Afficher / masquer le chat	채팅 보이기 / 숨기기
+Image dans l'image	화면 속 화면
+Système	시스템
+Démarrer avec Windows	Windows와 함께 시작
+Ouvre l'application à l'ouverture de session	로그인할 때 앱을 엽니다
+Cache des images	이미지 캐시
+Vider	비우기
+Espace	스페이스
+Flèche haut	위쪽 화살표
+Flèche bas	아래쪽 화살표
+Flèche gauche	왼쪽 화살표
+Flèche droite	오른쪽 화살표
+Entrée	Enter
+Jeux en direct	생방송 중인 게임
+Aucun live pour ce jeu en ce moment.	지금 이 게임의 방송이 없습니다.
+Chaînes recommandées	추천 채널
+Ajouter aux favoris	즐겨찾기에 추가
+Se déconnecter	로그아웃
+En attente de votre accord sur Twitch…	Twitch에서 승인을 기다리는 중…
+Rouvrir la page Twitch	Twitch 페이지 다시 열기
+Connexion à Twitch…	Twitch에 연결 중…
+Connectez-vous pour écrire dans le chat.	채팅에 글을 쓰려면 로그인하세요.
+Se connecter avec Twitch	Twitch로 로그인
+La connexion Twitch n'est pas disponible dans cette version.	이 버전에서는 Twitch 로그인을 사용할 수 없습니다.
+Connexion refusée sur Twitch.	Twitch에서 로그인이 거부되었습니다.
+Le code a expiré, recommencez.	코드가 만료되었습니다. 다시 시작하세요.
+Twitch a refusé la connexion.	Twitch가 로그인을 거부했습니다.
+Impossible de joindre Twitch. Vérifiez votre connexion.	Twitch에 연결할 수 없습니다. 연결을 확인하세요.
+Twitch a refusé la demande de connexion.	Twitch가 로그인 요청을 거부했습니다.
+Composants externes	외부 구성 요소
+Non installé	설치되지 않음
+Prêt	준비됨
+Installer	설치
+Chemins personnalisés (facultatif)	사용자 지정 경로(선택 사항)
+Journaux et diagnostic	로그 및 진단
+Volume	볼륨
+Molette de la souris sur la vidéo = volume	동영상 위 마우스 휠 = 볼륨
+Clic sur la vidéo = pause	동영상 클릭 = 일시 정지
+Volume stable	볼륨 안정화
+Limite les écarts de volume entre les chaînes	채널 간 볼륨 차이를 줄입니다
+Vitesse de défilement	스크롤 속도
+Résultats	결과
+Zone de réinitialisation	초기화 영역
+Réinitialiser	초기화
+Désinstaller	제거
+Oui, réinitialiser	예, 초기화합니다
+Oui, désinstaller	예, 제거합니다
+Ouvrir le dossier du journal	로그 폴더 열기
+Connexion au chat…	채팅에 연결 중…
+Chat connecté	채팅 연결됨
+Reconnexion du chat	채팅 다시 연결 중
+Envoyer un message	메시지 보내기
+Jeton requis pour écrire (Réglages)	글을 쓰려면 토큰이 필요합니다(설정)
+Revenir en bas	맨 아래로
+Réponse de Twitch inattendue pour ce jeton.	이 토큰에 대한 Twitch 응답이 예상과 다릅니다.
+Jeton refusé par Twitch (expiré ou invalide).	Twitch가 토큰을 거부했습니다(만료되었거나 유효하지 않음).
+Connexion refusée avec ce jeton.	이 토큰으로 연결이 거부되었습니다.
+Bienvenue dans Velka	Velka에 오신 것을 환영합니다
+Tout installer	모두 설치
+Installation en cours…	설치 중…
+La chaîne est hors ligne.	채널이 오프라인입니다.
+Pas de connexion à Twitch. Vérifiez votre réseau.	Twitch에 연결할 수 없습니다. 네트워크를 확인하세요.
+Le flux met trop de temps à démarrer.	방송 시작이 너무 오래 걸립니다.
+Le flux s'est interrompu :	방송이 중단되었습니다:
+arrêt inattendu	예기치 않은 정지
+Impossible de lancer Streamlink :	Streamlink를 실행할 수 없습니다:
+Préparation…	준비 중…
+Le rendu OpenGL n'est pas disponible.	OpenGL 렌더링을 사용할 수 없습니다.
+Aucun port local disponible.	사용할 수 있는 로컬 포트가 없습니다.
+Impossible de joindre GitHub :	GitHub에 연결할 수 없습니다:
+Réponse GitHub illisible :	GitHub 응답을 읽을 수 없습니다:
+Aucune archive compatible dans la dernière version.	최신 버전에 호환되는 압축 파일이 없습니다.
+Téléchargement impossible :	다운로드 실패:
+Écriture impossible :	쓰기 실패:
+Téléchargement interrompu :	다운로드 중단:
+Le fichier téléchargé est vide.	내려받은 파일이 비어 있습니다.
+Recherche de la dernière version…	최신 버전 찾는 중…
+Dossier inaccessible :	폴더에 접근할 수 없습니다:
+Téléchargement…	내려받는 중…
+Extraction…	압축 푸는 중…
+Extraction impossible :	압축 풀기 실패:
+Archive invalide :	잘못된 압축 파일:
+streamlink.exe introuvable dans l'archive.	압축 파일에 streamlink.exe가 없습니다.
+Structure d'archive inattendue.	압축 파일 구조가 예상과 다릅니다.
+libmpv-2.dll introuvable dans l'archive.	압축 파일에 libmpv-2.dll이 없습니다.
+Installation impossible :	설치 실패:
+Fichier installé introuvable ou vide.	설치된 파일이 없거나 비어 있습니다.
+Installé	설치됨
+Accessibilité	접근성
+Taille de l'interface	인터페이스 크기
+Mise à l'échelle	배율
+Contraste élevé	고대비
+Automatique	자동
+Activé	켜짐
+Focus clavier renforcé	키보드 포커스 강조
+Couleurs	색상
+Palette de couleurs	색상 팔레트
+Turquoise	청록색
+Bleu	파란색
+Vert	초록색
+Orange foncé	진한 주황
+Rose	분홍색
+Personnalisée	사용자 지정
+Couleur d'accent personnalisée	사용자 지정 강조 색상
+Code couleur	색상 코드
+Rouge	빨강
+Exemple	예시
+Contraste du texte sur l'accent	강조 색상 위 텍스트 대비
+Conforme	기준 충족
+Insuffisant, minimum	부족함, 최소
+Couleur non appliquée : le contraste est trop faible.	색상이 적용되지 않았습니다. 대비가 너무 낮습니다.
+Couleur conforme la plus proche :	기준을 충족하는 가장 가까운 색상:
+Utiliser cette couleur	이 색상 사용
+Rétablir les couleurs par défaut	기본 색상으로 복원
+Mises à jour	업데이트
+À jour	최신 상태
+Mise à jour disponible	업데이트 가능
+Chemin personnalisé	사용자 지정 경로
+Version inconnue	알 수 없는 버전
+Installée :	설치됨:
+Disponible :	사용 가능:
+Mise à jour en cours…	업데이트 중…
+Redémarrage nécessaire	다시 시작 필요
+Impossible de vérifier les mises à jour :	업데이트를 확인할 수 없습니다:
+Échec de la mise à jour, version précédente conservée :	업데이트 실패, 이전 버전을 유지했습니다:
+Versions des composants non validées par l'éditeur.	구성 요소 버전이 게시자의 승인을 받지 않았습니다.
+Archive validée introuvable sur GitHub.	승인된 아카이브를 GitHub에서 찾을 수 없습니다.
+Adresse de téléchargement inattendue.	예상치 못한 다운로드 주소입니다.
+Empreinte du fichier téléchargé incorrecte.	다운로드한 파일의 체크섬이 일치하지 않습니다.
+Téléchargement refusé par le serveur.	서버가 다운로드를 거부했습니다.
+Fichier reçu invalide (taille ou empreinte différente).	받은 파일이 올바르지 않습니다(크기 또는 체크섬이 일치하지 않음).
+Serveur injoignable :	서버에 연결할 수 없습니다:
+Remplacement impossible :	교체하지 못했습니다:
+Relance impossible :	다시 시작하지 못했습니다:
+Impossible de charger libmpv :	libmpv를 불러올 수 없습니다:
+Fonction libmpv manquante :	libmpv 함수가 없습니다:
+Le lecteur n'a pas pu démarrer.	플레이어를 시작할 수 없습니다.
+Initialisation du lecteur impossible :	플레이어를 초기화하지 못했습니다:
+Rendu vidéo impossible :	영상을 렌더링하지 못했습니다:
+Option du lecteur refusée :	플레이어가 옵션을 거부했습니다:
+Propriété du lecteur refusée :	플레이어가 속성을 거부했습니다:
+Commande du lecteur refusée :	플레이어가 명령을 거부했습니다:
+Se connecter	로그인
+Autres langues	다른 언어
+Personnaliser	사용자 지정
+Améliorer le contraste	대비 개선
+Replier le chat	채팅 접기
+Afficher le chat	채팅 표시
+Qualité maximale proposée par la chaîne, sans réduction.	채널이 제공하는 최고 화질이며 축소되지 않습니다.
+Fenêtre PiP au format de la vidéo	PiP 창을 영상 비율에 맞춤
+En mini-fenêtre PiP, la fenêtre prend le format du live pour supprimer les bandes noires.	PiP 미니 창이 라이브의 화면 비율에 맞춰져 검은 띠가 사라집니다.
+spectateur	시청자
+Actualisation en cours	새로 고치는 중…
+Qualité	화질
+Redémarrer l'application	앱 다시 시작
+Passer	건너뛰기
+Suivant	다음
+C'est parti	시작하기
+Chat avec émotes	이모티콘 채팅
+Mini-lecteur et PiP	미니 플레이어와 PiP
+Choisissez votre style	스타일 선택
+Couleur d'accent	강조 색상
+Réglez la lecture	재생 설정
+Restez informé	소식 놓치지 않기
+Tout se règle aussi plus tard dans les Réglages.	모든 항목은 나중에 설정에서 바꿀 수 있습니다.
+Thème et couleur de l'application.	앱의 테마와 색상.
+Les réglages les plus utiles, en un coup d'œil.	가장 유용한 설정을 한눈에.
+Ne ratez plus vos streamers préférés.	좋아하는 스트리머를 놓치지 마세요.
+Ultra légère et optimisée, parfaite pour jouer en même temps.	매우 가볍고 최적화되어 게임을 하면서 쓰기에 좋습니다.
+Revoir le didacticiel	튜토리얼 다시 보기
+Le live démarre sans le son ; vous le réactivez quand vous voulez.	방송이 소리 없이 시작되며, 원할 때 소리를 켤 수 있습니다.
+Agrandit ou réduit le texte des messages du chat.	채팅 메시지의 글자를 키우거나 줄입니다.
+Affiche l'heure devant chaque message du chat.	각 채팅 메시지 앞에 시간을 표시합니다.
+Place le chat à gauche de la vidéo au lieu de la droite.	채팅을 영상의 오른쪽 대신 왼쪽에 둡니다.
+Favori	즐겨찾기
+Aucun favori pour le moment. Cherchez une chaîne puis choisissez « Ajouter aux favoris ».	아직 즐겨찾기가 없습니다. 채널을 검색한 뒤 '즐겨찾기에 추가'를 선택하세요.
+Orange (par défaut)	주황 (기본값)
+Retirer des favoris	즐겨찾기에서 제거
+Connexion en cours	연결 중
+Audio du live uniquement	라이브 오디오만
+Lecteur au format de la vidéo	플레이어를 영상 비율에 맞추기
+Dans la fenêtre principale, l'image prend exactement le format du live (coins arrondis, sans bandes autour) et reste centrée.	메인 창에서 화면이 라이브의 비율에 정확히 맞춰지고(둥근 모서리, 검은 띠 없음) 가운데에 배치됩니다.
+Taille et place d'origine	원래 크기와 위치
+Chaîne ouverte au démarrage	시작 시 여는 채널
+Démarrage et fenêtre	시작 및 창
+Son live s'ouvre au lancement si elle est en direct. Sinon, l'accueil s'affiche normalement.	채널이 방송 중이면 시작할 때 라이브가 열립니다. 아니면 평소처럼 홈이 표시됩니다.
+Nom de la chaîne	채널 이름
+Au lancement, si cette chaîne est en direct, son live s'ouvre directement dans le lecteur. Hors ligne ou introuvable, l'accueil s'affiche normalement.	시작 시 채널이 방송 중이면 플레이어에서 바로 열립니다. 오프라인이거나 찾을 수 없으면 홈이 평소처럼 표시됩니다.
+Enregistrée	저장됨
+En attente de messages…	메시지를 기다리는 중…
+Confirmer la déconnexion	로그아웃 확인
+Affiche d'abord les lives qui ont le plus de spectateurs.	시청자가 많은 방송을 먼저 표시합니다.
+Affiche d'abord les lives qui ont le moins de spectateurs.	시청자가 적은 방송을 먼저 표시합니다.
+Éclaircit ou assombrit la couleur choisie pour que le texte reste lisible.	선택한 색을 밝게 또는 어둡게 조정해 글자를 읽기 쉽게 유지합니다.
+Spectateurs : décroissant	시청자: 내림차순
+Spectateurs : croissant	시청자: 오름차순
+5 s	5초
+10 s	10초
+Pour charger vos chaînes suivies, déconnectez-vous puis reconnectez-vous.	팔로우한 채널을 불러오려면 로그아웃한 뒤 다시 로그인하세요.
+Reconnectez-vous dans Réglages pour afficher vos chaînes suivies sur Twitch.	Twitch에서 팔로우한 채널을 표시하려면 설정에서 다시 로그인하세요.
+Une page Twitch s'est ouverte. Vérifiez ce code, puis cliquez sur « Autoriser » :	Twitch 페이지가 열렸습니다. 이 코드를 확인한 뒤 “승인”을(를) 누르세요:
+Utilisée en ce moment : redémarrez l'application pour la mettre à jour.	현재 사용 중입니다. 업데이트하려면 앱을 다시 시작하세요.
+Réinitialiser remet les réglages, les favoris et l'historique à zéro. Les outils restent installés.	초기화하면 설정, 즐겨찾기, 기록이 처음 상태로 돌아갑니다. 도구는 설치된 채로 남습니다.
+Désinstaller supprime les outils, les réglages, l'historique et le cache, puis ferme l'application.	제거하면 도구, 설정, 기록, 캐시가 삭제되고 앱이 종료됩니다.
+Tout remettre à zéro ? Réglages, favoris et historique seront perdus.	모두 초기화할까요? 설정, 즐겨찾기, 기록이 사라집니다.
+Tout supprimer ? Outils, réglages, historique et cache seront effacés définitivement.	모두 삭제할까요? 도구, 설정, 기록, 캐시가 영구적으로 삭제됩니다.
+Ce jeton n'a pas le droit d'écrire dans le chat (chat:edit).	이 토큰은 채팅에 글을 쓸 권한이 없습니다(chat:edit).
+Ils sont installés dans votre dossier utilisateur, sans droits administrateur.	관리자 권한 없이 사용자 폴더에 설치됩니다.
+libmpv est introuvable. Réinstallez les outils depuis les réglages.	libmpv를 찾을 수 없습니다. 설정에서 도구를 다시 설치하세요.
+Streamlink est introuvable. Réinstallez les outils depuis les réglages.	Streamlink를 찾을 수 없습니다. 설정에서 도구를 다시 설치하세요.
+Afficher le menu	메뉴 표시
+Masquer le menu	메뉴 숨기기
+Chat réservé aux followers	팔로워 전용 채팅
+Échec de la connexion.	연결에 실패했습니다.
+Connexion annulée	연결이 취소되었습니다
+Rapport de la dernière fermeture inattendue, sans donnée personnelle. Rien n'est envoyé automatiquement.	마지막 예기치 않은 종료에 대한 보고서이며 개인 정보는 포함되지 않습니다. 자동으로 전송되지 않습니다.
+Copier le rapport de plantage	충돌 보고서 복사
+Rapport copié.	보고서를 복사했습니다.
+Copier le diagnostic	진단 정보 복사
+Diagnostic copié.	진단 정보를 복사했습니다.
+Complet	전체
+Réduit	축소
+État et version de Streamlink et de libmpv, mise à jour, et chemins personnalisés (facultatifs) vers streamlink.exe et libmpv-2.dll.	Streamlink와 libmpv의 상태와 버전, 업데이트, streamlink.exe와 libmpv-2.dll의 선택적 사용자 지정 경로.
+Ouvre le dossier du journal, copie le diagnostic (version, Windows, carte graphique, composants) ou le rapport de plantage local pour le support. Rien n'est envoyé automatiquement.	로그 폴더를 열고 지원용으로 진단 정보(버전, Windows, 그래픽 카드, 구성 요소) 또는 로컬 충돌 보고서를 복사합니다. 자동으로 전송되는 것은 없습니다.
+À propos	정보
+Version de l'application	앱 버전
+Décodage vidéo matériel (GPU)	하드웨어 비디오 디코딩(GPU)
+Utile si la vidéo saccade ou si le processeur chauffe. « Automatique » : réglage d'origine de l'application. « Activé » : la carte graphique décode la vidéo, avec retour automatique au décodage normal si elle n'y arrive pas. « Désactivé » : décodage normal par le processeur. Le changement s'applique tout de suite : le live en cours est relancé.	영상이 끊기거나 프로세서가 뜨거워질 때 도움이 됩니다. '자동': 앱의 원래 설정입니다. '켜짐': 그래픽 카드가 영상을 디코딩하며, 실패하면 자동으로 일반 디코딩으로 돌아갑니다. '꺼짐': 프로세서로 일반 디코딩합니다. 변경 사항은 즉시 적용되며 진행 중인 라이브가 다시 시작됩니다.
+Périphérique de sortie	출력 장치
+Périphérique par défaut du système	시스템 기본 장치
+Choisit le casque ou les enceintes pour le son des lives, sans changer le son de Windows. « Périphérique par défaut du système » suit le choix de Windows. Le changement s'applique tout de suite. Si le périphérique choisi disparaît (casque débranché), l'application revient au choix par défaut.	Windows 사운드를 바꾸지 않고 라이브 소리를 낼 헤드폰이나 스피커를 선택합니다. '시스템 기본 장치'는 Windows의 선택을 따릅니다. 변경 사항은 즉시 적용됩니다. 선택한 장치가 사라지면(헤드폰을 뺀 경우 등) 앱이 기본 선택으로 돌아갑니다.
+Le périphérique audio choisi n'est plus disponible : retour au périphérique par défaut.	선택한 오디오 장치를 더 이상 사용할 수 없어 기본 장치로 돌아갑니다.
+Captures d'écran	스크린샷
+Dossier d'enregistrement	저장 폴더
+Parcourir…	찾아보기…
+Ouvrir le dossier	폴더 열기
+Dossier où la touche S enregistre les captures d'écran. Par défaut : le dossier « Velka » de vos Images. Le dossier choisi doit accepter l'écriture ; s'il disparaît (disque débranché, dossier supprimé), l'application revient au dossier par défaut. Le changement s'applique à la prochaine capture.	S 키로 스크린샷을 저장하는 폴더입니다. 기본값: 사진 폴더의 'Velka' 폴더. 선택한 폴더는 쓰기가 가능해야 하며, 폴더가 사라지면(드라이브 분리, 폴더 삭제) 앱이 기본 폴더로 돌아갑니다. 변경 사항은 다음 스크린샷부터 적용됩니다.
+Le dossier des captures n'est plus disponible : retour au dossier par défaut.	스크린샷 폴더를 더 이상 사용할 수 없어 기본 폴더로 돌아갑니다.
+Ce dossier n'accepte pas l'écriture : choisissez-en un autre.	이 폴더에는 쓸 수 없습니다. 다른 폴더를 선택하세요.
+Aucun	없음
+Effacer un raccourci	단축키 지우기
+Réduire dans la zone de notification à la fermeture	닫을 때 알림 영역으로 최소화
+L'application reste active en fond pour les notifications	알림을 위해 앱이 백그라운드에서 계속 실행됩니다
+La croix de fermeture cache la fenêtre dans la zone de notification (près de l'horloge) au lieu de quitter ; le live en cours est arrêté. Clic gauche sur l'icône : rouvrir. Clic droit : Ouvrir ou Quitter. Pour être prévenu quand un favori passe en direct, activez aussi « Notifications Windows ».	닫기 버튼을 누르면 종료하지 않고 창을 알림 영역(시계 옆)에 숨깁니다. 재생 중인 라이브는 중지됩니다. 아이콘을 왼쪽 클릭하면 다시 열리고, 오른쪽 클릭하면 열기 또는 종료를 선택할 수 있습니다. 즐겨찾기가 방송을 시작할 때 알림을 받으려면 'Windows 알림'도 켜세요.
+Ouvrir Velka	Velka 열기
+Quitter	종료
+Velka reste actif dans la zone de notification. Clic droit sur l'icône pour quitter.	Velka가 알림 영역에서 계속 실행 중입니다. 종료하려면 아이콘을 마우스 오른쪽 버튼으로 클릭하세요.
+Rechercher des mises à jour	업데이트 확인
+Vous utilisez la dernière version.	최신 버전을 사용 중입니다.
+Mise à jour {version} disponible	업데이트 {version} 사용 가능
+Impossible de se connecter. Vérifiez votre connexion internet.	연결할 수 없습니다. 인터넷 연결을 확인하세요.
+La recherche de mise à jour a échoué.	업데이트 확인에 실패했습니다.
+Historique des chaînes	채널 기록
+Effacer l'historique	기록 지우기
+Historique effacé.	기록을 지웠습니다.
+Ouvrir le dossier de configuration	설정 폴더 열기
+Options du lecteur	플레이어 옵션
+Perso	사용자
+Durée personnalisée	사용자 지정 시간
+Ajuster uniquement la taille du texte du chat	채팅 글자 크기만 조정
+Ajuster la taille globale de l'interface	인터페이스 전체 크기 조정
+Connectez-vous à Twitch pour activer	활성화하려면 Twitch에 로그인하세요
+Pas de connexion Internet.	인터넷에 연결되어 있지 않습니다.
+La connexion Internet s'est coupée.	인터넷 연결이 끊어졌습니다.
+Licences des composants	구성 요소 라이선스
+Le lecteur vidéo utilise libmpv (mpv) et FFmpeg, sous licence LGPL version 2.1 ou ultérieure. Vous pouvez remplacer libmpv par votre propre version dans {section}.	비디오 플레이어는 LGPL 버전 2.1 이상 라이선스의 libmpv(mpv)와 FFmpeg를 사용합니다. {section}에서 libmpv를 직접 만든 버전으로 교체할 수 있습니다.
+Code source et compilation	소스 코드 및 빌드 스크립트
+Velka n'a pas pu ouvrir sa fenêtre : la carte graphique ou son pilote ne prend pas en charge OpenGL 3.0. Mettez à jour le pilote de la carte graphique, puis relancez Velka. Sur un bureau à distance ou une machine virtuelle, l'affichage peut ne pas être pris en charge.	Velka 창을 열 수 없습니다. 그래픽 카드 또는 드라이버가 OpenGL 3.0을 지원하지 않습니다. 그래픽 카드 드라이버를 업데이트한 다음 Velka를 다시 시작하세요. 원격 데스크톱이나 가상 머신에서는 화면 표시가 지원되지 않을 수 있습니다.
+La carte graphique n'annonce pas OpenGL 3.0 : la vidéo peut rester noire. Mettez à jour le pilote de la carte graphique. Sur un bureau à distance ou une machine virtuelle, l'affichage peut ne pas être pris en charge.	그래픽 카드가 OpenGL 3.0을 보고하지 않습니다. 영상이 검게 표시될 수 있습니다. 그래픽 카드 드라이버를 업데이트하세요. 원격 데스크톱이나 가상 머신에서는 화면 표시가 지원되지 않을 수 있습니다.
+Démarrer avec macOS	macOS와 함께 시작
+Démarrer avec Linux	Linux와 함께 시작
+Lance Velka automatiquement quand vous ouvrez votre session macOS.	macOS에 로그인하면 Velka를 자동으로 실행합니다.
+Lance Velka automatiquement quand vous ouvrez votre session Linux.	Linux에 로그인하면 Velka를 자동으로 실행합니다.
+Notifications macOS	macOS 알림
+Notifications Linux	Linux 알림
+Affiche une notification macOS quand l'un de vos favoris passe en direct. L'application doit rester ouverte (elle peut être réduite).	즐겨찾기가 방송을 시작하면 macOS 알림을 표시합니다. 앱이 열려 있어야 합니다(최소화 가능).
+Affiche une notification Linux quand l'un de vos favoris passe en direct. L'application doit rester ouverte (elle peut être réduite).	즐겨찾기가 방송을 시작하면 Linux 알림을 표시합니다. 앱이 열려 있어야 합니다(최소화 가능).
+Multistream	멀티스트림
+Regardez jusqu'à 4 lives en même temps.	최대 4개의 라이브를 동시에 시청하세요.
+Ajouter une chaîne	채널 추가
+Ajouter	추가
+Tout arrêter	모두 정지
+Cette chaîne est déjà affichée.	이 채널은 이미 표시되고 있습니다.
+4 lives au maximum.	라이브는 최대 4개입니다.
+Ajoutez une chaîne pour commencer.	시작하려면 채널을 추가하세요.
+Retirer ce live	이 라이브 제거
+Écouter ce live	이 라이브 듣기
+Cumuler le son des lives en Multistream	멀티스트림에서 라이브 소리 합치기
+Un clic sur un live ajoute son son au lieu de le remplacer	라이브를 클릭하면 소리를 바꾸지 않고 추가합니다
+Sur la page Multistream, un clic sur un live fait entendre son son en plus de ceux déjà écoutés, jusqu'aux quatre lives. Le bouton du son de chaque live le coupe.	멀티스트림 페이지에서 라이브를 클릭하면 이미 듣고 있는 라이브들과 함께 그 소리도 들립니다(최대 네 개 모두). 각 라이브의 소리 버튼으로 음소거합니다.
+Couper tous les sons	모두 음소거
+Lecteur Twitch léger avec multistream, chat et notifications.	멀티스트림, 채팅, 알림을 지원하는 가벼운 Twitch 플레이어.
+Quelques composants sont nécessaires pour lire les lives Twitch.	Twitch 방송을 재생하려면 몇 가지 구성 요소가 필요합니다.
+Logiciel libre sous licence GPL-3.0 ou ultérieure.	GPL-3.0 이상 라이선스의 자유 소프트웨어.
+Application non affiliée à Twitch.	Twitch와 제휴하지 않은 앱입니다.
+Code source sur GitHub	GitHub의 소스 코드
+Soutenir le projet	프로젝트 후원하기
+La connexion Twitch n'a pas pu être enregistrée de façon sécurisée (trousseau du système indisponible) : elle sera perdue à la fermeture de Velka.	Twitch 로그인을 안전하게 저장하지 못했습니다(시스템 키체인을 사용할 수 없음). Velka를 닫으면 로그인이 사라집니다.
+Velka est gratuit et le restera. Si l'application vous plaît, un petit don aide à la faire vivre.	Velka는 무료이며 앞으로도 무료입니다. 앱이 마음에 드신다면 작은 후원이 큰 힘이 됩니다.
+Plus tard	나중에
+Rappel pour soutenir le projet	프로젝트 후원 알림
+Affiche de temps en temps sur l'accueil, au plus une fois par mois, un message avec un lien pour soutenir le projet.	홈 화면에 한 달에 한 번 이하로, 프로젝트를 후원할 수 있는 링크가 담긴 메시지를 가끔 표시합니다.

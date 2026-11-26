@@ -1,0 +1,66 @@
+[package]
+name = "velka"
+version = "2.0.0"
+edition = "2021"
+description = "Lecteur Twitch léger avec multistream, chat et notifications"
+license = "GPL-3.0-or-later"
+repository = "https://github.com/Keeyzn/velka-app"
+publish = false
+
+[workspace]
+members = ["crates/licfmt", "tools/sign-release"]
+
+[dependencies]
+directories = "6"
+eframe = { version = "0.37", default-features = false, features = ["glow", "default_fonts", "clipboard", "links", "accesskit"] }
+licfmt = { path = "crates/licfmt" }
+image = { version = "0.25.10", default-features = false, features = ["png", "jpeg", "gif"] }
+libloading = "0.9.1"
+serde = { version = "1.0.229", features = ["derive"] }
+serde_json = "1.0.154"
+sha2 = "0.10"
+sevenz-rust2 = { version = "0.25.0", default-features = false }
+tungstenite = { version = "0.30.0", features = ["rustls-tls-webpki-roots"] }
+ureq = { version = "3.5.2", features = ["json"] }
+zip = { version = "9.7.3", default-features = false, features = ["deflate"] }
+
+[dev-dependencies]
+ed25519-dalek = "2"
+# Écriture d'archives 7z pour les tests (la lecture, seule utilisée par l'application, n'en a pas besoin).
+sevenz-rust2 = { version = "0.25.0", default-features = false, features = ["compress"] }
+
+[target.'cfg(windows)'.build-dependencies]
+winresource = "0.1"
+
+[target.'cfg(windows)'.dependencies]
+windows = { version = "0.62.2", features = ["Win32_Foundation", "Win32_System_JobObjects", "Win32_Security", "Win32_System_IO", "Win32_System_Threading", "Win32_UI_WindowsAndMessaging", "Win32_Graphics_Gdi", "Win32_UI_HiDpi", "Win32_UI_Shell", "Win32_System_SystemInformation", "Win32_System_LibraryLoader", "Win32_System_Registry", "Win32_Storage_FileSystem", "Win32_System_Diagnostics_Debug", "Win32_System_Kernel", "Win32_System_Com", "Win32_UI_Shell_PropertiesSystem", "Win32_Storage_EnhancedStorage", "Win32_System_Com_StructuredStorage", "Win32_System_Variant", "Win32_Globalization", "Win32_Graphics_Dwm", "Win32_UI_Controls", "Win32_UI_Accessibility", "Win32_System_DataExchange", "Win32_System_Memory"] }
+
+# Mac et Linux (pistes Mac et Linux) : appels système simples (heure locale, existence d'un processus).
+[target.'cfg(any(target_os = "macos", target_os = "linux"))'.dependencies]
+libc = "0.2"
+
+[profile.release]
+opt-level = 3
+lto = true
+codegen-units = 1
+panic = "abort"
+strip = true
+debug = false
+
+# Développement et tests uniquement (le profil release ci-dessus ne change pas) : les bibliothèques de chiffrement
+# sont optimisées pour que les tests de signature restent rapides ; le code du projet et les autres dépendances restent
+# compilés sans optimisation.
+[profile.dev.package.curve25519-dalek]
+opt-level = 3
+[profile.dev.package.ed25519-dalek]
+opt-level = 3
+[profile.dev.package.sha2]
+opt-level = 3
+[profile.dev.package.chacha20]
+opt-level = 3
+[profile.dev.package.poly1305]
+opt-level = 3
+[profile.dev.package.chacha20poly1305]
+opt-level = 3
+[profile.dev.package.subtle]
+opt-level = 3

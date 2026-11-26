@@ -1,0 +1,54 @@
+# cargo-deny : licences, failles connues, sources et doublons des dépendances.
+# Lancer : cargo deny check   (installé avec : cargo install --locked cargo-deny)
+
+[graph]
+# Les trois systèmes publiés : Windows x64, Linux x64 et macOS Apple Silicon.
+targets = ["x86_64-pc-windows-msvc", "x86_64-unknown-linux-gnu", "aarch64-apple-darwin"]
+all-features = false
+
+[advisories]
+# Base RustSec. Une faille (vulnerability) fait toujours échouer ; « non maintenu » aussi, sauf exception listée.
+version = 2
+yanked = "deny"
+unmaintained = "workspace"
+ignore = []
+
+[licenses]
+version = 2
+# Licences compatibles avec la GPL-3.0 de Velka (avis à reproduire dans THIRD-PARTY-NOTICES).
+allow = [
+    "MIT",
+    "MIT-0",
+    "Apache-2.0",
+    "Apache-2.0 WITH LLVM-exception",
+    "BSD-1-Clause",
+    "BSD-2-Clause",
+    "BSD-3-Clause",
+    "ISC",
+    "Zlib",
+    "0BSD",
+    "BSL-1.0",
+    "Unicode-3.0",
+    "CDLA-Permissive-2.0",
+    "OFL-1.1",
+    "Ubuntu-font-1.0",
+    "CC0-1.0",
+    "Unlicense",
+    # option-ext (via directories) : copyleft faible au niveau du fichier, sans effet sur le reste du programme
+    # tant que ses sources ne sont pas modifiées.
+    "MPL-2.0",
+]
+confidence-threshold = 0.9
+unused-allowed-license = "allow"
+# Les crates internes (publish = false) ne sont pas publiées sur crates.io.
+private = { ignore = true }
+
+[bans]
+multiple-versions = "warn"
+wildcards = "deny"
+allow-wildcard-paths = true
+
+[sources]
+unknown-registry = "deny"
+unknown-git = "deny"
+allow-registry = ["https://github.com/rust-lang/crates.io-index"]

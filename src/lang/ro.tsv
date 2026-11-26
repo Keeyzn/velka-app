@@ -1,0 +1,535 @@
+Aide	Ajutor
+Réduire	Minimizează
+Agrandir	Maximizează
+Restaurer	Restabilește
+Fermer	Închide
+Échap	Esc
+Français	Franceză
+Anglais	Engleză
+Espagnol	Spaniolă
+Portugais	Portugheză
+Allemand	Germană
+Italien	Italiană
+Néerlandais	Neerlandeză
+Polonais	Poloneză
+Russe	Rusă
+Ukrainien	Ucraineană
+Turc	Turcă
+Vietnamien	Vietnameză
+Indonésien	Indoneziană
+Chinois simplifié	Chineză simplificată
+Chinois traditionnel	Chineză tradițională
+Japonais	Japoneză
+Coréen	Coreeană
+Tchèque	Cehă
+Roumain	Română
+Hongrois	Maghiară
+Suédois	Suedeză
+Danois	Daneză
+Norvégien	Norvegiană
+Finnois	Finlandeză
+Grec	Greacă
+Annuler	Anulează
+spectateurs	spectatori
+Hors ligne	Offline
+Cette chaîne n'existe pas.	Acest canal nu există.
+Statut indisponible, vous pouvez quand même essayer.	Stare indisponibilă, poți încerca totuși.
+Accueil	Acasă
+En direct	În direct
+chaînes	canale
+Favoris	Favorite
+Spectateurs	Spectatori
+au total	în total
+Résultat	Rezultat
+Vérification…	Se verifică…
+Regarder	Urmărește
+Nom de chaîne invalide.	Nume de canal nevalid.
+En direct parmi vos favoris	În direct dintre favoritele tale
+Aucun favori en direct pour le moment.	Niciun favorit nu e în direct acum.
+Récents	Recente
+Retirer de l'historique	Elimină din istoric
+Rechercher	Caută
+Plateforme	Platformă
+Réglages	Setări
+Quitter le PiP	Ieși din PiP
+Reprise dans un instant…	Se reia într-o clipă…
+Retour	Înapoi
+Arrêter	Oprește
+Quitter le plein écran	Ieși din ecranul complet
+Plein écran	Ecran complet
+Lecture	Redă
+Réactiver le son	Pornește sunetul
+Couper le son	Oprește sunetul
+Chat	Chat
+Changement de qualité…	Se schimbă calitatea…
+Réessayer	Reîncearcă
+depuis	de
+connexion…	conectare…
+changement de qualité…	se schimbă calitatea…
+interrompu	întrerupt
+Lecture vidéo	Redare video
+Qualité par défaut	Calitate implicită
+Faible latence	Latență redusă
+Désactiver pour un flux plus stable	Dezactivează pentru un flux mai stabil
+Réduire la barre latérale	Restrânge bara laterală
+Agrandir la barre latérale	Extinde bara laterală
+Chat à gauche de la vidéo	Chat în stânga videoclipului
+Toujours au premier plan	Mereu deasupra
+Chat en surimpression en plein écran	Chat peste video pe ecran complet
+Apparence	Aspect
+Général	General
+Thème	Temă
+Langue	Limbă
+Sombre	Ardezie
+Dark	Întunecată
+Clair	Luminoasă
+Compte Twitch	Cont Twitch
+Connecté en tant que	Conectat ca
+Vous pouvez écrire dans le chat.	Poți scrie în chat.
+chaînes suivies sur Twitch chargées.	canale Twitch urmărite încărcate.
+Impossible de charger vos chaînes suivies pour le moment.	Canalele urmărite nu pot fi încărcate acum.
+Chargement de vos chaînes suivies…	Se încarcă canalele urmărite…
+En direct parmi vos chaînes suivies sur Twitch	În direct dintre canalele tale urmărite pe Twitch
+Suivies sur Twitch	Urmărite pe Twitch
+Prévient quand un favori passe en direct	Te anunță când un favorit intră live
+Activé : vos favoris sont vérifiés toutes les minutes en arrière-plan, même pendant un live. Cela utilise un peu plus d'internet et de mémoire.	Activat: favoritele sunt verificate în fiecare minut în fundal, chiar și în timpul unui live. Folosește puțin mai mult internet și memorie.
+Chaînes dans la barre latérale	Canale în bara laterală
+Chaînes sur l'accueil	Canale pe pagina principală
+Qualité utilisée à l'ouverture d'un live. « Source » est la qualité maximale de la chaîne ; « Audio » ne joue que le son.	Calitatea folosită la deschiderea unui live. „Source” este calitatea maximă a canalului; „Audio” redă doar sunetul.
+Réduit le retard entre le streamer et vous. Désactivez-le si la vidéo saccade ou se coupe.	Reduce întârzierea față de streamer. Dezactiveaz-o dacă imaginea se blochează sau se întrerupe.
+Garde la fenêtre devant toutes les autres applications.	Ține fereastra în fața tuturor celorlalte aplicații.
+Affiche le chat par-dessus la vidéo quand vous êtes en plein écran.	Afișează chatul peste video pe ecran complet.
+Faire rouler la molette au-dessus de la vidéo monte ou baisse le volume.	Rotița mouse-ului deasupra videoclipului crește sau scade volumul.
+Un clic sur la vidéo met en pause ou relance la lecture.	Un clic pe video pune pauză sau reia redarea.
+Garde un niveau sonore régulier (normalisation du son) : relève les passages faibles et atténue les passages forts, d'une chaîne à l'autre et au sein d'un même live.	Păstrează un nivel sonor constant (normalizarea sunetului): ridică pasajele slabe și atenuează pe cele puternice, între canale și în cadrul aceluiași live.
+Vitesse de la molette dans les listes et dans le chat. À 1,0 ×, un cran de molette fait défiler 3 lignes de 75 px, de façon fluide.	Viteza rotiței în liste și în chat. La 1,0 ×, o treaptă derulează lin 3 rânduri de 75 px.
+À chaque lancement, l'application démarre avec le volume choisi ci-dessous, au lieu du dernier volume réglé.	La fiecare pornire, aplicația folosește volumul ales mai jos în loc de ultimul volum setat.
+100 % = volume normal. 130 % permet d'amplifier une chaîne trop silencieuse, mais le son peut saturer.	100 % = volum normal. 130 % amplifică un canal prea încet, dar sunetul se poate distorsiona.
+Temps sans bouger la souris avant que les boutons posés sur la vidéo disparaissent.	Timpul fără mișcarea mouse-ului înainte ca butoanele de pe video să dispară.
+Quand vous quittez la page d'un live avec « Retour », il continue dans une petite fenêtre en bas à droite. Désactivé : il s'arrête.	Când ieși de pe pagina unui live cu „Înapoi”, acesta continuă într-o fereastră mică în dreapta jos. Dezactivat: se oprește.
+Fréquence à laquelle l'accueil vérifie quelles chaînes sont en direct. Plus c'est rapide, plus cela utilise internet. « Manuelle » : seulement avec le bouton Actualiser.	Cât de des verifică pagina principală ce canale sunt în direct. Cu cât mai des, cu atât mai mult internet. „Manual”: doar cu butonul Reîmprospătează.
+Télécharge une image du direct pour chaque carte. Désactivez pour économiser des données.	Descarcă o imagine din live pentru fiecare card. Dezactivează pentru a economisi date.
+Les chaînes que vous suivez sur votre compte Twitch (il faut être connecté dans la carte « Compte Twitch »).	Canalele pe care le urmărești în contul Twitch (trebuie să fii conectat în cardul „Cont Twitch”).
+Nombre maximum de chaînes Twitch en direct listées dans la barre de gauche (ce n'est pas un délai).	Numărul maxim de canale Twitch în direct afișate în bara din stânga (nu este un timp).
+Nombre maximum de chaînes Twitch en direct affichées sur la page d'accueil (ce n'est pas un délai).	Numărul maxim de canale Twitch în direct afișate pe pagina principală (nu este un timp).
+Garde le jeu sélectionné dans la barre « Jeux en direct » au prochain lancement.	Păstrează jocul ales în bara „Jocuri în direct” la următoarea pornire.
+Ouvrir : le live s'affiche en grand. PiP : il s'ouvre directement dans une petite fenêtre flottante.	Deschide: live-ul apare mare. PiP: se deschide direct într-o fereastră mică plutitoare.
+Les messages qui contiennent un de ces mots (séparés par des virgules) sont surlignés en jaune dans le chat.	Mesajele care conțin unul dintre aceste cuvinte (separate prin virgulă) sunt evidențiate cu galben în chat.
+Quand une chaîne est hors ligne ou que son live se termine, propose d'autres lives : vos chaînes suivies du même jeu d'abord.	Când un canal e offline sau live-ul se termină, propune alte live-uri: mai întâi canalele urmărite cu același joc.
+Nombre de chaînes proposées quand un live est hors ligne ou terminé.	Numărul de canale propuse când un live este offline sau s-a terminat.
+Les boutons latéraux de la souris changent de page, comme dans un navigateur. Alt + flèche gauche ou droite fait pareil.	Butoanele laterale ale mouse-ului schimbă pagina, ca într-un browser. Alt + săgeată stânga sau dreapta face la fel.
+Le pointeur devient une main au-dessus des boutons et des cartes.	Cursorul devine o mână deasupra butoanelor și cardurilor.
+Complet : fondus, glissements, cascades et compteurs animés. Réduit : fondus et changements de couleur seulement, sans déplacement. Désactivé : aucune animation (utile sur un ordinateur lent). Le réglage d'animations de Windows n'est pas pris en compte.	Complete: estompări, glisări, apariții în cascadă și contoare animate. Reduse: doar estompări și schimbări de culoare, fără mișcare. Dezactivate: nicio animație (util pe un calculator lent). Setarea de animații din Windows nu este luată în considerare.
+Affiche une notification Windows quand l'un de vos favoris passe en direct. L'application doit rester ouverte (elle peut être réduite).	Afișează o notificare Windows când unul dintre favoritele tale intră în direct. Aplicația trebuie să rămână deschisă (poate fi minimizată).
+Lance Velka automatiquement quand vous ouvrez votre session Windows.	Pornește Velka automat când te conectezi la Windows.
+Photos de profil et émotes déjà téléchargées. Les vider libère de la place ; elles se retéléchargent au besoin.	Fotografii de profil și emote-uri deja descărcate. Golirea eliberează spațiu; se descarcă din nou când e nevoie.
+Notifications Windows	Notificări Windows
+Prévient quand un favori passe en direct. Vérifie vos favoris toutes les minutes, même pendant un live : utilise un peu plus d'internet et de mémoire.	Te anunță când un favorit intră în direct. Verifică favoritele în fiecare minut, chiar și în timpul unui live: folosește puțin mai mult internet și memorie.
+Envoyer une notification de test	Trimite o notificare de test
+est en direct	este în direct
+Notification de test : tout fonctionne.	Notificare de test: totul funcționează.
+Volume et lecteur	Volum și player
+Démarrer en muet	Pornește fără sunet
+Volume fixe au lancement	Volum fix la pornire
+Sinon : le dernier volume utilisé	Altfel: ultimul volum folosit
+Volume au lancement	Volum la pornire
+Volume maximum	Volum maxim
+Masquage des contrôles	Ascunde comenzile după
+Jamais	Niciodată
+Capture d'écran	Captură de ecran
+Infos techniques	Informații tehnice
+Capture enregistrée :	Captură salvată:
+Capture impossible.	Captura nu a reușit.
+Minuteur de veille	Temporizator de oprire
+Désactivé	Dezactivat
+Arrêt du live dans	Live-ul se oprește în
+logiciel	software
+Résolution	Rezoluție
+Images par seconde	Cadre pe secundă
+Débit vidéo	Debit video
+Débit audio	Debit audio
+Images perdues	Cadre pierdute
+Images perdues au décodage	Cadre pierdute la decodare
+Mémoire tampon	Memorie tampon
+Format vidéo	Format video
+Décodage	Decodare
+Arrête le live automatiquement après la durée choisie, à partir du moment où vous changez ce réglage. Une minute avant, un compte à rebours s'affiche sur la vidéo. Le minuteur revient sur Désactivé à chaque nouveau live et à chaque lancement de l'application.	Oprește automat transmisiunea după durata aleasă, socotită din momentul în care schimbi această setare. Cu un minut înainte apare o numărătoare inversă peste video. Temporizatorul revine la Dezactivat la fiecare transmisiune nouă și la fiecare pornire a aplicației.
+Émotes 7TV, BTTV et FFZ	Emote-uri 7TV, BTTV și FFZ
+Émotes animées	Emote-uri animate
+Badges du chat	Insigne în chat
+Affiche les émotes des extensions 7TV, BetterTTV et FrankerFaceZ (globales et propres à la chaîne). Elles sont chargées à l'ouverture du live.	Afișează emote-urile extensiilor 7TV, BetterTTV și FrankerFaceZ (globale și ale canalului). Se încarcă la deschiderea live-ului.
+Anime les émotes qui le sont (Twitch et extensions). Utilise un peu plus le processeur quand le chat en affiche.	Animează emote-urile animate (Twitch și extensii). Folosește puțin mai mult procesorul când chatul le afișează.
+Affiche les badges (abonné, modérateur, VIP…) devant les pseudos.	Afișează insignele (abonat, moderator, VIP…) înaintea numelor.
+Netteté de l'image	Claritatea imaginii
+Agrandissement de haute qualité	Mărire de înaltă calitate
+Désactivée	Dezactivată
+Légère	Ușoară
+Moyenne	Medie
+Forte	Puternică
+Image plus fine en 480p et 720p	Imagine mai fină la 480p și 720p
+Renforce les contours de l'image (calculé par la carte graphique). Utile sur un flux flou ; trop fort, l'image paraît granuleuse.	Accentuează contururile imaginii (calculat de placa video). Util la un flux neclar; prea puternic, imaginea pare granulată.
+Utilise un filtre d'agrandissement plus fin quand la vidéo est plus petite que la fenêtre (480p, 720p). Demande davantage à la carte graphique.	Folosește un filtru de mărire mai fin când video-ul e mai mic decât fereastra (480p, 720p). Solicită mai mult placa video.
+Compte	Cont
+Qualité et flux	Calitate și flux
+Audio	Sunet
+Lecteur et comportement	Player și comportament
+Affichage et lisibilité	Afișare și lizibilitate
+Filtrage et alertes	Filtrare și alerte
+Notifications	Notificări
+Avancé et Système	Avansat și sistem
+Stockage et configuration	Stocare și configurare
+Émotes et badges	Emote-uri și insigne
+Les changements s'appliquent tout de suite.	Modificările se aplică imediat.
+2,5 s	2,5 s
+Mo	MB
+Ko	KB
+Rechercher un réglage	Caută o setare
+Résultats de la recherche	Rezultatele căutării
+Aucun réglage trouvé.	Nicio setare găsită.
+Mini-lecteur	Mini-player
+Garder le live dans un coin quand on quitte la page	Păstrează live-ul într-un colț când ieși de pe pagină
+Accueil et barre latérale	Pagina principală și bara laterală
+Actualisation	Reîmprospătare
+Manuelle	Manual
+Actualiser	Reîmprospătează
+Aperçus des lives	Previzualizări live
+Images du direct sur les cartes	Imagini din live pe carduri
+Chaînes suivies sur Twitch	Canale urmărite pe Twitch
+Dans la barre latérale, sur l'accueil et dans les recommandations	În bara laterală, pe pagina principală și în recomandări
+Dans la barre latérale	În bara laterală
+Sur l'accueil	Pe pagina principală
+Se souvenir du jeu choisi	Ține minte jocul ales
+Clic sur une carte	Clic pe un card
+Ouvrir	Deschide
+Taille du texte	Mărimea textului
+Masquer les bots	Ascunde boții
+Horodatage des messages	Ora mesajelor
+Mots surlignés	Cuvinte evidențiate
+mot, pseudo… (séparés par des virgules)	cuvânt, nume… (separate prin virgulă)
+Recommandations	Recomandări
+Recommandations de chaînes	Canale recomandate
+Proposer des chaînes quand un live est hors ligne ou terminé	Propune canale când un live este offline sau s-a terminat
+Nombre de recommandations	Număr de recomandări
+Mouvement et lisibilité	Mișcare și lizibilitate
+Navigation et souris	Navigare și mouse
+Vérification des mises à jour	Verificarea actualizărilor
+Nouvelle version disponible :	Versiune nouă disponibilă:
+Mettre à jour	Actualizează
+Téléchargement de la mise à jour…	Se descarcă actualizarea…
+Mise à jour impossible :	Actualizarea nu a reușit:
+Boutons Précédent / Suivant de la souris	Butoanele Înapoi / Înainte ale mouse-ului
+Main sur les éléments cliquables	Mână deasupra elementelor pe care se poate da clic
+Animations	Animații
+Raccourcis clavier	Comenzi rapide de la tastatură
+Appuyez sur une touche…	Apasă o tastă…
+Rétablir les raccourcis	Resetează comenzile rapide
+Raccourcis non modifiables	Scurtături fixe
+Quitter le plein écran, le PiP ou le live	Ieșire din ecran complet, PiP sau din live
+Rechercher une chaîne	Caută un canal
+Zoom de l'interface	Zoom interfață
+Page précédente / suivante	Pagina anterioară / următoare
+Pause / lecture	Pauză / redare
+Volume +	Volum +
+Volume -	Volum -
+Afficher / masquer le chat	Afișează / ascunde chatul
+Image dans l'image	Imagine în imagine
+Système	Sistem
+Démarrer avec Windows	Pornește odată cu Windows
+Ouvre l'application à l'ouverture de session	Deschide aplicația la conectare
+Cache des images	Cache de imagini
+Vider	Golește
+Espace	Spațiu
+Flèche haut	Săgeată sus
+Flèche bas	Săgeată jos
+Flèche gauche	Săgeată stânga
+Flèche droite	Săgeată dreapta
+Entrée	Enter
+Jeux en direct	Jocuri în direct
+Aucun live pour ce jeu en ce moment.	Niciun live pentru acest joc acum.
+Chaînes recommandées	Canale recomandate
+Ajouter aux favoris	Adaugă la favorite
+Se déconnecter	Deconectează-te
+En attente de votre accord sur Twitch…	Se așteaptă acordul tău pe Twitch…
+Rouvrir la page Twitch	Redeschide pagina Twitch
+Connexion à Twitch…	Conectare la Twitch…
+Connectez-vous pour écrire dans le chat.	Conectează-te pentru a scrie în chat.
+Se connecter avec Twitch	Conectează-te cu Twitch
+La connexion Twitch n'est pas disponible dans cette version.	Conectarea cu Twitch nu este disponibilă în această versiune.
+Connexion refusée sur Twitch.	Conectare refuzată pe Twitch.
+Le code a expiré, recommencez.	Codul a expirat, încearcă din nou.
+Twitch a refusé la connexion.	Twitch a refuzat conectarea.
+Impossible de joindre Twitch. Vérifiez votre connexion.	Twitch nu poate fi accesat. Verifică conexiunea.
+Twitch a refusé la demande de connexion.	Twitch a refuzat cererea de conectare.
+Composants externes	Componente externe
+Non installé	Neinstalat
+Prêt	Gata
+Installer	Instalează
+Chemins personnalisés (facultatif)	Căi personalizate (opțional)
+Journaux et diagnostic	Jurnale și diagnosticare
+Volume	Volum
+Molette de la souris sur la vidéo = volume	Rotița mouse-ului pe video = volum
+Clic sur la vidéo = pause	Clic pe video = pauză
+Volume stable	Volum stabil
+Limite les écarts de volume entre les chaînes	Limitează diferențele de volum între canale
+Vitesse de défilement	Viteza de derulare
+Résultats	Rezultate
+Zone de réinitialisation	Zonă de resetare
+Réinitialiser	Resetează
+Désinstaller	Dezinstalează
+Oui, réinitialiser	Da, resetează
+Oui, désinstaller	Da, dezinstalează
+Ouvrir le dossier du journal	Deschide dosarul jurnalului
+Connexion au chat…	Conectare la chat…
+Chat connecté	Chat conectat
+Reconnexion du chat	Reconectare chat
+Envoyer un message	Trimite un mesaj
+Jeton requis pour écrire (Réglages)	E nevoie de token pentru a scrie (Setări)
+Revenir en bas	Înapoi jos
+Réponse de Twitch inattendue pour ce jeton.	Răspuns neașteptat de la Twitch pentru acest token.
+Jeton refusé par Twitch (expiré ou invalide).	Token respins de Twitch (expirat sau nevalid).
+Connexion refusée avec ce jeton.	Conexiune refuzată cu acest token.
+Bienvenue dans Velka	Bun venit în Velka
+Tout installer	Instalează tot
+Installation en cours…	Se instalează…
+La chaîne est hors ligne.	Canalul este offline.
+Pas de connexion à Twitch. Vérifiez votre réseau.	Fără conexiune la Twitch. Verifică rețeaua.
+Le flux met trop de temps à démarrer.	Fluxul pornește prea greu.
+Le flux s'est interrompu :	Fluxul s-a întrerupt:
+arrêt inattendu	oprire neașteptată
+Impossible de lancer Streamlink :	Streamlink nu poate porni:
+Préparation…	Pregătire…
+Le rendu OpenGL n'est pas disponible.	Randarea OpenGL nu este disponibilă.
+Aucun port local disponible.	Niciun port local disponibil.
+Impossible de joindre GitHub :	GitHub nu poate fi accesat:
+Réponse GitHub illisible :	Răspuns GitHub ilizibil:
+Aucune archive compatible dans la dernière version.	Nicio arhivă compatibilă în ultima versiune.
+Téléchargement impossible :	Descărcarea nu a reușit:
+Écriture impossible :	Scrierea nu a reușit:
+Téléchargement interrompu :	Descărcare întreruptă:
+Le fichier téléchargé est vide.	Fișierul descărcat este gol.
+Recherche de la dernière version…	Se caută ultima versiune…
+Dossier inaccessible :	Dosar inaccesibil:
+Téléchargement…	Se descarcă…
+Extraction…	Se extrage…
+Extraction impossible :	Extragerea nu a reușit:
+Archive invalide :	Arhivă nevalidă:
+streamlink.exe introuvable dans l'archive.	streamlink.exe nu a fost găsit în arhivă.
+Structure d'archive inattendue.	Structură neașteptată a arhivei.
+libmpv-2.dll introuvable dans l'archive.	libmpv-2.dll nu a fost găsit în arhivă.
+Installation impossible :	Instalarea nu a reușit:
+Fichier installé introuvable ou vide.	Fișierul instalat lipsește sau este gol.
+Installé	Instalat
+Accessibilité	Accesibilitate
+Taille de l'interface	Dimensiunea interfeței
+Mise à l'échelle	Scalare
+Contraste élevé	Contrast ridicat
+Automatique	Automat
+Activé	Activat
+Focus clavier renforcé	Focalizare tastatură întărită
+Couleurs	Culori
+Palette de couleurs	Paletă de culori
+Turquoise	Turcoaz
+Bleu	Albastru
+Vert	Verde
+Orange foncé	Portocaliu închis
+Rose	Roz
+Personnalisée	Personalizat
+Couleur d'accent personnalisée	Culoare de accent personalizată
+Code couleur	Cod culoare
+Rouge	Roșu
+Exemple	Exemplu
+Contraste du texte sur l'accent	Contrastul textului pe accent
+Conforme	Conform
+Insuffisant, minimum	Insuficient, minim
+Couleur non appliquée : le contraste est trop faible.	Culoarea nu a fost aplicată: contrastul este prea mic.
+Couleur conforme la plus proche :	Cea mai apropiată culoare conformă:
+Utiliser cette couleur	Folosește această culoare
+Rétablir les couleurs par défaut	Restabilește culorile implicite
+Mises à jour	Actualizări
+À jour	La zi
+Mise à jour disponible	Actualizare disponibilă
+Chemin personnalisé	Cale personalizată
+Version inconnue	Versiune necunoscută
+Installée :	Instalată:
+Disponible :	Disponibilă:
+Mise à jour en cours…	Se actualizează…
+Redémarrage nécessaire	Repornire necesară
+Impossible de vérifier les mises à jour :	Nu s-au putut verifica actualizările:
+Échec de la mise à jour, version précédente conservée :	Actualizarea a eșuat, versiunea anterioară a fost păstrată:
+Versions des composants non validées par l'éditeur.	Versiunile componentelor nu sunt validate de editor.
+Archive validée introuvable sur GitHub.	Arhiva validată nu a fost găsită pe GitHub.
+Adresse de téléchargement inattendue.	Adresă de descărcare neașteptată.
+Empreinte du fichier téléchargé incorrecte.	Amprenta fișierului descărcat nu corespunde.
+Téléchargement refusé par le serveur.	Serverul a refuzat descărcarea.
+Fichier reçu invalide (taille ou empreinte différente).	Fișierul primit nu este valid (dimensiunea sau suma de control nu se potrivesc).
+Serveur injoignable :	Server inaccesibil:
+Remplacement impossible :	Înlocuire eșuată:
+Relance impossible :	Repornire eșuată:
+Impossible de charger libmpv :	Nu s-a putut încărca libmpv:
+Fonction libmpv manquante :	Lipsește o funcție libmpv:
+Le lecteur n'a pas pu démarrer.	Playerul nu a putut porni.
+Initialisation du lecteur impossible :	Inițializarea playerului a eșuat:
+Rendu vidéo impossible :	Redarea video a eșuat:
+Option du lecteur refusée :	Playerul a refuzat opțiunea:
+Propriété du lecteur refusée :	Playerul a refuzat proprietatea:
+Commande du lecteur refusée :	Playerul a refuzat comanda:
+Se connecter	Conectează-te
+Autres langues	Alte limbi
+Personnaliser	Personalizează
+Améliorer le contraste	Îmbunătățește contrastul
+Replier le chat	Restrânge chatul
+Afficher le chat	Afișează chatul
+Qualité maximale proposée par la chaîne, sans réduction.	Cea mai înaltă calitate oferită de canal, fără reducere.
+Fenêtre PiP au format de la vidéo	Fereastră PiP în formatul videoclipului
+En mini-fenêtre PiP, la fenêtre prend le format du live pour supprimer les bandes noires.	În mini-fereastra PiP, fereastra preia raportul de aspect al transmisiunii pentru a elimina barele negre.
+spectateur	spectator
+Actualisation en cours	Se actualizează…
+Qualité	Calitate
+Redémarrer l'application	Repornește aplicația
+Passer	Omite
+Suivant	Înainte
+C'est parti	Să începem
+Chat avec émotes	Chat cu emote-uri
+Mini-lecteur et PiP	Mini-player și PiP
+Choisissez votre style	Alege-ți stilul
+Couleur d'accent	Culoare de accent
+Réglez la lecture	Configurează redarea
+Restez informé	Rămâi la curent
+Tout se règle aussi plus tard dans les Réglages.	Poți schimba totul mai târziu în Setări.
+Thème et couleur de l'application.	Tema și culoarea aplicației.
+Les réglages les plus utiles, en un coup d'œil.	Cele mai utile setări dintr-o privire.
+Ne ratez plus vos streamers préférés.	Nu mai pierde niciodată streamerii preferați.
+Ultra légère et optimisée, parfaite pour jouer en même temps.	Ultrausoară și optimizată, perfectă pentru a juca în același timp.
+Revoir le didacticiel	Revezi introducerea
+Le live démarre sans le son ; vous le réactivez quand vous voulez.	Transmisiunea pornește fără sunet; îl reactivezi când vrei.
+Agrandit ou réduit le texte des messages du chat.	Mărește sau micșorează textul mesajelor din chat.
+Affiche l'heure devant chaque message du chat.	Afișează ora înaintea fiecărui mesaj din chat.
+Place le chat à gauche de la vidéo au lieu de la droite.	Plasează chatul în stânga videoclipului în loc de dreapta.
+Favori	Favorit
+Aucun favori pour le moment. Cherchez une chaîne puis choisissez « Ajouter aux favoris ».	Niciun favorit încă. Caută un canal și alege „Adaugă la favorite”.
+Orange (par défaut)	Portocaliu (implicit)
+Retirer des favoris	Elimină din favorite
+Connexion en cours	Se conectează
+Audio du live uniquement	Doar sunetul transmisiunii live
+Lecteur au format de la vidéo	Player în formatul videoclipului
+Dans la fenêtre principale, l'image prend exactement le format du live (coins arrondis, sans bandes autour) et reste centrée.	În fereastra principală, imaginea ia exact formatul transmisiunii (colțuri rotunjite, fără benzi) și rămâne centrată.
+Taille et place d'origine	Dimensiunea și poziția inițiale
+Chaîne ouverte au démarrage	Canal deschis la pornire
+Démarrage et fenêtre	Pornire și fereastră
+Son live s'ouvre au lancement si elle est en direct. Sinon, l'accueil s'affiche normalement.	Transmisiunea sa se deschide la pornire dacă canalul este live. Altfel apare pagina principală ca de obicei.
+Nom de la chaîne	Numele canalului
+Au lancement, si cette chaîne est en direct, son live s'ouvre directement dans le lecteur. Hors ligne ou introuvable, l'accueil s'affiche normalement.	Dacă canalul este live la pornire, transmisiunea se deschide direct în player. Offline sau negăsit: pagina principală obișnuită.
+Enregistrée	Salvat
+En attente de messages…	Se așteaptă mesaje…
+Confirmer la déconnexion	Confirmă deconectarea
+Affiche d'abord les lives qui ont le plus de spectateurs.	Afișează mai întâi live-urile cu cei mai mulți spectatori.
+Affiche d'abord les lives qui ont le moins de spectateurs.	Afișează mai întâi live-urile cu cei mai puțini spectatori.
+Éclaircit ou assombrit la couleur choisie pour que le texte reste lisible.	Luminează sau întunecă culoarea aleasă pentru ca textul să rămână lizibil.
+Spectateurs : décroissant	Spectatori: descrescător
+Spectateurs : croissant	Spectatori: crescător
+5 s	5 s
+10 s	10 s
+Pour charger vos chaînes suivies, déconnectez-vous puis reconnectez-vous.	Pentru a încărca canalele urmărite, deconectează-te și conectează-te din nou.
+Reconnectez-vous dans Réglages pour afficher vos chaînes suivies sur Twitch.	Conectează-te din nou în Setări pentru a afișa canalele urmărite pe Twitch.
+Une page Twitch s'est ouverte. Vérifiez ce code, puis cliquez sur « Autoriser » :	S-a deschis o pagină Twitch. Verifică acest cod, apoi apasă pe „Autorizează”:
+Utilisée en ce moment : redémarrez l'application pour la mettre à jour.	Folosită chiar acum: repornește aplicația pentru a o actualiza.
+Réinitialiser remet les réglages, les favoris et l'historique à zéro. Les outils restent installés.	Resetarea readuce setările, favoritele și istoricul la zero. Instrumentele rămân instalate.
+Désinstaller supprime les outils, les réglages, l'historique et le cache, puis ferme l'application.	Dezinstalarea șterge instrumentele, setările, istoricul și memoria cache, apoi închide aplicația.
+Tout remettre à zéro ? Réglages, favoris et historique seront perdus.	Resetezi totul? Setările, favoritele și istoricul vor fi pierdute.
+Tout supprimer ? Outils, réglages, historique et cache seront effacés définitivement.	Ștergi totul? Instrumentele, setările, istoricul și memoria cache vor fi șterse definitiv.
+Ce jeton n'a pas le droit d'écrire dans le chat (chat:edit).	Acest token nu are voie să scrie în chat (chat:edit).
+Ils sont installés dans votre dossier utilisateur, sans droits administrateur.	Se instalează în folderul tău de utilizator, fără drepturi de administrator.
+libmpv est introuvable. Réinstallez les outils depuis les réglages.	libmpv nu a fost găsit. Reinstalează instrumentele din setări.
+Streamlink est introuvable. Réinstallez les outils depuis les réglages.	Streamlink nu a fost găsit. Reinstalează instrumentele din setări.
+Afficher le menu	Afișează meniul
+Masquer le menu	Ascunde meniul
+Chat réservé aux followers	Chat doar pentru urmăritori
+Échec de la connexion.	Conectarea a eșuat.
+Connexion annulée	Conectare anulată
+Rapport de la dernière fermeture inattendue, sans donnée personnelle. Rien n'est envoyé automatiquement.	Raportul ultimei închideri neașteptate, fără date personale. Nimic nu este trimis automat.
+Copier le rapport de plantage	Copiază raportul de eroare
+Rapport copié.	Raport copiat.
+Copier le diagnostic	Copiază diagnosticul
+Diagnostic copié.	Diagnostic copiat.
+Complet	Complete
+Réduit	Reduse
+État et version de Streamlink et de libmpv, mise à jour, et chemins personnalisés (facultatifs) vers streamlink.exe et libmpv-2.dll.	Starea și versiunea Streamlink și libmpv, actualizare și căi personalizate opționale către streamlink.exe și libmpv-2.dll.
+Ouvre le dossier du journal, copie le diagnostic (version, Windows, carte graphique, composants) ou le rapport de plantage local pour le support. Rien n'est envoyé automatiquement.	Deschide folderul jurnalului și copiază diagnosticul (versiune, Windows, placă video, componente) sau raportul local de blocare pentru asistență. Nimic nu este trimis automat.
+À propos	Despre
+Version de l'application	Versiunea aplicației
+Décodage vidéo matériel (GPU)	Decodare video hardware (GPU)
+Utile si la vidéo saccade ou si le processeur chauffe. « Automatique » : réglage d'origine de l'application. « Activé » : la carte graphique décode la vidéo, avec retour automatique au décodage normal si elle n'y arrive pas. « Désactivé » : décodage normal par le processeur. Le changement s'applique tout de suite : le live en cours est relancé.	Ajută dacă videoclipul se blochează sau procesorul se încălzește. „Automat”: setarea inițială a aplicației. „Activat”: placa video decodează videoclipul, cu revenire automată la decodarea normală dacă nu reușește. „Dezactivat”: decodare normală de către procesor. Modificarea se aplică imediat: live-ul în curs este repornit.
+Périphérique de sortie	Dispozitiv de ieșire
+Périphérique par défaut du système	Dispozitivul implicit al sistemului
+Choisit le casque ou les enceintes pour le son des lives, sans changer le son de Windows. « Périphérique par défaut du système » suit le choix de Windows. Le changement s'applique tout de suite. Si le périphérique choisi disparaît (casque débranché), l'application revient au choix par défaut.	Alege căștile sau difuzoarele pentru sunetul live-urilor, fără a schimba sunetul din Windows. „Dispozitivul implicit al sistemului” urmează alegerea din Windows. Modificarea se aplică imediat. Dacă dispozitivul ales dispare (căști deconectate), aplicația revine la alegerea implicită.
+Le périphérique audio choisi n'est plus disponible : retour au périphérique par défaut.	Dispozitivul audio ales nu mai este disponibil: revenire la dispozitivul implicit.
+Captures d'écran	Capturi de ecran
+Dossier d'enregistrement	Dosar de salvare
+Parcourir…	Răsfoiește…
+Ouvrir le dossier	Deschide dosarul
+Dossier où la touche S enregistre les captures d'écran. Par défaut : le dossier « Velka » de vos Images. Le dossier choisi doit accepter l'écriture ; s'il disparaît (disque débranché, dossier supprimé), l'application revient au dossier par défaut. Le changement s'applique à la prochaine capture.	Dosarul în care tasta S salvează capturile de ecran. Implicit: dosarul „Velka” din Imagini. Dosarul ales trebuie să permită scrierea; dacă dispare (unitate deconectată, dosar șters), aplicația revine la dosarul implicit. Modificarea se aplică la următoarea captură.
+Le dossier des captures n'est plus disponible : retour au dossier par défaut.	Dosarul capturilor nu mai este disponibil: revenire la dosarul implicit.
+Ce dossier n'accepte pas l'écriture : choisissez-en un autre.	Acest dosar nu permite scrierea: alegeți altul.
+Aucun	Niciuna
+Effacer un raccourci	Șterge comanda rapidă
+Réduire dans la zone de notification à la fermeture	Minimizează în zona de notificare la închidere
+L'application reste active en fond pour les notifications	Aplicația rămâne activă în fundal pentru notificări
+La croix de fermeture cache la fenêtre dans la zone de notification (près de l'horloge) au lieu de quitter ; le live en cours est arrêté. Clic gauche sur l'icône : rouvrir. Clic droit : Ouvrir ou Quitter. Pour être prévenu quand un favori passe en direct, activez aussi « Notifications Windows ».	Butonul de închidere ascunde fereastra în zona de notificare (lângă ceas) în loc să iasă din aplicație; transmisiunea în curs este oprită. Clic stânga pe pictogramă: redeschidere. Clic dreapta: Deschide sau Ieșire. Activează și „Notificări Windows” pentru a fi anunțat când un favorit intră live.
+Ouvrir Velka	Deschide Velka
+Quitter	Ieșire
+Velka reste actif dans la zone de notification. Clic droit sur l'icône pour quitter.	Velka rămâne activ în zona de notificare. Clic dreapta pe pictogramă pentru a ieși.
+Rechercher des mises à jour	Caută actualizări
+Vous utilisez la dernière version.	Folosești cea mai recentă versiune.
+Mise à jour {version} disponible	Actualizarea {version} este disponibilă
+Impossible de se connecter. Vérifiez votre connexion internet.	Nu m-am putut conecta. Verifică conexiunea la internet.
+La recherche de mise à jour a échoué.	Căutarea actualizării a eșuat.
+Historique des chaînes	Istoricul canalelor
+Effacer l'historique	Șterge istoricul
+Historique effacé.	Istoric șters.
+Ouvrir le dossier de configuration	Deschide folderul de setări
+Options du lecteur	Opțiunile playerului
+Perso	Altul
+Durée personnalisée	Durată personalizată
+Ajuster uniquement la taille du texte du chat	Ajustează doar dimensiunea textului din chat
+Ajuster la taille globale de l'interface	Ajustează dimensiunea generală a interfeței
+Connectez-vous à Twitch pour activer	Conectează-te la Twitch pentru a activa
+Pas de connexion Internet.	Nu există conexiune la internet.
+La connexion Internet s'est coupée.	Conexiunea la internet s-a întrerupt.
+Licences des composants	Licențele componentelor
+Le lecteur vidéo utilise libmpv (mpv) et FFmpeg, sous licence LGPL version 2.1 ou ultérieure. Vous pouvez remplacer libmpv par votre propre version dans {section}.	Playerul video folosește libmpv (mpv) și FFmpeg, sub licența LGPL versiunea 2.1 sau o versiune ulterioară. Puteți înlocui libmpv cu propria versiune în {section}.
+Code source et compilation	Cod sursă și scripturi de compilare
+Velka n'a pas pu ouvrir sa fenêtre : la carte graphique ou son pilote ne prend pas en charge OpenGL 3.0. Mettez à jour le pilote de la carte graphique, puis relancez Velka. Sur un bureau à distance ou une machine virtuelle, l'affichage peut ne pas être pris en charge.	Velka nu și-a putut deschide fereastra: placa grafică sau driverul ei nu acceptă OpenGL 3.0. Actualizați driverul plăcii grafice, apoi reporniți Velka. Pe un desktop la distanță sau pe o mașină virtuală, afișarea poate să nu fie acceptată.
+La carte graphique n'annonce pas OpenGL 3.0 : la vidéo peut rester noire. Mettez à jour le pilote de la carte graphique. Sur un bureau à distance ou une machine virtuelle, l'affichage peut ne pas être pris en charge.	Placa grafică nu raportează OpenGL 3.0: videoclipul poate rămâne negru. Actualizați driverul plăcii grafice. Pe un desktop la distanță sau pe o mașină virtuală, afișarea poate să nu fie acceptată.
+Démarrer avec macOS	Pornește odată cu macOS
+Démarrer avec Linux	Pornește odată cu Linux
+Lance Velka automatiquement quand vous ouvrez votre session macOS.	Pornește Velka automat când te conectezi la macOS.
+Lance Velka automatiquement quand vous ouvrez votre session Linux.	Pornește Velka automat când te conectezi la Linux.
+Notifications macOS	Notificări macOS
+Notifications Linux	Notificări Linux
+Affiche une notification macOS quand l'un de vos favoris passe en direct. L'application doit rester ouverte (elle peut être réduite).	Afișează o notificare macOS când unul dintre favoritele tale intră în direct. Aplicația trebuie să rămână deschisă (poate fi minimizată).
+Affiche une notification Linux quand l'un de vos favoris passe en direct. L'application doit rester ouverte (elle peut être réduite).	Afișează o notificare Linux când unul dintre favoritele tale intră în direct. Aplicația trebuie să rămână deschisă (poate fi minimizată).
+Multistream	Multistream
+Regardez jusqu'à 4 lives en même temps.	Urmărește până la 4 transmisiuni live în același timp.
+Ajouter une chaîne	Adaugă un canal
+Ajouter	Adaugă
+Tout arrêter	Oprește tot
+Cette chaîne est déjà affichée.	Acest canal este deja afișat.
+4 lives au maximum.	Cel mult 4 transmisiuni live.
+Ajoutez une chaîne pour commencer.	Adaugă un canal pentru a începe.
+Retirer ce live	Elimină această transmisiune
+Écouter ce live	Ascultă această transmisiune
+Cumuler le son des lives en Multistream	Combină sunetul transmisiunilor în Multistream
+Un clic sur un live ajoute son son au lieu de le remplacer	Un clic pe o transmisiune îi adaugă sunetul în loc să-l înlocuiască
+Sur la page Multistream, un clic sur un live fait entendre son son en plus de ceux déjà écoutés, jusqu'aux quatre lives. Le bouton du son de chaque live le coupe.	Pe pagina Multistream, un clic pe o transmisiune îi pornește sunetul pe lângă cele deja ascultate, până la toate cele patru transmisiuni. Butonul de sunet al fiecărei transmisiuni o face silențioasă.
+Couper tous les sons	Oprește tot sunetul
+Lecteur Twitch léger avec multistream, chat et notifications.	Player Twitch ușor, cu multistream, chat și notificări.
+Quelques composants sont nécessaires pour lire les lives Twitch.	Sunt necesare câteva componente pentru a reda transmisiunile Twitch.
+Logiciel libre sous licence GPL-3.0 ou ultérieure.	Software liber sub licența GPL-3.0 sau ulterioară.
+Application non affiliée à Twitch.	Aplicație neafiliată cu Twitch.
+Code source sur GitHub	Cod sursă pe GitHub
+Soutenir le projet	Susține proiectul
+La connexion Twitch n'a pas pu être enregistrée de façon sécurisée (trousseau du système indisponible) : elle sera perdue à la fermeture de Velka.	Conectarea la Twitch nu a putut fi salvată în siguranță (portcheiul sistemului nu este disponibil): se va pierde la închiderea Velka.
+Velka est gratuit et le restera. Si l'application vous plaît, un petit don aide à la faire vivre.	Velka este gratuit și va rămâne așa. Dacă îți place aplicația, o mică donație ajută la menținerea ei.
+Plus tard	Mai târziu
+Rappel pour soutenir le projet	Memento pentru susținerea proiectului
+Affiche de temps en temps sur l'accueil, au plus une fois par mois, un message avec un lien pour soutenir le projet.	Afișează din când în când pe pagina principală, cel mult o dată pe lună, un mesaj cu un link pentru susținerea proiectului.

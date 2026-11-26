@@ -1,0 +1,535 @@
+Aide	Bantuan
+Réduire	Perkecil
+Agrandir	Perbesar
+Restaurer	Pulihkan
+Fermer	Tutup
+Échap	Esc
+Français	Prancis
+Anglais	Inggris
+Espagnol	Spanyol
+Portugais	Portugis
+Allemand	Jerman
+Italien	Italia
+Néerlandais	Belanda
+Polonais	Polandia
+Russe	Rusia
+Ukrainien	Ukraina
+Turc	Turki
+Vietnamien	Vietnam
+Indonésien	Indonesia
+Chinois simplifié	Mandarin Sederhana
+Chinois traditionnel	Mandarin Tradisional
+Japonais	Jepang
+Coréen	Korea
+Tchèque	Ceko
+Roumain	Rumania
+Hongrois	Hungaria
+Suédois	Swedia
+Danois	Denmark
+Norvégien	Norwegia
+Finnois	Finlandia
+Grec	Yunani
+Annuler	Batal
+spectateurs	penonton
+Hors ligne	Offline
+Cette chaîne n'existe pas.	Kanal ini tidak ada.
+Statut indisponible, vous pouvez quand même essayer.	Status tidak tersedia, Anda tetap bisa mencoba.
+Accueil	Beranda
+En direct	Siaran langsung
+chaînes	kanal
+Favoris	Favorit
+Spectateurs	Penonton
+au total	total
+Résultat	Hasil
+Vérification…	Memeriksa…
+Regarder	Tonton
+Nom de chaîne invalide.	Nama kanal tidak valid.
+En direct parmi vos favoris	Sedang live dari favorit Anda
+Aucun favori en direct pour le moment.	Belum ada favorit yang sedang live.
+Récents	Terbaru
+Retirer de l'historique	Hapus dari riwayat
+Rechercher	Cari
+Plateforme	Platform
+Réglages	Pengaturan
+Quitter le PiP	Keluar dari PiP
+Reprise dans un instant…	Segera dilanjutkan…
+Retour	Kembali
+Arrêter	Hentikan
+Quitter le plein écran	Keluar dari layar penuh
+Plein écran	Layar penuh
+Lecture	Putar
+Réactiver le son	Bunyikan
+Couper le son	Bisukan
+Chat	Obrolan
+Changement de qualité…	Mengganti kualitas…
+Réessayer	Coba lagi
+depuis	sejak
+connexion…	menghubungkan…
+changement de qualité…	mengganti kualitas…
+interrompu	terputus
+Lecture vidéo	Pemutaran video
+Qualité par défaut	Kualitas bawaan
+Faible latence	Latensi rendah
+Désactiver pour un flux plus stable	Matikan agar siaran lebih stabil
+Réduire la barre latérale	Ciutkan bilah samping
+Agrandir la barre latérale	Bentangkan bilah samping
+Chat à gauche de la vidéo	Obrolan di kiri video
+Toujours au premier plan	Selalu di atas
+Chat en surimpression en plein écran	Obrolan di atas video saat layar penuh
+Apparence	Tampilan
+Général	Umum
+Thème	Tema
+Langue	Bahasa
+Sombre	Batu tulis
+Dark	Gelap
+Clair	Terang
+Compte Twitch	Akun Twitch
+Connecté en tant que	Masuk sebagai
+Vous pouvez écrire dans le chat.	Anda bisa menulis di obrolan.
+chaînes suivies sur Twitch chargées.	kanal Twitch yang diikuti dimuat.
+Impossible de charger vos chaînes suivies pour le moment.	Kanal yang Anda ikuti belum bisa dimuat saat ini.
+Chargement de vos chaînes suivies…	Memuat kanal yang Anda ikuti…
+En direct parmi vos chaînes suivies sur Twitch	Sedang live dari kanal Twitch yang Anda ikuti
+Suivies sur Twitch	Diikuti di Twitch
+Prévient quand un favori passe en direct	Memberi tahu saat favorit mulai live
+Activé : vos favoris sont vérifiés toutes les minutes en arrière-plan, même pendant un live. Cela utilise un peu plus d'internet et de mémoire.	Aktif: favorit Anda diperiksa setiap menit di latar belakang, bahkan saat menonton. Ini memakai sedikit lebih banyak internet dan memori.
+Chaînes dans la barre latérale	Kanal di bilah samping
+Chaînes sur l'accueil	Kanal di beranda
+Qualité utilisée à l'ouverture d'un live. « Source » est la qualité maximale de la chaîne ; « Audio » ne joue que le son.	Kualitas yang dipakai saat membuka siaran. "Source" adalah kualitas tertinggi kanal; "Audio" hanya memutar suara.
+Réduit le retard entre le streamer et vous. Désactivez-le si la vidéo saccade ou se coupe.	Mengurangi jeda dari streamer. Matikan jika video tersendat atau terputus.
+Garde la fenêtre devant toutes les autres applications.	Menjaga jendela tetap di depan semua aplikasi lain.
+Affiche le chat par-dessus la vidéo quand vous êtes en plein écran.	Menampilkan obrolan di atas video saat layar penuh.
+Faire rouler la molette au-dessus de la vidéo monte ou baisse le volume.	Memutar roda mouse di atas video menaikkan atau menurunkan volume.
+Un clic sur la vidéo met en pause ou relance la lecture.	Klik pada video menjeda atau melanjutkan pemutaran.
+Garde un niveau sonore régulier (normalisation du son) : relève les passages faibles et atténue les passages forts, d'une chaîne à l'autre et au sein d'un même live.	Menjaga tingkat suara tetap rata (normalisasi suara): menaikkan bagian pelan dan meredam bagian keras, antar saluran maupun dalam satu siaran.
+Vitesse de la molette dans les listes et dans le chat. À 1,0 ×, un cran de molette fait défiler 3 lignes de 75 px, de façon fluide.	Kecepatan roda mouse di daftar dan di obrolan. Pada 1,0 ×, satu putaran roda menggulir 3 baris 75 px dengan mulus.
+À chaque lancement, l'application démarre avec le volume choisi ci-dessous, au lieu du dernier volume réglé.	Setiap kali dibuka, aplikasi memakai volume yang dipilih di bawah, bukan volume terakhir.
+100 % = volume normal. 130 % permet d'amplifier une chaîne trop silencieuse, mais le son peut saturer.	100 % = volume normal. 130 % menguatkan kanal yang terlalu pelan, tetapi suara bisa pecah.
+Temps sans bouger la souris avant que les boutons posés sur la vidéo disparaissent.	Waktu tanpa menggerakkan mouse sebelum tombol di atas video menghilang.
+Quand vous quittez la page d'un live avec « Retour », il continue dans une petite fenêtre en bas à droite. Désactivé : il s'arrête.	Saat Anda meninggalkan halaman siaran dengan "Kembali", siaran berlanjut di jendela kecil di kanan bawah. Nonaktif: siaran berhenti.
+Fréquence à laquelle l'accueil vérifie quelles chaînes sont en direct. Plus c'est rapide, plus cela utilise internet. « Manuelle » : seulement avec le bouton Actualiser.	Seberapa sering beranda memeriksa kanal yang sedang live. Makin cepat, makin banyak internet yang dipakai. "Manual": hanya dengan tombol Segarkan.
+Télécharge une image du direct pour chaque carte. Désactivez pour économiser des données.	Mengunduh gambar siaran untuk setiap kartu. Matikan untuk menghemat data.
+Les chaînes que vous suivez sur votre compte Twitch (il faut être connecté dans la carte « Compte Twitch »).	Kanal yang Anda ikuti di akun Twitch (Anda harus masuk di kartu "Akun Twitch").
+Nombre maximum de chaînes Twitch en direct listées dans la barre de gauche (ce n'est pas un délai).	Jumlah maksimum kanal Twitch yang live di bilah kiri (bukan waktu).
+Nombre maximum de chaînes Twitch en direct affichées sur la page d'accueil (ce n'est pas un délai).	Jumlah maksimum kanal Twitch yang live di beranda (bukan waktu).
+Garde le jeu sélectionné dans la barre « Jeux en direct » au prochain lancement.	Menyimpan game yang dipilih di bilah "Game yang sedang live" untuk pembukaan berikutnya.
+Ouvrir : le live s'affiche en grand. PiP : il s'ouvre directement dans une petite fenêtre flottante.	Buka: siaran tampil besar. PiP: langsung terbuka di jendela kecil yang mengambang.
+Les messages qui contiennent un de ces mots (séparés par des virgules) sont surlignés en jaune dans le chat.	Pesan yang berisi salah satu kata ini (dipisahkan koma) disorot kuning di obrolan.
+Quand une chaîne est hors ligne ou que son live se termine, propose d'autres lives : vos chaînes suivies du même jeu d'abord.	Saat kanal offline atau siarannya berakhir, menyarankan siaran lain: kanal yang Anda ikuti dengan game yang sama lebih dulu.
+Nombre de chaînes proposées quand un live est hors ligne ou terminé.	Jumlah kanal yang disarankan saat siaran offline atau sudah berakhir.
+Les boutons latéraux de la souris changent de page, comme dans un navigateur. Alt + flèche gauche ou droite fait pareil.	Tombol samping mouse berpindah halaman, seperti di peramban. Alt + panah kiri atau kanan juga bisa.
+Le pointeur devient une main au-dessus des boutons et des cartes.	Penunjuk berubah menjadi tangan di atas tombol dan kartu.
+Complet : fondus, glissements, cascades et compteurs animés. Réduit : fondus et changements de couleur seulement, sans déplacement. Désactivé : aucune animation (utile sur un ordinateur lent). Le réglage d'animations de Windows n'est pas pris en compte.	Penuh: transisi pudar, gerakan geser, kemunculan bertahap, dan penghitung beranimasi. Dikurangi: hanya transisi pudar dan perubahan warna, tanpa gerakan. Nonaktif: tanpa animasi (berguna di komputer yang lambat). Pengaturan animasi Windows tidak diperhitungkan.
+Affiche une notification Windows quand l'un de vos favoris passe en direct. L'application doit rester ouverte (elle peut être réduite).	Menampilkan notifikasi Windows saat salah satu favorit Anda mulai live. Aplikasi harus tetap terbuka (boleh diperkecil).
+Lance Velka automatiquement quand vous ouvrez votre session Windows.	Membuka Velka otomatis saat Anda masuk ke Windows.
+Photos de profil et émotes déjà téléchargées. Les vider libère de la place ; elles se retéléchargent au besoin.	Foto profil dan emote yang sudah diunduh. Mengosongkannya membebaskan ruang; akan diunduh lagi bila perlu.
+Notifications Windows	Notifikasi Windows
+Prévient quand un favori passe en direct. Vérifie vos favoris toutes les minutes, même pendant un live : utilise un peu plus d'internet et de mémoire.	Memberi tahu saat favorit mulai live. Memeriksa favorit Anda setiap menit, bahkan saat menonton: memakai sedikit lebih banyak internet dan memori.
+Envoyer une notification de test	Kirim notifikasi uji
+est en direct	sedang live
+Notification de test : tout fonctionne.	Notifikasi uji: semuanya berfungsi.
+Volume et lecteur	Volume dan pemutar
+Démarrer en muet	Mulai tanpa suara
+Volume fixe au lancement	Volume tetap saat dibuka
+Sinon : le dernier volume utilisé	Jika tidak: volume terakhir yang dipakai
+Volume au lancement	Volume saat dibuka
+Volume maximum	Volume maksimum
+Masquage des contrôles	Sembunyikan kontrol setelah
+Jamais	Tidak pernah
+Capture d'écran	Tangkapan layar
+Infos techniques	Info teknis
+Capture enregistrée :	Tangkapan layar disimpan:
+Capture impossible.	Tangkapan layar gagal.
+Minuteur de veille	Pengatur waktu tidur
+Désactivé	Nonaktif
+Arrêt du live dans	Siaran berhenti dalam
+logiciel	perangkat lunak
+Résolution	Resolusi
+Images par seconde	Bingkai per detik
+Débit vidéo	Bitrate video
+Débit audio	Bitrate audio
+Images perdues	Bingkai hilang
+Images perdues au décodage	Bingkai hilang saat dekode
+Mémoire tampon	Buffer
+Format vidéo	Format video
+Décodage	Dekode
+Arrête le live automatiquement après la durée choisie, à partir du moment où vous changez ce réglage. Une minute avant, un compte à rebours s'affiche sur la vidéo. Le minuteur revient sur Désactivé à chaque nouveau live et à chaque lancement de l'application.	Menghentikan siaran langsung secara otomatis setelah durasi yang dipilih, dihitung sejak Anda mengubah pengaturan ini. Satu menit sebelumnya, hitung mundur muncul di atas video. Pengatur waktu kembali ke Nonaktif pada setiap siaran baru dan setiap kali aplikasi dijalankan.
+Émotes 7TV, BTTV et FFZ	Emote 7TV, BTTV, dan FFZ
+Émotes animées	Emote animasi
+Badges du chat	Lencana obrolan
+Affiche les émotes des extensions 7TV, BetterTTV et FrankerFaceZ (globales et propres à la chaîne). Elles sont chargées à l'ouverture du live.	Menampilkan emote dari ekstensi 7TV, BetterTTV, dan FrankerFaceZ (global dan khusus kanal). Dimuat saat siaran dibuka.
+Anime les émotes qui le sont (Twitch et extensions). Utilise un peu plus le processeur quand le chat en affiche.	Menganimasikan emote yang beranimasi (Twitch dan ekstensi). Memakai prosesor sedikit lebih banyak saat obrolan menampilkannya.
+Affiche les badges (abonné, modérateur, VIP…) devant les pseudos.	Menampilkan lencana (pelanggan, moderator, VIP…) di depan nama.
+Netteté de l'image	Ketajaman gambar
+Agrandissement de haute qualité	Pembesaran berkualitas tinggi
+Désactivée	Nonaktif
+Légère	Ringan
+Moyenne	Sedang
+Forte	Kuat
+Image plus fine en 480p et 720p	Gambar lebih halus di 480p dan 720p
+Renforce les contours de l'image (calculé par la carte graphique). Utile sur un flux flou ; trop fort, l'image paraît granuleuse.	Mempertegas tepi gambar (dihitung oleh kartu grafis). Berguna untuk siaran yang buram; terlalu kuat, gambar tampak berbintik.
+Utilise un filtre d'agrandissement plus fin quand la vidéo est plus petite que la fenêtre (480p, 720p). Demande davantage à la carte graphique.	Memakai filter pembesaran yang lebih halus saat video lebih kecil dari jendela (480p, 720p). Lebih membebani kartu grafis.
+Compte	Akun
+Qualité et flux	Kualitas dan aliran
+Audio	Suara
+Lecteur et comportement	Pemutar dan perilaku
+Affichage et lisibilité	Tampilan dan keterbacaan
+Filtrage et alertes	Penyaringan dan pemberitahuan
+Notifications	Notifikasi
+Avancé et Système	Lanjutan dan sistem
+Stockage et configuration	Penyimpanan dan konfigurasi
+Émotes et badges	Emote dan lencana
+Les changements s'appliquent tout de suite.	Perubahan langsung diterapkan.
+2,5 s	2,5 dtk
+Mo	MB
+Ko	KB
+Rechercher un réglage	Cari pengaturan
+Résultats de la recherche	Hasil pencarian
+Aucun réglage trouvé.	Tidak ada pengaturan yang ditemukan.
+Mini-lecteur	Pemutar mini
+Garder le live dans un coin quand on quitte la page	Tetap tampilkan siaran di pojok saat meninggalkan halaman
+Accueil et barre latérale	Beranda dan bilah samping
+Actualisation	Penyegaran
+Manuelle	Manual
+Actualiser	Segarkan
+Aperçus des lives	Pratinjau siaran
+Images du direct sur les cartes	Gambar siaran di kartu
+Chaînes suivies sur Twitch	Kanal Twitch yang diikuti
+Dans la barre latérale, sur l'accueil et dans les recommandations	Di bilah samping, di beranda, dan di rekomendasi
+Dans la barre latérale	Di bilah samping
+Sur l'accueil	Di beranda
+Se souvenir du jeu choisi	Ingat game yang dipilih
+Clic sur une carte	Klik pada kartu
+Ouvrir	Buka
+Taille du texte	Ukuran teks
+Masquer les bots	Sembunyikan bot
+Horodatage des messages	Waktu pesan
+Mots surlignés	Kata yang disorot
+mot, pseudo… (séparés par des virgules)	kata, nama… (dipisahkan koma)
+Recommandations	Rekomendasi
+Recommandations de chaînes	Rekomendasi kanal
+Proposer des chaînes quand un live est hors ligne ou terminé	Sarankan kanal saat siaran offline atau sudah berakhir
+Nombre de recommandations	Jumlah rekomendasi
+Mouvement et lisibilité	Gerakan dan keterbacaan
+Navigation et souris	Navigasi dan mouse
+Vérification des mises à jour	Pemeriksaan pembaruan
+Nouvelle version disponible :	Versi baru tersedia:
+Mettre à jour	Perbarui
+Téléchargement de la mise à jour…	Mengunduh pembaruan…
+Mise à jour impossible :	Pembaruan gagal:
+Boutons Précédent / Suivant de la souris	Tombol Kembali / Maju pada mouse
+Main sur les éléments cliquables	Tangan di atas elemen yang bisa diklik
+Animations	Animasi
+Raccourcis clavier	Pintasan keyboard
+Appuyez sur une touche…	Tekan sebuah tombol…
+Rétablir les raccourcis	Atur ulang pintasan
+Raccourcis non modifiables	Pintasan tetap
+Quitter le plein écran, le PiP ou le live	Keluar dari layar penuh, PiP, atau siaran langsung
+Rechercher une chaîne	Cari saluran
+Zoom de l'interface	Zoom antarmuka
+Page précédente / suivante	Halaman sebelumnya / berikutnya
+Pause / lecture	Jeda / putar
+Volume +	Volume +
+Volume -	Volume -
+Afficher / masquer le chat	Tampilkan / sembunyikan obrolan
+Image dans l'image	Gambar dalam gambar
+Système	Sistem
+Démarrer avec Windows	Mulai bersama Windows
+Ouvre l'application à l'ouverture de session	Membuka aplikasi saat Anda masuk
+Cache des images	Cache gambar
+Vider	Kosongkan
+Espace	Spasi
+Flèche haut	Panah atas
+Flèche bas	Panah bawah
+Flèche gauche	Panah kiri
+Flèche droite	Panah kanan
+Entrée	Enter
+Jeux en direct	Game yang sedang live
+Aucun live pour ce jeu en ce moment.	Tidak ada siaran untuk game ini sekarang.
+Chaînes recommandées	Kanal yang direkomendasikan
+Ajouter aux favoris	Tambahkan ke favorit
+Se déconnecter	Keluar
+En attente de votre accord sur Twitch…	Menunggu persetujuan Anda di Twitch…
+Rouvrir la page Twitch	Buka lagi halaman Twitch
+Connexion à Twitch…	Menghubungkan ke Twitch…
+Connectez-vous pour écrire dans le chat.	Masuk untuk menulis di obrolan.
+Se connecter avec Twitch	Masuk dengan Twitch
+La connexion Twitch n'est pas disponible dans cette version.	Masuk dengan Twitch tidak tersedia di versi ini.
+Connexion refusée sur Twitch.	Twitch menolak proses masuk.
+Le code a expiré, recommencez.	Kode sudah kedaluwarsa, ulangi lagi.
+Twitch a refusé la connexion.	Twitch menolak proses masuk.
+Impossible de joindre Twitch. Vérifiez votre connexion.	Twitch tidak dapat dijangkau. Periksa koneksi Anda.
+Twitch a refusé la demande de connexion.	Twitch menolak permintaan masuk.
+Composants externes	Komponen eksternal
+Non installé	Belum terpasang
+Prêt	Siap
+Installer	Pasang
+Chemins personnalisés (facultatif)	Jalur khusus (opsional)
+Journaux et diagnostic	Log dan diagnostik
+Volume	Volume
+Molette de la souris sur la vidéo = volume	Roda mouse di atas video = volume
+Clic sur la vidéo = pause	Klik pada video = jeda
+Volume stable	Volume stabil
+Limite les écarts de volume entre les chaînes	Mengurangi selisih volume antar saluran
+Vitesse de défilement	Kecepatan gulir
+Résultats	Hasil
+Zone de réinitialisation	Zona pengaturan ulang
+Réinitialiser	Atur ulang
+Désinstaller	Copot pemasangan
+Oui, réinitialiser	Ya, atur ulang
+Oui, désinstaller	Ya, copot pemasangan
+Ouvrir le dossier du journal	Buka folder log
+Connexion au chat…	Menghubungkan ke obrolan…
+Chat connecté	Obrolan terhubung
+Reconnexion du chat	Menghubungkan ulang obrolan
+Envoyer un message	Kirim pesan
+Jeton requis pour écrire (Réglages)	Perlu token untuk menulis (Pengaturan)
+Revenir en bas	Kembali ke bawah
+Réponse de Twitch inattendue pour ce jeton.	Respons Twitch tidak terduga untuk token ini.
+Jeton refusé par Twitch (expiré ou invalide).	Token ditolak oleh Twitch (kedaluwarsa atau tidak valid).
+Connexion refusée avec ce jeton.	Koneksi ditolak dengan token ini.
+Bienvenue dans Velka	Selamat datang di Velka
+Tout installer	Pasang semua
+Installation en cours…	Memasang…
+La chaîne est hors ligne.	Kanal sedang offline.
+Pas de connexion à Twitch. Vérifiez votre réseau.	Tidak ada koneksi ke Twitch. Periksa jaringan Anda.
+Le flux met trop de temps à démarrer.	Siaran terlalu lama untuk dimulai.
+Le flux s'est interrompu :	Siaran terputus:
+arrêt inattendu	berhenti tak terduga
+Impossible de lancer Streamlink :	Streamlink tidak dapat dijalankan:
+Préparation…	Menyiapkan…
+Le rendu OpenGL n'est pas disponible.	Rendering OpenGL tidak tersedia.
+Aucun port local disponible.	Tidak ada port lokal yang tersedia.
+Impossible de joindre GitHub :	GitHub tidak dapat dijangkau:
+Réponse GitHub illisible :	Respons GitHub tidak terbaca:
+Aucune archive compatible dans la dernière version.	Tidak ada arsip yang cocok di versi terbaru.
+Téléchargement impossible :	Unduhan gagal:
+Écriture impossible :	Penulisan gagal:
+Téléchargement interrompu :	Unduhan terputus:
+Le fichier téléchargé est vide.	Berkas yang diunduh kosong.
+Recherche de la dernière version…	Mencari versi terbaru…
+Dossier inaccessible :	Folder tidak dapat diakses:
+Téléchargement…	Mengunduh…
+Extraction…	Mengekstrak…
+Extraction impossible :	Ekstraksi gagal:
+Archive invalide :	Arsip tidak valid:
+streamlink.exe introuvable dans l'archive.	streamlink.exe tidak ditemukan di arsip.
+Structure d'archive inattendue.	Struktur arsip tidak terduga.
+libmpv-2.dll introuvable dans l'archive.	libmpv-2.dll tidak ditemukan di arsip.
+Installation impossible :	Pemasangan gagal:
+Fichier installé introuvable ou vide.	Berkas yang dipasang tidak ada atau kosong.
+Installé	Terpasang
+Accessibilité	Aksesibilitas
+Taille de l'interface	Ukuran antarmuka
+Mise à l'échelle	Penskalaan
+Contraste élevé	Kontras tinggi
+Automatique	Otomatis
+Activé	Aktif
+Focus clavier renforcé	Fokus keyboard yang diperkuat
+Couleurs	Warna
+Palette de couleurs	Palet warna
+Turquoise	Toska
+Bleu	Biru
+Vert	Hijau
+Orange foncé	Oranye tua
+Rose	Merah muda
+Personnalisée	Kustom
+Couleur d'accent personnalisée	Warna aksen kustom
+Code couleur	Kode warna
+Rouge	Merah
+Exemple	Contoh
+Contraste du texte sur l'accent	Kontras teks pada warna aksen
+Conforme	Memenuhi
+Insuffisant, minimum	Tidak cukup, minimum
+Couleur non appliquée : le contraste est trop faible.	Warna tidak diterapkan: kontrasnya terlalu rendah.
+Couleur conforme la plus proche :	Warna sesuai terdekat:
+Utiliser cette couleur	Gunakan warna ini
+Rétablir les couleurs par défaut	Pulihkan warna default
+Mises à jour	Pembaruan
+À jour	Terbaru
+Mise à jour disponible	Pembaruan tersedia
+Chemin personnalisé	Jalur kustom
+Version inconnue	Versi tidak diketahui
+Installée :	Terpasang:
+Disponible :	Tersedia:
+Mise à jour en cours…	Memperbarui…
+Redémarrage nécessaire	Perlu dimulai ulang
+Impossible de vérifier les mises à jour :	Gagal memeriksa pembaruan:
+Échec de la mise à jour, version précédente conservée :	Pembaruan gagal, versi sebelumnya dipertahankan:
+Versions des composants non validées par l'éditeur.	Versi komponen belum disetujui oleh penerbit.
+Archive validée introuvable sur GitHub.	Arsip yang disetujui tidak ditemukan di GitHub.
+Adresse de téléchargement inattendue.	Alamat unduhan tidak terduga.
+Empreinte du fichier téléchargé incorrecte.	Checksum file yang diunduh tidak cocok.
+Téléchargement refusé par le serveur.	Server menolak unduhan.
+Fichier reçu invalide (taille ou empreinte différente).	Berkas yang diterima tidak valid (ukuran atau checksum tidak cocok).
+Serveur injoignable :	Server tidak dapat dijangkau:
+Remplacement impossible :	Penggantian gagal:
+Relance impossible :	Memulai ulang gagal:
+Impossible de charger libmpv :	Tidak dapat memuat libmpv:
+Fonction libmpv manquante :	Fungsi libmpv tidak ada:
+Le lecteur n'a pas pu démarrer.	Pemutar tidak dapat dimulai.
+Initialisation du lecteur impossible :	Inisialisasi pemutar gagal:
+Rendu vidéo impossible :	Gagal menampilkan video:
+Option du lecteur refusée :	Pemutar menolak opsi:
+Propriété du lecteur refusée :	Pemutar menolak properti:
+Commande du lecteur refusée :	Pemutar menolak perintah:
+Se connecter	Masuk
+Autres langues	Bahasa lain
+Personnaliser	Sesuaikan
+Améliorer le contraste	Tingkatkan kontras
+Replier le chat	Ciutkan obrolan
+Afficher le chat	Tampilkan obrolan
+Qualité maximale proposée par la chaîne, sans réduction.	Kualitas tertinggi yang ditawarkan kanal, tanpa pengurangan.
+Fenêtre PiP au format de la vidéo	Jendela PiP sesuai rasio video
+En mini-fenêtre PiP, la fenêtre prend le format du live pour supprimer les bandes noires.	Di jendela mini PiP, jendela mengikuti rasio aspek siaran langsung agar tidak ada bilah hitam.
+spectateur	penonton
+Actualisation en cours	Memuat ulang…
+Qualité	Kualitas
+Redémarrer l'application	Mulai ulang aplikasi
+Passer	Lewati
+Suivant	Berikutnya
+C'est parti	Ayo mulai
+Chat avec émotes	Obrolan dengan emote
+Mini-lecteur et PiP	Mini player dan PiP
+Choisissez votre style	Pilih gaya Anda
+Couleur d'accent	Warna aksen
+Réglez la lecture	Atur pemutaran
+Restez informé	Tetap terinformasi
+Tout se règle aussi plus tard dans les Réglages.	Semua bisa diubah nanti di Pengaturan.
+Thème et couleur de l'application.	Tema dan warna aplikasi.
+Les réglages les plus utiles, en un coup d'œil.	Pengaturan paling berguna sekilas.
+Ne ratez plus vos streamers préférés.	Jangan lewatkan streamer favorit Anda.
+Ultra légère et optimisée, parfaite pour jouer en même temps.	Sangat ringan dan dioptimalkan, pas untuk bermain bersamaan.
+Revoir le didacticiel	Lihat tutorial lagi
+Le live démarre sans le son ; vous le réactivez quand vous voulez.	Siaran langsung dimulai tanpa suara; Anda bisa menyalakannya kapan saja.
+Agrandit ou réduit le texte des messages du chat.	Memperbesar atau memperkecil teks pesan obrolan.
+Affiche l'heure devant chaque message du chat.	Menampilkan jam di depan setiap pesan obrolan.
+Place le chat à gauche de la vidéo au lieu de la droite.	Menempatkan obrolan di sebelah kiri video, bukan kanan.
+Favori	Favorit
+Aucun favori pour le moment. Cherchez une chaîne puis choisissez « Ajouter aux favoris ».	Belum ada favorit. Cari saluran, lalu pilih “Tambahkan ke favorit”.
+Orange (par défaut)	Oranye (default)
+Retirer des favoris	Hapus dari favorit
+Connexion en cours	Menghubungkan
+Audio du live uniquement	Hanya audio siaran langsung
+Lecteur au format de la vidéo	Pemutar sesuai rasio video
+Dans la fenêtre principale, l'image prend exactement le format du live (coins arrondis, sans bandes autour) et reste centrée.	Di jendela utama, gambar mengikuti rasio siaran langsung secara tepat (sudut membulat, tanpa bilah) dan tetap di tengah.
+Taille et place d'origine	Ukuran dan posisi asli
+Chaîne ouverte au démarrage	Saluran yang dibuka saat mulai
+Démarrage et fenêtre	Memulai dan jendela
+Son live s'ouvre au lancement si elle est en direct. Sinon, l'accueil s'affiche normalement.	Siaran langsungnya terbuka saat mulai jika saluran sedang live. Jika tidak, beranda tampil seperti biasa.
+Nom de la chaîne	Nama saluran
+Au lancement, si cette chaîne est en direct, son live s'ouvre directement dans le lecteur. Hors ligne ou introuvable, l'accueil s'affiche normalement.	Jika saluran live saat aplikasi dibuka, siarannya langsung terbuka di pemutar. Offline atau tidak ditemukan: beranda tampil biasa.
+Enregistrée	Disimpan
+En attente de messages…	Menunggu pesan…
+Confirmer la déconnexion	Konfirmasi keluar
+Affiche d'abord les lives qui ont le plus de spectateurs.	Menampilkan siaran dengan penonton terbanyak lebih dulu.
+Affiche d'abord les lives qui ont le moins de spectateurs.	Menampilkan siaran dengan penonton tersedikit lebih dulu.
+Éclaircit ou assombrit la couleur choisie pour que le texte reste lisible.	Mencerahkan atau menggelapkan warna yang dipilih agar teks tetap terbaca.
+Spectateurs : décroissant	Penonton: menurun
+Spectateurs : croissant	Penonton: naik
+5 s	5 dtk
+10 s	10 dtk
+Pour charger vos chaînes suivies, déconnectez-vous puis reconnectez-vous.	Untuk memuat kanal yang Anda ikuti, keluar lalu masuk lagi.
+Reconnectez-vous dans Réglages pour afficher vos chaînes suivies sur Twitch.	Masuk lagi di Pengaturan untuk menampilkan kanal yang Anda ikuti di Twitch.
+Une page Twitch s'est ouverte. Vérifiez ce code, puis cliquez sur « Autoriser » :	Halaman Twitch telah terbuka. Periksa kode ini, lalu klik “Otorisasi”:
+Utilisée en ce moment : redémarrez l'application pour la mettre à jour.	Sedang digunakan: mulai ulang aplikasi untuk memperbaruinya.
+Réinitialiser remet les réglages, les favoris et l'historique à zéro. Les outils restent installés.	Setel ulang mengembalikan pengaturan, favorit, dan riwayat ke nol. Alat tetap terpasang.
+Désinstaller supprime les outils, les réglages, l'historique et le cache, puis ferme l'application.	Copot pemasangan menghapus alat, pengaturan, riwayat, dan cache, lalu menutup aplikasi.
+Tout remettre à zéro ? Réglages, favoris et historique seront perdus.	Setel ulang semuanya? Pengaturan, favorit, dan riwayat akan hilang.
+Tout supprimer ? Outils, réglages, historique et cache seront effacés définitivement.	Hapus semuanya? Alat, pengaturan, riwayat, dan cache akan dihapus secara permanen.
+Ce jeton n'a pas le droit d'écrire dans le chat (chat:edit).	Token ini tidak diizinkan menulis di obrolan (chat:edit).
+Ils sont installés dans votre dossier utilisateur, sans droits administrateur.	Komponen dipasang di folder pengguna Anda, tanpa hak administrator.
+libmpv est introuvable. Réinstallez les outils depuis les réglages.	libmpv tidak ditemukan. Pasang ulang alat dari pengaturan.
+Streamlink est introuvable. Réinstallez les outils depuis les réglages.	Streamlink tidak ditemukan. Pasang ulang alat dari pengaturan.
+Afficher le menu	Tampilkan menu
+Masquer le menu	Sembunyikan menu
+Chat réservé aux followers	Chat khusus pengikut
+Échec de la connexion.	Koneksi gagal.
+Connexion annulée	Koneksi dibatalkan
+Rapport de la dernière fermeture inattendue, sans donnée personnelle. Rien n'est envoyé automatiquement.	Laporan penutupan tak terduga terakhir, tanpa data pribadi. Tidak ada yang dikirim secara otomatis.
+Copier le rapport de plantage	Salin laporan kerusakan
+Rapport copié.	Laporan disalin.
+Copier le diagnostic	Salin diagnostik
+Diagnostic copié.	Diagnostik disalin.
+Complet	Penuh
+Réduit	Dikurangi
+État et version de Streamlink et de libmpv, mise à jour, et chemins personnalisés (facultatifs) vers streamlink.exe et libmpv-2.dll.	Status dan versi Streamlink dan libmpv, pembaruan, serta jalur khusus opsional ke streamlink.exe dan libmpv-2.dll.
+Ouvre le dossier du journal, copie le diagnostic (version, Windows, carte graphique, composants) ou le rapport de plantage local pour le support. Rien n'est envoyé automatiquement.	Membuka folder log, menyalin diagnostik (versi, Windows, kartu grafis, komponen) atau laporan crash lokal untuk dukungan. Tidak ada yang dikirim secara otomatis.
+À propos	Tentang
+Version de l'application	Versi aplikasi
+Décodage vidéo matériel (GPU)	Dekode video perangkat keras (GPU)
+Utile si la vidéo saccade ou si le processeur chauffe. « Automatique » : réglage d'origine de l'application. « Activé » : la carte graphique décode la vidéo, avec retour automatique au décodage normal si elle n'y arrive pas. « Désactivé » : décodage normal par le processeur. Le changement s'applique tout de suite : le live en cours est relancé.	Membantu jika video tersendat atau prosesor panas. “Otomatis”: pengaturan asli aplikasi. “Aktif”: kartu grafis mendekode video, dengan kembali otomatis ke dekode biasa jika gagal. “Nonaktif”: dekode biasa oleh prosesor. Perubahan berlaku segera: siaran langsung yang sedang berjalan dimulai ulang.
+Périphérique de sortie	Perangkat keluaran
+Périphérique par défaut du système	Perangkat default sistem
+Choisit le casque ou les enceintes pour le son des lives, sans changer le son de Windows. « Périphérique par défaut du système » suit le choix de Windows. Le changement s'applique tout de suite. Si le périphérique choisi disparaît (casque débranché), l'application revient au choix par défaut.	Memilih headphone atau speaker untuk suara siaran langsung, tanpa mengubah suara Windows. “Perangkat default sistem” mengikuti pilihan Windows. Perubahan berlaku segera. Jika perangkat yang dipilih menghilang (headphone dicabut), aplikasi kembali ke pilihan default.
+Le périphérique audio choisi n'est plus disponible : retour au périphérique par défaut.	Perangkat audio yang dipilih tidak tersedia lagi: kembali ke perangkat default.
+Captures d'écran	Tangkapan layar
+Dossier d'enregistrement	Folder penyimpanan
+Parcourir…	Telusuri…
+Ouvrir le dossier	Buka folder
+Dossier où la touche S enregistre les captures d'écran. Par défaut : le dossier « Velka » de vos Images. Le dossier choisi doit accepter l'écriture ; s'il disparaît (disque débranché, dossier supprimé), l'application revient au dossier par défaut. Le changement s'applique à la prochaine capture.	Folder tempat tombol S menyimpan tangkapan layar. Default: folder “Velka” di Gambar Anda. Folder yang dipilih harus mengizinkan penulisan; jika menghilang (drive dicabut, folder dihapus), aplikasi kembali ke folder default. Perubahan berlaku pada tangkapan layar berikutnya.
+Le dossier des captures n'est plus disponible : retour au dossier par défaut.	Folder tangkapan layar tidak tersedia lagi: kembali ke folder default.
+Ce dossier n'accepte pas l'écriture : choisissez-en un autre.	Folder ini tidak mengizinkan penulisan: pilih folder lain.
+Aucun	Tidak ada
+Effacer un raccourci	Hapus pintasan
+Réduire dans la zone de notification à la fermeture	Ciutkan ke area notifikasi saat ditutup
+L'application reste active en fond pour les notifications	Aplikasi tetap berjalan di latar belakang untuk notifikasi
+La croix de fermeture cache la fenêtre dans la zone de notification (près de l'horloge) au lieu de quitter ; le live en cours est arrêté. Clic gauche sur l'icône : rouvrir. Clic droit : Ouvrir ou Quitter. Pour être prévenu quand un favori passe en direct, activez aussi « Notifications Windows ».	Tombol tutup menyembunyikan jendela di area notifikasi (dekat jam) alih-alih keluar; siaran yang sedang diputar dihentikan. Klik kiri pada ikon: buka kembali. Klik kanan: Buka atau Keluar. Aktifkan juga „Notifikasi Windows” agar diberi tahu saat favorit mulai live.
+Ouvrir Velka	Buka Velka
+Quitter	Keluar
+Velka reste actif dans la zone de notification. Clic droit sur l'icône pour quitter.	Velka masih berjalan di area notifikasi. Klik kanan ikon untuk keluar.
+Rechercher des mises à jour	Cari pembaruan
+Vous utilisez la dernière version.	Anda menggunakan versi terbaru.
+Mise à jour {version} disponible	Pembaruan {version} tersedia
+Impossible de se connecter. Vérifiez votre connexion internet.	Tidak dapat terhubung. Periksa koneksi internet Anda.
+La recherche de mise à jour a échoué.	Pencarian pembaruan gagal.
+Historique des chaînes	Riwayat kanal
+Effacer l'historique	Hapus riwayat
+Historique effacé.	Riwayat dihapus.
+Ouvrir le dossier de configuration	Buka folder pengaturan
+Options du lecteur	Opsi pemutar
+Perso	Kustom
+Durée personnalisée	Durasi kustom
+Ajuster uniquement la taille du texte du chat	Atur ukuran teks obrolan saja
+Ajuster la taille globale de l'interface	Atur ukuran antarmuka secara keseluruhan
+Connectez-vous à Twitch pour activer	Masuk ke Twitch untuk mengaktifkan
+Pas de connexion Internet.	Tidak ada koneksi internet.
+La connexion Internet s'est coupée.	Koneksi internet terputus.
+Licences des composants	Lisensi komponen
+Le lecteur vidéo utilise libmpv (mpv) et FFmpeg, sous licence LGPL version 2.1 ou ultérieure. Vous pouvez remplacer libmpv par votre propre version dans {section}.	Pemutar video menggunakan libmpv (mpv) dan FFmpeg dengan lisensi LGPL versi 2.1 atau lebih baru. Anda dapat mengganti libmpv dengan versi Anda sendiri di {section}.
+Code source et compilation	Kode sumber dan skrip build
+Velka n'a pas pu ouvrir sa fenêtre : la carte graphique ou son pilote ne prend pas en charge OpenGL 3.0. Mettez à jour le pilote de la carte graphique, puis relancez Velka. Sur un bureau à distance ou une machine virtuelle, l'affichage peut ne pas être pris en charge.	Velka tidak dapat membuka jendelanya: kartu grafis atau driver-nya tidak mendukung OpenGL 3.0. Perbarui driver kartu grafis, lalu mulai ulang Velka. Di desktop jarak jauh atau mesin virtual, tampilan mungkin tidak didukung.
+La carte graphique n'annonce pas OpenGL 3.0 : la vidéo peut rester noire. Mettez à jour le pilote de la carte graphique. Sur un bureau à distance ou une machine virtuelle, l'affichage peut ne pas être pris en charge.	Kartu grafis tidak melaporkan OpenGL 3.0: video mungkin tetap hitam. Perbarui driver kartu grafis. Di desktop jarak jauh atau mesin virtual, tampilan mungkin tidak didukung.
+Démarrer avec macOS	Mulai bersama macOS
+Démarrer avec Linux	Mulai bersama Linux
+Lance Velka automatiquement quand vous ouvrez votre session macOS.	Membuka Velka otomatis saat Anda masuk ke macOS.
+Lance Velka automatiquement quand vous ouvrez votre session Linux.	Membuka Velka otomatis saat Anda masuk ke Linux.
+Notifications macOS	Notifikasi macOS
+Notifications Linux	Notifikasi Linux
+Affiche une notification macOS quand l'un de vos favoris passe en direct. L'application doit rester ouverte (elle peut être réduite).	Menampilkan notifikasi macOS saat salah satu favorit Anda mulai live. Aplikasi harus tetap terbuka (boleh diperkecil).
+Affiche une notification Linux quand l'un de vos favoris passe en direct. L'application doit rester ouverte (elle peut être réduite).	Menampilkan notifikasi Linux saat salah satu favorit Anda mulai live. Aplikasi harus tetap terbuka (boleh diperkecil).
+Multistream	Multistream
+Regardez jusqu'à 4 lives en même temps.	Tonton hingga 4 siaran langsung sekaligus.
+Ajouter une chaîne	Tambah kanal
+Ajouter	Tambah
+Tout arrêter	Hentikan semua
+Cette chaîne est déjà affichée.	Kanal ini sudah ditampilkan.
+4 lives au maximum.	Maksimal 4 siaran langsung.
+Ajoutez une chaîne pour commencer.	Tambahkan kanal untuk memulai.
+Retirer ce live	Hapus siaran ini
+Écouter ce live	Dengarkan siaran ini
+Cumuler le son des lives en Multistream	Gabungkan suara siaran di Multistream
+Un clic sur un live ajoute son son au lieu de le remplacer	Mengeklik siaran menambahkan suaranya alih-alih menggantinya
+Sur la page Multistream, un clic sur un live fait entendre son son en plus de ceux déjà écoutés, jusqu'aux quatre lives. Le bouton du son de chaque live le coupe.	Di halaman Multistream, mengeklik siaran memutar suaranya selain siaran yang sudah didengar, hingga keempat siaran. Tombol suara tiap siaran membisukannya.
+Couper tous les sons	Bisukan semua
+Lecteur Twitch léger avec multistream, chat et notifications.	Pemutar Twitch ringan dengan multistream, chat, dan notifikasi.
+Quelques composants sont nécessaires pour lire les lives Twitch.	Beberapa komponen diperlukan untuk memutar siaran Twitch.
+Logiciel libre sous licence GPL-3.0 ou ultérieure.	Perangkat lunak bebas dengan lisensi GPL-3.0 atau yang lebih baru.
+Application non affiliée à Twitch.	Aplikasi tidak berafiliasi dengan Twitch.
+Code source sur GitHub	Kode sumber di GitHub
+Soutenir le projet	Dukung proyek ini
+La connexion Twitch n'a pas pu être enregistrée de façon sécurisée (trousseau du système indisponible) : elle sera perdue à la fermeture de Velka.	Login Twitch tidak dapat disimpan dengan aman (gantungan kunci sistem tidak tersedia): login akan hilang saat Velka ditutup.
+Velka est gratuit et le restera. Si l'application vous plaît, un petit don aide à la faire vivre.	Velka gratis dan akan tetap gratis. Jika Anda menyukai aplikasinya, donasi kecil membantu menjaganya tetap berjalan.
+Plus tard	Nanti
+Rappel pour soutenir le projet	Pengingat untuk mendukung proyek
+Affiche de temps en temps sur l'accueil, au plus une fois par mois, un message avec un lien pour soutenir le projet.	Sesekali menampilkan pesan di beranda, paling banyak sebulan sekali, dengan tautan untuk mendukung proyek.

@@ -1,0 +1,535 @@
+Aide	Trợ giúp
+Réduire	Thu nhỏ
+Agrandir	Phóng to
+Restaurer	Khôi phục
+Fermer	Đóng
+Échap	Esc
+Français	Tiếng Pháp
+Anglais	Tiếng Anh
+Espagnol	Tiếng Tây Ban Nha
+Portugais	Tiếng Bồ Đào Nha
+Allemand	Tiếng Đức
+Italien	Tiếng Ý
+Néerlandais	Tiếng Hà Lan
+Polonais	Tiếng Ba Lan
+Russe	Tiếng Nga
+Ukrainien	Tiếng Ukraina
+Turc	Tiếng Thổ Nhĩ Kỳ
+Vietnamien	Tiếng Việt
+Indonésien	Tiếng Indonesia
+Chinois simplifié	Tiếng Trung giản thể
+Chinois traditionnel	Tiếng Trung phồn thể
+Japonais	Tiếng Nhật
+Coréen	Tiếng Hàn
+Tchèque	Tiếng Séc
+Roumain	Tiếng Romania
+Hongrois	Tiếng Hungary
+Suédois	Tiếng Thụy Điển
+Danois	Tiếng Đan Mạch
+Norvégien	Tiếng Na Uy
+Finnois	Tiếng Phần Lan
+Grec	Tiếng Hy Lạp
+Annuler	Hủy
+spectateurs	người xem
+Hors ligne	Ngoại tuyến
+Cette chaîne n'existe pas.	Kênh này không tồn tại.
+Statut indisponible, vous pouvez quand même essayer.	Không có trạng thái, bạn vẫn có thể thử.
+Accueil	Trang chủ
+En direct	Đang phát trực tiếp
+chaînes	kênh
+Favoris	Yêu thích
+Spectateurs	Người xem
+au total	tổng cộng
+Résultat	Kết quả
+Vérification…	Đang kiểm tra…
+Regarder	Xem
+Nom de chaîne invalide.	Tên kênh không hợp lệ.
+En direct parmi vos favoris	Đang trực tiếp trong mục yêu thích
+Aucun favori en direct pour le moment.	Hiện chưa có kênh yêu thích nào đang trực tiếp.
+Récents	Gần đây
+Retirer de l'historique	Xóa khỏi lịch sử
+Rechercher	Tìm kiếm
+Plateforme	Nền tảng
+Réglages	Cài đặt
+Quitter le PiP	Thoát PiP
+Reprise dans un instant…	Sắp tiếp tục…
+Retour	Quay lại
+Arrêter	Dừng
+Quitter le plein écran	Thoát toàn màn hình
+Plein écran	Toàn màn hình
+Lecture	Phát
+Réactiver le son	Bật tiếng
+Couper le son	Tắt tiếng
+Chat	Trò chuyện
+Changement de qualité…	Đang đổi chất lượng…
+Réessayer	Thử lại
+depuis	từ
+connexion…	đang kết nối…
+changement de qualité…	đang đổi chất lượng…
+interrompu	bị gián đoạn
+Lecture vidéo	Phát video
+Qualité par défaut	Chất lượng mặc định
+Faible latence	Độ trễ thấp
+Désactiver pour un flux plus stable	Tắt để luồng phát ổn định hơn
+Réduire la barre latérale	Thu gọn thanh bên
+Agrandir la barre latérale	Mở rộng thanh bên
+Chat à gauche de la vidéo	Trò chuyện bên trái video
+Toujours au premier plan	Luôn ở trên cùng
+Chat en surimpression en plein écran	Trò chuyện trên video khi toàn màn hình
+Apparence	Giao diện
+Général	Chung
+Thème	Chủ đề
+Langue	Ngôn ngữ
+Sombre	Xám đá
+Dark	Tối
+Clair	Sáng
+Compte Twitch	Tài khoản Twitch
+Connecté en tant que	Đã đăng nhập là
+Vous pouvez écrire dans le chat.	Bạn có thể viết trong trò chuyện.
+chaînes suivies sur Twitch chargées.	kênh Twitch đang theo dõi đã được tải.
+Impossible de charger vos chaînes suivies pour le moment.	Hiện không thể tải các kênh bạn theo dõi.
+Chargement de vos chaînes suivies…	Đang tải các kênh bạn theo dõi…
+En direct parmi vos chaînes suivies sur Twitch	Đang trực tiếp trong các kênh Twitch bạn theo dõi
+Suivies sur Twitch	Theo dõi trên Twitch
+Prévient quand un favori passe en direct	Báo khi một kênh yêu thích bắt đầu phát trực tiếp
+Activé : vos favoris sont vérifiés toutes les minutes en arrière-plan, même pendant un live. Cela utilise un peu plus d'internet et de mémoire.	Bật: mục yêu thích được kiểm tra mỗi phút ở chế độ nền, kể cả khi đang xem. Việc này dùng thêm một chút internet và bộ nhớ.
+Chaînes dans la barre latérale	Kênh trong thanh bên
+Chaînes sur l'accueil	Kênh trên trang chủ
+Qualité utilisée à l'ouverture d'un live. « Source » est la qualité maximale de la chaîne ; « Audio » ne joue que le son.	Chất lượng dùng khi mở một buổi trực tiếp. "Source" là chất lượng cao nhất của kênh; "Audio" chỉ phát âm thanh.
+Réduit le retard entre le streamer et vous. Désactivez-le si la vidéo saccade ou se coupe.	Giảm độ trễ so với streamer. Hãy tắt nếu video bị giật hoặc ngắt.
+Garde la fenêtre devant toutes les autres applications.	Giữ cửa sổ luôn ở trước mọi ứng dụng khác.
+Affiche le chat par-dessus la vidéo quand vous êtes en plein écran.	Hiện trò chuyện đè lên video khi ở chế độ toàn màn hình.
+Faire rouler la molette au-dessus de la vidéo monte ou baisse le volume.	Lăn chuột trên video để tăng hoặc giảm âm lượng.
+Un clic sur la vidéo met en pause ou relance la lecture.	Nhấp vào video để tạm dừng hoặc phát tiếp.
+Garde un niveau sonore régulier (normalisation du son) : relève les passages faibles et atténue les passages forts, d'une chaîne à l'autre et au sein d'un même live.	Giữ mức âm thanh đều (chuẩn hóa âm thanh): nâng đoạn nhỏ và giảm đoạn lớn, giữa các kênh và trong cùng một buổi phát.
+Vitesse de la molette dans les listes et dans le chat. À 1,0 ×, un cran de molette fait défiler 3 lignes de 75 px, de façon fluide.	Tốc độ lăn chuột trong danh sách và trò chuyện. Ở 1,0 ×, mỗi nấc lăn cuộn mượt 3 dòng 75 px.
+À chaque lancement, l'application démarre avec le volume choisi ci-dessous, au lieu du dernier volume réglé.	Mỗi lần mở, ứng dụng dùng âm lượng chọn bên dưới thay vì âm lượng chỉnh gần nhất.
+100 % = volume normal. 130 % permet d'amplifier une chaîne trop silencieuse, mais le son peut saturer.	100 % = âm lượng bình thường. 130 % giúp khuếch đại kênh quá nhỏ, nhưng âm thanh có thể bị rè.
+Temps sans bouger la souris avant que les boutons posés sur la vidéo disparaissent.	Thời gian không di chuột trước khi các nút trên video biến mất.
+Quand vous quittez la page d'un live avec « Retour », il continue dans une petite fenêtre en bas à droite. Désactivé : il s'arrête.	Khi bạn rời trang của buổi trực tiếp bằng "Quay lại", nó tiếp tục trong một cửa sổ nhỏ ở góc dưới bên phải. Tắt: nó dừng lại.
+Fréquence à laquelle l'accueil vérifie quelles chaînes sont en direct. Plus c'est rapide, plus cela utilise internet. « Manuelle » : seulement avec le bouton Actualiser.	Tần suất trang chủ kiểm tra kênh nào đang trực tiếp. Càng nhanh càng tốn internet. "Thủ công": chỉ khi bấm nút Làm mới.
+Télécharge une image du direct pour chaque carte. Désactivez pour économiser des données.	Tải một ảnh của buổi trực tiếp cho mỗi thẻ. Tắt để tiết kiệm dữ liệu.
+Les chaînes que vous suivez sur votre compte Twitch (il faut être connecté dans la carte « Compte Twitch »).	Các kênh bạn theo dõi trên tài khoản Twitch (cần đăng nhập ở thẻ "Tài khoản Twitch").
+Nombre maximum de chaînes Twitch en direct listées dans la barre de gauche (ce n'est pas un délai).	Số kênh Twitch đang trực tiếp tối đa trong thanh bên trái (không phải thời gian).
+Nombre maximum de chaînes Twitch en direct affichées sur la page d'accueil (ce n'est pas un délai).	Số kênh Twitch đang trực tiếp tối đa trên trang chủ (không phải thời gian).
+Garde le jeu sélectionné dans la barre « Jeux en direct » au prochain lancement.	Ghi nhớ trò chơi đã chọn trong thanh "Trò chơi đang trực tiếp" cho lần mở sau.
+Ouvrir : le live s'affiche en grand. PiP : il s'ouvre directement dans une petite fenêtre flottante.	Mở: buổi trực tiếp hiện lớn. PiP: mở ngay trong một cửa sổ nổi nhỏ.
+Les messages qui contiennent un de ces mots (séparés par des virgules) sont surlignés en jaune dans le chat.	Tin nhắn chứa một trong các từ này (cách nhau bằng dấu phẩy) được tô vàng trong trò chuyện.
+Quand une chaîne est hors ligne ou que son live se termine, propose d'autres lives : vos chaînes suivies du même jeu d'abord.	Khi một kênh ngoại tuyến hoặc buổi trực tiếp kết thúc, đề xuất buổi khác: ưu tiên các kênh bạn theo dõi cùng trò chơi.
+Nombre de chaînes proposées quand un live est hors ligne ou terminé.	Số kênh được đề xuất khi một buổi trực tiếp ngoại tuyến hoặc đã kết thúc.
+Les boutons latéraux de la souris changent de page, comme dans un navigateur. Alt + flèche gauche ou droite fait pareil.	Các nút bên của chuột chuyển trang, như trong trình duyệt. Alt + mũi tên trái hoặc phải cũng vậy.
+Le pointeur devient une main au-dessus des boutons et des cartes.	Con trỏ thành bàn tay khi ở trên nút và thẻ.
+Complet : fondus, glissements, cascades et compteurs animés. Réduit : fondus et changements de couleur seulement, sans déplacement. Désactivé : aucune animation (utile sur un ordinateur lent). Le réglage d'animations de Windows n'est pas pris en compte.	Đầy đủ: hiệu ứng mờ dần, trượt, xuất hiện lần lượt và bộ đếm động. Giảm bớt: chỉ có hiệu ứng mờ dần và đổi màu, không chuyển động. Tắt: không có hiệu ứng nào (hữu ích trên máy tính chậm). Cài đặt hiệu ứng của Windows không được tính đến.
+Affiche une notification Windows quand l'un de vos favoris passe en direct. L'application doit rester ouverte (elle peut être réduite).	Hiện thông báo Windows khi một kênh yêu thích bắt đầu trực tiếp. Ứng dụng phải luôn mở (có thể thu nhỏ).
+Lance Velka automatiquement quand vous ouvrez votre session Windows.	Tự khởi động Velka khi bạn đăng nhập Windows.
+Photos de profil et émotes déjà téléchargées. Les vider libère de la place ; elles se retéléchargent au besoin.	Ảnh đại diện và emote đã tải. Xóa để giải phóng dung lượng; chúng sẽ được tải lại khi cần.
+Notifications Windows	Thông báo Windows
+Prévient quand un favori passe en direct. Vérifie vos favoris toutes les minutes, même pendant un live : utilise un peu plus d'internet et de mémoire.	Báo khi một kênh yêu thích bắt đầu trực tiếp. Kiểm tra mục yêu thích mỗi phút, kể cả khi đang xem: dùng thêm một chút internet và bộ nhớ.
+Envoyer une notification de test	Gửi thông báo thử
+est en direct	đang trực tiếp
+Notification de test : tout fonctionne.	Thông báo thử: mọi thứ đều hoạt động.
+Volume et lecteur	Âm lượng và trình phát
+Démarrer en muet	Mở ở chế độ tắt tiếng
+Volume fixe au lancement	Âm lượng cố định khi mở
+Sinon : le dernier volume utilisé	Nếu không: âm lượng dùng gần nhất
+Volume au lancement	Âm lượng khi mở
+Volume maximum	Âm lượng tối đa
+Masquage des contrôles	Ẩn nút điều khiển sau
+Jamais	Không bao giờ
+Capture d'écran	Chụp màn hình
+Infos techniques	Thông tin kỹ thuật
+Capture enregistrée :	Đã lưu ảnh chụp:
+Capture impossible.	Không thể chụp màn hình.
+Minuteur de veille	Hẹn giờ tắt
+Désactivé	Tắt
+Arrêt du live dans	Buổi trực tiếp dừng sau
+logiciel	phần mềm
+Résolution	Độ phân giải
+Images par seconde	Khung hình mỗi giây
+Débit vidéo	Tốc độ bit video
+Débit audio	Tốc độ bit âm thanh
+Images perdues	Khung hình bị mất
+Images perdues au décodage	Khung hình mất khi giải mã
+Mémoire tampon	Bộ đệm
+Format vidéo	Định dạng video
+Décodage	Giải mã
+Arrête le live automatiquement après la durée choisie, à partir du moment où vous changez ce réglage. Une minute avant, un compte à rebours s'affiche sur la vidéo. Le minuteur revient sur Désactivé à chaque nouveau live et à chaque lancement de l'application.	Tự động dừng buổi phát sau khoảng thời gian đã chọn, tính từ lúc bạn đổi cài đặt này. Một phút trước đó, đồng hồ đếm ngược hiện trên video. Bộ hẹn giờ trở về Tắt mỗi khi mở buổi phát mới và mỗi khi khởi động ứng dụng.
+Émotes 7TV, BTTV et FFZ	Emote 7TV, BTTV và FFZ
+Émotes animées	Emote động
+Badges du chat	Huy hiệu trò chuyện
+Affiche les émotes des extensions 7TV, BetterTTV et FrankerFaceZ (globales et propres à la chaîne). Elles sont chargées à l'ouverture du live.	Hiện emote của các tiện ích 7TV, BetterTTV và FrankerFaceZ (chung và riêng của kênh). Chúng được tải khi mở buổi trực tiếp.
+Anime les émotes qui le sont (Twitch et extensions). Utilise un peu plus le processeur quand le chat en affiche.	Cho emote động chuyển động (Twitch và tiện ích). Dùng bộ xử lý nhiều hơn một chút khi trò chuyện hiển thị chúng.
+Affiche les badges (abonné, modérateur, VIP…) devant les pseudos.	Hiện huy hiệu (người đăng ký, người điều hành, VIP…) trước tên.
+Netteté de l'image	Độ nét hình ảnh
+Agrandissement de haute qualité	Phóng to chất lượng cao
+Désactivée	Tắt
+Légère	Nhẹ
+Moyenne	Vừa
+Forte	Mạnh
+Image plus fine en 480p et 720p	Hình ảnh nét hơn ở 480p và 720p
+Renforce les contours de l'image (calculé par la carte graphique). Utile sur un flux flou ; trop fort, l'image paraît granuleuse.	Làm rõ đường viền hình ảnh (do card đồ họa xử lý). Hữu ích khi luồng phát bị mờ; quá mạnh, hình ảnh sẽ bị nhiễu hạt.
+Utilise un filtre d'agrandissement plus fin quand la vidéo est plus petite que la fenêtre (480p, 720p). Demande davantage à la carte graphique.	Dùng bộ lọc phóng to tinh hơn khi video nhỏ hơn cửa sổ (480p, 720p). Tốn card đồ họa hơn.
+Compte	Tài khoản
+Qualité et flux	Chất lượng và luồng
+Audio	Âm thanh
+Lecteur et comportement	Trình phát và hành vi
+Affichage et lisibilité	Hiển thị và dễ đọc
+Filtrage et alertes	Lọc và cảnh báo
+Notifications	Thông báo
+Avancé et Système	Nâng cao và hệ thống
+Stockage et configuration	Lưu trữ và cấu hình
+Émotes et badges	Emote và huy hiệu
+Les changements s'appliquent tout de suite.	Thay đổi được áp dụng ngay.
+2,5 s	2,5 giây
+Mo	MB
+Ko	KB
+Rechercher un réglage	Tìm một cài đặt
+Résultats de la recherche	Kết quả tìm kiếm
+Aucun réglage trouvé.	Không tìm thấy cài đặt nào.
+Mini-lecteur	Trình phát mini
+Garder le live dans un coin quand on quitte la page	Giữ buổi trực tiếp ở góc khi rời trang
+Accueil et barre latérale	Trang chủ và thanh bên
+Actualisation	Làm mới
+Manuelle	Thủ công
+Actualiser	Làm mới
+Aperçus des lives	Xem trước buổi trực tiếp
+Images du direct sur les cartes	Ảnh trực tiếp trên thẻ
+Chaînes suivies sur Twitch	Kênh Twitch đang theo dõi
+Dans la barre latérale, sur l'accueil et dans les recommandations	Trong thanh bên, trên trang chủ và trong đề xuất
+Dans la barre latérale	Trong thanh bên
+Sur l'accueil	Trên trang chủ
+Se souvenir du jeu choisi	Nhớ trò chơi đã chọn
+Clic sur une carte	Nhấp vào thẻ
+Ouvrir	Mở
+Taille du texte	Cỡ chữ
+Masquer les bots	Ẩn bot
+Horodatage des messages	Giờ của tin nhắn
+Mots surlignés	Từ được tô sáng
+mot, pseudo… (séparés par des virgules)	từ, tên… (cách nhau bằng dấu phẩy)
+Recommandations	Đề xuất
+Recommandations de chaînes	Kênh đề xuất
+Proposer des chaînes quand un live est hors ligne ou terminé	Đề xuất kênh khi một buổi trực tiếp ngoại tuyến hoặc đã kết thúc
+Nombre de recommandations	Số đề xuất
+Mouvement et lisibilité	Chuyển động và dễ đọc
+Navigation et souris	Điều hướng và chuột
+Vérification des mises à jour	Kiểm tra bản cập nhật
+Nouvelle version disponible :	Có phiên bản mới:
+Mettre à jour	Cập nhật
+Téléchargement de la mise à jour…	Đang tải bản cập nhật…
+Mise à jour impossible :	Không thể cập nhật:
+Boutons Précédent / Suivant de la souris	Nút Lùi / Tiến của chuột
+Main sur les éléments cliquables	Bàn tay trên các mục có thể nhấp
+Animations	Hiệu ứng
+Raccourcis clavier	Phím tắt
+Appuyez sur une touche…	Nhấn một phím…
+Rétablir les raccourcis	Đặt lại phím tắt
+Raccourcis non modifiables	Phím tắt cố định
+Quitter le plein écran, le PiP ou le live	Thoát toàn màn hình, PiP hoặc live
+Rechercher une chaîne	Tìm kênh
+Zoom de l'interface	Thu phóng giao diện
+Page précédente / suivante	Trang trước / sau
+Pause / lecture	Tạm dừng / phát
+Volume +	Âm lượng +
+Volume -	Âm lượng -
+Afficher / masquer le chat	Hiện / ẩn trò chuyện
+Image dans l'image	Hình trong hình
+Système	Hệ thống
+Démarrer avec Windows	Khởi động cùng Windows
+Ouvre l'application à l'ouverture de session	Mở ứng dụng khi đăng nhập
+Cache des images	Bộ nhớ đệm hình ảnh
+Vider	Xóa
+Espace	Phím cách
+Flèche haut	Mũi tên lên
+Flèche bas	Mũi tên xuống
+Flèche gauche	Mũi tên trái
+Flèche droite	Mũi tên phải
+Entrée	Enter
+Jeux en direct	Trò chơi đang trực tiếp
+Aucun live pour ce jeu en ce moment.	Hiện không có buổi trực tiếp nào cho trò chơi này.
+Chaînes recommandées	Kênh đề xuất
+Ajouter aux favoris	Thêm vào yêu thích
+Se déconnecter	Đăng xuất
+En attente de votre accord sur Twitch…	Đang chờ bạn đồng ý trên Twitch…
+Rouvrir la page Twitch	Mở lại trang Twitch
+Connexion à Twitch…	Đang kết nối với Twitch…
+Connectez-vous pour écrire dans le chat.	Hãy đăng nhập để viết trong trò chuyện.
+Se connecter avec Twitch	Đăng nhập bằng Twitch
+La connexion Twitch n'est pas disponible dans cette version.	Đăng nhập bằng Twitch không khả dụng trong phiên bản này.
+Connexion refusée sur Twitch.	Twitch đã từ chối đăng nhập.
+Le code a expiré, recommencez.	Mã đã hết hạn, hãy làm lại.
+Twitch a refusé la connexion.	Twitch đã từ chối đăng nhập.
+Impossible de joindre Twitch. Vérifiez votre connexion.	Không thể kết nối Twitch. Hãy kiểm tra kết nối.
+Twitch a refusé la demande de connexion.	Twitch đã từ chối yêu cầu đăng nhập.
+Composants externes	Thành phần bên ngoài
+Non installé	Chưa cài đặt
+Prêt	Sẵn sàng
+Installer	Cài đặt
+Chemins personnalisés (facultatif)	Đường dẫn tùy chỉnh (không bắt buộc)
+Journaux et diagnostic	Nhật ký và chẩn đoán
+Volume	Âm lượng
+Molette de la souris sur la vidéo = volume	Lăn chuột trên video = âm lượng
+Clic sur la vidéo = pause	Nhấp vào video = tạm dừng
+Volume stable	Âm lượng ổn định
+Limite les écarts de volume entre les chaînes	Giảm chênh lệch âm lượng giữa các kênh
+Vitesse de défilement	Tốc độ cuộn
+Résultats	Kết quả
+Zone de réinitialisation	Khu vực đặt lại
+Réinitialiser	Đặt lại
+Désinstaller	Gỡ cài đặt
+Oui, réinitialiser	Có, đặt lại
+Oui, désinstaller	Có, gỡ cài đặt
+Ouvrir le dossier du journal	Mở thư mục nhật ký
+Connexion au chat…	Đang kết nối trò chuyện…
+Chat connecté	Đã kết nối trò chuyện
+Reconnexion du chat	Đang kết nối lại trò chuyện
+Envoyer un message	Gửi tin nhắn
+Jeton requis pour écrire (Réglages)	Cần mã để viết (Cài đặt)
+Revenir en bas	Về cuối
+Réponse de Twitch inattendue pour ce jeton.	Twitch phản hồi bất thường với mã này.
+Jeton refusé par Twitch (expiré ou invalide).	Twitch từ chối mã (hết hạn hoặc không hợp lệ).
+Connexion refusée avec ce jeton.	Kết nối bằng mã này bị từ chối.
+Bienvenue dans Velka	Chào mừng đến với Velka
+Tout installer	Cài đặt tất cả
+Installation en cours…	Đang cài đặt…
+La chaîne est hors ligne.	Kênh đang ngoại tuyến.
+Pas de connexion à Twitch. Vérifiez votre réseau.	Không kết nối được Twitch. Hãy kiểm tra mạng.
+Le flux met trop de temps à démarrer.	Luồng phát khởi động quá lâu.
+Le flux s'est interrompu :	Luồng phát bị gián đoạn:
+arrêt inattendu	dừng bất ngờ
+Impossible de lancer Streamlink :	Không thể chạy Streamlink:
+Préparation…	Đang chuẩn bị…
+Le rendu OpenGL n'est pas disponible.	Không có kết xuất OpenGL.
+Aucun port local disponible.	Không có cổng cục bộ nào khả dụng.
+Impossible de joindre GitHub :	Không thể kết nối GitHub:
+Réponse GitHub illisible :	Phản hồi GitHub không đọc được:
+Aucune archive compatible dans la dernière version.	Không có tệp nén phù hợp trong phiên bản mới nhất.
+Téléchargement impossible :	Tải xuống thất bại:
+Écriture impossible :	Ghi thất bại:
+Téléchargement interrompu :	Tải xuống bị gián đoạn:
+Le fichier téléchargé est vide.	Tệp đã tải trống.
+Recherche de la dernière version…	Đang tìm phiên bản mới nhất…
+Dossier inaccessible :	Không truy cập được thư mục:
+Téléchargement…	Đang tải xuống…
+Extraction…	Đang giải nén…
+Extraction impossible :	Giải nén thất bại:
+Archive invalide :	Tệp nén không hợp lệ:
+streamlink.exe introuvable dans l'archive.	Không tìm thấy streamlink.exe trong tệp nén.
+Structure d'archive inattendue.	Cấu trúc tệp nén bất thường.
+libmpv-2.dll introuvable dans l'archive.	Không tìm thấy libmpv-2.dll trong tệp nén.
+Installation impossible :	Cài đặt thất bại:
+Fichier installé introuvable ou vide.	Tệp đã cài không có hoặc trống.
+Installé	Đã cài đặt
+Accessibilité	Trợ năng
+Taille de l'interface	Kích thước giao diện
+Mise à l'échelle	Tỷ lệ
+Contraste élevé	Độ tương phản cao
+Automatique	Tự động
+Activé	Bật
+Focus clavier renforcé	Tô đậm tiêu điểm bàn phím
+Couleurs	Màu sắc
+Palette de couleurs	Bảng màu
+Turquoise	Xanh ngọc
+Bleu	Xanh dương
+Vert	Xanh lá
+Orange foncé	Cam đậm
+Rose	Hồng
+Personnalisée	Tùy chỉnh
+Couleur d'accent personnalisée	Màu nhấn tùy chỉnh
+Code couleur	Mã màu
+Rouge	Đỏ
+Exemple	Ví dụ
+Contraste du texte sur l'accent	Độ tương phản của chữ trên màu nhấn
+Conforme	Đạt
+Insuffisant, minimum	Không đủ, tối thiểu
+Couleur non appliquée : le contraste est trop faible.	Chưa áp dụng màu: độ tương phản quá thấp.
+Couleur conforme la plus proche :	Màu đạt chuẩn gần nhất:
+Utiliser cette couleur	Dùng màu này
+Rétablir les couleurs par défaut	Khôi phục màu mặc định
+Mises à jour	Cập nhật
+À jour	Mới nhất
+Mise à jour disponible	Có bản cập nhật
+Chemin personnalisé	Đường dẫn tùy chỉnh
+Version inconnue	Không rõ phiên bản
+Installée :	Đã cài:
+Disponible :	Mới nhất:
+Mise à jour en cours…	Đang cập nhật…
+Redémarrage nécessaire	Cần khởi động lại
+Impossible de vérifier les mises à jour :	Không thể kiểm tra cập nhật:
+Échec de la mise à jour, version précédente conservée :	Cập nhật thất bại, giữ lại phiên bản trước:
+Versions des composants non validées par l'éditeur.	Phiên bản thành phần chưa được nhà phát hành phê duyệt.
+Archive validée introuvable sur GitHub.	Không tìm thấy tệp nén đã phê duyệt trên GitHub.
+Adresse de téléchargement inattendue.	Địa chỉ tải xuống không mong đợi.
+Empreinte du fichier téléchargé incorrecte.	Mã kiểm tra của tệp tải xuống không khớp.
+Téléchargement refusé par le serveur.	Máy chủ đã từ chối tải xuống.
+Fichier reçu invalide (taille ou empreinte différente).	Tệp nhận được không hợp lệ (kích thước hoặc mã kiểm tra không khớp).
+Serveur injoignable :	Không kết nối được máy chủ:
+Remplacement impossible :	Không thể thay thế:
+Relance impossible :	Không thể khởi động lại:
+Impossible de charger libmpv :	Không thể tải libmpv:
+Fonction libmpv manquante :	Thiếu hàm libmpv:
+Le lecteur n'a pas pu démarrer.	Trình phát không thể khởi động.
+Initialisation du lecteur impossible :	Không thể khởi tạo trình phát:
+Rendu vidéo impossible :	Không thể hiển thị video:
+Option du lecteur refusée :	Trình phát từ chối tùy chọn:
+Propriété du lecteur refusée :	Trình phát từ chối thuộc tính:
+Commande du lecteur refusée :	Trình phát từ chối lệnh:
+Se connecter	Đăng nhập
+Autres langues	Ngôn ngữ khác
+Personnaliser	Tùy chỉnh
+Améliorer le contraste	Cải thiện độ tương phản
+Replier le chat	Thu gọn trò chuyện
+Afficher le chat	Hiện trò chuyện
+Qualité maximale proposée par la chaîne, sans réduction.	Chất lượng cao nhất mà kênh cung cấp, không giảm.
+Fenêtre PiP au format de la vidéo	Cửa sổ PiP theo tỷ lệ video
+En mini-fenêtre PiP, la fenêtre prend le format du live pour supprimer les bandes noires.	Trong cửa sổ PiP nhỏ, cửa sổ lấy tỷ lệ khung hình của buổi phát trực tiếp để loại bỏ viền đen.
+spectateur	người xem
+Actualisation en cours	Đang làm mới…
+Qualité	Chất lượng
+Redémarrer l'application	Khởi động lại ứng dụng
+Passer	Bỏ qua
+Suivant	Tiếp
+C'est parti	Bắt đầu thôi
+Chat avec émotes	Chat có emote
+Mini-lecteur et PiP	Trình phát mini và PiP
+Choisissez votre style	Chọn phong cách của bạn
+Couleur d'accent	Màu nhấn
+Réglez la lecture	Thiết lập phát video
+Restez informé	Luôn cập nhật
+Tout se règle aussi plus tard dans les Réglages.	Bạn có thể đổi mọi thứ sau trong Cài đặt.
+Thème et couleur de l'application.	Giao diện và màu của ứng dụng.
+Les réglages les plus utiles, en un coup d'œil.	Các cài đặt hữu ích nhất trong một cái nhìn.
+Ne ratez plus vos streamers préférés.	Không bỏ lỡ streamer yêu thích của bạn.
+Ultra légère et optimisée, parfaite pour jouer en même temps.	Siêu nhẹ và được tối ưu, rất hợp để vừa chơi game vừa xem.
+Revoir le didacticiel	Xem lại phần hướng dẫn
+Le live démarre sans le son ; vous le réactivez quand vous voulez.	Buổi phát trực tiếp bắt đầu không có âm thanh; bạn bật lại bất cứ lúc nào.
+Agrandit ou réduit le texte des messages du chat.	Phóng to hoặc thu nhỏ chữ của tin nhắn trò chuyện.
+Affiche l'heure devant chaque message du chat.	Hiển thị giờ trước mỗi tin nhắn trò chuyện.
+Place le chat à gauche de la vidéo au lieu de la droite.	Đặt khung trò chuyện ở bên trái video thay vì bên phải.
+Favori	Yêu thích
+Aucun favori pour le moment. Cherchez une chaîne puis choisissez « Ajouter aux favoris ».	Chưa có kênh yêu thích. Hãy tìm một kênh rồi chọn “Thêm vào yêu thích”.
+Orange (par défaut)	Cam (mặc định)
+Retirer des favoris	Xóa khỏi yêu thích
+Connexion en cours	Đang kết nối
+Audio du live uniquement	Chỉ âm thanh của buổi phát trực tiếp
+Lecteur au format de la vidéo	Trình phát theo tỷ lệ video
+Dans la fenêtre principale, l'image prend exactement le format du live (coins arrondis, sans bandes autour) et reste centrée.	Ở cửa sổ chính, hình ảnh có đúng tỷ lệ của buổi phát (góc bo tròn, không có dải) và nằm giữa.
+Taille et place d'origine	Kích thước và vị trí ban đầu
+Chaîne ouverte au démarrage	Kênh mở khi khởi động
+Démarrage et fenêtre	Khởi động và cửa sổ
+Son live s'ouvre au lancement si elle est en direct. Sinon, l'accueil s'affiche normalement.	Buổi phát trực tiếp của kênh sẽ mở khi khởi động nếu kênh đang live. Nếu không, trang chủ hiện như thường.
+Nom de la chaîne	Tên kênh
+Au lancement, si cette chaîne est en direct, son live s'ouvre directement dans le lecteur. Hors ligne ou introuvable, l'accueil s'affiche normalement.	Nếu kênh đang live khi khởi động, buổi phát mở thẳng trong trình phát. Offline hoặc không tìm thấy: trang chủ hiện bình thường.
+Enregistrée	Đã lưu
+En attente de messages…	Đang chờ tin nhắn…
+Confirmer la déconnexion	Xác nhận đăng xuất
+Affiche d'abord les lives qui ont le plus de spectateurs.	Hiển thị trước các buổi phát có nhiều người xem nhất.
+Affiche d'abord les lives qui ont le moins de spectateurs.	Hiển thị trước các buổi phát có ít người xem nhất.
+Éclaircit ou assombrit la couleur choisie pour que le texte reste lisible.	Làm sáng hoặc tối màu đã chọn để chữ vẫn dễ đọc.
+Spectateurs : décroissant	Người xem: giảm dần
+Spectateurs : croissant	Người xem: tăng dần
+5 s	5 giây
+10 s	10 giây
+Pour charger vos chaînes suivies, déconnectez-vous puis reconnectez-vous.	Để tải các kênh bạn theo dõi, hãy đăng xuất rồi đăng nhập lại.
+Reconnectez-vous dans Réglages pour afficher vos chaînes suivies sur Twitch.	Hãy đăng nhập lại trong Cài đặt để hiển thị các kênh bạn theo dõi trên Twitch.
+Une page Twitch s'est ouverte. Vérifiez ce code, puis cliquez sur « Autoriser » :	Một trang Twitch đã mở. Hãy kiểm tra mã này rồi nhấp vào “Cho phép”:
+Utilisée en ce moment : redémarrez l'application pour la mettre à jour.	Đang được sử dụng: hãy khởi động lại ứng dụng để cập nhật.
+Réinitialiser remet les réglages, les favoris et l'historique à zéro. Les outils restent installés.	Đặt lại sẽ đưa cài đặt, mục yêu thích và lịch sử về trạng thái ban đầu. Các công cụ vẫn được giữ lại.
+Désinstaller supprime les outils, les réglages, l'historique et le cache, puis ferme l'application.	Gỡ cài đặt sẽ xóa công cụ, cài đặt, lịch sử và bộ nhớ đệm rồi đóng ứng dụng.
+Tout remettre à zéro ? Réglages, favoris et historique seront perdus.	Đặt lại tất cả? Cài đặt, mục yêu thích và lịch sử sẽ bị mất.
+Tout supprimer ? Outils, réglages, historique et cache seront effacés définitivement.	Xóa tất cả? Công cụ, cài đặt, lịch sử và bộ nhớ đệm sẽ bị xóa vĩnh viễn.
+Ce jeton n'a pas le droit d'écrire dans le chat (chat:edit).	Mã thông báo này không có quyền viết trong chat (chat:edit).
+Ils sont installés dans votre dossier utilisateur, sans droits administrateur.	Chúng được cài vào thư mục người dùng của bạn, không cần quyền quản trị.
+libmpv est introuvable. Réinstallez les outils depuis les réglages.	Không tìm thấy libmpv. Hãy cài lại các công cụ từ phần cài đặt.
+Streamlink est introuvable. Réinstallez les outils depuis les réglages.	Không tìm thấy Streamlink. Hãy cài lại các công cụ từ phần cài đặt.
+Afficher le menu	Hiện menu
+Masquer le menu	Ẩn menu
+Chat réservé aux followers	Chat chỉ dành cho người theo dõi
+Échec de la connexion.	Kết nối thất bại.
+Connexion annulée	Đã hủy kết nối
+Rapport de la dernière fermeture inattendue, sans donnée personnelle. Rien n'est envoyé automatiquement.	Báo cáo về lần đóng bất ngờ gần nhất, không có dữ liệu cá nhân. Không có gì được gửi tự động.
+Copier le rapport de plantage	Sao chép báo cáo sự cố
+Rapport copié.	Đã sao chép báo cáo.
+Copier le diagnostic	Sao chép chẩn đoán
+Diagnostic copié.	Đã sao chép chẩn đoán.
+Complet	Đầy đủ
+Réduit	Giảm bớt
+État et version de Streamlink et de libmpv, mise à jour, et chemins personnalisés (facultatifs) vers streamlink.exe et libmpv-2.dll.	Trạng thái và phiên bản của Streamlink và libmpv, cập nhật và đường dẫn tùy chỉnh không bắt buộc tới streamlink.exe và libmpv-2.dll.
+Ouvre le dossier du journal, copie le diagnostic (version, Windows, carte graphique, composants) ou le rapport de plantage local pour le support. Rien n'est envoyé automatiquement.	Mở thư mục nhật ký và sao chép thông tin chẩn đoán (phiên bản, Windows, card đồ họa, thành phần) hoặc báo cáo sự cố cục bộ để gửi bộ phận hỗ trợ. Không có gì được gửi tự động.
+À propos	Giới thiệu
+Version de l'application	Phiên bản ứng dụng
+Décodage vidéo matériel (GPU)	Giải mã video bằng phần cứng (GPU)
+Utile si la vidéo saccade ou si le processeur chauffe. « Automatique » : réglage d'origine de l'application. « Activé » : la carte graphique décode la vidéo, avec retour automatique au décodage normal si elle n'y arrive pas. « Désactivé » : décodage normal par le processeur. Le changement s'applique tout de suite : le live en cours est relancé.	Hữu ích khi video bị giật hoặc bộ xử lý nóng lên. “Tự động”: thiết lập gốc của ứng dụng. “Bật”: card đồ họa giải mã video, tự động quay về giải mã thông thường nếu thất bại. “Tắt”: giải mã thông thường bằng bộ xử lý. Thay đổi có hiệu lực ngay: buổi phát trực tiếp đang chạy sẽ được khởi động lại.
+Périphérique de sortie	Thiết bị đầu ra
+Périphérique par défaut du système	Thiết bị mặc định của hệ thống
+Choisit le casque ou les enceintes pour le son des lives, sans changer le son de Windows. « Périphérique par défaut du système » suit le choix de Windows. Le changement s'applique tout de suite. Si le périphérique choisi disparaît (casque débranché), l'application revient au choix par défaut.	Chọn tai nghe hoặc loa cho âm thanh của buổi phát trực tiếp mà không thay đổi âm thanh của Windows. “Thiết bị mặc định của hệ thống” theo lựa chọn của Windows. Thay đổi có hiệu lực ngay. Nếu thiết bị đã chọn biến mất (rút tai nghe), ứng dụng quay về lựa chọn mặc định.
+Le périphérique audio choisi n'est plus disponible : retour au périphérique par défaut.	Thiết bị âm thanh đã chọn không còn khả dụng: quay về thiết bị mặc định.
+Captures d'écran	Ảnh chụp màn hình
+Dossier d'enregistrement	Thư mục lưu
+Parcourir…	Duyệt…
+Ouvrir le dossier	Mở thư mục
+Dossier où la touche S enregistre les captures d'écran. Par défaut : le dossier « Velka » de vos Images. Le dossier choisi doit accepter l'écriture ; s'il disparaît (disque débranché, dossier supprimé), l'application revient au dossier par défaut. Le changement s'applique à la prochaine capture.	Thư mục nơi phím S lưu ảnh chụp màn hình. Mặc định: thư mục “Velka” trong Hình ảnh của bạn. Thư mục đã chọn phải cho phép ghi; nếu nó biến mất (rút ổ đĩa, xóa thư mục), ứng dụng quay về thư mục mặc định. Thay đổi có hiệu lực ở lần chụp tiếp theo.
+Le dossier des captures n'est plus disponible : retour au dossier par défaut.	Thư mục ảnh chụp màn hình không còn khả dụng: quay về thư mục mặc định.
+Ce dossier n'accepte pas l'écriture : choisissez-en un autre.	Thư mục này không cho phép ghi: hãy chọn thư mục khác.
+Aucun	Không có
+Effacer un raccourci	Xóa phím tắt
+Réduire dans la zone de notification à la fermeture	Thu nhỏ vào khu vực thông báo khi đóng
+L'application reste active en fond pour les notifications	Ứng dụng vẫn chạy nền để gửi thông báo
+La croix de fermeture cache la fenêtre dans la zone de notification (près de l'horloge) au lieu de quitter ; le live en cours est arrêté. Clic gauche sur l'icône : rouvrir. Clic droit : Ouvrir ou Quitter. Pour être prévenu quand un favori passe en direct, activez aussi « Notifications Windows ».	Nút đóng sẽ ẩn cửa sổ vào khu vực thông báo (cạnh đồng hồ) thay vì thoát; buổi phát đang xem sẽ dừng. Nhấp trái vào biểu tượng để mở lại, nhấp phải để chọn Mở hoặc Thoát. Hãy bật cả „Thông báo Windows” để được báo khi kênh yêu thích lên sóng.
+Ouvrir Velka	Mở Velka
+Quitter	Thoát
+Velka reste actif dans la zone de notification. Clic droit sur l'icône pour quitter.	Velka vẫn đang chạy trong khu vực thông báo. Nhấp phải vào biểu tượng để thoát.
+Rechercher des mises à jour	Kiểm tra bản cập nhật
+Vous utilisez la dernière version.	Bạn đang dùng phiên bản mới nhất.
+Mise à jour {version} disponible	Có bản cập nhật {version}
+Impossible de se connecter. Vérifiez votre connexion internet.	Không thể kết nối. Hãy kiểm tra kết nối internet.
+La recherche de mise à jour a échoué.	Kiểm tra cập nhật không thành công.
+Historique des chaînes	Lịch sử kênh
+Effacer l'historique	Xóa lịch sử
+Historique effacé.	Đã xóa lịch sử.
+Ouvrir le dossier de configuration	Mở thư mục cấu hình
+Options du lecteur	Tùy chọn trình phát
+Perso	Tùy chỉnh
+Durée personnalisée	Thời lượng tùy chỉnh
+Ajuster uniquement la taille du texte du chat	Chỉ điều chỉnh cỡ chữ của khung chat
+Ajuster la taille globale de l'interface	Điều chỉnh kích thước tổng thể của giao diện
+Connectez-vous à Twitch pour activer	Đăng nhập Twitch để bật
+Pas de connexion Internet.	Không có kết nối Internet.
+La connexion Internet s'est coupée.	Kết nối Internet đã bị ngắt.
+Licences des composants	Giấy phép của các thành phần
+Le lecteur vidéo utilise libmpv (mpv) et FFmpeg, sous licence LGPL version 2.1 ou ultérieure. Vous pouvez remplacer libmpv par votre propre version dans {section}.	Trình phát video dùng libmpv (mpv) và FFmpeg theo giấy phép LGPL phiên bản 2.1 trở lên. Bạn có thể thay libmpv bằng phiên bản của riêng mình trong mục {section}.
+Code source et compilation	Mã nguồn và tập lệnh biên dịch
+Velka n'a pas pu ouvrir sa fenêtre : la carte graphique ou son pilote ne prend pas en charge OpenGL 3.0. Mettez à jour le pilote de la carte graphique, puis relancez Velka. Sur un bureau à distance ou une machine virtuelle, l'affichage peut ne pas être pris en charge.	Velka không thể mở cửa sổ: card đồ họa hoặc trình điều khiển của nó không hỗ trợ OpenGL 3.0. Hãy cập nhật trình điều khiển card đồ họa rồi khởi động lại Velka. Trên máy tính từ xa hoặc máy ảo, hiển thị có thể không được hỗ trợ.
+La carte graphique n'annonce pas OpenGL 3.0 : la vidéo peut rester noire. Mettez à jour le pilote de la carte graphique. Sur un bureau à distance ou une machine virtuelle, l'affichage peut ne pas être pris en charge.	Card đồ họa không báo hỗ trợ OpenGL 3.0: video có thể bị đen. Hãy cập nhật trình điều khiển card đồ họa. Trên máy tính từ xa hoặc máy ảo, hiển thị có thể không được hỗ trợ.
+Démarrer avec macOS	Khởi động cùng macOS
+Démarrer avec Linux	Khởi động cùng Linux
+Lance Velka automatiquement quand vous ouvrez votre session macOS.	Tự khởi động Velka khi bạn đăng nhập macOS.
+Lance Velka automatiquement quand vous ouvrez votre session Linux.	Tự khởi động Velka khi bạn đăng nhập Linux.
+Notifications macOS	Thông báo macOS
+Notifications Linux	Thông báo Linux
+Affiche une notification macOS quand l'un de vos favoris passe en direct. L'application doit rester ouverte (elle peut être réduite).	Hiện thông báo macOS khi một kênh yêu thích bắt đầu trực tiếp. Ứng dụng phải luôn mở (có thể thu nhỏ).
+Affiche une notification Linux quand l'un de vos favoris passe en direct. L'application doit rester ouverte (elle peut être réduite).	Hiện thông báo Linux khi một kênh yêu thích bắt đầu trực tiếp. Ứng dụng phải luôn mở (có thể thu nhỏ).
+Multistream	Đa luồng
+Regardez jusqu'à 4 lives en même temps.	Xem tối đa 4 buổi phát trực tiếp cùng lúc.
+Ajouter une chaîne	Thêm kênh
+Ajouter	Thêm
+Tout arrêter	Dừng tất cả
+Cette chaîne est déjà affichée.	Kênh này đã được hiển thị.
+4 lives au maximum.	Tối đa 4 buổi phát trực tiếp.
+Ajoutez une chaîne pour commencer.	Thêm một kênh để bắt đầu.
+Retirer ce live	Gỡ buổi phát này
+Écouter ce live	Nghe buổi phát này
+Cumuler le son des lives en Multistream	Kết hợp âm thanh các buổi phát trong Đa luồng
+Un clic sur un live ajoute son son au lieu de le remplacer	Nhấp vào một buổi phát sẽ thêm âm thanh thay vì thay thế
+Sur la page Multistream, un clic sur un live fait entendre son son en plus de ceux déjà écoutés, jusqu'aux quatre lives. Le bouton du son de chaque live le coupe.	Trên trang Đa luồng, nhấp vào một buổi phát sẽ phát âm thanh của nó cùng với các buổi phát đang nghe, tối đa cả bốn buổi phát. Nút âm thanh của mỗi buổi phát sẽ tắt tiếng buổi đó.
+Couper tous les sons	Tắt tất cả âm thanh
+Lecteur Twitch léger avec multistream, chat et notifications.	Trình phát Twitch nhẹ với multistream, chat và thông báo.
+Quelques composants sont nécessaires pour lire les lives Twitch.	Cần một vài thành phần để phát các buổi phát trực tiếp Twitch.
+Logiciel libre sous licence GPL-3.0 ou ultérieure.	Phần mềm tự do theo giấy phép GPL-3.0 hoặc mới hơn.
+Application non affiliée à Twitch.	Ứng dụng không liên kết với Twitch.
+Code source sur GitHub	Mã nguồn trên GitHub
+Soutenir le projet	Ủng hộ dự án
+La connexion Twitch n'a pas pu être enregistrée de façon sécurisée (trousseau du système indisponible) : elle sera perdue à la fermeture de Velka.	Không thể lưu đăng nhập Twitch một cách an toàn (chuỗi khóa hệ thống không khả dụng): đăng nhập sẽ mất khi đóng Velka.
+Velka est gratuit et le restera. Si l'application vous plaît, un petit don aide à la faire vivre.	Velka miễn phí và sẽ luôn như vậy. Nếu bạn thích ứng dụng, một khoản ủng hộ nhỏ giúp duy trì nó.
+Plus tard	Để sau
+Rappel pour soutenir le projet	Nhắc ủng hộ dự án
+Affiche de temps en temps sur l'accueil, au plus une fois par mois, un message avec un lien pour soutenir le projet.	Thỉnh thoảng hiển thị trên trang chủ, tối đa một lần mỗi tháng, một thông báo kèm liên kết để ủng hộ dự án.

@@ -1,0 +1,535 @@
+Aide	Nápověda
+Réduire	Minimalizovat
+Agrandir	Maximalizovat
+Restaurer	Obnovit
+Fermer	Zavřít
+Échap	Esc
+Français	Francouzština
+Anglais	Angličtina
+Espagnol	Španělština
+Portugais	Portugalština
+Allemand	Němčina
+Italien	Italština
+Néerlandais	Nizozemština
+Polonais	Polština
+Russe	Ruština
+Ukrainien	Ukrajinština
+Turc	Turečtina
+Vietnamien	Vietnamština
+Indonésien	Indonéština
+Chinois simplifié	Zjednodušená čínština
+Chinois traditionnel	Tradiční čínština
+Japonais	Japonština
+Coréen	Korejština
+Tchèque	Čeština
+Roumain	Rumunština
+Hongrois	Maďarština
+Suédois	Švédština
+Danois	Dánština
+Norvégien	Norština
+Finnois	Finština
+Grec	Řečtina
+Annuler	Zrušit
+spectateurs	diváků
+Hors ligne	Offline
+Cette chaîne n'existe pas.	Tento kanál neexistuje.
+Statut indisponible, vous pouvez quand même essayer.	Stav není dostupný, přesto to můžete zkusit.
+Accueil	Domů
+En direct	Živě
+chaînes	kanálů
+Favoris	Oblíbené
+Spectateurs	Diváci
+au total	celkem
+Résultat	Výsledek
+Vérification…	Ověřování…
+Regarder	Sledovat
+Nom de chaîne invalide.	Neplatný název kanálu.
+En direct parmi vos favoris	Živě z oblíbených
+Aucun favori en direct pour le moment.	Teď nevysílá žádný oblíbený kanál.
+Récents	Nedávné
+Retirer de l'historique	Odebrat z historie
+Rechercher	Hledat
+Plateforme	Platforma
+Réglages	Nastavení
+Quitter le PiP	Ukončit PiP
+Reprise dans un instant…	Za chvíli pokračujeme…
+Retour	Zpět
+Arrêter	Zastavit
+Quitter le plein écran	Ukončit celou obrazovku
+Plein écran	Celá obrazovka
+Lecture	Přehrát
+Réactiver le son	Zapnout zvuk
+Couper le son	Ztlumit
+Chat	Chat
+Changement de qualité…	Změna kvality…
+Réessayer	Zkusit znovu
+depuis	od
+connexion…	připojování…
+changement de qualité…	změna kvality…
+interrompu	přerušeno
+Lecture vidéo	Přehrávání videa
+Qualité par défaut	Výchozí kvalita
+Faible latence	Nízká latence
+Désactiver pour un flux plus stable	Vypněte pro stabilnější stream
+Réduire la barre latérale	Sbalit boční panel
+Agrandir la barre latérale	Rozbalit boční panel
+Chat à gauche de la vidéo	Chat vlevo od videa
+Toujours au premier plan	Vždy navrchu
+Chat en surimpression en plein écran	Chat přes video na celé obrazovce
+Apparence	Vzhled
+Général	Obecné
+Thème	Motiv
+Langue	Jazyk
+Sombre	Břidlicový
+Dark	Tmavý
+Clair	Světlý
+Compte Twitch	Účet Twitch
+Connecté en tant que	Přihlášeno jako
+Vous pouvez écrire dans le chat.	Můžete psát do chatu.
+chaînes suivies sur Twitch chargées.	sledovaných kanálů Twitch načteno.
+Impossible de charger vos chaînes suivies pour le moment.	Sledované kanály teď nelze načíst.
+Chargement de vos chaînes suivies…	Načítání sledovaných kanálů…
+En direct parmi vos chaînes suivies sur Twitch	Živě ze sledovaných kanálů Twitch
+Suivies sur Twitch	Sledované na Twitchi
+Prévient quand un favori passe en direct	Upozorní, když oblíbený kanál začne vysílat
+Activé : vos favoris sont vérifiés toutes les minutes en arrière-plan, même pendant un live. Cela utilise un peu plus d'internet et de mémoire.	Zapnuto: oblíbené se kontrolují každou minutu na pozadí, i během sledování. Spotřebuje to o něco víc internetu a paměti.
+Chaînes dans la barre latérale	Kanály v bočním panelu
+Chaînes sur l'accueil	Kanály na domovské stránce
+Qualité utilisée à l'ouverture d'un live. « Source » est la qualité maximale de la chaîne ; « Audio » ne joue que le son.	Kvalita při otevření streamu. „Source“ je nejvyšší kvalita kanálu; „Audio“ přehrává jen zvuk.
+Réduit le retard entre le streamer et vous. Désactivez-le si la vidéo saccade ou se coupe.	Zkracuje zpoždění za streamerem. Vypněte, pokud se video seká nebo vypadává.
+Garde la fenêtre devant toutes les autres applications.	Drží okno před všemi ostatními aplikacemi.
+Affiche le chat par-dessus la vidéo quand vous êtes en plein écran.	Na celé obrazovce zobrazí chat přes video.
+Faire rouler la molette au-dessus de la vidéo monte ou baisse le volume.	Kolečko myši nad videem zvyšuje nebo snižuje hlasitost.
+Un clic sur la vidéo met en pause ou relance la lecture.	Kliknutí na video pozastaví nebo obnoví přehrávání.
+Garde un niveau sonore régulier (normalisation du son) : relève les passages faibles et atténue les passages forts, d'une chaîne à l'autre et au sein d'un même live.	Udržuje stálou úroveň zvuku (normalizace zvuku): zesiluje tiché pasáže a tlumí hlasité, mezi kanály i v rámci jednoho vysílání.
+Vitesse de la molette dans les listes et dans le chat. À 1,0 ×, un cran de molette fait défiler 3 lignes de 75 px, de façon fluide.	Rychlost kolečka v seznamech a v chatu. Při 1,0 × jeden krok plynule posune 3 řádky po 75 px.
+À chaque lancement, l'application démarre avec le volume choisi ci-dessous, au lieu du dernier volume réglé.	Při každém spuštění aplikace začne s hlasitostí zvolenou níže místo naposledy nastavené.
+100 % = volume normal. 130 % permet d'amplifier une chaîne trop silencieuse, mais le son peut saturer.	100 % = běžná hlasitost. 130 % zesílí příliš tichý kanál, ale zvuk se může zkreslit.
+Temps sans bouger la souris avant que les boutons posés sur la vidéo disparaissent.	Doba bez pohybu myši, po které tlačítka nad videem zmizí.
+Quand vous quittez la page d'un live avec « Retour », il continue dans une petite fenêtre en bas à droite. Désactivé : il s'arrête.	Když stránku streamu opustíte tlačítkem „Zpět“, pokračuje v malém okně vpravo dole. Vypnuto: zastaví se.
+Fréquence à laquelle l'accueil vérifie quelles chaînes sont en direct. Plus c'est rapide, plus cela utilise internet. « Manuelle » : seulement avec le bouton Actualiser.	Jak často domovská stránka kontroluje, které kanály vysílají. Čím rychleji, tím víc internetu. „Ručně“: jen tlačítkem Aktualizovat.
+Télécharge une image du direct pour chaque carte. Désactivez pour économiser des données.	Stáhne obrázek ze streamu pro každou kartu. Vypněte pro úsporu dat.
+Les chaînes que vous suivez sur votre compte Twitch (il faut être connecté dans la carte « Compte Twitch »).	Kanály, které sledujete na svém účtu Twitch (musíte být přihlášeni v kartě „Účet Twitch“).
+Nombre maximum de chaînes Twitch en direct listées dans la barre de gauche (ce n'est pas un délai).	Nejvyšší počet živých kanálů Twitch v levém panelu (nejde o čas).
+Nombre maximum de chaînes Twitch en direct affichées sur la page d'accueil (ce n'est pas un délai).	Nejvyšší počet živých kanálů Twitch na domovské stránce (nejde o čas).
+Garde le jeu sélectionné dans la barre « Jeux en direct » au prochain lancement.	Zapamatuje si hru vybranou v liště „Živé hry“ pro příští spuštění.
+Ouvrir : le live s'affiche en grand. PiP : il s'ouvre directement dans une petite fenêtre flottante.	Otevřít: stream se zobrazí velký. PiP: otevře se rovnou v malém plovoucím okně.
+Les messages qui contiennent un de ces mots (séparés par des virgules) sont surlignés en jaune dans le chat.	Zprávy s některým z těchto slov (oddělených čárkami) se v chatu zvýrazní žlutě.
+Quand une chaîne est hors ligne ou que son live se termine, propose d'autres lives : vos chaînes suivies du même jeu d'abord.	Když je kanál offline nebo stream skončí, nabídne jiné streamy: nejdřív sledované kanály se stejnou hrou.
+Nombre de chaînes proposées quand un live est hors ligne ou terminé.	Počet nabízených kanálů, když je stream offline nebo skončil.
+Les boutons latéraux de la souris changent de page, comme dans un navigateur. Alt + flèche gauche ou droite fait pareil.	Boční tlačítka myši přepínají stránky jako v prohlížeči. Alt + šipka vlevo nebo vpravo udělá totéž.
+Le pointeur devient une main au-dessus des boutons et des cartes.	Ukazatel se nad tlačítky a kartami změní v ruku.
+Complet : fondus, glissements, cascades et compteurs animés. Réduit : fondus et changements de couleur seulement, sans déplacement. Désactivé : aucune animation (utile sur un ordinateur lent). Le réglage d'animations de Windows n'est pas pris en compte.	Plné: prolínání, posuny, kaskády a animované čítače. Omezené: jen prolínání a změny barev, bez pohybu. Vypnuto: žádné animace (vhodné pro pomalý počítač). Nastavení animací ve Windows se nebere v úvahu.
+Affiche une notification Windows quand l'un de vos favoris passe en direct. L'application doit rester ouverte (elle peut être réduite).	Zobrazí oznámení Windows, když některý oblíbený kanál začne vysílat. Aplikace musí zůstat otevřená (může být minimalizovaná).
+Lance Velka automatiquement quand vous ouvrez votre session Windows.	Spustí Velka automaticky po přihlášení do Windows.
+Photos de profil et émotes déjà téléchargées. Les vider libère de la place ; elles se retéléchargent au besoin.	Již stažené profilové obrázky a emoty. Vymazání uvolní místo; v případě potřeby se stáhnou znovu.
+Notifications Windows	Oznámení Windows
+Prévient quand un favori passe en direct. Vérifie vos favoris toutes les minutes, même pendant un live : utilise un peu plus d'internet et de mémoire.	Upozorní, když oblíbený kanál začne vysílat. Kontroluje oblíbené každou minutu, i během sledování: spotřebuje o něco víc internetu a paměti.
+Envoyer une notification de test	Odeslat zkušební oznámení
+est en direct	vysílá živě
+Notification de test : tout fonctionne.	Zkušební oznámení: vše funguje.
+Volume et lecteur	Hlasitost a přehrávač
+Démarrer en muet	Spouštět ztlumené
+Volume fixe au lancement	Pevná hlasitost při spuštění
+Sinon : le dernier volume utilisé	Jinak: naposledy použitá hlasitost
+Volume au lancement	Hlasitost při spuštění
+Volume maximum	Maximální hlasitost
+Masquage des contrôles	Skrytí ovládacích prvků
+Jamais	Nikdy
+Capture d'écran	Snímek obrazovky
+Infos techniques	Technické informace
+Capture enregistrée :	Snímek uložen:
+Capture impossible.	Snímek nelze pořídit.
+Minuteur de veille	Časovač vypnutí
+Désactivé	Vypnuto
+Arrêt du live dans	Stream se zastaví za
+logiciel	softwarové
+Résolution	Rozlišení
+Images par seconde	Snímky za sekundu
+Débit vidéo	Datový tok videa
+Débit audio	Datový tok zvuku
+Images perdues	Ztracené snímky
+Images perdues au décodage	Snímky ztracené při dekódování
+Mémoire tampon	Vyrovnávací paměť
+Format vidéo	Formát videa
+Décodage	Dekódování
+Arrête le live automatiquement après la durée choisie, à partir du moment où vous changez ce réglage. Une minute avant, un compte à rebours s'affiche sur la vidéo. Le minuteur revient sur Désactivé à chaque nouveau live et à chaque lancement de l'application.	Po zvolené době živý přenos automaticky zastaví, počítáno od chvíle, kdy toto nastavení změníte. Minutu předem se na videu zobrazí odpočet. Časovač se při každém novém přenosu a při každém spuštění aplikace vrátí na Vypnuto.
+Émotes 7TV, BTTV et FFZ	Emoty 7TV, BTTV a FFZ
+Émotes animées	Animované emoty
+Badges du chat	Odznaky v chatu
+Affiche les émotes des extensions 7TV, BetterTTV et FrankerFaceZ (globales et propres à la chaîne). Elles sont chargées à l'ouverture du live.	Zobrazí emoty z rozšíření 7TV, BetterTTV a FrankerFaceZ (globální i kanálu). Načtou se při otevření streamu.
+Anime les émotes qui le sont (Twitch et extensions). Utilise un peu plus le processeur quand le chat en affiche.	Animuje animované emoty (Twitch a rozšíření). Když je chat zobrazuje, trochu víc zatěžuje procesor.
+Affiche les badges (abonné, modérateur, VIP…) devant les pseudos.	Zobrazí odznaky (odběratel, moderátor, VIP…) před jmény.
+Netteté de l'image	Ostrost obrazu
+Agrandissement de haute qualité	Kvalitní zvětšení
+Désactivée	Vypnuto
+Légère	Slabá
+Moyenne	Střední
+Forte	Silná
+Image plus fine en 480p et 720p	Jemnější obraz v 480p a 720p
+Renforce les contours de l'image (calculé par la carte graphique). Utile sur un flux flou ; trop fort, l'image paraît granuleuse.	Zvýrazní obrysy obrazu (počítá grafická karta). Hodí se pro rozmazaný stream; příliš silná ostrost dělá obraz zrnitý.
+Utilise un filtre d'agrandissement plus fin quand la vidéo est plus petite que la fenêtre (480p, 720p). Demande davantage à la carte graphique.	Použije jemnější filtr zvětšení, když je video menší než okno (480p, 720p). Víc zatěžuje grafickou kartu.
+Compte	Účet
+Qualité et flux	Kvalita a stream
+Audio	Zvuk
+Lecteur et comportement	Přehrávač a chování
+Affichage et lisibilité	Zobrazení a čitelnost
+Filtrage et alertes	Filtrování a upozornění
+Notifications	Oznámení
+Avancé et Système	Pokročilé a systém
+Stockage et configuration	Úložiště a konfigurace
+Émotes et badges	Emoty a odznaky
+Les changements s'appliquent tout de suite.	Změny platí okamžitě.
+2,5 s	2,5 s
+Mo	MB
+Ko	kB
+Rechercher un réglage	Hledat nastavení
+Résultats de la recherche	Výsledky hledání
+Aucun réglage trouvé.	Žádné nastavení nenalezeno.
+Mini-lecteur	Minipřehrávač
+Garder le live dans un coin quand on quitte la page	Ponechat stream v rohu po opuštění stránky
+Accueil et barre latérale	Domovská stránka a boční panel
+Actualisation	Obnovování
+Manuelle	Ručně
+Actualiser	Aktualizovat
+Aperçus des lives	Náhledy streamů
+Images du direct sur les cartes	Obrázky ze streamu na kartách
+Chaînes suivies sur Twitch	Sledované kanály Twitch
+Dans la barre latérale, sur l'accueil et dans les recommandations	V bočním panelu, na domovské stránce a v doporučeních
+Dans la barre latérale	V bočním panelu
+Sur l'accueil	Na domovské stránce
+Se souvenir du jeu choisi	Pamatovat si zvolenou hru
+Clic sur une carte	Kliknutí na kartu
+Ouvrir	Otevřít
+Taille du texte	Velikost textu
+Masquer les bots	Skrýt boty
+Horodatage des messages	Čas zpráv
+Mots surlignés	Zvýrazněná slova
+mot, pseudo… (séparés par des virgules)	slovo, jméno… (oddělené čárkami)
+Recommandations	Doporučení
+Recommandations de chaînes	Doporučené kanály
+Proposer des chaînes quand un live est hors ligne ou terminé	Nabídnout kanály, když je stream offline nebo skončil
+Nombre de recommandations	Počet doporučení
+Mouvement et lisibilité	Pohyb a čitelnost
+Navigation et souris	Navigace a myš
+Vérification des mises à jour	Kontrola aktualizací
+Nouvelle version disponible :	Je dostupná nová verze:
+Mettre à jour	Aktualizovat
+Téléchargement de la mise à jour…	Stahování aktualizace…
+Mise à jour impossible :	Aktualizace se nezdařila:
+Boutons Précédent / Suivant de la souris	Tlačítka myši Zpět / Vpřed
+Main sur les éléments cliquables	Ruka nad klikatelnými prvky
+Animations	Animace
+Raccourcis clavier	Klávesové zkratky
+Appuyez sur une touche…	Stiskněte klávesu…
+Rétablir les raccourcis	Obnovit zkratky
+Raccourcis non modifiables	Pevné zkratky
+Quitter le plein écran, le PiP ou le live	Ukončit celou obrazovku, PiP nebo živé vysílání
+Rechercher une chaîne	Vyhledat kanál
+Zoom de l'interface	Přiblížení rozhraní
+Page précédente / suivante	Předchozí / další stránka
+Pause / lecture	Pozastavit / přehrát
+Volume +	Hlasitost +
+Volume -	Hlasitost -
+Afficher / masquer le chat	Zobrazit / skrýt chat
+Image dans l'image	Obraz v obraze
+Système	Systém
+Démarrer avec Windows	Spouštět s Windows
+Ouvre l'application à l'ouverture de session	Otevře aplikaci po přihlášení
+Cache des images	Mezipaměť obrázků
+Vider	Vymazat
+Espace	Mezerník
+Flèche haut	Šipka nahoru
+Flèche bas	Šipka dolů
+Flèche gauche	Šipka vlevo
+Flèche droite	Šipka vpravo
+Entrée	Enter
+Jeux en direct	Živé hry
+Aucun live pour ce jeu en ce moment.	Tuto hru teď nikdo nevysílá.
+Chaînes recommandées	Doporučené kanály
+Ajouter aux favoris	Přidat do oblíbených
+Se déconnecter	Odhlásit se
+En attente de votre accord sur Twitch…	Čekání na váš souhlas na Twitchi…
+Rouvrir la page Twitch	Znovu otevřít stránku Twitch
+Connexion à Twitch…	Připojování k Twitchi…
+Connectez-vous pour écrire dans le chat.	Pro psaní do chatu se přihlaste.
+Se connecter avec Twitch	Přihlásit přes Twitch
+La connexion Twitch n'est pas disponible dans cette version.	Přihlášení přes Twitch není v této verzi dostupné.
+Connexion refusée sur Twitch.	Twitch přihlášení odmítl.
+Le code a expiré, recommencez.	Platnost kódu vypršela, začněte znovu.
+Twitch a refusé la connexion.	Twitch odmítl přihlášení.
+Impossible de joindre Twitch. Vérifiez votre connexion.	Twitch není dostupný. Zkontrolujte připojení.
+Twitch a refusé la demande de connexion.	Twitch odmítl žádost o přihlášení.
+Composants externes	Externí komponenty
+Non installé	Nenainstalováno
+Prêt	Připraveno
+Installer	Nainstalovat
+Chemins personnalisés (facultatif)	Vlastní cesty (volitelné)
+Journaux et diagnostic	Protokoly a diagnostika
+Volume	Hlasitost
+Molette de la souris sur la vidéo = volume	Kolečko myši na videu = hlasitost
+Clic sur la vidéo = pause	Kliknutí na video = pauza
+Volume stable	Stabilní hlasitost
+Limite les écarts de volume entre les chaînes	Omezuje rozdíly v hlasitosti mezi kanály
+Vitesse de défilement	Rychlost posouvání
+Résultats	Výsledky
+Zone de réinitialisation	Zóna resetování
+Réinitialiser	Obnovit výchozí
+Désinstaller	Odinstalovat
+Oui, réinitialiser	Ano, obnovit výchozí
+Oui, désinstaller	Ano, odinstalovat
+Ouvrir le dossier du journal	Otevřít složku protokolu
+Connexion au chat…	Připojování k chatu…
+Chat connecté	Chat připojen
+Reconnexion du chat	Opětovné připojování chatu
+Envoyer un message	Odeslat zprávu
+Jeton requis pour écrire (Réglages)	Pro psaní je potřeba token (Nastavení)
+Revenir en bas	Zpět dolů
+Réponse de Twitch inattendue pour ce jeton.	Neočekávaná odpověď Twitche pro tento token.
+Jeton refusé par Twitch (expiré ou invalide).	Twitch token odmítl (vypršel nebo je neplatný).
+Connexion refusée avec ce jeton.	Připojení s tímto tokenem bylo odmítnuto.
+Bienvenue dans Velka	Vítejte v Velka
+Tout installer	Nainstalovat vše
+Installation en cours…	Instalace…
+La chaîne est hors ligne.	Kanál je offline.
+Pas de connexion à Twitch. Vérifiez votre réseau.	Bez spojení s Twitchem. Zkontrolujte síť.
+Le flux met trop de temps à démarrer.	Spuštění streamu trvá příliš dlouho.
+Le flux s'est interrompu :	Stream byl přerušen:
+arrêt inattendu	nečekané zastavení
+Impossible de lancer Streamlink :	Streamlink nelze spustit:
+Préparation…	Příprava…
+Le rendu OpenGL n'est pas disponible.	Vykreslování OpenGL není dostupné.
+Aucun port local disponible.	Není volný žádný místní port.
+Impossible de joindre GitHub :	GitHub není dostupný:
+Réponse GitHub illisible :	Nečitelná odpověď GitHubu:
+Aucune archive compatible dans la dernière version.	V nejnovější verzi není kompatibilní archiv.
+Téléchargement impossible :	Stažení se nezdařilo:
+Écriture impossible :	Zápis se nezdařil:
+Téléchargement interrompu :	Stahování přerušeno:
+Le fichier téléchargé est vide.	Stažený soubor je prázdný.
+Recherche de la dernière version…	Hledání nejnovější verze…
+Dossier inaccessible :	Složka není přístupná:
+Téléchargement…	Stahování…
+Extraction…	Rozbalování…
+Extraction impossible :	Rozbalení se nezdařilo:
+Archive invalide :	Neplatný archiv:
+streamlink.exe introuvable dans l'archive.	V archivu nebyl nalezen streamlink.exe.
+Structure d'archive inattendue.	Nečekaná struktura archivu.
+libmpv-2.dll introuvable dans l'archive.	V archivu nebyl nalezen libmpv-2.dll.
+Installation impossible :	Instalace se nezdařila:
+Fichier installé introuvable ou vide.	Nainstalovaný soubor chybí nebo je prázdný.
+Installé	Nainstalováno
+Accessibilité	Přístupnost
+Taille de l'interface	Velikost rozhraní
+Mise à l'échelle	Měřítko
+Contraste élevé	Vysoký kontrast
+Automatique	Automaticky
+Activé	Zapnuto
+Focus clavier renforcé	Zvýrazněné zaměření klávesnice
+Couleurs	Barvy
+Palette de couleurs	Barevná paleta
+Turquoise	Tyrkysová
+Bleu	Modrá
+Vert	Zelená
+Orange foncé	Tmavě oranžová
+Rose	Růžová
+Personnalisée	Vlastní
+Couleur d'accent personnalisée	Vlastní akcentová barva
+Code couleur	Kód barvy
+Rouge	Červená
+Exemple	Ukázka
+Contraste du texte sur l'accent	Kontrast textu na zvýrazňovací barvě
+Conforme	Vyhovuje
+Insuffisant, minimum	Nedostatečné, minimum
+Couleur non appliquée : le contraste est trop faible.	Barva nebyla použita: kontrast je příliš nízký.
+Couleur conforme la plus proche :	Nejbližší vyhovující barva:
+Utiliser cette couleur	Použít tuto barvu
+Rétablir les couleurs par défaut	Obnovit výchozí barvy
+Mises à jour	Aktualizace
+À jour	Aktuální
+Mise à jour disponible	Je dostupná aktualizace
+Chemin personnalisé	Vlastní cesta
+Version inconnue	Neznámá verze
+Installée :	Nainstalováno:
+Disponible :	Dostupné:
+Mise à jour en cours…	Probíhá aktualizace…
+Redémarrage nécessaire	Nutný restart
+Impossible de vérifier les mises à jour :	Aktualizace se nepodařilo zkontrolovat:
+Échec de la mise à jour, version précédente conservée :	Aktualizace selhala, předchozí verze zachována:
+Versions des composants non validées par l'éditeur.	Verze součástí nejsou schváleny vydavatelem.
+Archive validée introuvable sur GitHub.	Schválený archiv nebyl na GitHubu nalezen.
+Adresse de téléchargement inattendue.	Neočekávaná adresa stahování.
+Empreinte du fichier téléchargé incorrecte.	Kontrolní součet staženého souboru nesouhlasí.
+Téléchargement refusé par le serveur.	Server stahování odmítl.
+Fichier reçu invalide (taille ou empreinte différente).	Přijatý soubor je neplatný (velikost nebo kontrolní součet se neshodují).
+Serveur injoignable :	Server není dostupný:
+Remplacement impossible :	Nahrazení se nezdařilo:
+Relance impossible :	Restart se nezdařil:
+Impossible de charger libmpv :	Knihovnu libmpv se nepodařilo načíst:
+Fonction libmpv manquante :	Chybí funkce knihovny libmpv:
+Le lecteur n'a pas pu démarrer.	Přehrávač se nepodařilo spustit.
+Initialisation du lecteur impossible :	Přehrávač se nepodařilo inicializovat:
+Rendu vidéo impossible :	Video se nepodařilo vykreslit:
+Option du lecteur refusée :	Přehrávač odmítl volbu:
+Propriété du lecteur refusée :	Přehrávač odmítl vlastnost:
+Commande du lecteur refusée :	Přehrávač odmítl příkaz:
+Se connecter	Přihlásit se
+Autres langues	Další jazyky
+Personnaliser	Přizpůsobit
+Améliorer le contraste	Zlepšit kontrast
+Replier le chat	Sbalit chat
+Afficher le chat	Zobrazit chat
+Qualité maximale proposée par la chaîne, sans réduction.	Nejvyšší kvalita, kterou kanál nabízí, bez zmenšení.
+Fenêtre PiP au format de la vidéo	Okno PiP ve formátu videa
+En mini-fenêtre PiP, la fenêtre prend le format du live pour supprimer les bandes noires.	V okně PiP má okno poměr stran živého vysílání, aby zmizely černé pruhy.
+spectateur	divák
+Actualisation en cours	Aktualizace…
+Qualité	Kvalita
+Redémarrer l'application	Restartovat aplikaci
+Passer	Přeskočit
+Suivant	Další
+C'est parti	Jdeme na to
+Chat avec émotes	Chat s emotikony
+Mini-lecteur et PiP	Mini přehrávač a PiP
+Choisissez votre style	Vyberte si styl
+Couleur d'accent	Barva zvýraznění
+Réglez la lecture	Nastavte přehrávání
+Restez informé	Buďte v obraze
+Tout se règle aussi plus tard dans les Réglages.	Vše můžete později změnit v Nastavení.
+Thème et couleur de l'application.	Motiv a barva aplikace.
+Les réglages les plus utiles, en un coup d'œil.	Nejužitečnější nastavení na první pohled.
+Ne ratez plus vos streamers préférés.	Už nezmeškáte své oblíbené streamery.
+Ultra légère et optimisée, parfaite pour jouer en même temps.	Ultralehká a optimalizovaná, ideální při hraní her.
+Revoir le didacticiel	Znovu zobrazit úvod
+Le live démarre sans le son ; vous le réactivez quand vous voulez.	Živé vysílání začne bez zvuku; zapnete ho, kdy chcete.
+Agrandit ou réduit le texte des messages du chat.	Zvětší nebo zmenší text zpráv v chatu.
+Affiche l'heure devant chaque message du chat.	Zobrazí čas před každou zprávou v chatu.
+Place le chat à gauche de la vidéo au lieu de la droite.	Umístí chat vlevo od videa místo vpravo.
+Favori	Oblíbené
+Aucun favori pour le moment. Cherchez une chaîne puis choisissez « Ajouter aux favoris ».	Zatím žádné oblíbené. Vyhledejte kanál a zvolte „Přidat do oblíbených“.
+Orange (par défaut)	Oranžová (výchozí)
+Retirer des favoris	Odebrat z oblíbených
+Connexion en cours	Připojování
+Audio du live uniquement	Pouze zvuk živého vysílání
+Lecteur au format de la vidéo	Přehrávač ve formátu videa
+Dans la fenêtre principale, l'image prend exactement le format du live (coins arrondis, sans bandes autour) et reste centrée.	V hlavním okně má obraz přesně formát vysílání (zaoblené rohy, bez pruhů kolem) a je vystředěný.
+Taille et place d'origine	Původní velikost a poloha
+Chaîne ouverte au démarrage	Kanál otevřený při spuštění
+Démarrage et fenêtre	Spuštění a okno
+Son live s'ouvre au lancement si elle est en direct. Sinon, l'accueil s'affiche normalement.	Jeho živý přenos se při spuštění otevře, pokud je kanál online. Jinak se zobrazí úvodní stránka.
+Nom de la chaîne	Název kanálu
+Au lancement, si cette chaîne est en direct, son live s'ouvre directement dans le lecteur. Hors ligne ou introuvable, l'accueil s'affiche normalement.	Pokud je kanál při spuštění online, jeho přenos se otevře přímo v přehrávači. Offline nebo nenalezený: zobrazí se úvodní stránka.
+Enregistrée	Uloženo
+En attente de messages…	Čekání na zprávy…
+Confirmer la déconnexion	Potvrdit odhlášení
+Affiche d'abord les lives qui ont le plus de spectateurs.	Nejdříve zobrazí vysílání s nejvíce diváky.
+Affiche d'abord les lives qui ont le moins de spectateurs.	Nejdříve zobrazí vysílání s nejméně diváky.
+Éclaircit ou assombrit la couleur choisie pour que le texte reste lisible.	Zesvětlí nebo ztmaví zvolenou barvu, aby zůstal text čitelný.
+Spectateurs : décroissant	Diváci: sestupně
+Spectateurs : croissant	Diváci: vzestupně
+5 s	5 s
+10 s	10 s
+Pour charger vos chaînes suivies, déconnectez-vous puis reconnectez-vous.	Chcete-li načíst sledované kanály, odhlaste se a znovu přihlaste.
+Reconnectez-vous dans Réglages pour afficher vos chaînes suivies sur Twitch.	Znovu se přihlaste v části Nastavení, aby se zobrazily sledované kanály na Twitchi.
+Une page Twitch s'est ouverte. Vérifiez ce code, puis cliquez sur « Autoriser » :	Otevřela se stránka Twitche. Zkontrolujte tento kód a klikněte na „Autorizovat“:
+Utilisée en ce moment : redémarrez l'application pour la mettre à jour.	Právě se používá: restartujte aplikaci, aby se aktualizovala.
+Réinitialiser remet les réglages, les favoris et l'historique à zéro. Les outils restent installés.	Obnovit nastavení vrátí nastavení, oblíbené a historii do původního stavu. Nástroje zůstanou nainstalované.
+Désinstaller supprime les outils, les réglages, l'historique et le cache, puis ferme l'application.	Odinstalování smaže nástroje, nastavení, historii a mezipaměť a zavře aplikaci.
+Tout remettre à zéro ? Réglages, favoris et historique seront perdus.	Vše vynulovat? Nastavení, oblíbené a historie budou ztraceny.
+Tout supprimer ? Outils, réglages, historique et cache seront effacés définitivement.	Vše smazat? Nástroje, nastavení, historie a mezipaměť budou trvale smazány.
+Ce jeton n'a pas le droit d'écrire dans le chat (chat:edit).	Tento token nemá oprávnění psát do chatu (chat:edit).
+Ils sont installés dans votre dossier utilisateur, sans droits administrateur.	Instalují se do vaší uživatelské složky, bez práv správce.
+libmpv est introuvable. Réinstallez les outils depuis les réglages.	Knihovna libmpv nebyla nalezena. Nainstalujte nástroje znovu v nastavení.
+Streamlink est introuvable. Réinstallez les outils depuis les réglages.	Streamlink nebyl nalezen. Nainstalujte nástroje znovu v nastavení.
+Afficher le menu	Zobrazit nabídku
+Masquer le menu	Skrýt nabídku
+Chat réservé aux followers	Chat jen pro sledující
+Échec de la connexion.	Přihlášení se nezdařilo.
+Connexion annulée	Přihlášení zrušeno
+Rapport de la dernière fermeture inattendue, sans donnée personnelle. Rien n'est envoyé automatiquement.	Zpráva o posledním neočekávaném ukončení, bez osobních údajů. Nic se automaticky neodesílá.
+Copier le rapport de plantage	Kopírovat zprávu o pádu
+Rapport copié.	Zpráva zkopírována.
+Copier le diagnostic	Kopírovat diagnostiku
+Diagnostic copié.	Diagnostika zkopírována.
+Complet	Plné
+Réduit	Omezené
+État et version de Streamlink et de libmpv, mise à jour, et chemins personnalisés (facultatifs) vers streamlink.exe et libmpv-2.dll.	Stav a verze Streamlink a libmpv, aktualizace a volitelné vlastní cesty k streamlink.exe a libmpv-2.dll.
+Ouvre le dossier du journal, copie le diagnostic (version, Windows, carte graphique, composants) ou le rapport de plantage local pour le support. Rien n'est envoyé automatiquement.	Otevře složku protokolů, zkopíruje diagnostiku (verze, Windows, grafická karta, součásti) nebo místní zprávu o pádu pro podporu. Nic se neodesílá automaticky.
+À propos	O aplikaci
+Version de l'application	Verze aplikace
+Décodage vidéo matériel (GPU)	Hardwarové dekódování videa (GPU)
+Utile si la vidéo saccade ou si le processeur chauffe. « Automatique » : réglage d'origine de l'application. « Activé » : la carte graphique décode la vidéo, avec retour automatique au décodage normal si elle n'y arrive pas. « Désactivé » : décodage normal par le processeur. Le changement s'applique tout de suite : le live en cours est relancé.	Pomáhá, když video sekává nebo se procesor přehřívá. „Automaticky“: původní nastavení aplikace. „Zapnuto“: video dekóduje grafická karta, a když to nejde, automaticky se přejde na běžné dekódování. „Vypnuto“: běžné dekódování procesorem. Změna se projeví okamžitě: probíhající živé vysílání se restartuje.
+Périphérique de sortie	Výstupní zařízení
+Périphérique par défaut du système	Výchozí zařízení systému
+Choisit le casque ou les enceintes pour le son des lives, sans changer le son de Windows. « Périphérique par défaut du système » suit le choix de Windows. Le changement s'applique tout de suite. Si le périphérique choisi disparaît (casque débranché), l'application revient au choix par défaut.	Vybere sluchátka nebo reproduktory pro zvuk živých vysílání, aniž by se změnil zvuk Windows. „Výchozí zařízení systému“ se řídí volbou Windows. Změna se projeví okamžitě. Pokud zvolené zařízení zmizí (odpojená sluchátka), aplikace se vrátí k výchozí volbě.
+Le périphérique audio choisi n'est plus disponible : retour au périphérique par défaut.	Zvolené zvukové zařízení už není dostupné: návrat k výchozímu zařízení.
+Captures d'écran	Snímky obrazovky
+Dossier d'enregistrement	Složka pro ukládání
+Parcourir…	Procházet…
+Ouvrir le dossier	Otevřít složku
+Dossier où la touche S enregistre les captures d'écran. Par défaut : le dossier « Velka » de vos Images. Le dossier choisi doit accepter l'écriture ; s'il disparaît (disque débranché, dossier supprimé), l'application revient au dossier par défaut. Le changement s'applique à la prochaine capture.	Složka, do které klávesa S ukládá snímky obrazovky. Výchozí: složka „Velka“ ve vašich Obrázcích. Zvolená složka musí umožňovat zápis; pokud zmizí (odpojený disk, smazaná složka), aplikace se vrátí k výchozí složce. Změna se projeví při dalším snímku.
+Le dossier des captures n'est plus disponible : retour au dossier par défaut.	Složka se snímky už není dostupná: návrat k výchozí složce.
+Ce dossier n'accepte pas l'écriture : choisissez-en un autre.	Tato složka neumožňuje zápis: zvolte jinou.
+Aucun	Žádná
+Effacer un raccourci	Smazat zkratku
+Réduire dans la zone de notification à la fermeture	Při zavření minimalizovat do oznamovací oblasti
+L'application reste active en fond pour les notifications	Aplikace zůstane na pozadí kvůli oznámením
+La croix de fermeture cache la fenêtre dans la zone de notification (près de l'horloge) au lieu de quitter ; le live en cours est arrêté. Clic gauche sur l'icône : rouvrir. Clic droit : Ouvrir ou Quitter. Pour être prévenu quand un favori passe en direct, activez aussi « Notifications Windows ».	Křížek skryje okno do oznamovací oblasti (u hodin) místo ukončení; probíhající živý přenos se zastaví. Levé kliknutí na ikonu okno znovu otevře, pravé nabídne Otevřít nebo Ukončit. Aby vás aplikace upozornila, když oblíbený kanál začne vysílat, zapněte také „Oznámení Windows“.
+Ouvrir Velka	Otevřít Velka
+Quitter	Ukončit
+Velka reste actif dans la zone de notification. Clic droit sur l'icône pour quitter.	Velka stále běží v oznamovací oblasti. Pravým kliknutím na ikonu ho ukončíte.
+Rechercher des mises à jour	Vyhledat aktualizace
+Vous utilisez la dernière version.	Používáte nejnovější verzi.
+Mise à jour {version} disponible	Dostupná aktualizace {version}
+Impossible de se connecter. Vérifiez votre connexion internet.	Nelze se připojit. Zkontrolujte připojení k internetu.
+La recherche de mise à jour a échoué.	Vyhledání aktualizace se nezdařilo.
+Historique des chaînes	Historie kanálů
+Effacer l'historique	Vymazat historii
+Historique effacé.	Historie vymazána.
+Ouvrir le dossier de configuration	Otevřít složku s nastavením
+Options du lecteur	Možnosti přehrávače
+Perso	Vlastní
+Durée personnalisée	Vlastní doba
+Ajuster uniquement la taille du texte du chat	Upravit pouze velikost textu chatu
+Ajuster la taille globale de l'interface	Upravit celkovou velikost rozhraní
+Connectez-vous à Twitch pour activer	Pro aktivaci se přihlaste k Twitchi
+Pas de connexion Internet.	Žádné připojení k internetu.
+La connexion Internet s'est coupée.	Připojení k internetu bylo přerušeno.
+Licences des composants	Licence komponent
+Le lecteur vidéo utilise libmpv (mpv) et FFmpeg, sous licence LGPL version 2.1 ou ultérieure. Vous pouvez remplacer libmpv par votre propre version dans {section}.	Přehrávač videa používá libmpv (mpv) a FFmpeg pod licencí LGPL verze 2.1 nebo novější. Knihovnu libmpv můžete nahradit vlastní verzí v části {section}.
+Code source et compilation	Zdrojový kód a skripty sestavení
+Velka n'a pas pu ouvrir sa fenêtre : la carte graphique ou son pilote ne prend pas en charge OpenGL 3.0. Mettez à jour le pilote de la carte graphique, puis relancez Velka. Sur un bureau à distance ou une machine virtuelle, l'affichage peut ne pas être pris en charge.	Velka nemohl otevřít své okno: grafická karta nebo její ovladač nepodporuje OpenGL 3.0. Aktualizujte ovladač grafické karty a poté Velka spusťte znovu. Na vzdálené ploše nebo ve virtuálním počítači nemusí být zobrazení podporováno.
+La carte graphique n'annonce pas OpenGL 3.0 : la vidéo peut rester noire. Mettez à jour le pilote de la carte graphique. Sur un bureau à distance ou une machine virtuelle, l'affichage peut ne pas être pris en charge.	Grafická karta nehlásí OpenGL 3.0: video může zůstat černé. Aktualizujte ovladač grafické karty. Na vzdálené ploše nebo ve virtuálním počítači nemusí být zobrazení podporováno.
+Démarrer avec macOS	Spouštět s macOS
+Démarrer avec Linux	Spouštět se systémem Linux
+Lance Velka automatiquement quand vous ouvrez votre session macOS.	Spustí Velka automaticky po přihlášení do macOS.
+Lance Velka automatiquement quand vous ouvrez votre session Linux.	Spustí Velka automaticky po přihlášení do systému Linux.
+Notifications macOS	Oznámení macOS
+Notifications Linux	Oznámení systému Linux
+Affiche une notification macOS quand l'un de vos favoris passe en direct. L'application doit rester ouverte (elle peut être réduite).	Zobrazí oznámení macOS, když některý oblíbený kanál začne vysílat. Aplikace musí zůstat otevřená (může být minimalizovaná).
+Affiche une notification Linux quand l'un de vos favoris passe en direct. L'application doit rester ouverte (elle peut être réduite).	Zobrazí oznámení systému Linux, když některý oblíbený kanál začne vysílat. Aplikace musí zůstat otevřená (může být minimalizovaná).
+Multistream	Multistream
+Regardez jusqu'à 4 lives en même temps.	Sledujte až 4 přenosy najednou.
+Ajouter une chaîne	Přidat kanál
+Ajouter	Přidat
+Tout arrêter	Zastavit vše
+Cette chaîne est déjà affichée.	Tento kanál se už zobrazuje.
+4 lives au maximum.	Nejvýše 4 přenosy.
+Ajoutez une chaîne pour commencer.	Začněte přidáním kanálu.
+Retirer ce live	Odebrat tento přenos
+Écouter ce live	Poslouchat tento přenos
+Cumuler le son des lives en Multistream	Kombinovat zvuk přenosů v Multistreamu
+Un clic sur un live ajoute son son au lieu de le remplacer	Kliknutí na přenos přidá jeho zvuk místo nahrazení
+Sur la page Multistream, un clic sur un live fait entendre son son en plus de ceux déjà écoutés, jusqu'aux quatre lives. Le bouton du son de chaque live le coupe.	Na stránce Multistream kliknutí na přenos pustí jeho zvuk navíc ke zvuku už poslouchaných přenosů, až ke všem čtyřem. Tlačítko zvuku každého přenosu ho ztlumí.
+Couper tous les sons	Ztlumit vše
+Lecteur Twitch léger avec multistream, chat et notifications.	Lehký přehrávač Twitche s multistreamem, chatem a oznámeními.
+Quelques composants sont nécessaires pour lire les lives Twitch.	K přehrávání přenosů z Twitche je potřeba několik součástí.
+Logiciel libre sous licence GPL-3.0 ou ultérieure.	Svobodný software pod licencí GPL-3.0 nebo novější.
+Application non affiliée à Twitch.	Aplikace není spojena s Twitchem.
+Code source sur GitHub	Zdrojový kód na GitHubu
+Soutenir le projet	Podpořit projekt
+La connexion Twitch n'a pas pu être enregistrée de façon sécurisée (trousseau du système indisponible) : elle sera perdue à la fermeture de Velka.	Přihlášení k Twitchi se nepodařilo bezpečně uložit (systémová klíčenka není dostupná): po zavření Velky bude ztraceno.
+Velka est gratuit et le restera. Si l'application vous plaît, un petit don aide à la faire vivre.	Velka je zdarma a zůstane zdarma. Pokud se vám aplikace líbí, malý dar pomáhá ji udržet.
+Plus tard	Později
+Rappel pour soutenir le projet	Připomínka podpory projektu
+Affiche de temps en temps sur l'accueil, au plus une fois par mois, un message avec un lien pour soutenir le projet.	Občas zobrazí na úvodní stránce, nejvýše jednou za měsíc, zprávu s odkazem na podporu projektu.

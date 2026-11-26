@@ -1,0 +1,24 @@
+/target
+/target-verif
+/installer/Output
+/dist
+*.tmp
+
+# Données locales et secrets : jamais dans le dépôt
+secrets.dat
+license.dat
+settings.json
+history.txt
+secrets.key
+cles.enc
+*.key
+.env
+.dev.vars
+.wrangler/
+
+# Fichiers de compilation et journaux
+*.pdb
+*.log
+
+# Rapports d'audit locaux
+AUDIT*.md

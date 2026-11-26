@@ -1,0 +1,4 @@
+# Failles connues acceptées, une par une, avec la raison. Toute autre faille fait échouer `cargo audit`
+# (et donc la publication, voir .github/workflows/release.yml). Aucune exception pour l'instant.
+[advisories]
+ignore = []

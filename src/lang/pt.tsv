@@ -1,0 +1,535 @@
+Aide	Ajuda
+Réduire	Minimizar
+Agrandir	Maximizar
+Restaurer	Restaurar
+Fermer	Fechar
+Échap	Esc
+Français	Francês
+Anglais	Inglês
+Espagnol	Espanhol
+Portugais	Português
+Allemand	Alemão
+Italien	Italiano
+Néerlandais	Holandês
+Polonais	Polonês
+Russe	Russo
+Ukrainien	Ucraniano
+Turc	Turco
+Vietnamien	Vietnamita
+Indonésien	Indonésio
+Chinois simplifié	Chinês simplificado
+Chinois traditionnel	Chinês tradicional
+Japonais	Japonês
+Coréen	Coreano
+Tchèque	Tcheco
+Roumain	Romeno
+Hongrois	Húngaro
+Suédois	Sueco
+Danois	Dinamarquês
+Norvégien	Norueguês
+Finnois	Finlandês
+Grec	Grego
+Annuler	Cancelar
+spectateurs	espectadores
+Hors ligne	Offline
+Cette chaîne n'existe pas.	Este canal não existe.
+Statut indisponible, vous pouvez quand même essayer.	Status indisponível, você pode tentar mesmo assim.
+Accueil	Início
+En direct	Ao vivo
+chaînes	canais
+Favoris	Favoritos
+Spectateurs	Espectadores
+au total	no total
+Résultat	Resultado
+Vérification…	Verificando…
+Regarder	Assistir
+Nom de chaîne invalide.	Nome de canal inválido.
+En direct parmi vos favoris	Ao vivo entre seus favoritos
+Aucun favori en direct pour le moment.	Nenhum favorito ao vivo no momento.
+Récents	Recentes
+Retirer de l'historique	Remover do histórico
+Rechercher	Pesquisar
+Plateforme	Plataforma
+Réglages	Configurações
+Quitter le PiP	Sair do PiP
+Reprise dans un instant…	Retomando em instantes…
+Retour	Voltar
+Arrêter	Parar
+Quitter le plein écran	Sair da tela cheia
+Plein écran	Tela cheia
+Lecture	Reproduzir
+Réactiver le son	Ativar o som
+Couper le son	Silenciar
+Chat	Chat
+Changement de qualité…	Mudando a qualidade…
+Réessayer	Tentar novamente
+depuis	há
+connexion…	conectando…
+changement de qualité…	mudando a qualidade…
+interrompu	interrompida
+Lecture vidéo	Reprodução de vídeo
+Qualité par défaut	Qualidade padrão
+Faible latence	Baixa latência
+Désactiver pour un flux plus stable	Desative para uma transmissão mais estável
+Réduire la barre latérale	Recolher a barra lateral
+Agrandir la barre latérale	Expandir a barra lateral
+Chat à gauche de la vidéo	Chat à esquerda do vídeo
+Toujours au premier plan	Sempre visível
+Chat en surimpression en plein écran	Chat sobreposto em tela cheia
+Apparence	Aparência
+Général	Geral
+Thème	Tema
+Langue	Idioma
+Sombre	Ardósia
+Dark	Escuro
+Clair	Claro
+Compte Twitch	Conta da Twitch
+Connecté en tant que	Conectado como
+Vous pouvez écrire dans le chat.	Você pode escrever no chat.
+chaînes suivies sur Twitch chargées.	canais seguidos da Twitch carregados.
+Impossible de charger vos chaînes suivies pour le moment.	Não foi possível carregar seus canais seguidos no momento.
+Chargement de vos chaînes suivies…	Carregando seus canais seguidos…
+En direct parmi vos chaînes suivies sur Twitch	Ao vivo entre seus canais seguidos na Twitch
+Suivies sur Twitch	Seguidos na Twitch
+Prévient quand un favori passe en direct	Avisa quando um favorito entra em direto
+Activé : vos favoris sont vérifiés toutes les minutes en arrière-plan, même pendant un live. Cela utilise un peu plus d'internet et de mémoire.	Ativado: seus favoritos são verificados a cada minuto em segundo plano, mesmo durante uma live. Isso usa um pouco mais de internet e de memória.
+Chaînes dans la barre latérale	Canais na barra lateral
+Chaînes sur l'accueil	Canais no início
+Qualité utilisée à l'ouverture d'un live. « Source » est la qualité maximale de la chaîne ; « Audio » ne joue que le son.	Qualidade usada ao abrir uma live. "Source" é a qualidade máxima do canal; "Audio" reproduz apenas o som.
+Réduit le retard entre le streamer et vous. Désactivez-le si la vidéo saccade ou se coupe.	Reduz o atraso em relação ao streamer. Desative se o vídeo travar ou cortar.
+Garde la fenêtre devant toutes les autres applications.	Mantém a janela à frente de todos os outros aplicativos.
+Affiche le chat par-dessus la vidéo quand vous êtes en plein écran.	Mostra o chat sobre o vídeo em tela cheia.
+Faire rouler la molette au-dessus de la vidéo monte ou baisse le volume.	Girar a roda do mouse sobre o vídeo aumenta ou diminui o volume.
+Un clic sur la vidéo met en pause ou relance la lecture.	Um clique no vídeo pausa ou retoma a reprodução.
+Garde un niveau sonore régulier (normalisation du son) : relève les passages faibles et atténue les passages forts, d'une chaîne à l'autre et au sein d'un même live.	Mantém um nível de som regular (normalização do áudio): aumenta as partes baixas e atenua as fortes, entre canais e dentro da mesma transmissão.
+Vitesse de la molette dans les listes et dans le chat. À 1,0 ×, un cran de molette fait défiler 3 lignes de 75 px, de façon fluide.	Velocidade da roda nas listas e no chat. Em 1,0 ×, um passo da roda rola 3 linhas de 75 px, de forma suave.
+À chaque lancement, l'application démarre avec le volume choisi ci-dessous, au lieu du dernier volume réglé.	A cada abertura, o aplicativo começa com o volume escolhido abaixo, em vez do último volume ajustado.
+100 % = volume normal. 130 % permet d'amplifier une chaîne trop silencieuse, mais le son peut saturer.	100 % = volume normal. 130 % amplifica um canal muito baixo, mas o som pode distorcer.
+Temps sans bouger la souris avant que les boutons posés sur la vidéo disparaissent.	Tempo sem mexer o mouse antes que os botões sobre o vídeo desapareçam.
+Quand vous quittez la page d'un live avec « Retour », il continue dans une petite fenêtre en bas à droite. Désactivé : il s'arrête.	Quando você sai da página de uma live com "Voltar", ela continua em uma pequena janela no canto inferior direito. Desativado: ela para.
+Fréquence à laquelle l'accueil vérifie quelles chaînes sont en direct. Plus c'est rapide, plus cela utilise internet. « Manuelle » : seulement avec le bouton Actualiser.	Frequência com que o início verifica quais canais estão ao vivo. Quanto mais rápido, mais internet usa. "Manual": apenas com o botão Atualizar.
+Télécharge une image du direct pour chaque carte. Désactivez pour économiser des données.	Baixa uma imagem da live para cada card. Desative para economizar dados.
+Les chaînes que vous suivez sur votre compte Twitch (il faut être connecté dans la carte « Compte Twitch »).	Os canais que você segue na sua conta da Twitch (é preciso estar conectado no card "Conta da Twitch").
+Nombre maximum de chaînes Twitch en direct listées dans la barre de gauche (ce n'est pas un délai).	Número máximo de canais da Twitch ao vivo listados na barra à esquerda (não é um tempo).
+Nombre maximum de chaînes Twitch en direct affichées sur la page d'accueil (ce n'est pas un délai).	Número máximo de canais da Twitch ao vivo exibidos na página inicial (não é um tempo).
+Garde le jeu sélectionné dans la barre « Jeux en direct » au prochain lancement.	Mantém o jogo selecionado na barra "Jogos ao vivo" na próxima abertura.
+Ouvrir : le live s'affiche en grand. PiP : il s'ouvre directement dans une petite fenêtre flottante.	Abrir: a live aparece em tamanho grande. PiP: ela abre direto em uma pequena janela flutuante.
+Les messages qui contiennent un de ces mots (séparés par des virgules) sont surlignés en jaune dans le chat.	As mensagens que contêm uma destas palavras (separadas por vírgulas) são destacadas em amarelo no chat.
+Quand une chaîne est hors ligne ou que son live se termine, propose d'autres lives : vos chaînes suivies du même jeu d'abord.	Quando um canal está offline ou a live termina, sugere outras lives: primeiro seus canais seguidos do mesmo jogo.
+Nombre de chaînes proposées quand un live est hors ligne ou terminé.	Número de canais sugeridos quando uma live está offline ou terminou.
+Les boutons latéraux de la souris changent de page, comme dans un navigateur. Alt + flèche gauche ou droite fait pareil.	Os botões laterais do mouse mudam de página, como em um navegador. Alt + seta para a esquerda ou para a direita faz o mesmo.
+Le pointeur devient une main au-dessus des boutons et des cartes.	O ponteiro vira uma mão sobre os botões e os cards.
+Complet : fondus, glissements, cascades et compteurs animés. Réduit : fondus et changements de couleur seulement, sans déplacement. Désactivé : aucune animation (utile sur un ordinateur lent). Le réglage d'animations de Windows n'est pas pris en compte.	Completas: esbatimentos, deslocamentos, cascatas e contadores animados. Reduzidas: apenas esbatimentos e mudanças de cor, sem movimento. Desativadas: nenhuma animação (útil num computador lento). A definição de animações do Windows não é tida em conta.
+Affiche une notification Windows quand l'un de vos favoris passe en direct. L'application doit rester ouverte (elle peut être réduite).	Mostra uma notificação do Windows quando um dos seus favoritos entra ao vivo. O aplicativo precisa ficar aberto (pode estar minimizado).
+Lance Velka automatiquement quand vous ouvrez votre session Windows.	Abre o Velka automaticamente quando você entra no Windows.
+Photos de profil et émotes déjà téléchargées. Les vider libère de la place ; elles se retéléchargent au besoin.	Fotos de perfil e emotes já baixados. Limpar libera espaço; eles são baixados de novo quando necessário.
+Notifications Windows	Notificações do Windows
+Prévient quand un favori passe en direct. Vérifie vos favoris toutes les minutes, même pendant un live : utilise un peu plus d'internet et de mémoire.	Avisa quando um favorito entra ao vivo. Verifica seus favoritos a cada minuto, mesmo durante uma live: usa um pouco mais de internet e de memória.
+Envoyer une notification de test	Enviar uma notificação de teste
+est en direct	está ao vivo
+Notification de test : tout fonctionne.	Notificação de teste: tudo funciona.
+Volume et lecteur	Volume e player
+Démarrer en muet	Iniciar sem som
+Volume fixe au lancement	Volume fixo ao abrir
+Sinon : le dernier volume utilisé	Senão: o último volume usado
+Volume au lancement	Volume ao abrir
+Volume maximum	Volume máximo
+Masquage des contrôles	Ocultar os controles
+Jamais	Nunca
+Capture d'écran	Captura de tela
+Infos techniques	Informações técnicas
+Capture enregistrée :	Captura salva:
+Capture impossible.	Não foi possível fazer a captura.
+Minuteur de veille	Timer de desligamento
+Désactivé	Desativado
+Arrêt du live dans	A live para em
+logiciel	software
+Résolution	Resolução
+Images par seconde	Quadros por segundo
+Débit vidéo	Taxa de bits de vídeo
+Débit audio	Taxa de bits de áudio
+Images perdues	Quadros perdidos
+Images perdues au décodage	Quadros perdidos na decodificação
+Mémoire tampon	Buffer
+Format vidéo	Formato de vídeo
+Décodage	Decodificação
+Arrête le live automatiquement après la durée choisie, à partir du moment où vous changez ce réglage. Une minute avant, un compte à rebours s'affiche sur la vidéo. Le minuteur revient sur Désactivé à chaque nouveau live et à chaque lancement de l'application.	Para o direto automaticamente após a duração escolhida, contada a partir do momento em que altera esta definição. Um minuto antes, aparece uma contagem decrescente sobre o vídeo. O temporizador volta a Desativado em cada novo direto e sempre que a aplicação é iniciada.
+Émotes 7TV, BTTV et FFZ	Emotes 7TV, BTTV e FFZ
+Émotes animées	Emotes animados
+Badges du chat	Insígnias do chat
+Affiche les émotes des extensions 7TV, BetterTTV et FrankerFaceZ (globales et propres à la chaîne). Elles sont chargées à l'ouverture du live.	Mostra os emotes das extensões 7TV, BetterTTV e FrankerFaceZ (globais e do canal). Eles são carregados ao abrir a live.
+Anime les émotes qui le sont (Twitch et extensions). Utilise un peu plus le processeur quand le chat en affiche.	Anima os emotes animados (Twitch e extensões). Usa um pouco mais o processador quando o chat os exibe.
+Affiche les badges (abonné, modérateur, VIP…) devant les pseudos.	Mostra as insígnias (inscrito, moderador, VIP…) antes dos nomes.
+Netteté de l'image	Nitidez da imagem
+Agrandissement de haute qualité	Ampliação de alta qualidade
+Désactivée	Desativada
+Légère	Leve
+Moyenne	Média
+Forte	Forte
+Image plus fine en 480p et 720p	Imagem mais nítida em 480p e 720p
+Renforce les contours de l'image (calculé par la carte graphique). Utile sur un flux flou ; trop fort, l'image paraît granuleuse.	Reforça os contornos da imagem (calculado pela placa de vídeo). Útil em uma transmissão borrada; forte demais, a imagem fica granulada.
+Utilise un filtre d'agrandissement plus fin quand la vidéo est plus petite que la fenêtre (480p, 720p). Demande davantage à la carte graphique.	Usa um filtro de ampliação mais fino quando o vídeo é menor que a janela (480p, 720p). Exige mais da placa de vídeo.
+Compte	Conta
+Qualité et flux	Qualidade e transmissão
+Audio	Som
+Lecteur et comportement	Player e comportamento
+Affichage et lisibilité	Exibição e legibilidade
+Filtrage et alertes	Filtragem e alertas
+Notifications	Notificações
+Avancé et Système	Avançado e sistema
+Stockage et configuration	Armazenamento e configuração
+Émotes et badges	Emotes e insígnias
+Les changements s'appliquent tout de suite.	As mudanças são aplicadas na hora.
+2,5 s	2,5 s
+Mo	MB
+Ko	KB
+Rechercher un réglage	Pesquisar uma configuração
+Résultats de la recherche	Resultados da pesquisa
+Aucun réglage trouvé.	Nenhuma configuração encontrada.
+Mini-lecteur	Miniplayer
+Garder le live dans un coin quand on quitte la page	Manter a live em um canto ao sair da página
+Accueil et barre latérale	Início e barra lateral
+Actualisation	Atualização
+Manuelle	Manual
+Actualiser	Atualizar
+Aperçus des lives	Prévias das lives
+Images du direct sur les cartes	Imagens da live nos cards
+Chaînes suivies sur Twitch	Canais seguidos na Twitch
+Dans la barre latérale, sur l'accueil et dans les recommandations	Na barra lateral, no início e nas recomendações
+Dans la barre latérale	Na barra lateral
+Sur l'accueil	No início
+Se souvenir du jeu choisi	Lembrar o jogo escolhido
+Clic sur une carte	Clique em um card
+Ouvrir	Abrir
+Taille du texte	Tamanho do texto
+Masquer les bots	Ocultar os bots
+Horodatage des messages	Horário das mensagens
+Mots surlignés	Palavras destacadas
+mot, pseudo… (séparés par des virgules)	palavra, nome… (separados por vírgulas)
+Recommandations	Recomendações
+Recommandations de chaînes	Recomendações de canais
+Proposer des chaînes quand un live est hors ligne ou terminé	Sugerir canais quando uma live está offline ou terminou
+Nombre de recommandations	Número de recomendações
+Mouvement et lisibilité	Movimento e legibilidade
+Navigation et souris	Navegação e rato
+Vérification des mises à jour	Verificação de atualizações
+Nouvelle version disponible :	Nova versão disponível:
+Mettre à jour	Atualizar
+Téléchargement de la mise à jour…	Baixando a atualização…
+Mise à jour impossible :	Não foi possível atualizar:
+Boutons Précédent / Suivant de la souris	Botões Voltar / Avançar do mouse
+Main sur les éléments cliquables	Mão sobre os elementos clicáveis
+Animations	Animações
+Raccourcis clavier	Atalhos de teclado
+Appuyez sur une touche…	Pressione uma tecla…
+Rétablir les raccourcis	Restaurar os atalhos
+Raccourcis non modifiables	Atalhos fixos
+Quitter le plein écran, le PiP ou le live	Sair do ecrã inteiro, PiP ou da emissão
+Rechercher une chaîne	Procurar um canal
+Zoom de l'interface	Zoom da interface
+Page précédente / suivante	Página anterior / seguinte
+Pause / lecture	Pausar / reproduzir
+Volume +	Volume +
+Volume -	Volume -
+Afficher / masquer le chat	Mostrar / ocultar o chat
+Image dans l'image	Imagem em imagem
+Système	Sistema
+Démarrer avec Windows	Iniciar com o Windows
+Ouvre l'application à l'ouverture de session	Abre o aplicativo ao entrar na sessão
+Cache des images	Cache de imagens
+Vider	Limpar
+Espace	Espaço
+Flèche haut	Seta para cima
+Flèche bas	Seta para baixo
+Flèche gauche	Seta para a esquerda
+Flèche droite	Seta para a direita
+Entrée	Enter
+Jeux en direct	Jogos ao vivo
+Aucun live pour ce jeu en ce moment.	Nenhuma live deste jogo no momento.
+Chaînes recommandées	Canais recomendados
+Ajouter aux favoris	Adicionar aos favoritos
+Se déconnecter	Sair
+En attente de votre accord sur Twitch…	Aguardando sua autorização na Twitch…
+Rouvrir la page Twitch	Reabrir a página da Twitch
+Connexion à Twitch…	Conectando à Twitch…
+Connectez-vous pour écrire dans le chat.	Entre para escrever no chat.
+Se connecter avec Twitch	Entrar com a Twitch
+La connexion Twitch n'est pas disponible dans cette version.	O login com a Twitch não está disponível nesta versão.
+Connexion refusée sur Twitch.	Login recusado na Twitch.
+Le code a expiré, recommencez.	O código expirou, comece de novo.
+Twitch a refusé la connexion.	A Twitch recusou o login.
+Impossible de joindre Twitch. Vérifiez votre connexion.	Não foi possível acessar a Twitch. Verifique sua conexão.
+Twitch a refusé la demande de connexion.	A Twitch recusou o pedido de login.
+Composants externes	Componentes externos
+Non installé	Não instalado
+Prêt	Pronto
+Installer	Instalar
+Chemins personnalisés (facultatif)	Caminhos personalizados (opcional)
+Journaux et diagnostic	Registos e diagnóstico
+Volume	Volume
+Molette de la souris sur la vidéo = volume	Roda do mouse sobre o vídeo = volume
+Clic sur la vidéo = pause	Clique no vídeo = pausa
+Volume stable	Volume estável
+Limite les écarts de volume entre les chaînes	Limita as diferenças de volume entre canais
+Vitesse de défilement	Velocidade de rolagem
+Résultats	Resultados
+Zone de réinitialisation	Zona de reposição
+Réinitialiser	Redefinir
+Désinstaller	Desinstalar
+Oui, réinitialiser	Sim, redefinir
+Oui, désinstaller	Sim, desinstalar
+Ouvrir le dossier du journal	Abrir a pasta do registro
+Connexion au chat…	Conectando ao chat…
+Chat connecté	Chat conectado
+Reconnexion du chat	Reconectando o chat
+Envoyer un message	Enviar uma mensagem
+Jeton requis pour écrire (Réglages)	Token necessário para escrever (Configurações)
+Revenir en bas	Voltar ao fim
+Réponse de Twitch inattendue pour ce jeton.	Resposta inesperada da Twitch para este token.
+Jeton refusé par Twitch (expiré ou invalide).	Token recusado pela Twitch (expirado ou inválido).
+Connexion refusée avec ce jeton.	Conexão recusada com este token.
+Bienvenue dans Velka	Bem-vindo ao Velka
+Tout installer	Instalar tudo
+Installation en cours…	Instalando…
+La chaîne est hors ligne.	O canal está offline.
+Pas de connexion à Twitch. Vérifiez votre réseau.	Sem conexão com a Twitch. Verifique sua rede.
+Le flux met trop de temps à démarrer.	A transmissão está demorando demais para começar.
+Le flux s'est interrompu :	A transmissão foi interrompida:
+arrêt inattendu	parada inesperada
+Impossible de lancer Streamlink :	Não foi possível iniciar o Streamlink:
+Préparation…	Preparando…
+Le rendu OpenGL n'est pas disponible.	A renderização OpenGL não está disponível.
+Aucun port local disponible.	Nenhuma porta local disponível.
+Impossible de joindre GitHub :	Não foi possível acessar o GitHub:
+Réponse GitHub illisible :	Resposta do GitHub ilegível:
+Aucune archive compatible dans la dernière version.	Nenhum arquivo compatível na última versão.
+Téléchargement impossible :	Falha no download:
+Écriture impossible :	Falha na gravação:
+Téléchargement interrompu :	Download interrompido:
+Le fichier téléchargé est vide.	O arquivo baixado está vazio.
+Recherche de la dernière version…	Procurando a última versão…
+Dossier inaccessible :	Pasta inacessível:
+Téléchargement…	Baixando…
+Extraction…	Extraindo…
+Extraction impossible :	Falha na extração:
+Archive invalide :	Arquivo inválido:
+streamlink.exe introuvable dans l'archive.	streamlink.exe não encontrado no arquivo.
+Structure d'archive inattendue.	Estrutura de arquivo inesperada.
+libmpv-2.dll introuvable dans l'archive.	libmpv-2.dll não encontrado no arquivo.
+Installation impossible :	Falha na instalação:
+Fichier installé introuvable ou vide.	Arquivo instalado ausente ou vazio.
+Installé	Instalado
+Accessibilité	Acessibilidade
+Taille de l'interface	Tamanho da interface
+Mise à l'échelle	Escala
+Contraste élevé	Alto contraste
+Automatique	Automático
+Activé	Ativado
+Focus clavier renforcé	Foco de teclado reforçado
+Couleurs	Cores
+Palette de couleurs	Paleta de cores
+Turquoise	Turquesa
+Bleu	Azul
+Vert	Verde
+Orange foncé	Laranja escuro
+Rose	Rosa
+Personnalisée	Personalizado
+Couleur d'accent personnalisée	Cor de destaque personalizada
+Code couleur	Código da cor
+Rouge	Vermelho
+Exemple	Exemplo
+Contraste du texte sur l'accent	Contraste do texto sobre o destaque
+Conforme	Conforme
+Insuffisant, minimum	Insuficiente, mínimo
+Couleur non appliquée : le contraste est trop faible.	Cor não aplicada: o contraste é muito baixo.
+Couleur conforme la plus proche :	Cor conforme mais próxima:
+Utiliser cette couleur	Usar esta cor
+Rétablir les couleurs par défaut	Restaurar cores padrão
+Mises à jour	Atualizações
+À jour	Atualizado
+Mise à jour disponible	Atualização disponível
+Chemin personnalisé	Caminho personalizado
+Version inconnue	Versão desconhecida
+Installée :	Instalada:
+Disponible :	Disponível:
+Mise à jour en cours…	Atualizando…
+Redémarrage nécessaire	Reinício necessário
+Impossible de vérifier les mises à jour :	Não foi possível verificar atualizações:
+Échec de la mise à jour, version précédente conservée :	Falha na atualização, versão anterior mantida:
+Versions des composants non validées par l'éditeur.	Versões dos componentes não validadas pelo editor.
+Archive validée introuvable sur GitHub.	Arquivo validado não encontrado no GitHub.
+Adresse de téléchargement inattendue.	Endereço de download inesperado.
+Empreinte du fichier téléchargé incorrecte.	A impressão digital do arquivo baixado não confere.
+Téléchargement refusé par le serveur.	Download recusado pelo servidor.
+Fichier reçu invalide (taille ou empreinte différente).	O arquivo recebido é inválido (tamanho ou soma de verificação diferentes).
+Serveur injoignable :	Servidor inacessível:
+Remplacement impossible :	Não foi possível substituir:
+Relance impossible :	Não foi possível reiniciar:
+Impossible de charger libmpv :	Não foi possível carregar a libmpv:
+Fonction libmpv manquante :	Função da libmpv ausente:
+Le lecteur n'a pas pu démarrer.	O player não conseguiu iniciar.
+Initialisation du lecteur impossible :	Falha ao inicializar o player:
+Rendu vidéo impossible :	Falha na renderização do vídeo:
+Option du lecteur refusée :	Opção do player recusada:
+Propriété du lecteur refusée :	Propriedade do player recusada:
+Commande du lecteur refusée :	Comando do player recusado:
+Se connecter	Entrar
+Autres langues	Outros idiomas
+Personnaliser	Personalizar
+Améliorer le contraste	Melhorar o contraste
+Replier le chat	Recolher o chat
+Afficher le chat	Mostrar o chat
+Qualité maximale proposée par la chaîne, sans réduction.	A qualidade mais alta oferecida pelo canal, sem redução.
+Fenêtre PiP au format de la vidéo	Janela PiP no formato do vídeo
+En mini-fenêtre PiP, la fenêtre prend le format du live pour supprimer les bandes noires.	Na mini-janela PiP, a janela assume a proporção do direto para eliminar as barras pretas.
+spectateur	espectador
+Actualisation en cours	Atualizando…
+Qualité	Qualidade
+Redémarrer l'application	Reiniciar a aplicação
+Passer	Ignorar
+Suivant	Seguinte
+C'est parti	Vamos lá
+Chat avec émotes	Chat com emotes
+Mini-lecteur et PiP	Mini-leitor e PiP
+Choisissez votre style	Escolha o seu estilo
+Couleur d'accent	Cor de destaque
+Réglez la lecture	Configure a reprodução
+Restez informé	Fique informado
+Tout se règle aussi plus tard dans les Réglages.	Pode alterar tudo mais tarde nas Definições.
+Thème et couleur de l'application.	Tema e cor da aplicação.
+Les réglages les plus utiles, en un coup d'œil.	As definições mais úteis num relance.
+Ne ratez plus vos streamers préférés.	Nunca perca os seus streamers favoritos.
+Ultra légère et optimisée, parfaite pour jouer en même temps.	Ultraleve e otimizada, perfeita para jogar ao mesmo tempo.
+Revoir le didacticiel	Rever a introdução
+Le live démarre sans le son ; vous le réactivez quand vous voulez.	A transmissão começa sem som; pode reativá-lo quando quiser.
+Agrandit ou réduit le texte des messages du chat.	Aumenta ou diminui o texto das mensagens do chat.
+Affiche l'heure devant chaque message du chat.	Mostra a hora antes de cada mensagem do chat.
+Place le chat à gauche de la vidéo au lieu de la droite.	Coloca o chat à esquerda do vídeo em vez de à direita.
+Favori	Favorito
+Aucun favori pour le moment. Cherchez une chaîne puis choisissez « Ajouter aux favoris ».	Ainda sem favoritos. Procure um canal e escolha «Adicionar aos favoritos».
+Orange (par défaut)	Laranja (predefinido)
+Retirer des favoris	Remover dos favoritos
+Connexion en cours	A ligar
+Audio du live uniquement	Apenas o áudio do direto
+Lecteur au format de la vidéo	Leitor no formato do vídeo
+Dans la fenêtre principale, l'image prend exactement le format du live (coins arrondis, sans bandes autour) et reste centrée.	Na janela principal, a imagem assume exatamente o formato do direto (cantos arredondados, sem faixas) e fica centrada.
+Taille et place d'origine	Tamanho e posição originais
+Chaîne ouverte au démarrage	Canal aberto ao iniciar
+Démarrage et fenêtre	Arranque e janela
+Son live s'ouvre au lancement si elle est en direct. Sinon, l'accueil s'affiche normalement.	O direto abre ao iniciar se o canal estiver em direto. Caso contrário, aparece o início normalmente.
+Nom de la chaîne	Nome do canal
+Au lancement, si cette chaîne est en direct, son live s'ouvre directement dans le lecteur. Hors ligne ou introuvable, l'accueil s'affiche normalement.	Se o canal estiver em direto ao iniciar, o direto abre logo no leitor. Offline ou não encontrado: início normal.
+Enregistrée	Guardado
+En attente de messages…	A aguardar mensagens…
+Confirmer la déconnexion	Confirmar terminar sessão
+Affiche d'abord les lives qui ont le plus de spectateurs.	Mostra primeiro as transmissões com mais espectadores.
+Affiche d'abord les lives qui ont le moins de spectateurs.	Mostra primeiro as transmissões com menos espectadores.
+Éclaircit ou assombrit la couleur choisie pour que le texte reste lisible.	Clareia ou escurece a cor escolhida para que o texto continue legível.
+Spectateurs : décroissant	Espectadores: decrescente
+Spectateurs : croissant	Espectadores: crescente
+5 s	5 s
+10 s	10 s
+Pour charger vos chaînes suivies, déconnectez-vous puis reconnectez-vous.	Para carregar os canais que segue, termine a sessão e inicie-a de novo.
+Reconnectez-vous dans Réglages pour afficher vos chaînes suivies sur Twitch.	Inicie sessão novamente em Configurações para mostrar os canais que segue no Twitch.
+Une page Twitch s'est ouverte. Vérifiez ce code, puis cliquez sur « Autoriser » :	Abriu-se uma página do Twitch. Confirme este código e clique em «Autorizar»:
+Utilisée en ce moment : redémarrez l'application pour la mettre à jour.	Em utilização neste momento: reinicie a aplicação para a atualizar.
+Réinitialiser remet les réglages, les favoris et l'historique à zéro. Les outils restent installés.	Repor volta a pôr a zero as definições, os favoritos e o histórico. As ferramentas continuam instaladas.
+Désinstaller supprime les outils, les réglages, l'historique et le cache, puis ferme l'application.	Desinstalar elimina as ferramentas, as definições, o histórico e a cache e depois fecha a aplicação.
+Tout remettre à zéro ? Réglages, favoris et historique seront perdus.	Repor tudo? As definições, os favoritos e o histórico serão perdidos.
+Tout supprimer ? Outils, réglages, historique et cache seront effacés définitivement.	Eliminar tudo? As ferramentas, as definições, o histórico e a cache serão apagados definitivamente.
+Ce jeton n'a pas le droit d'écrire dans le chat (chat:edit).	Este token não tem permissão para escrever no chat (chat:edit).
+Ils sont installés dans votre dossier utilisateur, sans droits administrateur.	São instalados na sua pasta de utilizador, sem direitos de administrador.
+libmpv est introuvable. Réinstallez les outils depuis les réglages.	O libmpv não foi encontrado. Reinstale as ferramentas nas configurações.
+Streamlink est introuvable. Réinstallez les outils depuis les réglages.	O Streamlink não foi encontrado. Reinstale as ferramentas nas configurações.
+Afficher le menu	Mostrar menu
+Masquer le menu	Ocultar menu
+Chat réservé aux followers	Chat reservado a seguidores
+Échec de la connexion.	Falha na ligação.
+Connexion annulée	Ligação cancelada
+Rapport de la dernière fermeture inattendue, sans donnée personnelle. Rien n'est envoyé automatiquement.	Relatório do último encerramento inesperado, sem dados pessoais. Nada é enviado automaticamente.
+Copier le rapport de plantage	Copiar o relatório de falha
+Rapport copié.	Relatório copiado.
+Copier le diagnostic	Copiar o diagnóstico
+Diagnostic copié.	Diagnóstico copiado.
+Complet	Completas
+Réduit	Reduzidas
+État et version de Streamlink et de libmpv, mise à jour, et chemins personnalisés (facultatifs) vers streamlink.exe et libmpv-2.dll.	Estado e versão do Streamlink e do libmpv, atualização e caminhos personalizados opcionais para streamlink.exe e libmpv-2.dll.
+Ouvre le dossier du journal, copie le diagnostic (version, Windows, carte graphique, composants) ou le rapport de plantage local pour le support. Rien n'est envoyé automatiquement.	Abre a pasta do registo e copia o diagnóstico (versão, Windows, placa gráfica, componentes) ou o relatório de falha local para o suporte. Nada é enviado automaticamente.
+À propos	Sobre
+Version de l'application	Versão da aplicação
+Décodage vidéo matériel (GPU)	Decodificação de vídeo por hardware (GPU)
+Utile si la vidéo saccade ou si le processeur chauffe. « Automatique » : réglage d'origine de l'application. « Activé » : la carte graphique décode la vidéo, avec retour automatique au décodage normal si elle n'y arrive pas. « Désactivé » : décodage normal par le processeur. Le changement s'applique tout de suite : le live en cours est relancé.	Ajuda se o vídeo engasgar ou o processador aquecer. «Automático»: configuração original da aplicação. «Ativado»: a placa gráfica decodifica o vídeo, com regresso automático à decodificação normal se falhar. «Desativado»: decodificação normal pelo processador. A alteração aplica-se de imediato: a transmissão em curso é reiniciada.
+Périphérique de sortie	Dispositivo de saída
+Périphérique par défaut du système	Dispositivo predefinido do sistema
+Choisit le casque ou les enceintes pour le son des lives, sans changer le son de Windows. « Périphérique par défaut du système » suit le choix de Windows. Le changement s'applique tout de suite. Si le périphérique choisi disparaît (casque débranché), l'application revient au choix par défaut.	Escolhe os auscultadores ou as colunas para o som das transmissões, sem alterar o som do Windows. «Dispositivo predefinido do sistema» segue a escolha do Windows. A alteração aplica-se de imediato. Se o dispositivo escolhido desaparecer (auscultadores desligados), a aplicação volta à escolha predefinida.
+Le périphérique audio choisi n'est plus disponible : retour au périphérique par défaut.	O dispositivo de áudio escolhido já não está disponível: regresso ao dispositivo predefinido.
+Captures d'écran	Capturas de ecrã
+Dossier d'enregistrement	Pasta de gravação
+Parcourir…	Procurar…
+Ouvrir le dossier	Abrir a pasta
+Dossier où la touche S enregistre les captures d'écran. Par défaut : le dossier « Velka » de vos Images. Le dossier choisi doit accepter l'écriture ; s'il disparaît (disque débranché, dossier supprimé), l'application revient au dossier par défaut. Le changement s'applique à la prochaine capture.	Pasta onde a tecla S guarda as capturas de ecrã. Predefinição: a pasta «Velka» nas suas Imagens. A pasta escolhida tem de permitir escrita; se desaparecer (disco desligado, pasta apagada), a aplicação volta à pasta predefinida. A alteração aplica-se à captura seguinte.
+Le dossier des captures n'est plus disponible : retour au dossier par défaut.	A pasta das capturas já não está disponível: regresso à pasta predefinida.
+Ce dossier n'accepte pas l'écriture : choisissez-en un autre.	Esta pasta não permite escrita: escolha outra.
+Aucun	Nenhum
+Effacer un raccourci	Apagar atalho
+Réduire dans la zone de notification à la fermeture	Minimizar para a área de notificação ao fechar
+L'application reste active en fond pour les notifications	A aplicação continua ativa em segundo plano para as notificações
+La croix de fermeture cache la fenêtre dans la zone de notification (près de l'horloge) au lieu de quitter ; le live en cours est arrêté. Clic gauche sur l'icône : rouvrir. Clic droit : Ouvrir ou Quitter. Pour être prévenu quand un favori passe en direct, activez aussi « Notifications Windows ».	A cruz de fecho oculta a janela na área de notificação (junto ao relógio) em vez de sair; a emissão em curso é interrompida. Clique esquerdo no ícone: reabrir. Clique direito: Abrir ou Sair. Ative também «Notificações do Windows» para ser avisado quando um favorito entrar em direto.
+Ouvrir Velka	Abrir o Velka
+Quitter	Sair
+Velka reste actif dans la zone de notification. Clic droit sur l'icône pour quitter.	O Velka continua ativo na área de notificação. Clique com o botão direito no ícone para sair.
+Rechercher des mises à jour	Procurar atualizações
+Vous utilisez la dernière version.	Está a usar a versão mais recente.
+Mise à jour {version} disponible	Atualização {version} disponível
+Impossible de se connecter. Vérifiez votre connexion internet.	Não foi possível ligar. Verifique a sua ligação à internet.
+La recherche de mise à jour a échoué.	A procura de atualizações falhou.
+Historique des chaînes	Histórico de canais
+Effacer l'historique	Apagar o histórico
+Historique effacé.	Histórico apagado.
+Ouvrir le dossier de configuration	Abrir a pasta de configuração
+Options du lecteur	Opções do leitor
+Perso	Outro
+Durée personnalisée	Duração personalizada
+Ajuster uniquement la taille du texte du chat	Ajustar apenas o tamanho do texto do chat
+Ajuster la taille globale de l'interface	Ajustar o tamanho global da interface
+Connectez-vous à Twitch pour activer	Inicie sessão na Twitch para ativar
+Pas de connexion Internet.	Sem conexão com a Internet.
+La connexion Internet s'est coupée.	A conexão com a Internet foi perdida.
+Licences des composants	Licenças dos componentes
+Le lecteur vidéo utilise libmpv (mpv) et FFmpeg, sous licence LGPL version 2.1 ou ultérieure. Vous pouvez remplacer libmpv par votre propre version dans {section}.	O leitor de vídeo utiliza a libmpv (mpv) e o FFmpeg, com licença LGPL versão 2.1 ou posterior. Pode substituir a libmpv pela sua própria versão em {section}.
+Code source et compilation	Código-fonte e scripts de compilação
+Velka n'a pas pu ouvrir sa fenêtre : la carte graphique ou son pilote ne prend pas en charge OpenGL 3.0. Mettez à jour le pilote de la carte graphique, puis relancez Velka. Sur un bureau à distance ou une machine virtuelle, l'affichage peut ne pas être pris en charge.	O Velka não conseguiu abrir sua janela: a placa de vídeo ou o driver dela não é compatível com OpenGL 3.0. Atualize o driver da placa de vídeo e abra o Velka novamente. Em uma área de trabalho remota ou máquina virtual, a exibição pode não ser compatível.
+La carte graphique n'annonce pas OpenGL 3.0 : la vidéo peut rester noire. Mettez à jour le pilote de la carte graphique. Sur un bureau à distance ou une machine virtuelle, l'affichage peut ne pas être pris en charge.	A placa de vídeo não informa OpenGL 3.0: o vídeo pode ficar preto. Atualize o driver da placa de vídeo. Em uma área de trabalho remota ou máquina virtual, a exibição pode não ser compatível.
+Démarrer avec macOS	Iniciar com o macOS
+Démarrer avec Linux	Iniciar com o Linux
+Lance Velka automatiquement quand vous ouvrez votre session macOS.	Abre o Velka automaticamente quando você entra no macOS.
+Lance Velka automatiquement quand vous ouvrez votre session Linux.	Abre o Velka automaticamente quando você entra no Linux.
+Notifications macOS	Notificações do macOS
+Notifications Linux	Notificações do Linux
+Affiche une notification macOS quand l'un de vos favoris passe en direct. L'application doit rester ouverte (elle peut être réduite).	Mostra uma notificação do macOS quando um dos seus favoritos entra ao vivo. O aplicativo precisa ficar aberto (pode estar minimizado).
+Affiche une notification Linux quand l'un de vos favoris passe en direct. L'application doit rester ouverte (elle peut être réduite).	Mostra uma notificação do Linux quando um dos seus favoritos entra ao vivo. O aplicativo precisa ficar aberto (pode estar minimizado).
+Multistream	Multistream
+Regardez jusqu'à 4 lives en même temps.	Veja até 4 diretos em simultâneo.
+Ajouter une chaîne	Adicionar um canal
+Ajouter	Adicionar
+Tout arrêter	Parar tudo
+Cette chaîne est déjà affichée.	Este canal já está a ser apresentado.
+4 lives au maximum.	No máximo 4 diretos.
+Ajoutez une chaîne pour commencer.	Adicione um canal para começar.
+Retirer ce live	Remover este direto
+Écouter ce live	Ouvir este direto
+Cumuler le son des lives en Multistream	Combinar o som dos diretos no Multistream
+Un clic sur un live ajoute son son au lieu de le remplacer	Um clique num direto acrescenta o seu som em vez de o substituir
+Sur la page Multistream, un clic sur un live fait entendre son son en plus de ceux déjà écoutés, jusqu'aux quatre lives. Le bouton du son de chaque live le coupe.	Na página Multistream, um clique num direto faz ouvir o seu som além dos que já está a ouvir, até aos quatro diretos. O botão de som de cada direto silencia-o.
+Couper tous les sons	Silenciar tudo
+Lecteur Twitch léger avec multistream, chat et notifications.	Player leve da Twitch com multistream, chat e notificações.
+Quelques composants sont nécessaires pour lire les lives Twitch.	Alguns componentes são necessários para assistir às lives da Twitch.
+Logiciel libre sous licence GPL-3.0 ou ultérieure.	Software livre sob a licença GPL-3.0 ou posterior.
+Application non affiliée à Twitch.	Aplicativo não afiliado à Twitch.
+Code source sur GitHub	Código-fonte no GitHub
+Soutenir le projet	Apoiar o projeto
+La connexion Twitch n'a pas pu être enregistrée de façon sécurisée (trousseau du système indisponible) : elle sera perdue à la fermeture de Velka.	Não foi possível salvar a conexão com a Twitch com segurança (chaveiro do sistema indisponível): ela será perdida ao fechar o Velka.
+Velka est gratuit et le restera. Si l'application vous plaît, un petit don aide à la faire vivre.	O Velka é gratuito e continuará sendo. Se você gosta do aplicativo, uma pequena doação ajuda a mantê-lo.
+Plus tard	Mais tarde
+Rappel pour soutenir le projet	Lembrete para apoiar o projeto
+Affiche de temps en temps sur l'accueil, au plus une fois par mois, un message avec un lien pour soutenir le projet.	Mostra de vez em quando no início, no máximo uma vez por mês, uma mensagem com um link para apoiar o projeto.

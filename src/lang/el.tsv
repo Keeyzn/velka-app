@@ -1,0 +1,535 @@
+Aide	Βοήθεια
+Réduire	Ελαχιστοποίηση
+Agrandir	Μεγιστοποίηση
+Restaurer	Επαναφορά
+Fermer	Κλείσιμο
+Échap	Esc
+Français	Γαλλικά
+Anglais	Αγγλικά
+Espagnol	Ισπανικά
+Portugais	Πορτογαλικά
+Allemand	Γερμανικά
+Italien	Ιταλικά
+Néerlandais	Ολλανδικά
+Polonais	Πολωνικά
+Russe	Ρωσικά
+Ukrainien	Ουκρανικά
+Turc	Τουρκικά
+Vietnamien	Βιετναμικά
+Indonésien	Ινδονησιακά
+Chinois simplifié	Απλοποιημένα κινεζικά
+Chinois traditionnel	Παραδοσιακά κινεζικά
+Japonais	Ιαπωνικά
+Coréen	Κορεατικά
+Tchèque	Τσεχικά
+Roumain	Ρουμανικά
+Hongrois	Ουγγρικά
+Suédois	Σουηδικά
+Danois	Δανικά
+Norvégien	Νορβηγικά
+Finnois	Φινλανδικά
+Grec	Ελληνικά
+Annuler	Άκυρο
+spectateurs	θεατές
+Hors ligne	Εκτός σύνδεσης
+Cette chaîne n'existe pas.	Αυτό το κανάλι δεν υπάρχει.
+Statut indisponible, vous pouvez quand même essayer.	Η κατάσταση δεν είναι διαθέσιμη, μπορείτε όμως να δοκιμάσετε.
+Accueil	Αρχική
+En direct	Ζωντανά
+chaînes	κανάλια
+Favoris	Αγαπημένα
+Spectateurs	Θεατές
+au total	συνολικά
+Résultat	Αποτέλεσμα
+Vérification…	Γίνεται έλεγχος…
+Regarder	Παρακολούθηση
+Nom de chaîne invalide.	Μη έγκυρο όνομα καναλιού.
+En direct parmi vos favoris	Ζωντανά από τα αγαπημένα σας
+Aucun favori en direct pour le moment.	Κανένα αγαπημένο δεν μεταδίδει ζωντανά αυτή τη στιγμή.
+Récents	Πρόσφατα
+Retirer de l'historique	Αφαίρεση από το ιστορικό
+Rechercher	Αναζήτηση
+Plateforme	Πλατφόρμα
+Réglages	Ρυθμίσεις
+Quitter le PiP	Έξοδος από PiP
+Reprise dans un instant…	Συνεχίζει σε λίγο…
+Retour	Πίσω
+Arrêter	Διακοπή
+Quitter le plein écran	Έξοδος από πλήρη οθόνη
+Plein écran	Πλήρης οθόνη
+Lecture	Αναπαραγωγή
+Réactiver le son	Ενεργοποίηση ήχου
+Couper le son	Σίγαση
+Chat	Συνομιλία
+Changement de qualité…	Αλλαγή ποιότητας…
+Réessayer	Νέα προσπάθεια
+depuis	εδώ και
+connexion…	σύνδεση…
+changement de qualité…	αλλαγή ποιότητας…
+interrompu	διακόπηκε
+Lecture vidéo	Αναπαραγωγή βίντεο
+Qualité par défaut	Προεπιλεγμένη ποιότητα
+Faible latence	Χαμηλή καθυστέρηση
+Désactiver pour un flux plus stable	Απενεργοποιήστε για πιο σταθερή μετάδοση
+Réduire la barre latérale	Σύμπτυξη πλευρικής στήλης
+Agrandir la barre latérale	Ανάπτυξη πλευρικής στήλης
+Chat à gauche de la vidéo	Συνομιλία αριστερά από το βίντεο
+Toujours au premier plan	Πάντα σε πρώτο πλάνο
+Chat en surimpression en plein écran	Συνομιλία πάνω στο βίντεο σε πλήρη οθόνη
+Apparence	Εμφάνιση
+Général	Γενικά
+Thème	Θέμα
+Langue	Γλώσσα
+Sombre	Σχιστόλιθος
+Dark	Σκούρο
+Clair	Ανοιχτό
+Compte Twitch	Λογαριασμός Twitch
+Connecté en tant que	Συνδεδεμένος ως
+Vous pouvez écrire dans le chat.	Μπορείτε να γράφετε στη συνομιλία.
+chaînes suivies sur Twitch chargées.	κανάλια Twitch που ακολουθείτε φορτώθηκαν.
+Impossible de charger vos chaînes suivies pour le moment.	Δεν είναι δυνατή η φόρτωση των καναλιών που ακολουθείτε αυτή τη στιγμή.
+Chargement de vos chaînes suivies…	Φόρτωση των καναλιών που ακολουθείτε…
+En direct parmi vos chaînes suivies sur Twitch	Ζωντανά από τα κανάλια Twitch που ακολουθείτε
+Suivies sur Twitch	Ακολουθείτε στο Twitch
+Prévient quand un favori passe en direct	Ειδοποιεί όταν ένα αγαπημένο ξεκινά ζωντανή μετάδοση
+Activé : vos favoris sont vérifiés toutes les minutes en arrière-plan, même pendant un live. Cela utilise un peu plus d'internet et de mémoire.	Ενεργό: τα αγαπημένα σας ελέγχονται κάθε λεπτό στο παρασκήνιο, ακόμη και όταν παρακολουθείτε. Χρησιμοποιεί λίγο περισσότερο διαδίκτυο και μνήμη.
+Chaînes dans la barre latérale	Κανάλια στην πλευρική στήλη
+Chaînes sur l'accueil	Κανάλια στην αρχική
+Qualité utilisée à l'ouverture d'un live. « Source » est la qualité maximale de la chaîne ; « Audio » ne joue que le son.	Ποιότητα κατά το άνοιγμα μιας μετάδοσης. Το «Source» είναι η μέγιστη ποιότητα του καναλιού· το «Audio» παίζει μόνο τον ήχο.
+Réduit le retard entre le streamer et vous. Désactivez-le si la vidéo saccade ou se coupe.	Μειώνει την καθυστέρηση από τον streamer. Απενεργοποιήστε την αν η εικόνα κολλάει ή διακόπτεται.
+Garde la fenêtre devant toutes les autres applications.	Κρατά το παράθυρο μπροστά από όλες τις άλλες εφαρμογές.
+Affiche le chat par-dessus la vidéo quand vous êtes en plein écran.	Εμφανίζει τη συνομιλία πάνω στο βίντεο σε πλήρη οθόνη.
+Faire rouler la molette au-dessus de la vidéo monte ou baisse le volume.	Η ροδέλα του ποντικιού πάνω στο βίντεο αυξάνει ή μειώνει την ένταση.
+Un clic sur la vidéo met en pause ou relance la lecture.	Ένα κλικ στο βίντεο κάνει παύση ή συνεχίζει την αναπαραγωγή.
+Garde un niveau sonore régulier (normalisation du son) : relève les passages faibles et atténue les passages forts, d'une chaîne à l'autre et au sein d'un même live.	Διατηρεί σταθερό επίπεδο ήχου (κανονικοποίηση ήχου): ενισχύει τα χαμηλά σημεία και μειώνει τα δυνατά, μεταξύ καναλιών και μέσα στην ίδια μετάδοση.
+Vitesse de la molette dans les listes et dans le chat. À 1,0 ×, un cran de molette fait défiler 3 lignes de 75 px, de façon fluide.	Ταχύτητα της ροδέλας σε λίστες και στη συνομιλία. Στο 1,0 ×, ένα βήμα κυλά ομαλά 3 γραμμές των 75 px.
+À chaque lancement, l'application démarre avec le volume choisi ci-dessous, au lieu du dernier volume réglé.	Σε κάθε εκκίνηση, η εφαρμογή χρησιμοποιεί την ένταση που επιλέγεται παρακάτω αντί για την τελευταία.
+100 % = volume normal. 130 % permet d'amplifier une chaîne trop silencieuse, mais le son peut saturer.	100 % = κανονική ένταση. Το 130 % ενισχύει ένα πολύ χαμηλό κανάλι, αλλά ο ήχος μπορεί να παραμορφωθεί.
+Temps sans bouger la souris avant que les boutons posés sur la vidéo disparaissent.	Χρόνος χωρίς κίνηση του ποντικιού πριν εξαφανιστούν τα κουμπιά πάνω στο βίντεο.
+Quand vous quittez la page d'un live avec « Retour », il continue dans une petite fenêtre en bas à droite. Désactivé : il s'arrête.	Όταν φεύγετε από τη σελίδα μιας μετάδοσης με το «Πίσω», συνεχίζει σε μικρό παράθυρο κάτω δεξιά. Ανενεργό: σταματά.
+Fréquence à laquelle l'accueil vérifie quelles chaînes sont en direct. Plus c'est rapide, plus cela utilise internet. « Manuelle » : seulement avec le bouton Actualiser.	Πόσο συχνά η αρχική ελέγχει ποια κανάλια μεταδίδουν. Όσο πιο συχνά, τόσο περισσότερο διαδίκτυο. «Χειροκίνητα»: μόνο με το κουμπί Ανανέωση.
+Télécharge une image du direct pour chaque carte. Désactivez pour économiser des données.	Κατεβάζει μια εικόνα της μετάδοσης για κάθε κάρτα. Απενεργοποιήστε για εξοικονόμηση δεδομένων.
+Les chaînes que vous suivez sur votre compte Twitch (il faut être connecté dans la carte « Compte Twitch »).	Τα κανάλια που ακολουθείτε στον λογαριασμό σας Twitch (πρέπει να είστε συνδεδεμένοι στην κάρτα «Λογαριασμός Twitch»).
+Nombre maximum de chaînes Twitch en direct listées dans la barre de gauche (ce n'est pas un délai).	Μέγιστος αριθμός ζωντανών καναλιών Twitch στην αριστερή στήλη (δεν είναι χρόνος).
+Nombre maximum de chaînes Twitch en direct affichées sur la page d'accueil (ce n'est pas un délai).	Μέγιστος αριθμός ζωντανών καναλιών Twitch στην αρχική σελίδα (δεν είναι χρόνος).
+Garde le jeu sélectionné dans la barre « Jeux en direct » au prochain lancement.	Θυμάται το παιχνίδι που επιλέχθηκε στη γραμμή «Ζωντανά παιχνίδια» για την επόμενη εκκίνηση.
+Ouvrir : le live s'affiche en grand. PiP : il s'ouvre directement dans une petite fenêtre flottante.	Άνοιγμα: η μετάδοση εμφανίζεται μεγάλη. PiP: ανοίγει απευθείας σε μικρό πλωτό παράθυρο.
+Les messages qui contiennent un de ces mots (séparés par des virgules) sont surlignés en jaune dans le chat.	Τα μηνύματα που περιέχουν μία από αυτές τις λέξεις (χωρισμένες με κόμμα) επισημαίνονται με κίτρινο στη συνομιλία.
+Quand une chaîne est hors ligne ou que son live se termine, propose d'autres lives : vos chaînes suivies du même jeu d'abord.	Όταν ένα κανάλι είναι εκτός σύνδεσης ή η μετάδοση τελειώνει, προτείνει άλλες: πρώτα κανάλια που ακολουθείτε με το ίδιο παιχνίδι.
+Nombre de chaînes proposées quand un live est hors ligne ou terminé.	Αριθμός προτεινόμενων καναλιών όταν μια μετάδοση είναι εκτός σύνδεσης ή έχει τελειώσει.
+Les boutons latéraux de la souris changent de page, comme dans un navigateur. Alt + flèche gauche ou droite fait pareil.	Τα πλαϊνά κουμπιά του ποντικιού αλλάζουν σελίδα, όπως σε πρόγραμμα περιήγησης. Το Alt + αριστερό ή δεξί βέλος κάνει το ίδιο.
+Le pointeur devient une main au-dessus des boutons et des cartes.	Ο δείκτης γίνεται χέρι πάνω από κουμπιά και κάρτες.
+Complet : fondus, glissements, cascades et compteurs animés. Réduit : fondus et changements de couleur seulement, sans déplacement. Désactivé : aucune animation (utile sur un ordinateur lent). Le réglage d'animations de Windows n'est pas pris en compte.	Πλήρεις: σταδιακές εναλλαγές, μετακινήσεις, διαδοχικές εμφανίσεις και κινούμενοι μετρητές. Μειωμένες: μόνο σταδιακές εναλλαγές και αλλαγές χρώματος, χωρίς μετακίνηση. Απενεργοποιημένες: καμία κίνηση (χρήσιμο σε αργό υπολογιστή). Η ρύθμιση κινήσεων των Windows δεν λαμβάνεται υπόψη.
+Affiche une notification Windows quand l'un de vos favoris passe en direct. L'application doit rester ouverte (elle peut être réduite).	Εμφανίζει ειδοποίηση των Windows όταν ένα από τα αγαπημένα σας ξεκινά ζωντανή μετάδοση. Η εφαρμογή πρέπει να μένει ανοιχτή (μπορεί να είναι ελαχιστοποιημένη).
+Lance Velka automatiquement quand vous ouvrez votre session Windows.	Ξεκινά το Velka αυτόματα όταν συνδέεστε στα Windows.
+Photos de profil et émotes déjà téléchargées. Les vider libère de la place ; elles se retéléchargent au besoin.	Εικόνες προφίλ και emotes που έχουν ήδη ληφθεί. Η εκκαθάριση ελευθερώνει χώρο· θα ληφθούν ξανά όταν χρειαστεί.
+Notifications Windows	Ειδοποιήσεις Windows
+Prévient quand un favori passe en direct. Vérifie vos favoris toutes les minutes, même pendant un live : utilise un peu plus d'internet et de mémoire.	Ειδοποιεί όταν ένα αγαπημένο ξεκινά ζωντανή μετάδοση. Ελέγχει τα αγαπημένα κάθε λεπτό, ακόμη και όταν παρακολουθείτε: χρησιμοποιεί λίγο περισσότερο διαδίκτυο και μνήμη.
+Envoyer une notification de test	Αποστολή δοκιμαστικής ειδοποίησης
+est en direct	μεταδίδει ζωντανά
+Notification de test : tout fonctionne.	Δοκιμαστική ειδοποίηση: όλα λειτουργούν.
+Volume et lecteur	Ένταση και πρόγραμμα αναπαραγωγής
+Démarrer en muet	Εκκίνηση σε σίγαση
+Volume fixe au lancement	Σταθερή ένταση στην εκκίνηση
+Sinon : le dernier volume utilisé	Αλλιώς: η τελευταία ένταση
+Volume au lancement	Ένταση στην εκκίνηση
+Volume maximum	Μέγιστη ένταση
+Masquage des contrôles	Απόκρυψη κουμπιών μετά από
+Jamais	Ποτέ
+Capture d'écran	Στιγμιότυπο οθόνης
+Infos techniques	Τεχνικές πληροφορίες
+Capture enregistrée :	Το στιγμιότυπο αποθηκεύτηκε:
+Capture impossible.	Δεν ήταν δυνατή η λήψη στιγμιότυπου.
+Minuteur de veille	Χρονοδιακόπτης ύπνου
+Désactivé	Ανενεργός
+Arrêt du live dans	Η μετάδοση σταματά σε
+logiciel	λογισμικό
+Résolution	Ανάλυση
+Images par seconde	Καρέ ανά δευτερόλεπτο
+Débit vidéo	Ρυθμός bit βίντεο
+Débit audio	Ρυθμός bit ήχου
+Images perdues	Χαμένα καρέ
+Images perdues au décodage	Καρέ που χάθηκαν στην αποκωδικοποίηση
+Mémoire tampon	Προσωρινή μνήμη
+Format vidéo	Μορφή βίντεο
+Décodage	Αποκωδικοποίηση
+Arrête le live automatiquement après la durée choisie, à partir du moment où vous changez ce réglage. Une minute avant, un compte à rebours s'affiche sur la vidéo. Le minuteur revient sur Désactivé à chaque nouveau live et à chaque lancement de l'application.	Σταματά αυτόματα τη μετάδοση μετά τη διάρκεια που επιλέξατε, από τη στιγμή που αλλάζετε αυτή τη ρύθμιση. Ένα λεπτό πριν εμφανίζεται αντίστροφη μέτρηση πάνω στο βίντεο. Ο χρονοδιακόπτης επανέρχεται σε Απενεργοποιημένο σε κάθε νέα μετάδοση και σε κάθε εκκίνηση της εφαρμογής.
+Émotes 7TV, BTTV et FFZ	Emotes 7TV, BTTV και FFZ
+Émotes animées	Κινούμενα emotes
+Badges du chat	Σήματα συνομιλίας
+Affiche les émotes des extensions 7TV, BetterTTV et FrankerFaceZ (globales et propres à la chaîne). Elles sont chargées à l'ouverture du live.	Εμφανίζει τα emotes των επεκτάσεων 7TV, BetterTTV και FrankerFaceZ (γενικά και του καναλιού). Φορτώνονται κατά το άνοιγμα της μετάδοσης.
+Anime les émotes qui le sont (Twitch et extensions). Utilise un peu plus le processeur quand le chat en affiche.	Κινεί τα κινούμενα emotes (Twitch και επεκτάσεις). Χρησιμοποιεί λίγο περισσότερο τον επεξεργαστή όταν τα εμφανίζει η συνομιλία.
+Affiche les badges (abonné, modérateur, VIP…) devant les pseudos.	Εμφανίζει τα σήματα (συνδρομητής, συντονιστής, VIP…) πριν από τα ονόματα.
+Netteté de l'image	Ευκρίνεια εικόνας
+Agrandissement de haute qualité	Μεγέθυνση υψηλής ποιότητας
+Désactivée	Ανενεργή
+Légère	Ελαφριά
+Moyenne	Μέτρια
+Forte	Έντονη
+Image plus fine en 480p et 720p	Πιο λεπτομερής εικόνα σε 480p και 720p
+Renforce les contours de l'image (calculé par la carte graphique). Utile sur un flux flou ; trop fort, l'image paraît granuleuse.	Ενισχύει τα περιγράμματα της εικόνας (υπολογίζεται από την κάρτα γραφικών). Χρήσιμο σε θολή μετάδοση· πολύ έντονο κάνει την εικόνα κοκκώδη.
+Utilise un filtre d'agrandissement plus fin quand la vidéo est plus petite que la fenêtre (480p, 720p). Demande davantage à la carte graphique.	Χρησιμοποιεί πιο λεπτό φίλτρο μεγέθυνσης όταν το βίντεο είναι μικρότερο από το παράθυρο (480p, 720p). Επιβαρύνει περισσότερο την κάρτα γραφικών.
+Compte	Λογαριασμός
+Qualité et flux	Ποιότητα και ροή
+Audio	Ήχος
+Lecteur et comportement	Πρόγραμμα αναπαραγωγής και συμπεριφορά
+Affichage et lisibilité	Εμφάνιση και αναγνωσιμότητα
+Filtrage et alertes	Φιλτράρισμα και ειδοποιήσεις
+Notifications	Ειδοποιήσεις
+Avancé et Système	Για προχωρημένους και σύστημα
+Stockage et configuration	Αποθήκευση και διαμόρφωση
+Émotes et badges	Emotes και σήματα
+Les changements s'appliquent tout de suite.	Οι αλλαγές εφαρμόζονται αμέσως.
+2,5 s	2,5 δευτ.
+Mo	MB
+Ko	KB
+Rechercher un réglage	Αναζήτηση ρύθμισης
+Résultats de la recherche	Αποτελέσματα αναζήτησης
+Aucun réglage trouvé.	Δεν βρέθηκε ρύθμιση.
+Mini-lecteur	Μίνι πρόγραμμα αναπαραγωγής
+Garder le live dans un coin quand on quitte la page	Διατήρηση της μετάδοσης σε μια γωνία όταν φεύγετε από τη σελίδα
+Accueil et barre latérale	Αρχική και πλευρική στήλη
+Actualisation	Ανανέωση
+Manuelle	Χειροκίνητα
+Actualiser	Ανανέωση
+Aperçus des lives	Προεπισκοπήσεις μεταδόσεων
+Images du direct sur les cartes	Ζωντανές εικόνες στις κάρτες
+Chaînes suivies sur Twitch	Κανάλια Twitch που ακολουθείτε
+Dans la barre latérale, sur l'accueil et dans les recommandations	Στην πλευρική στήλη, στην αρχική και στις προτάσεις
+Dans la barre latérale	Στην πλευρική στήλη
+Sur l'accueil	Στην αρχική
+Se souvenir du jeu choisi	Απομνημόνευση του επιλεγμένου παιχνιδιού
+Clic sur une carte	Κλικ σε κάρτα
+Ouvrir	Άνοιγμα
+Taille du texte	Μέγεθος κειμένου
+Masquer les bots	Απόκρυψη bots
+Horodatage des messages	Ώρα μηνυμάτων
+Mots surlignés	Επισημασμένες λέξεις
+mot, pseudo… (séparés par des virgules)	λέξη, όνομα… (χωρισμένα με κόμμα)
+Recommandations	Προτάσεις
+Recommandations de chaînes	Προτεινόμενα κανάλια
+Proposer des chaînes quand un live est hors ligne ou terminé	Πρόταση καναλιών όταν μια μετάδοση είναι εκτός σύνδεσης ή έχει τελειώσει
+Nombre de recommandations	Αριθμός προτάσεων
+Mouvement et lisibilité	Κίνηση και αναγνωσιμότητα
+Navigation et souris	Πλοήγηση και ποντίκι
+Vérification des mises à jour	Έλεγχος ενημερώσεων
+Nouvelle version disponible :	Διατίθεται νέα έκδοση:
+Mettre à jour	Ενημέρωση
+Téléchargement de la mise à jour…	Λήψη της ενημέρωσης…
+Mise à jour impossible :	Η ενημέρωση απέτυχε:
+Boutons Précédent / Suivant de la souris	Κουμπιά ποντικιού Πίσω / Εμπρός
+Main sur les éléments cliquables	Χέρι πάνω από στοιχεία που πατιούνται
+Animations	Κινήσεις
+Raccourcis clavier	Συντομεύσεις πληκτρολογίου
+Appuyez sur une touche…	Πατήστε ένα πλήκτρο…
+Rétablir les raccourcis	Επαναφορά συντομεύσεων
+Raccourcis non modifiables	Σταθερές συντομεύσεις
+Quitter le plein écran, le PiP ou le live	Έξοδος από πλήρη οθόνη, PiP ή live
+Rechercher une chaîne	Αναζήτηση καναλιού
+Zoom de l'interface	Μεγέθυνση διεπαφής
+Page précédente / suivante	Προηγούμενη / επόμενη σελίδα
+Pause / lecture	Παύση / αναπαραγωγή
+Volume +	Ένταση +
+Volume -	Ένταση -
+Afficher / masquer le chat	Εμφάνιση / απόκρυψη συνομιλίας
+Image dans l'image	Εικόνα σε εικόνα
+Système	Σύστημα
+Démarrer avec Windows	Εκκίνηση με τα Windows
+Ouvre l'application à l'ouverture de session	Ανοίγει την εφαρμογή κατά τη σύνδεση
+Cache des images	Προσωρινή μνήμη εικόνων
+Vider	Εκκαθάριση
+Espace	Διάστημα
+Flèche haut	Πάνω βέλος
+Flèche bas	Κάτω βέλος
+Flèche gauche	Αριστερό βέλος
+Flèche droite	Δεξί βέλος
+Entrée	Enter
+Jeux en direct	Ζωντανά παιχνίδια
+Aucun live pour ce jeu en ce moment.	Καμία μετάδοση για αυτό το παιχνίδι αυτή τη στιγμή.
+Chaînes recommandées	Προτεινόμενα κανάλια
+Ajouter aux favoris	Προσθήκη στα αγαπημένα
+Se déconnecter	Αποσύνδεση
+En attente de votre accord sur Twitch…	Αναμονή για την έγκρισή σας στο Twitch…
+Rouvrir la page Twitch	Νέο άνοιγμα της σελίδας Twitch
+Connexion à Twitch…	Σύνδεση στο Twitch…
+Connectez-vous pour écrire dans le chat.	Συνδεθείτε για να γράψετε στη συνομιλία.
+Se connecter avec Twitch	Σύνδεση με Twitch
+La connexion Twitch n'est pas disponible dans cette version.	Η σύνδεση με Twitch δεν είναι διαθέσιμη σε αυτή την έκδοση.
+Connexion refusée sur Twitch.	Το Twitch απέρριψε τη σύνδεση.
+Le code a expiré, recommencez.	Ο κωδικός έληξε, ξεκινήστε ξανά.
+Twitch a refusé la connexion.	Το Twitch απέρριψε τη σύνδεση.
+Impossible de joindre Twitch. Vérifiez votre connexion.	Δεν είναι δυνατή η πρόσβαση στο Twitch. Ελέγξτε τη σύνδεσή σας.
+Twitch a refusé la demande de connexion.	Το Twitch απέρριψε το αίτημα σύνδεσης.
+Composants externes	Εξωτερικά στοιχεία
+Non installé	Δεν έχει εγκατασταθεί
+Prêt	Έτοιμο
+Installer	Εγκατάσταση
+Chemins personnalisés (facultatif)	Προσαρμοσμένες διαδρομές (προαιρετικό)
+Journaux et diagnostic	Αρχεία καταγραφής και διάγνωση
+Volume	Ένταση
+Molette de la souris sur la vidéo = volume	Ροδέλα ποντικιού στο βίντεο = ένταση
+Clic sur la vidéo = pause	Κλικ στο βίντεο = παύση
+Volume stable	Σταθερή ένταση
+Limite les écarts de volume entre les chaînes	Περιορίζει τις διαφορές έντασης μεταξύ καναλιών
+Vitesse de défilement	Ταχύτητα κύλισης
+Résultats	Αποτελέσματα
+Zone de réinitialisation	Ζώνη επαναφοράς
+Réinitialiser	Επαναφορά
+Désinstaller	Απεγκατάσταση
+Oui, réinitialiser	Ναι, επαναφορά
+Oui, désinstaller	Ναι, απεγκατάσταση
+Ouvrir le dossier du journal	Άνοιγμα φακέλου καταγραφής
+Connexion au chat…	Σύνδεση στη συνομιλία…
+Chat connecté	Η συνομιλία συνδέθηκε
+Reconnexion du chat	Επανασύνδεση συνομιλίας
+Envoyer un message	Αποστολή μηνύματος
+Jeton requis pour écrire (Réglages)	Χρειάζεται διακριτικό για να γράψετε (Ρυθμίσεις)
+Revenir en bas	Επιστροφή στο τέλος
+Réponse de Twitch inattendue pour ce jeton.	Μη αναμενόμενη απάντηση του Twitch για αυτό το διακριτικό.
+Jeton refusé par Twitch (expiré ou invalide).	Το Twitch απέρριψε το διακριτικό (έληξε ή δεν είναι έγκυρο).
+Connexion refusée avec ce jeton.	Η σύνδεση με αυτό το διακριτικό απορρίφθηκε.
+Bienvenue dans Velka	Καλώς ήρθατε στο Velka
+Tout installer	Εγκατάσταση όλων
+Installation en cours…	Εγκατάσταση…
+La chaîne est hors ligne.	Το κανάλι είναι εκτός σύνδεσης.
+Pas de connexion à Twitch. Vérifiez votre réseau.	Δεν υπάρχει σύνδεση με το Twitch. Ελέγξτε το δίκτυό σας.
+Le flux met trop de temps à démarrer.	Η μετάδοση αργεί πολύ να ξεκινήσει.
+Le flux s'est interrompu :	Η μετάδοση διακόπηκε:
+arrêt inattendu	απρόσμενη διακοπή
+Impossible de lancer Streamlink :	Δεν ήταν δυνατή η εκκίνηση του Streamlink:
+Préparation…	Προετοιμασία…
+Le rendu OpenGL n'est pas disponible.	Η απόδοση OpenGL δεν είναι διαθέσιμη.
+Aucun port local disponible.	Δεν υπάρχει διαθέσιμη τοπική θύρα.
+Impossible de joindre GitHub :	Δεν είναι δυνατή η πρόσβαση στο GitHub:
+Réponse GitHub illisible :	Μη αναγνώσιμη απάντηση του GitHub:
+Aucune archive compatible dans la dernière version.	Δεν υπάρχει συμβατό αρχείο στην τελευταία έκδοση.
+Téléchargement impossible :	Η λήψη απέτυχε:
+Écriture impossible :	Η εγγραφή απέτυχε:
+Téléchargement interrompu :	Η λήψη διακόπηκε:
+Le fichier téléchargé est vide.	Το αρχείο που λήφθηκε είναι κενό.
+Recherche de la dernière version…	Αναζήτηση της τελευταίας έκδοσης…
+Dossier inaccessible :	Ο φάκελος δεν είναι προσβάσιμος:
+Téléchargement…	Λήψη…
+Extraction…	Αποσυμπίεση…
+Extraction impossible :	Η αποσυμπίεση απέτυχε:
+Archive invalide :	Μη έγκυρο αρχείο:
+streamlink.exe introuvable dans l'archive.	Το streamlink.exe δεν βρέθηκε στο αρχείο.
+Structure d'archive inattendue.	Μη αναμενόμενη δομή αρχείου.
+libmpv-2.dll introuvable dans l'archive.	Το libmpv-2.dll δεν βρέθηκε στο αρχείο.
+Installation impossible :	Η εγκατάσταση απέτυχε:
+Fichier installé introuvable ou vide.	Το εγκατεστημένο αρχείο λείπει ή είναι κενό.
+Installé	Εγκαταστάθηκε
+Accessibilité	Προσβασιμότητα
+Taille de l'interface	Μέγεθος διεπαφής
+Mise à l'échelle	Κλιμάκωση
+Contraste élevé	Υψηλή αντίθεση
+Automatique	Αυτόματο
+Activé	Ενεργό
+Focus clavier renforcé	Ενισχυμένη εστίαση πληκτρολογίου
+Couleurs	Χρώματα
+Palette de couleurs	Παλέτα χρωμάτων
+Turquoise	Τιρκουάζ
+Bleu	Μπλε
+Vert	Πράσινο
+Orange foncé	Σκούρο πορτοκαλί
+Rose	Ροζ
+Personnalisée	Προσαρμοσμένο
+Couleur d'accent personnalisée	Προσαρμοσμένο χρώμα έμφασης
+Code couleur	Κωδικός χρώματος
+Rouge	Κόκκινο
+Exemple	Παράδειγμα
+Contraste du texte sur l'accent	Αντίθεση κειμένου στο χρώμα έμφασης
+Conforme	Συμμορφώνεται
+Insuffisant, minimum	Ανεπαρκές, ελάχιστο
+Couleur non appliquée : le contraste est trop faible.	Το χρώμα δεν εφαρμόστηκε: η αντίθεση είναι πολύ χαμηλή.
+Couleur conforme la plus proche :	Πλησιέστερο συμμορφούμενο χρώμα:
+Utiliser cette couleur	Χρήση αυτού του χρώματος
+Rétablir les couleurs par défaut	Επαναφορά προεπιλεγμένων χρωμάτων
+Mises à jour	Ενημερώσεις
+À jour	Ενημερωμένο
+Mise à jour disponible	Διαθέσιμη ενημέρωση
+Chemin personnalisé	Προσαρμοσμένη διαδρομή
+Version inconnue	Άγνωστη έκδοση
+Installée :	Εγκατεστημένη:
+Disponible :	Διαθέσιμη:
+Mise à jour en cours…	Ενημέρωση…
+Redémarrage nécessaire	Απαιτείται επανεκκίνηση
+Impossible de vérifier les mises à jour :	Αδυναμία ελέγχου ενημερώσεων:
+Échec de la mise à jour, version précédente conservée :	Η ενημέρωση απέτυχε, διατηρήθηκε η προηγούμενη έκδοση:
+Versions des composants non validées par l'éditeur.	Οι εκδόσεις των στοιχείων δεν έχουν εγκριθεί από τον εκδότη.
+Archive validée introuvable sur GitHub.	Το εγκεκριμένο αρχείο δεν βρέθηκε στο GitHub.
+Adresse de téléchargement inattendue.	Μη αναμενόμενη διεύθυνση λήψης.
+Empreinte du fichier téléchargé incorrecte.	Το άθροισμα ελέγχου του αρχείου που λήφθηκε δεν ταιριάζει.
+Téléchargement refusé par le serveur.	Ο διακομιστής απέρριψε τη λήψη.
+Fichier reçu invalide (taille ou empreinte différente).	Το αρχείο που λήφθηκε δεν είναι έγκυρο (το μέγεθος ή το άθροισμα ελέγχου δεν ταιριάζει).
+Serveur injoignable :	Ο διακομιστής δεν είναι προσβάσιμος:
+Remplacement impossible :	Η αντικατάσταση απέτυχε:
+Relance impossible :	Η επανεκκίνηση απέτυχε:
+Impossible de charger libmpv :	Δεν ήταν δυνατή η φόρτωση της libmpv:
+Fonction libmpv manquante :	Λείπει μια συνάρτηση της libmpv:
+Le lecteur n'a pas pu démarrer.	Το πρόγραμμα αναπαραγωγής δεν μπόρεσε να ξεκινήσει.
+Initialisation du lecteur impossible :	Η αρχικοποίηση του προγράμματος αναπαραγωγής απέτυχε:
+Rendu vidéo impossible :	Η απόδοση του βίντεο απέτυχε:
+Option du lecteur refusée :	Το πρόγραμμα αναπαραγωγής απέρριψε την επιλογή:
+Propriété du lecteur refusée :	Το πρόγραμμα αναπαραγωγής απέρριψε την ιδιότητα:
+Commande du lecteur refusée :	Το πρόγραμμα αναπαραγωγής απέρριψε την εντολή:
+Se connecter	Σύνδεση
+Autres langues	Άλλες γλώσσες
+Personnaliser	Προσαρμογή
+Améliorer le contraste	Βελτίωση αντίθεσης
+Replier le chat	Σύμπτυξη συνομιλίας
+Afficher le chat	Εμφάνιση συνομιλίας
+Qualité maximale proposée par la chaîne, sans réduction.	Η υψηλότερη ποιότητα που προσφέρει το κανάλι, χωρίς μείωση.
+Fenêtre PiP au format de la vidéo	Παράθυρο PiP στη μορφή του βίντεο
+En mini-fenêtre PiP, la fenêtre prend le format du live pour supprimer les bandes noires.	Στο μικρό παράθυρο PiP, το παράθυρο παίρνει τον λόγο διαστάσεων της μετάδοσης ώστε να εξαφανιστούν οι μαύρες ταινίες.
+spectateur	θεατής
+Actualisation en cours	Ανανέωση σε εξέλιξη…
+Qualité	Ποιότητα
+Redémarrer l'application	Επανεκκίνηση της εφαρμογής
+Passer	Παράλειψη
+Suivant	Επόμενο
+C'est parti	Πάμε
+Chat avec émotes	Συνομιλία με emotes
+Mini-lecteur et PiP	Μίνι αναπαραγωγέας και PiP
+Choisissez votre style	Διαλέξτε το στυλ σας
+Couleur d'accent	Χρώμα έμφασης
+Réglez la lecture	Ρυθμίστε την αναπαραγωγή
+Restez informé	Μείνετε ενημερωμένοι
+Tout se règle aussi plus tard dans les Réglages.	Όλα αλλάζουν αργότερα στις Ρυθμίσεις.
+Thème et couleur de l'application.	Θέμα και χρώμα της εφαρμογής.
+Les réglages les plus utiles, en un coup d'œil.	Οι πιο χρήσιμες ρυθμίσεις με μια ματιά.
+Ne ratez plus vos streamers préférés.	Μην χάσετε ποτέ τους αγαπημένους σας streamers.
+Ultra légère et optimisée, parfaite pour jouer en même temps.	Εξαιρετικά ελαφριά και βελτιστοποιημένη, ιδανική για παιχνίδι ταυτόχρονα.
+Revoir le didacticiel	Επανάληψη του οδηγού
+Le live démarre sans le son ; vous le réactivez quand vous voulez.	Η μετάδοση ξεκινά χωρίς ήχο· τον ενεργοποιείτε όποτε θέλετε.
+Agrandit ou réduit le texte des messages du chat.	Μεγαλώνει ή μικραίνει το κείμενο των μηνυμάτων του chat.
+Affiche l'heure devant chaque message du chat.	Εμφανίζει την ώρα πριν από κάθε μήνυμα του chat.
+Place le chat à gauche de la vidéo au lieu de la droite.	Τοποθετεί το chat αριστερά του βίντεο αντί για δεξιά.
+Favori	Αγαπημένο
+Aucun favori pour le moment. Cherchez une chaîne puis choisissez « Ajouter aux favoris ».	Κανένα αγαπημένο ακόμη. Αναζητήστε ένα κανάλι και επιλέξτε «Προσθήκη στα αγαπημένα».
+Orange (par défaut)	Πορτοκαλί (προεπιλογή)
+Retirer des favoris	Αφαίρεση από τα αγαπημένα
+Connexion en cours	Σύνδεση σε εξέλιξη
+Audio du live uniquement	Μόνο ήχος της ζωντανής μετάδοσης
+Lecteur au format de la vidéo	Πρόγραμμα αναπαραγωγής στη μορφή του βίντεο
+Dans la fenêtre principale, l'image prend exactement le format du live (coins arrondis, sans bandes autour) et reste centrée.	Στο κύριο παράθυρο η εικόνα παίρνει ακριβώς τη μορφή της μετάδοσης (στρογγυλεμένες γωνίες, χωρίς γραμμές) και μένει στο κέντρο.
+Taille et place d'origine	Αρχικό μέγεθος και θέση
+Chaîne ouverte au démarrage	Κανάλι που ανοίγει κατά την εκκίνηση
+Démarrage et fenêtre	Εκκίνηση και παράθυρο
+Son live s'ouvre au lancement si elle est en direct. Sinon, l'accueil s'affiche normalement.	Η μετάδοσή του ανοίγει κατά την εκκίνηση αν το κανάλι είναι live. Αλλιώς εμφανίζεται κανονικά η αρχική σελίδα.
+Nom de la chaîne	Όνομα καναλιού
+Au lancement, si cette chaîne est en direct, son live s'ouvre directement dans le lecteur. Hors ligne ou introuvable, l'accueil s'affiche normalement.	Αν το κανάλι είναι live κατά την εκκίνηση, η μετάδοση ανοίγει απευθείας στο πρόγραμμα αναπαραγωγής. Εκτός σύνδεσης ή άγνωστο: κανονική αρχική σελίδα.
+Enregistrée	Αποθηκεύτηκε
+En attente de messages…	Αναμονή για μηνύματα…
+Confirmer la déconnexion	Επιβεβαίωση αποσύνδεσης
+Affiche d'abord les lives qui ont le plus de spectateurs.	Εμφανίζει πρώτα τις μεταδόσεις με τους περισσότερους θεατές.
+Affiche d'abord les lives qui ont le moins de spectateurs.	Εμφανίζει πρώτα τις μεταδόσεις με τους λιγότερους θεατές.
+Éclaircit ou assombrit la couleur choisie pour que le texte reste lisible.	Φωτίζει ή σκουραίνει το επιλεγμένο χρώμα ώστε το κείμενο να παραμένει ευανάγνωστο.
+Spectateurs : décroissant	Θεατές: φθίνουσα
+Spectateurs : croissant	Θεατές: αύξουσα
+5 s	5 δευτ.
+10 s	10 δευτ.
+Pour charger vos chaînes suivies, déconnectez-vous puis reconnectez-vous.	Για να φορτωθούν τα κανάλια που ακολουθείτε, αποσυνδεθείτε και συνδεθείτε ξανά.
+Reconnectez-vous dans Réglages pour afficher vos chaînes suivies sur Twitch.	Συνδεθείτε ξανά στις Ρυθμίσεις για να εμφανιστούν τα κανάλια που ακολουθείτε στο Twitch.
+Une page Twitch s'est ouverte. Vérifiez ce code, puis cliquez sur « Autoriser » :	Άνοιξε μια σελίδα του Twitch. Ελέγξτε αυτόν τον κωδικό και πατήστε «Εξουσιοδότηση»:
+Utilisée en ce moment : redémarrez l'application pour la mettre à jour.	Χρησιμοποιείται αυτή τη στιγμή: επανεκκινήστε την εφαρμογή για να ενημερωθεί.
+Réinitialiser remet les réglages, les favoris et l'historique à zéro. Les outils restent installés.	Η επαναφορά επαναφέρει τις ρυθμίσεις, τα αγαπημένα και το ιστορικό στο μηδέν. Τα εργαλεία παραμένουν εγκατεστημένα.
+Désinstaller supprime les outils, les réglages, l'historique et le cache, puis ferme l'application.	Η απεγκατάσταση διαγράφει τα εργαλεία, τις ρυθμίσεις, το ιστορικό και την προσωρινή μνήμη και κλείνει την εφαρμογή.
+Tout remettre à zéro ? Réglages, favoris et historique seront perdus.	Επαναφορά όλων; Οι ρυθμίσεις, τα αγαπημένα και το ιστορικό θα χαθούν.
+Tout supprimer ? Outils, réglages, historique et cache seront effacés définitivement.	Διαγραφή όλων; Τα εργαλεία, οι ρυθμίσεις, το ιστορικό και η προσωρινή μνήμη θα διαγραφούν οριστικά.
+Ce jeton n'a pas le droit d'écrire dans le chat (chat:edit).	Αυτό το διακριτικό δεν επιτρέπεται να γράφει στη συνομιλία (chat:edit).
+Ils sont installés dans votre dossier utilisateur, sans droits administrateur.	Εγκαθίστανται στον φάκελο χρήστη σας, χωρίς δικαιώματα διαχειριστή.
+libmpv est introuvable. Réinstallez les outils depuis les réglages.	Το libmpv δεν βρέθηκε. Εγκαταστήστε ξανά τα εργαλεία από τις ρυθμίσεις.
+Streamlink est introuvable. Réinstallez les outils depuis les réglages.	Το Streamlink δεν βρέθηκε. Εγκαταστήστε ξανά τα εργαλεία από τις ρυθμίσεις.
+Afficher le menu	Εμφάνιση μενού
+Masquer le menu	Απόκρυψη μενού
+Chat réservé aux followers	Συνομιλία μόνο για ακόλουθους
+Échec de la connexion.	Η σύνδεση απέτυχε.
+Connexion annulée	Η σύνδεση ακυρώθηκε
+Rapport de la dernière fermeture inattendue, sans donnée personnelle. Rien n'est envoyé automatiquement.	Αναφορά του τελευταίου απρόσμενου τερματισμού, χωρίς προσωπικά δεδομένα. Τίποτα δεν αποστέλλεται αυτόματα.
+Copier le rapport de plantage	Αντιγραφή αναφοράς σφάλματος
+Rapport copié.	Η αναφορά αντιγράφηκε.
+Copier le diagnostic	Αντιγραφή διαγνωστικών
+Diagnostic copié.	Τα διαγνωστικά αντιγράφηκαν.
+Complet	Πλήρεις
+Réduit	Μειωμένες
+État et version de Streamlink et de libmpv, mise à jour, et chemins personnalisés (facultatifs) vers streamlink.exe et libmpv-2.dll.	Κατάσταση και έκδοση του Streamlink και του libmpv, ενημέρωση και προαιρετικές προσαρμοσμένες διαδρομές προς streamlink.exe και libmpv-2.dll.
+Ouvre le dossier du journal, copie le diagnostic (version, Windows, carte graphique, composants) ou le rapport de plantage local pour le support. Rien n'est envoyé automatiquement.	Ανοίγει τον φάκελο καταγραφής, αντιγράφει τα διαγνωστικά (έκδοση, Windows, κάρτα γραφικών, στοιχεία) ή την τοπική αναφορά κατάρρευσης για την υποστήριξη. Τίποτα δεν στέλνεται αυτόματα.
+À propos	Σχετικά
+Version de l'application	Έκδοση εφαρμογής
+Décodage vidéo matériel (GPU)	Αποκωδικοποίηση βίντεο με υλικό (GPU)
+Utile si la vidéo saccade ou si le processeur chauffe. « Automatique » : réglage d'origine de l'application. « Activé » : la carte graphique décode la vidéo, avec retour automatique au décodage normal si elle n'y arrive pas. « Désactivé » : décodage normal par le processeur. Le changement s'applique tout de suite : le live en cours est relancé.	Βοηθά όταν το βίντεο κομπιάζει ή ο επεξεργαστής ζεσταίνεται. «Αυτόματα»: η αρχική ρύθμιση της εφαρμογής. «Ενεργό»: η κάρτα γραφικών αποκωδικοποιεί το βίντεο, με αυτόματη επιστροφή στην κανονική αποκωδικοποίηση αν αποτύχει. «Ανενεργό»: κανονική αποκωδικοποίηση από τον επεξεργαστή. Η αλλαγή ισχύει αμέσως: το τρέχον live επανεκκινείται.
+Périphérique de sortie	Συσκευή εξόδου
+Périphérique par défaut du système	Προεπιλεγμένη συσκευή του συστήματος
+Choisit le casque ou les enceintes pour le son des lives, sans changer le son de Windows. « Périphérique par défaut du système » suit le choix de Windows. Le changement s'applique tout de suite. Si le périphérique choisi disparaît (casque débranché), l'application revient au choix par défaut.	Επιλέγει τα ακουστικά ή τα ηχεία για τον ήχο των live, χωρίς να αλλάξει ο ήχος των Windows. Η «Προεπιλεγμένη συσκευή του συστήματος» ακολουθεί την επιλογή των Windows. Η αλλαγή ισχύει αμέσως. Αν η συσκευή που επιλέξατε εξαφανιστεί (αποσυνδεδεμένα ακουστικά), η εφαρμογή επιστρέφει στην προεπιλογή.
+Le périphérique audio choisi n'est plus disponible : retour au périphérique par défaut.	Η συσκευή ήχου που επιλέξατε δεν είναι πια διαθέσιμη: επιστροφή στην προεπιλεγμένη συσκευή.
+Captures d'écran	Στιγμιότυπα οθόνης
+Dossier d'enregistrement	Φάκελος αποθήκευσης
+Parcourir…	Περιήγηση…
+Ouvrir le dossier	Άνοιγμα φακέλου
+Dossier où la touche S enregistre les captures d'écran. Par défaut : le dossier « Velka » de vos Images. Le dossier choisi doit accepter l'écriture ; s'il disparaît (disque débranché, dossier supprimé), l'application revient au dossier par défaut. Le changement s'applique à la prochaine capture.	Ο φάκελος όπου το πλήκτρο S αποθηκεύει τα στιγμιότυπα οθόνης. Προεπιλογή: ο φάκελος «Velka» στις Εικόνες σας. Ο φάκελος που επιλέγετε πρέπει να επιτρέπει εγγραφή· αν εξαφανιστεί (αποσυνδεδεμένος δίσκος, διαγραμμένος φάκελος), η εφαρμογή επιστρέφει στον προεπιλεγμένο φάκελο. Η αλλαγή ισχύει από το επόμενο στιγμιότυπο.
+Le dossier des captures n'est plus disponible : retour au dossier par défaut.	Ο φάκελος των στιγμιοτύπων δεν είναι πια διαθέσιμος: επιστροφή στον προεπιλεγμένο φάκελο.
+Ce dossier n'accepte pas l'écriture : choisissez-en un autre.	Αυτός ο φάκελος δεν επιτρέπει εγγραφή: επιλέξτε άλλον.
+Aucun	Καμία
+Effacer un raccourci	Διαγραφή συντόμευσης
+Réduire dans la zone de notification à la fermeture	Ελαχιστοποίηση στην περιοχή ειδοποιήσεων κατά το κλείσιμο
+L'application reste active en fond pour les notifications	Η εφαρμογή συνεχίζει στο παρασκήνιο για τις ειδοποιήσεις
+La croix de fermeture cache la fenêtre dans la zone de notification (près de l'horloge) au lieu de quitter ; le live en cours est arrêté. Clic gauche sur l'icône : rouvrir. Clic droit : Ouvrir ou Quitter. Pour être prévenu quand un favori passe en direct, activez aussi « Notifications Windows ».	Το κουμπί κλεισίματος κρύβει το παράθυρο στην περιοχή ειδοποιήσεων (δίπλα στο ρολόι) αντί να τερματίσει την εφαρμογή· η τρέχουσα μετάδοση σταματά. Αριστερό κλικ στο εικονίδιο: άνοιγμα. Δεξί κλικ: Άνοιγμα ή Έξοδος. Ενεργοποιήστε και τις «Ειδοποιήσεις Windows» για να ειδοποιείστε όταν ένα αγαπημένο ξεκινά live.
+Ouvrir Velka	Άνοιγμα Velka
+Quitter	Έξοδος
+Velka reste actif dans la zone de notification. Clic droit sur l'icône pour quitter.	Το Velka εξακολουθεί να εκτελείται στην περιοχή ειδοποιήσεων. Δεξί κλικ στο εικονίδιο για έξοδο.
+Rechercher des mises à jour	Έλεγχος για ενημερώσεις
+Vous utilisez la dernière version.	Χρησιμοποιείτε την τελευταία έκδοση.
+Mise à jour {version} disponible	Διαθέσιμη ενημέρωση {version}
+Impossible de se connecter. Vérifiez votre connexion internet.	Αδυναμία σύνδεσης. Ελέγξτε τη σύνδεσή σας στο διαδίκτυο.
+La recherche de mise à jour a échoué.	Ο έλεγχος ενημέρωσης απέτυχε.
+Historique des chaînes	Ιστορικό καναλιών
+Effacer l'historique	Διαγραφή ιστορικού
+Historique effacé.	Το ιστορικό διαγράφηκε.
+Ouvrir le dossier de configuration	Άνοιγμα του φακέλου ρυθμίσεων
+Options du lecteur	Επιλογές αναπαραγωγής
+Perso	Προσαρμ.
+Durée personnalisée	Προσαρμοσμένη διάρκεια
+Ajuster uniquement la taille du texte du chat	Προσαρμογή μόνο του μεγέθους κειμένου της συνομιλίας
+Ajuster la taille globale de l'interface	Προσαρμογή του συνολικού μεγέθους της διεπαφής
+Connectez-vous à Twitch pour activer	Συνδεθείτε στο Twitch για ενεργοποίηση
+Pas de connexion Internet.	Δεν υπάρχει σύνδεση στο διαδίκτυο.
+La connexion Internet s'est coupée.	Η σύνδεση στο διαδίκτυο διακόπηκε.
+Licences des composants	Άδειες χρήσης συστατικών
+Le lecteur vidéo utilise libmpv (mpv) et FFmpeg, sous licence LGPL version 2.1 ou ultérieure. Vous pouvez remplacer libmpv par votre propre version dans {section}.	Το πρόγραμμα αναπαραγωγής βίντεο χρησιμοποιεί τις libmpv (mpv) και FFmpeg με άδεια LGPL έκδοσης 2.1 ή νεότερης. Μπορείτε να αντικαταστήσετε τη libmpv με τη δική σας έκδοση στην ενότητα {section}.
+Code source et compilation	Πηγαίος κώδικας και σενάρια μεταγλώττισης
+Velka n'a pas pu ouvrir sa fenêtre : la carte graphique ou son pilote ne prend pas en charge OpenGL 3.0. Mettez à jour le pilote de la carte graphique, puis relancez Velka. Sur un bureau à distance ou une machine virtuelle, l'affichage peut ne pas être pris en charge.	Το Velka δεν μπόρεσε να ανοίξει το παράθυρό του: η κάρτα γραφικών ή το πρόγραμμα οδήγησής της δεν υποστηρίζει OpenGL 3.0. Ενημερώστε το πρόγραμμα οδήγησης της κάρτας γραφικών και, στη συνέχεια, επανεκκινήστε το Velka. Σε απομακρυσμένη επιφάνεια εργασίας ή εικονική μηχανή, η προβολή ενδέχεται να μην υποστηρίζεται.
+La carte graphique n'annonce pas OpenGL 3.0 : la vidéo peut rester noire. Mettez à jour le pilote de la carte graphique. Sur un bureau à distance ou une machine virtuelle, l'affichage peut ne pas être pris en charge.	Η κάρτα γραφικών δεν αναφέρει OpenGL 3.0: το βίντεο μπορεί να παραμείνει μαύρο. Ενημερώστε το πρόγραμμα οδήγησης της κάρτας γραφικών. Σε απομακρυσμένη επιφάνεια εργασίας ή εικονική μηχανή, η προβολή ενδέχεται να μην υποστηρίζεται.
+Démarrer avec macOS	Εκκίνηση με το macOS
+Démarrer avec Linux	Εκκίνηση με το Linux
+Lance Velka automatiquement quand vous ouvrez votre session macOS.	Ξεκινά το Velka αυτόματα όταν συνδέεστε στο macOS.
+Lance Velka automatiquement quand vous ouvrez votre session Linux.	Ξεκινά το Velka αυτόματα όταν συνδέεστε στο Linux.
+Notifications macOS	Ειδοποιήσεις macOS
+Notifications Linux	Ειδοποιήσεις Linux
+Affiche une notification macOS quand l'un de vos favoris passe en direct. L'application doit rester ouverte (elle peut être réduite).	Εμφανίζει ειδοποίηση του macOS όταν ένα από τα αγαπημένα σας ξεκινά ζωντανή μετάδοση. Η εφαρμογή πρέπει να μένει ανοιχτή (μπορεί να είναι ελαχιστοποιημένη).
+Affiche une notification Linux quand l'un de vos favoris passe en direct. L'application doit rester ouverte (elle peut être réduite).	Εμφανίζει ειδοποίηση του Linux όταν ένα από τα αγαπημένα σας ξεκινά ζωντανή μετάδοση. Η εφαρμογή πρέπει να μένει ανοιχτή (μπορεί να είναι ελαχιστοποιημένη).
+Multistream	Multistream
+Regardez jusqu'à 4 lives en même temps.	Παρακολουθήστε έως 4 ζωντανές μεταδόσεις ταυτόχρονα.
+Ajouter une chaîne	Προσθήκη καναλιού
+Ajouter	Προσθήκη
+Tout arrêter	Διακοπή όλων
+Cette chaîne est déjà affichée.	Αυτό το κανάλι εμφανίζεται ήδη.
+4 lives au maximum.	Έως 4 ζωντανές μεταδόσεις.
+Ajoutez une chaîne pour commencer.	Προσθέστε ένα κανάλι για να ξεκινήσετε.
+Retirer ce live	Αφαίρεση αυτής της μετάδοσης
+Écouter ce live	Ακρόαση αυτής της μετάδοσης
+Cumuler le son des lives en Multistream	Συνδυασμός ήχου μεταδόσεων στο Multistream
+Un clic sur un live ajoute son son au lieu de le remplacer	Ένα κλικ σε μια μετάδοση προσθέτει τον ήχο της αντί να τον αντικαταστήσει
+Sur la page Multistream, un clic sur un live fait entendre son son en plus de ceux déjà écoutés, jusqu'aux quatre lives. Le bouton du son de chaque live le coupe.	Στη σελίδα Multistream, ένα κλικ σε μια μετάδοση αναπαράγει τον ήχο της επιπλέον όσων ήδη ακούτε, έως και τις τέσσερις μεταδόσεις. Το κουμπί ήχου κάθε μετάδοσης τη θέτει σε σίγαση.
+Couper tous les sons	Σίγαση όλων
+Lecteur Twitch léger avec multistream, chat et notifications.	Ελαφρύ πρόγραμμα αναπαραγωγής Twitch με multistream, συνομιλία και ειδοποιήσεις.
+Quelques composants sont nécessaires pour lire les lives Twitch.	Χρειάζονται ορισμένα στοιχεία για την αναπαραγωγή μεταδόσεων Twitch.
+Logiciel libre sous licence GPL-3.0 ou ultérieure.	Ελεύθερο λογισμικό με άδεια GPL-3.0 ή νεότερη.
+Application non affiliée à Twitch.	Η εφαρμογή δεν συνδέεται με το Twitch.
+Code source sur GitHub	Πηγαίος κώδικας στο GitHub
+Soutenir le projet	Υποστηρίξτε το έργο
+La connexion Twitch n'a pas pu être enregistrée de façon sécurisée (trousseau du système indisponible) : elle sera perdue à la fermeture de Velka.	Δεν ήταν δυνατή η ασφαλής αποθήκευση της σύνδεσης Twitch (η κλειδοθήκη του συστήματος δεν είναι διαθέσιμη): θα χαθεί όταν κλείσει το Velka.
+Velka est gratuit et le restera. Si l'application vous plaît, un petit don aide à la faire vivre.	Το Velka είναι δωρεάν και θα παραμείνει. Αν σας αρέσει η εφαρμογή, μια μικρή δωρεά βοηθά να συνεχίσει.
+Plus tard	Αργότερα
+Rappel pour soutenir le projet	Υπενθύμιση υποστήριξης του έργου
+Affiche de temps en temps sur l'accueil, au plus une fois par mois, un message avec un lien pour soutenir le projet.	Εμφανίζει πού και πού στην αρχική σελίδα, το πολύ μία φορά τον μήνα, ένα μήνυμα με σύνδεσμο για την υποστήριξη του έργου.

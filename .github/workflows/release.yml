@@ -1,0 +1,244 @@
+name: Compilation
+
+# Chaque étiquette « v* » (par exemple v1.15.0) compile Velka pour Windows, macOS et Linux, puis crée une Release
+# GitHub en BROUILLON avec les fichiers et SHA256SUMS.txt. Ce workflow ne signe rien et ne publie jamais : le manifeste
+# de mise à jour signé (velka-maj.json) est ajouté depuis le PC du mainteneur (`sign-release sign`), puis la Release
+# est publiée à la main (docs/RELEASE.md). Lancement manuel (workflow_dispatch) : compilation et essais seulement,
+# fichiers disponibles dans l'onglet Actions, sans Release.
+# Les versions publiques sont compilées uniquement ici, jamais sur un PC personnel. Aucun secret n'est utilisé.
+on:
+  push:
+    tags: ["v*"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+# Une seule compilation à la fois pour une même étiquette ou branche.
+concurrency:
+  group: compilation-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  windows:
+    runs-on: windows-latest
+    steps:
+      # Actions épinglées par empreinte de commit (une étiquette mobile pourrait être redirigée vers du code modifié).
+      - uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4.3.1
+      - uses: dtolnay/rust-toolchain@39008827e6b4319a349e9a42dfc90579dd25f1ca # branche stable
+        with:
+          toolchain: stable
+          targets: x86_64-pc-windows-msvc
+          components: clippy
+      - uses: Swatinem/rust-cache@d1527c8f67ef9af357290475d4af4b0fab8f12e0 # v2.9.3
+
+      # Chemins de compilation remplacés par des noms neutres dans l'exécutable. RUSTFLAGS remplace les options de
+      # .cargo/config.toml : la bibliothèque C statique (+crt-static) est donc redonnée ici.
+      - name: Chemins de compilation neutres
+        shell: pwsh
+        run: |
+          $cargo = if ($env:CARGO_HOME) { $env:CARGO_HOME } else { Join-Path $env:USERPROFILE ".cargo" }
+          $rustup = if ($env:RUSTUP_HOME) { $env:RUSTUP_HOME } else { Join-Path $env:USERPROFILE ".rustup" }
+          "RUSTFLAGS=-C target-feature=+crt-static --remap-path-prefix=$env:GITHUB_WORKSPACE=/build --remap-path-prefix=$cargo=/cargo --remap-path-prefix=$rustup=/rustup" |
+            Out-File -FilePath $env:GITHUB_ENV -Append -Encoding utf8
+
+      # Sans clé publique de publication valable, l'application refuserait toutes les mises à jour : une étiquette
+      # (version publique) est refusée ; un lancement manuel continue avec un avertissement.
+      - name: Clé publique de publication
+        shell: pwsh
+        run: |
+          $key = (Get-Content -Raw assets/publication.pub).Trim()
+          if ($key -notmatch '^[0-9a-fA-F]{64}$' -or $key -match '^0{64}$') {
+            if ($env:GITHUB_REF_TYPE -eq "tag") { Write-Error "assets/publication.pub est vide ou invalide (voir docs/RELEASE.md, étape 0)"; exit 1 }
+            Write-Output "::warning::assets/publication.pub est vide ou invalide : cette compilation ne pourra pas être mise à jour"
+          }
+
+      - name: Vérifications
+        run: |
+          cargo clippy --workspace --all-targets -- -D warnings
+          cargo test --workspace
+
+      # Failles connues (base RustSec) : exceptions acceptées dans .cargo/audit.toml, avec leur raison.
+      - name: Audit des dépendances
+        run: |
+          cargo install cargo-audit --locked --version 0.23.0
+          cargo audit
+
+      # Licences, failles, sources et doublons des dépendances : règles dans deny.toml (Windows, Linux, macOS).
+      - name: Licences et sources des dépendances
+        run: |
+          cargo install cargo-deny --locked --version 0.22.0
+          cargo deny check
+
+      - name: Compilation (release)
+        run: cargo build --release -p velka --target x86_64-pc-windows-msvc
+
+      # Ouvre la fenêtre quelques secondes (dossier de données temporaire) pour détecter un plantage au démarrage.
+      # La machine GitHub n'a pas de carte graphique : OpenGL est fourni par Mesa (rendu logiciel), version fixée et
+      # empreinte SHA-256 vérifiée, copié seulement dans le dossier d'essai.
+      - name: Essai de démarrage
+        shell: pwsh
+        env:
+          GH_TOKEN: ${{ github.token }}
+          MESA_TAG: "26.3.0"
+          MESA_FILE: "mesa3d-26.3.0-release-msvc.7z"
+          MESA_SHA256: "c505fcc77e8f63a09d7ddac086591d2f542c0698d37fc9e3094685a34d0d9991"
+        run: |
+          $dir = "$env:RUNNER_TEMP\essai"
+          New-Item -ItemType Directory -Force $dir | Out-Null
+          gh release download $env:MESA_TAG --repo pal1000/mesa-dist-win --pattern $env:MESA_FILE --dir "$env:RUNNER_TEMP\mesa"
+          $archive = Get-ChildItem "$env:RUNNER_TEMP\mesa\$env:MESA_FILE" -ErrorAction SilentlyContinue | Select-Object -First 1
+          if ($LASTEXITCODE -ne 0 -or -not $archive) { Write-Output "::warning::Mesa indisponible : essai de démarrage sauté"; exit 0 }
+          $hash = (Get-FileHash -Algorithm SHA256 $archive.FullName).Hash
+          if ($hash -ne $env:MESA_SHA256.ToUpper()) { Write-Error "Empreinte de Mesa inattendue ($hash)"; exit 1 }
+          7z x $archive.FullName "-o$env:RUNNER_TEMP\mesa\x" -y | Out-Null
+          if (-not (Test-Path "$env:RUNNER_TEMP\mesa\x\x64\opengl32.dll")) { Write-Error "Cette version de Mesa ne contient pas de pilote OpenGL"; exit 1 }
+          Copy-Item "$env:RUNNER_TEMP\mesa\x\x64\*.dll" $dir
+          Copy-Item target\x86_64-pc-windows-msvc\release\velka.exe $dir
+          $env:VELKA_SMOKE_TEST = "1"
+          $env:GALLIUM_DRIVER = "llvmpipe"
+          $marker = Join-Path ([IO.Path]::GetTempPath()) "velka-essai\Velka\essai.txt"
+          Remove-Item $marker -ErrorAction SilentlyContinue
+          $p = Start-Process "$dir\velka.exe" -PassThru
+          $null = $p.Handle
+          if (-not $p.WaitForExit(90000)) { $p.Kill(); Write-Error "L'application ne s'est pas fermée seule"; exit 1 }
+          $log = Join-Path ([IO.Path]::GetTempPath()) "velka-essai\Velka\log.txt"
+          if (Test-Path $log) { Get-Content $log }
+          if ($p.ExitCode -ne 0) { Write-Error "Code de sortie $($p.ExitCode)"; exit 1 }
+          if (-not (Test-Path $marker)) { Write-Error "La fenêtre ne s'est pas affichée"; exit 1 }
+          Get-Content $marker
+
+      # Signature Authenticode : DÉSACTIVÉE (aucun certificat, aucun secret). Voir docs/DISTRIBUTION.md.
+      # Pour l'activer plus tard : obtenir un certificat, ajouter ici l'appel à signtool, et passer `if` à true.
+      - name: Signature du code (désactivée)
+        if: ${{ false }}
+        shell: pwsh
+        run: Write-Output "Signature Authenticode non configurée"
+
+      - name: Installateur (Inno Setup)
+        shell: pwsh
+        run: |
+          $version = "${{ github.ref_name }}".TrimStart("v")
+          & "${env:ProgramFiles(x86)}\Inno Setup 6\ISCC.exe" "/DAppVersion=$version" "/DExePath=..\target\x86_64-pc-windows-msvc\release\velka.exe" installer\velka.iss
+
+      - name: Rassembler les fichiers
+        shell: pwsh
+        run: |
+          New-Item -ItemType Directory -Force dist | Out-Null
+          Copy-Item target\x86_64-pc-windows-msvc\release\velka.exe dist\velka.exe
+          Copy-Item installer\Output\velka-setup.exe dist\velka-setup.exe
+          Get-ChildItem dist | Select-Object Name, Length
+
+      - uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
+        with:
+          name: windows
+          path: dist/*
+          if-no-files-found: error
+          retention-days: 7
+
+  macos:
+    runs-on: macos-latest
+    steps:
+      - uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4.3.1
+      - uses: dtolnay/rust-toolchain@39008827e6b4319a349e9a42dfc90579dd25f1ca # branche stable
+        with:
+          toolchain: stable
+          targets: aarch64-apple-darwin
+          components: clippy
+      - uses: Swatinem/rust-cache@d1527c8f67ef9af357290475d4af4b0fab8f12e0 # v2.9.3
+      - name: Chemins de compilation neutres
+        run: echo "RUSTFLAGS=--remap-path-prefix=$GITHUB_WORKSPACE=/build --remap-path-prefix=${CARGO_HOME:-$HOME/.cargo}=/cargo --remap-path-prefix=${RUSTUP_HOME:-$HOME/.rustup}=/rustup" >> "$GITHUB_ENV"
+      - name: Vérifications
+        run: |
+          cargo clippy --workspace --all-targets -- -D warnings
+          cargo test --workspace
+      - name: Compilation (release)
+        run: cargo build --release -p velka --target aarch64-apple-darwin
+      # Velka.app (signature ad hoc), son zip (mise à jour automatique) et le .dmg (installation).
+      - name: Paquet Velka.app
+        run: bash tools/mac/paquet.sh target/aarch64-apple-darwin/release/velka "$RUNNER_TEMP/paquet"
+      # Le paquet s'ouvre par le Finder (LaunchServices), comme pour un utilisateur.
+      - name: Essai de démarrage du paquet
+        run: |
+          marker="${TMPDIR%/}/velka-essai/Velka/essai.txt"
+          rm -f "$marker"
+          perl -e 'alarm 120; exec @ARGV' open -W --env VELKA_SMOKE_TEST=1 "$RUNNER_TEMP/paquet/Velka.app" || echo "code de sortie $?"
+          cat "$marker"
+          grep -Eq "^ok [0-9]+$" "$marker"
+      - uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
+        with:
+          name: macos
+          path: |
+            ${{ runner.temp }}/paquet/Velka-mac.zip
+            ${{ runner.temp }}/paquet/Velka-mac.dmg
+          if-no-files-found: error
+          retention-days: 7
+
+  linux:
+    # Machine standard ubuntu-latest : l'AppImage demande au moins la glibc de cette version d'Ubuntu.
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4.3.1
+      - name: Bibliothèques et outils
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends pkg-config libxkbcommon-dev libwayland-dev libx11-dev \
+            libxcursor-dev libxrandr-dev libxi-dev libgl1-mesa-dev libdbus-1-dev squashfs-tools zip file desktop-file-utils
+      - uses: dtolnay/rust-toolchain@39008827e6b4319a349e9a42dfc90579dd25f1ca # branche stable
+        with:
+          toolchain: stable
+          components: clippy
+      - uses: Swatinem/rust-cache@d1527c8f67ef9af357290475d4af4b0fab8f12e0 # v2.9.3
+      - name: Chemins de compilation neutres
+        run: echo "RUSTFLAGS=--remap-path-prefix=$GITHUB_WORKSPACE=/build --remap-path-prefix=${CARGO_HOME:-$HOME/.cargo}=/cargo --remap-path-prefix=${RUSTUP_HOME:-$HOME/.rustup}=/rustup" >> "$GITHUB_ENV"
+      - name: Vérifications
+        env:
+          VELKA_TROUSSEAU: ${{ runner.temp }}/essai-secrets.key
+        run: |
+          cargo clippy --workspace --all-targets -- -D warnings
+          cargo test --workspace
+      - name: Compilation (release)
+        run: cargo build --release -p velka
+      - name: AppImage
+        run: bash tools/linux/paquet.sh target/release/velka "$RUNNER_TEMP/paquet"
+      - uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
+        with:
+          name: linux
+          path: ${{ runner.temp }}/paquet/Velka-x86_64.AppImage
+          if-no-files-found: error
+          retention-days: 7
+
+  brouillon:
+    needs: [windows, macos, linux]
+    # Release seulement pour une étiquette v* (pas pour un lancement manuel).
+    if: startsWith(github.ref, 'refs/tags/v')
+    runs-on: ubuntu-latest
+    # Seul ce travail peut écrire dans le dépôt (création de la Release brouillon).
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/download-artifact@37930b1c2abaa49bbe596cd826c3c89aef350131 # v7.0.0
+        with:
+          path: dist
+          merge-multiple: true
+      # Une Release qui existe déjà pour cette étiquette (peut-être publiée) n'est jamais modifiée.
+      - name: Aucune Release existante pour cette étiquette
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if gh release view "$GITHUB_REF_NAME" --repo "$GITHUB_REPOSITORY" > /dev/null 2>&1; then
+            echo "::error::Une Release existe déjà pour $GITHUB_REF_NAME : rien n'est modifié"
+            exit 1
+          fi
+      - name: SHA256SUMS.txt
+        working-directory: dist
+        run: |
+          sha256sum -- * > SHA256SUMS.txt
+          cat SHA256SUMS.txt
+      - name: Release brouillon
+        uses: softprops/action-gh-release@3bb12739c298aeb8a4eeaf626c5b8d85266b0e65 # v2.6.2
+        with:
+          draft: true
+          prerelease: false
+          files: dist/*
+          generate_release_notes: true

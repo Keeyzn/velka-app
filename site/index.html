@@ -1,0 +1,211 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Velka — a lightweight, free and open-source Twitch player</title>
+  <meta name="description" content="Velka: a lightweight Twitch player for Windows, macOS and Linux. Video and chat in one window, multistream, mini-player, notifications. Free and open source.">
+  <meta name="color-scheme" content="dark light">
+  <meta name="theme-color" content="#09090B">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <a class="skip" href="#contenu" data-i18n="skip">Skip to content</a>
+
+  <header class="top">
+    <div class="wrap top-row">
+      <a class="brand" href="#" aria-label="Velka">
+        <svg class="mark" viewBox="0 0 100 100" aria-hidden="true"><g transform="translate(3 0)"><polygon points="28,18 73.5,44 28,44"/><polygon points="20,56 65.5,56 20,82"/></g></svg>
+        <span>Velka</span>
+      </a>
+      <nav class="nav" aria-label="Navigation">
+        <a href="#fonctions" data-i18n="nav.features">Features</a>
+        <a href="#installer" data-i18n="nav.install">Download</a>
+        <a href="#confiance" data-i18n="nav.trust">Security</a>
+        <a href="#faq" data-i18n="nav.faq">FAQ</a>
+      </nav>
+      <div class="top-actions">
+        <button class="pill-btn" id="lang" type="button" aria-label="Français">FR</button>
+        <a class="btn btn-secondary btn-sm" href="https://github.com/Keeyzn/velka-app" rel="noopener">GitHub</a>
+      </div>
+    </div>
+  </header>
+
+  <main id="contenu">
+    <section class="hero">
+      <div class="wrap hero-grid">
+        <div class="hero-text">
+          <p class="pill"><span class="dot" aria-hidden="true"></span><span data-i18n="hero.badge">Free and open source · Windows, macOS, Linux</span></p>
+          <h1 data-i18n="hero.title">Your Twitch streams, lightweight.</h1>
+          <p class="lead" data-i18n="hero.lead">Video and chat in a single window, multistream, a mini-player and notifications for your favorites. A real app, fast and unobtrusive.</p>
+          <div class="cta">
+            <a class="btn btn-primary" id="dl-main" href="#installer" rel="noopener">
+              <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 4v11m0 0-4.5-4.5M12 15l4.5-4.5M5 19h14"/></svg>
+              <span id="dl-main-label" data-i18n="hero.download">Download</span>
+            </a>
+            <a class="btn btn-secondary" href="#installer" data-i18n="hero.other">All versions</a>
+          </div>
+          <p class="fine" data-i18n="hero.fine">No account needed, no added ads, no telemetry. Not affiliated with Twitch.</p>
+        </div>
+
+        <figure class="shot hero-shot">
+          <img src="img/accueil.webp" width="1436" height="896" data-i18n-alt="alt.home"
+                 alt="Velka home: live favorites with previews and viewer counts">
+        </figure>
+      </div>
+    </section>
+
+    <section id="fonctions" class="section">
+      <div class="wrap">
+        <h2 data-i18n="features.title">Everything you need, nothing more</h2>
+        <div class="cards">
+          <article class="card">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="5" width="12" height="14" rx="2"/><path d="M18 5h1a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2h-1"/></svg>
+            <h3 data-i18n="f1.t">One window</h3>
+            <p data-i18n="f1.d">Video and chat side by side, chat on the left or right, collapsible in one click.</p>
+          </article>
+          <article class="card">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="4" width="8" height="7" rx="1.5"/><rect x="13" y="4" width="8" height="7" rx="1.5"/><rect x="3" y="13" width="8" height="7" rx="1.5"/><rect x="13" y="13" width="8" height="7" rx="1.5"/></svg>
+            <h3 data-i18n="f2.t">Multistream</h3>
+            <p data-i18n="f2.d">Up to 4 streams at once, with the sound of the one you pick.</p>
+          </article>
+          <article class="card">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="4" width="18" height="14" rx="2"/><rect x="12" y="11" width="7" height="5" rx="1"/></svg>
+            <h3 data-i18n="f3.t">Mini-player and PiP</h3>
+            <p data-i18n="f3.d">The stream keeps playing in a small window, always on top if you want.</p>
+          </article>
+          <article class="card">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16v11H9l-5 4z"/><path d="M8 10h8"/></svg>
+            <h3 data-i18n="f4.t">Full chat</h3>
+            <p data-i18n="f4.d">Twitch, 7TV, BTTV and FFZ emotes, badges, and chatting once signed in.</p>
+          </article>
+          <article class="card">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 16V11a6 6 0 1 1 12 0v5l1.5 2h-15z"/><path d="M10 20a2 2 0 0 0 4 0"/></svg>
+            <h3 data-i18n="f5.t">Notifications</h3>
+            <p data-i18n="f5.d">An alert when a favorite goes live. Your followed channels too, if you sign in.</p>
+          </article>
+          <article class="card">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="8"/><path d="M12 4a8 8 0 0 0 0 16z" class="fill"/></svg>
+            <h3 data-i18n="f6.t">Your way</h3>
+            <p data-i18n="f6.d">Light and dark themes, accent color, shortcuts, accessibility, 25 languages.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section id="images" class="section">
+      <div class="wrap">
+        <h2 data-i18n="shots.title">Screenshots</h2>
+        <div class="gallery">
+          <figure class="shot">
+            <img src="img/lecteur.webp" width="1436" height="896" loading="lazy" data-i18n-alt="alt.player"
+                 alt="Velka player: the stream video and chat in the same window">
+            <figcaption data-i18n="cap.player">Video and chat, side by side.</figcaption>
+          </figure>
+          <figure class="shot">
+            <img src="img/multistream.webp" width="1436" height="896" loading="lazy" data-i18n-alt="alt.multi"
+                 alt="Velka multistream: four streams at the same time">
+            <figcaption data-i18n="cap.multi">Four streams at once with multistream.</figcaption>
+          </figure>
+        </div>
+        <p class="fine" data-i18n="shots.note">Screenshots of random public channels; the chat is blurred.</p>
+      </div>
+    </section>
+
+    <section id="installer" class="section">
+      <div class="wrap">
+        <h2 data-i18n="install.title">Download</h2>
+        <p class="sub" data-i18n="install.sub">On first launch, click “Install all”: Velka downloads Streamlink and libmpv from their official repositories, after checking their checksum.</p>
+        <div class="cards three">
+          <article class="card os" data-os="windows">
+            <h3>Windows</h3>
+            <p class="req" data-i18n="win.req">Windows 10 or 11, 64-bit</p>
+            <a class="btn btn-primary btn-block" href="https://github.com/Keeyzn/velka-app/releases/latest/download/velka-setup.exe" data-i18n="win.btn">Installer (.exe)</a>
+            <a class="link" href="https://github.com/Keeyzn/velka-app/releases/latest/download/velka.exe" data-i18n="win.portable">Portable version</a>
+            <p class="note" data-i18n="win.note">“Windows protected your PC”: click More info, then Run anyway.</p>
+          </article>
+          <article class="card os" data-os="mac">
+            <h3>macOS</h3>
+            <p class="req" data-i18n="mac.req">macOS 11 or later, Apple Silicon</p>
+            <a class="btn btn-primary btn-block" href="https://github.com/Keeyzn/velka-app/releases/latest/download/Velka-mac.dmg" data-i18n="mac.btn">Disk image (.dmg)</a>
+            <p class="note" data-i18n="mac.note">Drag Velka to Applications. First launch: right-click Velka, then Open.</p>
+          </article>
+          <article class="card os" data-os="linux">
+            <h3>Linux</h3>
+            <p class="req" data-i18n="linux.req">x86_64, X11 or Wayland</p>
+            <a class="btn btn-primary btn-block" href="https://github.com/Keeyzn/velka-app/releases/latest/download/Velka-x86_64.AppImage" data-i18n="linux.btn">AppImage</a>
+            <p class="note"><span data-i18n="linux.note">Make the file executable, then open it:</span> <code>chmod +x Velka-x86_64.AppImage</code></p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section id="confiance" class="section">
+      <div class="wrap trust">
+        <div>
+          <h2 data-i18n="trust.title">Open and verifiable</h2>
+          <p class="sub" data-i18n="trust.sub">The source code is public, under the GPL-3.0 license. Every release is built by GitHub Actions, from the repository.</p>
+        </div>
+        <ul class="checks">
+          <li data-i18n="t1">No telemetry, no usage statistics, no added ads.</li>
+          <li data-i18n="t2">Optional Twitch sign-in, through Twitch's official page; tokens are encrypted on your computer.</li>
+          <li data-i18n="t3">Updates are checked with an Ed25519 signature before they are installed.</li>
+          <li><span data-i18n="t4">SHA-256 checksums published with every release (SHA256SUMS.txt).</span> <a class="link" href="https://github.com/Keeyzn/velka-app/blob/main/docs/DISTRIBUTION.md" data-i18n="t4.link">Verify a file</a></li>
+        </ul>
+      </div>
+    </section>
+
+    <section id="faq" class="section">
+      <div class="wrap narrow">
+        <h2 data-i18n="faq.title">FAQ</h2>
+        <details class="card faq">
+          <summary data-i18n="q1">Is Velka really free?</summary>
+          <p data-i18n="a1">Yes, and it will stay free: it is free software. You can support the project if you wish, with nothing in return.</p>
+        </details>
+        <details class="card faq">
+          <summary data-i18n="q2">Why do Windows or macOS show a warning?</summary>
+          <p data-i18n="a2">The files are not signed with a paid certificate. You can check their checksum against SHA256SUMS.txt before opening them.</p>
+        </details>
+        <details class="card faq">
+          <summary data-i18n="q3">Do I need a Twitch account?</summary>
+          <p data-i18n="a3">No. Signing in is only used to chat and to list your followed channels.</p>
+        </details>
+        <details class="card faq">
+          <summary data-i18n="q4">Is Velka related to Twitch?</summary>
+          <p data-i18n="a4">No. Velka is an independent project, not affiliated with Twitch. “Twitch” is a trademark of Twitch Interactive, Inc.</p>
+        </details>
+        <details class="card faq">
+          <summary data-i18n="q5">How do I uninstall Velka?</summary>
+          <p data-i18n="a5">Settings, Advanced and System, then “Uninstall”: the app and its data are removed.</p>
+        </details>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="wrap">
+        <div class="card support">
+          <div>
+            <h2 data-i18n="support.title">Support the project</h2>
+            <p class="sub" data-i18n="support.sub">Velka is free and ad-free. A donation, with nothing in return, helps keep it going.</p>
+          </div>
+          <a class="btn btn-primary" href="https://ko-fi.com/velkaapp" rel="noopener" data-i18n="support.btn">Donate</a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="foot">
+    <div class="wrap foot-row">
+      <p><span data-i18n="foot.license">Free software under the GPL-3.0-or-later license.</span> <span data-i18n="foot.aff">Not affiliated with Twitch.</span></p>
+      <p>
+        <a href="https://github.com/Keeyzn/velka-app" rel="noopener">GitHub</a> ·
+        <a href="https://github.com/Keeyzn/velka-app/releases" rel="noopener" data-i18n="foot.releases">Releases</a> ·
+        <a href="https://github.com/Keeyzn/velka-app/blob/main/SECURITY.md" rel="noopener" data-i18n="foot.security">Security</a>
+      </p>
+    </div>
+  </footer>
+
+  <script src="main.js"></script>
+</body>
+</html>

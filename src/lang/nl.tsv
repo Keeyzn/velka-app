@@ -1,0 +1,535 @@
+Aide	Help
+Réduire	Minimaliseren
+Agrandir	Maximaliseren
+Restaurer	Herstellen
+Fermer	Sluiten
+Échap	Esc
+Français	Frans
+Anglais	Engels
+Espagnol	Spaans
+Portugais	Portugees
+Allemand	Duits
+Italien	Italiaans
+Néerlandais	Nederlands
+Polonais	Pools
+Russe	Russisch
+Ukrainien	Oekraïens
+Turc	Turks
+Vietnamien	Vietnamees
+Indonésien	Indonesisch
+Chinois simplifié	Vereenvoudigd Chinees
+Chinois traditionnel	Traditioneel Chinees
+Japonais	Japans
+Coréen	Koreaans
+Tchèque	Tsjechisch
+Roumain	Roemeens
+Hongrois	Hongaars
+Suédois	Zweeds
+Danois	Deens
+Norvégien	Noors
+Finnois	Fins
+Grec	Grieks
+Annuler	Annuleren
+spectateurs	kijkers
+Hors ligne	Offline
+Cette chaîne n'existe pas.	Dit kanaal bestaat niet.
+Statut indisponible, vous pouvez quand même essayer.	Status niet beschikbaar, je kunt het toch proberen.
+Accueil	Start
+En direct	Live
+chaînes	kanalen
+Favoris	Favorieten
+Spectateurs	Kijkers
+au total	in totaal
+Résultat	Resultaat
+Vérification…	Controleren…
+Regarder	Kijken
+Nom de chaîne invalide.	Ongeldige kanaalnaam.
+En direct parmi vos favoris	Live onder je favorieten
+Aucun favori en direct pour le moment.	Op dit moment is geen favoriet live.
+Récents	Recent
+Retirer de l'historique	Uit de geschiedenis verwijderen
+Rechercher	Zoeken
+Plateforme	Platform
+Réglages	Instellingen
+Quitter le PiP	PiP verlaten
+Reprise dans un instant…	Gaat zo verder…
+Retour	Terug
+Arrêter	Stoppen
+Quitter le plein écran	Volledig scherm verlaten
+Plein écran	Volledig scherm
+Lecture	Afspelen
+Réactiver le son	Geluid aan
+Couper le son	Dempen
+Chat	Chat
+Changement de qualité…	Kwaliteit wijzigen…
+Réessayer	Opnieuw proberen
+depuis	sinds
+connexion…	verbinden…
+changement de qualité…	kwaliteit wijzigen…
+interrompu	onderbroken
+Lecture vidéo	Video afspelen
+Qualité par défaut	Standaardkwaliteit
+Faible latence	Lage latentie
+Désactiver pour un flux plus stable	Uitschakelen voor een stabielere stream
+Réduire la barre latérale	Zijbalk inklappen
+Agrandir la barre latérale	Zijbalk uitklappen
+Chat à gauche de la vidéo	Chat links van de video
+Toujours au premier plan	Altijd bovenop
+Chat en surimpression en plein écran	Chat over de video bij volledig scherm
+Apparence	Weergave
+Général	Algemeen
+Thème	Thema
+Langue	Taal
+Sombre	Leisteen
+Dark	Donker
+Clair	Licht
+Compte Twitch	Twitch-account
+Connecté en tant que	Ingelogd als
+Vous pouvez écrire dans le chat.	Je kunt in de chat schrijven.
+chaînes suivies sur Twitch chargées.	gevolgde Twitch-kanalen geladen.
+Impossible de charger vos chaînes suivies pour le moment.	Je gevolgde kanalen kunnen nu niet worden geladen.
+Chargement de vos chaînes suivies…	Je gevolgde kanalen laden…
+En direct parmi vos chaînes suivies sur Twitch	Live onder je gevolgde Twitch-kanalen
+Suivies sur Twitch	Gevolgd op Twitch
+Prévient quand un favori passe en direct	Waarschuwt wanneer een favoriet live gaat
+Activé : vos favoris sont vérifiés toutes les minutes en arrière-plan, même pendant un live. Cela utilise un peu plus d'internet et de mémoire.	Aan: je favorieten worden elke minuut op de achtergrond gecontroleerd, ook tijdens een stream. Dit gebruikt iets meer internet en geheugen.
+Chaînes dans la barre latérale	Kanalen in de zijbalk
+Chaînes sur l'accueil	Kanalen op de startpagina
+Qualité utilisée à l'ouverture d'un live. « Source » est la qualité maximale de la chaîne ; « Audio » ne joue que le son.	Kwaliteit bij het openen van een stream. "Source" is de hoogste kwaliteit van het kanaal; "Audio" speelt alleen het geluid af.
+Réduit le retard entre le streamer et vous. Désactivez-le si la vidéo saccade ou se coupe.	Verkleint de vertraging ten opzichte van de streamer. Zet uit als de video hapert of wegvalt.
+Garde la fenêtre devant toutes les autres applications.	Houdt het venster voor alle andere apps.
+Affiche le chat par-dessus la vidéo quand vous êtes en plein écran.	Toont de chat over de video bij volledig scherm.
+Faire rouler la molette au-dessus de la vidéo monte ou baisse le volume.	Met het muiswiel boven de video zet je het volume hoger of lager.
+Un clic sur la vidéo met en pause ou relance la lecture.	Een klik op de video pauzeert of hervat het afspelen.
+Garde un niveau sonore régulier (normalisation du son) : relève les passages faibles et atténue les passages forts, d'une chaîne à l'autre et au sein d'un même live.	Houdt het geluidsniveau gelijkmatig (geluidsnormalisatie): versterkt zachte stukken en dempt harde, tussen kanalen en binnen dezelfde livestream.
+Vitesse de la molette dans les listes et dans le chat. À 1,0 ×, un cran de molette fait défiler 3 lignes de 75 px, de façon fluide.	Snelheid van het muiswiel in lijsten en in de chat. Bij 1,0 × scrolt één klik soepel 3 regels van 75 px.
+À chaque lancement, l'application démarre avec le volume choisi ci-dessous, au lieu du dernier volume réglé.	Bij elke start begint de app met het hieronder gekozen volume in plaats van het laatst ingestelde volume.
+100 % = volume normal. 130 % permet d'amplifier une chaîne trop silencieuse, mais le son peut saturer.	100 % = normaal volume. 130 % versterkt een te stil kanaal, maar het geluid kan vervormen.
+Temps sans bouger la souris avant que les boutons posés sur la vidéo disparaissent.	Tijd zonder de muis te bewegen voordat de knoppen op de video verdwijnen.
+Quand vous quittez la page d'un live avec « Retour », il continue dans une petite fenêtre en bas à droite. Désactivé : il s'arrête.	Als je de pagina van een stream verlaat met "Terug", speelt hij verder in een klein venster rechtsonder. Uit: hij stopt.
+Fréquence à laquelle l'accueil vérifie quelles chaînes sont en direct. Plus c'est rapide, plus cela utilise internet. « Manuelle » : seulement avec le bouton Actualiser.	Hoe vaak de startpagina controleert welke kanalen live zijn. Hoe sneller, hoe meer internet. "Handmatig": alleen met de knop Vernieuwen.
+Télécharge une image du direct pour chaque carte. Désactivez pour économiser des données.	Downloadt een afbeelding van de stream voor elke kaart. Zet uit om data te besparen.
+Les chaînes que vous suivez sur votre compte Twitch (il faut être connecté dans la carte « Compte Twitch »).	De kanalen die je volgt met je Twitch-account (je moet ingelogd zijn in de kaart "Twitch-account").
+Nombre maximum de chaînes Twitch en direct listées dans la barre de gauche (ce n'est pas un délai).	Maximaal aantal live Twitch-kanalen in de linkerbalk (geen wachttijd).
+Nombre maximum de chaînes Twitch en direct affichées sur la page d'accueil (ce n'est pas un délai).	Maximaal aantal live Twitch-kanalen op de startpagina (geen wachttijd).
+Garde le jeu sélectionné dans la barre « Jeux en direct » au prochain lancement.	Onthoudt het gekozen spel in de balk "Live games" bij de volgende start.
+Ouvrir : le live s'affiche en grand. PiP : il s'ouvre directement dans une petite fenêtre flottante.	Openen: de stream wordt groot getoond. PiP: hij opent direct in een klein zwevend venster.
+Les messages qui contiennent un de ces mots (séparés par des virgules) sont surlignés en jaune dans le chat.	Berichten met een van deze woorden (gescheiden door komma's) worden geel gemarkeerd in de chat.
+Quand une chaîne est hors ligne ou que son live se termine, propose d'autres lives : vos chaînes suivies du même jeu d'abord.	Als een kanaal offline is of de stream eindigt, worden andere streams voorgesteld: eerst je gevolgde kanalen met hetzelfde spel.
+Nombre de chaînes proposées quand un live est hors ligne ou terminé.	Aantal voorgestelde kanalen als een stream offline of afgelopen is.
+Les boutons latéraux de la souris changent de page, comme dans un navigateur. Alt + flèche gauche ou droite fait pareil.	De zijknoppen van de muis wisselen van pagina, zoals in een browser. Alt + pijl links of rechts doet hetzelfde.
+Le pointeur devient une main au-dessus des boutons et des cartes.	De aanwijzer wordt een hand boven knoppen en kaarten.
+Complet : fondus, glissements, cascades et compteurs animés. Réduit : fondus et changements de couleur seulement, sans déplacement. Désactivé : aucune animation (utile sur un ordinateur lent). Le réglage d'animations de Windows n'est pas pris en compte.	Volledig: overgangen, glijdende bewegingen, trapsgewijze verschijning en geanimeerde tellers. Beperkt: alleen overgangen en kleurwijzigingen, zonder beweging. Uit: geen animaties (handig op een trage computer). De animatie-instelling van Windows wordt genegeerd.
+Affiche une notification Windows quand l'un de vos favoris passe en direct. L'application doit rester ouverte (elle peut être réduite).	Toont een Windows-melding als een van je favorieten live gaat. De app moet open blijven (hij mag geminimaliseerd zijn).
+Lance Velka automatiquement quand vous ouvrez votre session Windows.	Start Velka automatisch wanneer je je aanmeldt bij Windows.
+Photos de profil et émotes déjà téléchargées. Les vider libère de la place ; elles se retéléchargent au besoin.	Al gedownloade profielfoto's en emotes. Leegmaken maakt ruimte vrij; ze worden opnieuw gedownload als dat nodig is.
+Notifications Windows	Windows-meldingen
+Prévient quand un favori passe en direct. Vérifie vos favoris toutes les minutes, même pendant un live : utilise un peu plus d'internet et de mémoire.	Meldt wanneer een favoriet live gaat. Controleert je favorieten elke minuut, ook tijdens een stream: gebruikt iets meer internet en geheugen.
+Envoyer une notification de test	Testmelding sturen
+est en direct	is live
+Notification de test : tout fonctionne.	Testmelding: alles werkt.
+Volume et lecteur	Volume en speler
+Démarrer en muet	Gedempt starten
+Volume fixe au lancement	Vast volume bij het starten
+Sinon : le dernier volume utilisé	Anders: het laatst gebruikte volume
+Volume au lancement	Volume bij het starten
+Volume maximum	Maximaal volume
+Masquage des contrôles	Bediening verbergen na
+Jamais	Nooit
+Capture d'écran	Schermafbeelding
+Infos techniques	Technische info
+Capture enregistrée :	Schermafbeelding opgeslagen:
+Capture impossible.	Schermafbeelding mislukt.
+Minuteur de veille	Slaaptimer
+Désactivé	Uit
+Arrêt du live dans	Stream stopt over
+logiciel	software
+Résolution	Resolutie
+Images par seconde	Beelden per seconde
+Débit vidéo	Videobitrate
+Débit audio	Audiobitrate
+Images perdues	Verloren beelden
+Images perdues au décodage	Verloren beelden bij decoderen
+Mémoire tampon	Buffer
+Format vidéo	Videoformaat
+Décodage	Decoderen
+Arrête le live automatiquement après la durée choisie, à partir du moment où vous changez ce réglage. Une minute avant, un compte à rebours s'affiche sur la vidéo. Le minuteur revient sur Désactivé à chaque nouveau live et à chaque lancement de l'application.	Stopt de livestream automatisch na de gekozen duur, gerekend vanaf het moment dat je deze instelling wijzigt. Een minuut eerder verschijnt een aftelling op de video. De timer gaat bij elke nieuwe live en bij elke start van de app terug naar Uit.
+Émotes 7TV, BTTV et FFZ	Emotes van 7TV, BTTV en FFZ
+Émotes animées	Geanimeerde emotes
+Badges du chat	Chatbadges
+Affiche les émotes des extensions 7TV, BetterTTV et FrankerFaceZ (globales et propres à la chaîne). Elles sont chargées à l'ouverture du live.	Toont de emotes van de extensies 7TV, BetterTTV en FrankerFaceZ (algemeen en van het kanaal). Ze worden geladen bij het openen van de stream.
+Anime les émotes qui le sont (Twitch et extensions). Utilise un peu plus le processeur quand le chat en affiche.	Animeert geanimeerde emotes (Twitch en extensies). Gebruikt iets meer processor als de chat ze toont.
+Affiche les badges (abonné, modérateur, VIP…) devant les pseudos.	Toont de badges (abonnee, moderator, VIP…) voor de namen.
+Netteté de l'image	Beeldscherpte
+Agrandissement de haute qualité	Vergroting van hoge kwaliteit
+Désactivée	Uit
+Légère	Licht
+Moyenne	Gemiddeld
+Forte	Sterk
+Image plus fine en 480p et 720p	Scherper beeld in 480p en 720p
+Renforce les contours de l'image (calculé par la carte graphique). Utile sur un flux flou ; trop fort, l'image paraît granuleuse.	Versterkt de randen van het beeld (berekend door de videokaart). Handig bij een wazige stream; te sterk maakt het beeld korrelig.
+Utilise un filtre d'agrandissement plus fin quand la vidéo est plus petite que la fenêtre (480p, 720p). Demande davantage à la carte graphique.	Gebruikt een fijner vergrotingsfilter als de video kleiner is dan het venster (480p, 720p). Vraagt meer van de videokaart.
+Compte	Account
+Qualité et flux	Kwaliteit en stream
+Audio	Geluid
+Lecteur et comportement	Speler en gedrag
+Affichage et lisibilité	Weergave en leesbaarheid
+Filtrage et alertes	Filteren en meldingen
+Notifications	Meldingen
+Avancé et Système	Geavanceerd en systeem
+Stockage et configuration	Opslag en configuratie
+Émotes et badges	Emotes en badges
+Les changements s'appliquent tout de suite.	Wijzigingen gelden meteen.
+2,5 s	2,5 s
+Mo	MB
+Ko	KB
+Rechercher un réglage	Instelling zoeken
+Résultats de la recherche	Zoekresultaten
+Aucun réglage trouvé.	Geen instelling gevonden.
+Mini-lecteur	Minispeler
+Garder le live dans un coin quand on quitte la page	De stream in een hoek houden bij het verlaten van de pagina
+Accueil et barre latérale	Startpagina en zijbalk
+Actualisation	Vernieuwen
+Manuelle	Handmatig
+Actualiser	Vernieuwen
+Aperçus des lives	Voorbeelden van streams
+Images du direct sur les cartes	Livebeelden op de kaarten
+Chaînes suivies sur Twitch	Gevolgde Twitch-kanalen
+Dans la barre latérale, sur l'accueil et dans les recommandations	In de zijbalk, op de startpagina en in de aanbevelingen
+Dans la barre latérale	In de zijbalk
+Sur l'accueil	Op de startpagina
+Se souvenir du jeu choisi	Gekozen spel onthouden
+Clic sur une carte	Klik op een kaart
+Ouvrir	Openen
+Taille du texte	Tekstgrootte
+Masquer les bots	Bots verbergen
+Horodatage des messages	Tijd bij berichten
+Mots surlignés	Gemarkeerde woorden
+mot, pseudo… (séparés par des virgules)	woord, naam… (gescheiden door komma's)
+Recommandations	Aanbevelingen
+Recommandations de chaînes	Aanbevolen kanalen
+Proposer des chaînes quand un live est hors ligne ou terminé	Kanalen voorstellen als een stream offline of afgelopen is
+Nombre de recommandations	Aantal aanbevelingen
+Mouvement et lisibilité	Beweging en leesbaarheid
+Navigation et souris	Navigatie en muis
+Vérification des mises à jour	Controle op updates
+Nouvelle version disponible :	Nieuwe versie beschikbaar:
+Mettre à jour	Bijwerken
+Téléchargement de la mise à jour…	Update downloaden…
+Mise à jour impossible :	Bijwerken mislukt:
+Boutons Précédent / Suivant de la souris	Muisknoppen Vorige / Volgende
+Main sur les éléments cliquables	Hand boven klikbare elementen
+Animations	Animaties
+Raccourcis clavier	Sneltoetsen
+Appuyez sur une touche…	Druk op een toets…
+Rétablir les raccourcis	Sneltoetsen herstellen
+Raccourcis non modifiables	Vaste sneltoetsen
+Quitter le plein écran, le PiP ou le live	Volledig scherm, PiP of de livestream verlaten
+Rechercher une chaîne	Een kanaal zoeken
+Zoom de l'interface	Zoom van de interface
+Page précédente / suivante	Vorige / volgende pagina
+Pause / lecture	Pauze / afspelen
+Volume +	Volume +
+Volume -	Volume -
+Afficher / masquer le chat	Chat tonen / verbergen
+Image dans l'image	Beeld-in-beeld
+Système	Systeem
+Démarrer avec Windows	Starten met Windows
+Ouvre l'application à l'ouverture de session	Opent de app bij het aanmelden
+Cache des images	Afbeeldingscache
+Vider	Leegmaken
+Espace	Spatie
+Flèche haut	Pijl omhoog
+Flèche bas	Pijl omlaag
+Flèche gauche	Pijl links
+Flèche droite	Pijl rechts
+Entrée	Enter
+Jeux en direct	Live games
+Aucun live pour ce jeu en ce moment.	Op dit moment geen stream voor dit spel.
+Chaînes recommandées	Aanbevolen kanalen
+Ajouter aux favoris	Toevoegen aan favorieten
+Se déconnecter	Afmelden
+En attente de votre accord sur Twitch…	Wachten op je toestemming op Twitch…
+Rouvrir la page Twitch	Twitch-pagina opnieuw openen
+Connexion à Twitch…	Verbinden met Twitch…
+Connectez-vous pour écrire dans le chat.	Meld je aan om in de chat te schrijven.
+Se connecter avec Twitch	Aanmelden met Twitch
+La connexion Twitch n'est pas disponible dans cette version.	Aanmelden met Twitch is niet beschikbaar in deze versie.
+Connexion refusée sur Twitch.	Aanmelding geweigerd op Twitch.
+Le code a expiré, recommencez.	De code is verlopen, begin opnieuw.
+Twitch a refusé la connexion.	Twitch heeft de aanmelding geweigerd.
+Impossible de joindre Twitch. Vérifiez votre connexion.	Twitch is niet bereikbaar. Controleer je verbinding.
+Twitch a refusé la demande de connexion.	Twitch heeft het aanmeldverzoek geweigerd.
+Composants externes	Externe onderdelen
+Non installé	Niet geïnstalleerd
+Prêt	Klaar
+Installer	Installeren
+Chemins personnalisés (facultatif)	Eigen paden (optioneel)
+Journaux et diagnostic	Logboeken en diagnose
+Volume	Volume
+Molette de la souris sur la vidéo = volume	Muiswiel op de video = volume
+Clic sur la vidéo = pause	Klik op de video = pauze
+Volume stable	Stabiel volume
+Limite les écarts de volume entre les chaînes	Beperkt volumeverschillen tussen kanalen
+Vitesse de défilement	Scrollsnelheid
+Résultats	Resultaten
+Zone de réinitialisation	Resetzone
+Réinitialiser	Opnieuw instellen
+Désinstaller	Verwijderen
+Oui, réinitialiser	Ja, opnieuw instellen
+Oui, désinstaller	Ja, verwijderen
+Ouvrir le dossier du journal	Map van het logboek openen
+Connexion au chat…	Verbinden met de chat…
+Chat connecté	Chat verbonden
+Reconnexion du chat	Chat maakt opnieuw verbinding
+Envoyer un message	Bericht verzenden
+Jeton requis pour écrire (Réglages)	Token nodig om te schrijven (Instellingen)
+Revenir en bas	Terug naar beneden
+Réponse de Twitch inattendue pour ce jeton.	Onverwacht antwoord van Twitch voor dit token.
+Jeton refusé par Twitch (expiré ou invalide).	Token geweigerd door Twitch (verlopen of ongeldig).
+Connexion refusée avec ce jeton.	Verbinding geweigerd met dit token.
+Bienvenue dans Velka	Welkom bij Velka
+Tout installer	Alles installeren
+Installation en cours…	Bezig met installeren…
+La chaîne est hors ligne.	Het kanaal is offline.
+Pas de connexion à Twitch. Vérifiez votre réseau.	Geen verbinding met Twitch. Controleer je netwerk.
+Le flux met trop de temps à démarrer.	De stream doet er te lang over om te starten.
+Le flux s'est interrompu :	De stream is onderbroken:
+arrêt inattendu	onverwachte stop
+Impossible de lancer Streamlink :	Streamlink kan niet worden gestart:
+Préparation…	Voorbereiden…
+Le rendu OpenGL n'est pas disponible.	OpenGL-weergave is niet beschikbaar.
+Aucun port local disponible.	Geen lokale poort beschikbaar.
+Impossible de joindre GitHub :	GitHub is niet bereikbaar:
+Réponse GitHub illisible :	Onleesbaar antwoord van GitHub:
+Aucune archive compatible dans la dernière version.	Geen geschikt archief in de nieuwste versie.
+Téléchargement impossible :	Downloaden mislukt:
+Écriture impossible :	Schrijven mislukt:
+Téléchargement interrompu :	Downloaden onderbroken:
+Le fichier téléchargé est vide.	Het gedownloade bestand is leeg.
+Recherche de la dernière version…	Nieuwste versie zoeken…
+Dossier inaccessible :	Map niet toegankelijk:
+Téléchargement…	Downloaden…
+Extraction…	Uitpakken…
+Extraction impossible :	Uitpakken mislukt:
+Archive invalide :	Ongeldig archief:
+streamlink.exe introuvable dans l'archive.	streamlink.exe niet gevonden in het archief.
+Structure d'archive inattendue.	Onverwachte opbouw van het archief.
+libmpv-2.dll introuvable dans l'archive.	libmpv-2.dll niet gevonden in het archief.
+Installation impossible :	Installatie mislukt:
+Fichier installé introuvable ou vide.	Geïnstalleerd bestand ontbreekt of is leeg.
+Installé	Geïnstalleerd
+Accessibilité	Toegankelijkheid
+Taille de l'interface	Grootte van de interface
+Mise à l'échelle	Schaal
+Contraste élevé	Hoog contrast
+Automatique	Automatisch
+Activé	Aan
+Focus clavier renforcé	Versterkte toetsenbordfocus
+Couleurs	Kleuren
+Palette de couleurs	Kleurenpalet
+Turquoise	Turquoise
+Bleu	Blauw
+Vert	Groen
+Orange foncé	Donkeroranje
+Rose	Roze
+Personnalisée	Aangepast
+Couleur d'accent personnalisée	Aangepaste accentkleur
+Code couleur	Kleurcode
+Rouge	Rood
+Exemple	Voorbeeld
+Contraste du texte sur l'accent	Tekstcontrast op de accentkleur
+Conforme	Voldoet
+Insuffisant, minimum	Onvoldoende, minimum
+Couleur non appliquée : le contraste est trop faible.	Kleur niet toegepast: het contrast is te laag.
+Couleur conforme la plus proche :	Dichtstbijzijnde conforme kleur:
+Utiliser cette couleur	Deze kleur gebruiken
+Rétablir les couleurs par défaut	Standaardkleuren herstellen
+Mises à jour	Updates
+À jour	Up-to-date
+Mise à jour disponible	Update beschikbaar
+Chemin personnalisé	Aangepast pad
+Version inconnue	Onbekende versie
+Installée :	Geïnstalleerd:
+Disponible :	Beschikbaar:
+Mise à jour en cours…	Bijwerken…
+Redémarrage nécessaire	Herstart vereist
+Impossible de vérifier les mises à jour :	Kan niet controleren op updates:
+Échec de la mise à jour, version précédente conservée :	Update mislukt, vorige versie behouden:
+Versions des composants non validées par l'éditeur.	Componentversies niet goedgekeurd door de uitgever.
+Archive validée introuvable sur GitHub.	Goedgekeurd archief niet gevonden op GitHub.
+Adresse de téléchargement inattendue.	Onverwacht downloadadres.
+Empreinte du fichier téléchargé incorrecte.	Controlesom van het gedownloade bestand klopt niet.
+Téléchargement refusé par le serveur.	Download geweigerd door de server.
+Fichier reçu invalide (taille ou empreinte différente).	Het ontvangen bestand is ongeldig (grootte of controlesom komt niet overeen).
+Serveur injoignable :	Server niet bereikbaar:
+Remplacement impossible :	Vervangen mislukt:
+Relance impossible :	Opnieuw starten mislukt:
+Impossible de charger libmpv :	libmpv kan niet worden geladen:
+Fonction libmpv manquante :	libmpv-functie ontbreekt:
+Le lecteur n'a pas pu démarrer.	De speler kon niet starten.
+Initialisation du lecteur impossible :	Initialiseren van de speler mislukt:
+Rendu vidéo impossible :	Videoweergave mislukt:
+Option du lecteur refusée :	Optie van de speler geweigerd:
+Propriété du lecteur refusée :	Eigenschap van de speler geweigerd:
+Commande du lecteur refusée :	Opdracht van de speler geweigerd:
+Se connecter	Aanmelden
+Autres langues	Andere talen
+Personnaliser	Aanpassen
+Améliorer le contraste	Contrast verbeteren
+Replier le chat	Chat inklappen
+Afficher le chat	Chat tonen
+Qualité maximale proposée par la chaîne, sans réduction.	Hoogste kwaliteit die het kanaal biedt, zonder verkleining.
+Fenêtre PiP au format de la vidéo	PiP-venster in het formaat van de video
+En mini-fenêtre PiP, la fenêtre prend le format du live pour supprimer les bandes noires.	In het PiP-minivenster krijgt het venster de beeldverhouding van de livestream, zodat zwarte balken verdwijnen.
+spectateur	kijker
+Actualisation en cours	Vernieuwen…
+Qualité	Kwaliteit
+Redémarrer l'application	App opnieuw starten
+Passer	Overslaan
+Suivant	Volgende
+C'est parti	Aan de slag
+Chat avec émotes	Chat met emotes
+Mini-lecteur et PiP	Miniplayer en PiP
+Choisissez votre style	Kies je stijl
+Couleur d'accent	Accentkleur
+Réglez la lecture	Afspelen instellen
+Restez informé	Blijf op de hoogte
+Tout se règle aussi plus tard dans les Réglages.	Alles kun je later wijzigen in Instellingen.
+Thème et couleur de l'application.	Thema en kleur van de app.
+Les réglages les plus utiles, en un coup d'œil.	De handigste instellingen in één oogopslag.
+Ne ratez plus vos streamers préférés.	Mis nooit meer je favoriete streamers.
+Ultra légère et optimisée, parfaite pour jouer en même temps.	Superlicht en geoptimaliseerd, ideaal om tegelijk te gamen.
+Revoir le didacticiel	Introductie opnieuw bekijken
+Le live démarre sans le son ; vous le réactivez quand vous voulez.	De livestream start zonder geluid; je zet het geluid aan wanneer je wilt.
+Agrandit ou réduit le texte des messages du chat.	Maakt de tekst van chatberichten groter of kleiner.
+Affiche l'heure devant chaque message du chat.	Toont de tijd voor elk chatbericht.
+Place le chat à gauche de la vidéo au lieu de la droite.	Zet de chat links van de video in plaats van rechts.
+Favori	Favoriet
+Aucun favori pour le moment. Cherchez une chaîne puis choisissez « Ajouter aux favoris ».	Nog geen favorieten. Zoek een kanaal en kies ‘Toevoegen aan favorieten’.
+Orange (par défaut)	Oranje (standaard)
+Retirer des favoris	Verwijderen uit favorieten
+Connexion en cours	Verbinding maken
+Audio du live uniquement	Alleen audio van de livestream
+Lecteur au format de la vidéo	Speler in het formaat van de video
+Dans la fenêtre principale, l'image prend exactement le format du live (coins arrondis, sans bandes autour) et reste centrée.	In het hoofdvenster krijgt het beeld precies het formaat van de livestream (afgeronde hoeken, geen balken) en blijft gecentreerd.
+Taille et place d'origine	Oorspronkelijke grootte en plek
+Chaîne ouverte au démarrage	Kanaal dat bij het starten opent
+Démarrage et fenêtre	Opstarten en venster
+Son live s'ouvre au lancement si elle est en direct. Sinon, l'accueil s'affiche normalement.	De livestream opent bij het starten als het kanaal live is. Anders verschijnt de startpagina zoals gewoonlijk.
+Nom de la chaîne	Kanaalnaam
+Au lancement, si cette chaîne est en direct, son live s'ouvre directement dans le lecteur. Hors ligne ou introuvable, l'accueil s'affiche normalement.	Is het kanaal bij het starten live, dan opent de stream direct in de speler. Offline of niet gevonden: normale startpagina.
+Enregistrée	Opgeslagen
+En attente de messages…	Wachten op berichten…
+Confirmer la déconnexion	Afmelden bevestigen
+Affiche d'abord les lives qui ont le plus de spectateurs.	Toont eerst de streams met de meeste kijkers.
+Affiche d'abord les lives qui ont le moins de spectateurs.	Toont eerst de streams met de minste kijkers.
+Éclaircit ou assombrit la couleur choisie pour que le texte reste lisible.	Maakt de gekozen kleur lichter of donkerder zodat de tekst leesbaar blijft.
+Spectateurs : décroissant	Kijkers: aflopend
+Spectateurs : croissant	Kijkers: oplopend
+5 s	5 s
+10 s	10 s
+Pour charger vos chaînes suivies, déconnectez-vous puis reconnectez-vous.	Om je gevolgde kanalen te laden, log je uit en weer in.
+Reconnectez-vous dans Réglages pour afficher vos chaînes suivies sur Twitch.	Log opnieuw in bij Instellingen om je gevolgde kanalen op Twitch te tonen.
+Une page Twitch s'est ouverte. Vérifiez ce code, puis cliquez sur « Autoriser » :	Er is een Twitch-pagina geopend. Controleer deze code en klik op “Autoriseren”:
+Utilisée en ce moment : redémarrez l'application pour la mettre à jour.	Wordt nu gebruikt: start de app opnieuw om bij te werken.
+Réinitialiser remet les réglages, les favoris et l'historique à zéro. Les outils restent installés.	Resetten zet instellingen, favorieten en geschiedenis terug op nul. De hulpmiddelen blijven geïnstalleerd.
+Désinstaller supprime les outils, les réglages, l'historique et le cache, puis ferme l'application.	Verwijderen wist de hulpmiddelen, instellingen, geschiedenis en cache en sluit daarna de app.
+Tout remettre à zéro ? Réglages, favoris et historique seront perdus.	Alles resetten? Instellingen, favorieten en geschiedenis gaan verloren.
+Tout supprimer ? Outils, réglages, historique et cache seront effacés définitivement.	Alles verwijderen? Hulpmiddelen, instellingen, geschiedenis en cache worden definitief gewist.
+Ce jeton n'a pas le droit d'écrire dans le chat (chat:edit).	Dit token mag niet in de chat schrijven (chat:edit).
+Ils sont installés dans votre dossier utilisateur, sans droits administrateur.	Ze worden in je gebruikersmap geïnstalleerd, zonder beheerdersrechten.
+libmpv est introuvable. Réinstallez les outils depuis les réglages.	libmpv is niet gevonden. Installeer de hulpmiddelen opnieuw via de instellingen.
+Streamlink est introuvable. Réinstallez les outils depuis les réglages.	Streamlink is niet gevonden. Installeer de hulpmiddelen opnieuw via de instellingen.
+Afficher le menu	Menu tonen
+Masquer le menu	Menu verbergen
+Chat réservé aux followers	Chat alleen voor volgers
+Échec de la connexion.	Verbinding mislukt.
+Connexion annulée	Verbinding geannuleerd
+Rapport de la dernière fermeture inattendue, sans donnée personnelle. Rien n'est envoyé automatiquement.	Rapport van de laatste onverwachte afsluiting, zonder persoonsgegevens. Er wordt niets automatisch verzonden.
+Copier le rapport de plantage	Crashrapport kopiëren
+Rapport copié.	Rapport gekopieerd.
+Copier le diagnostic	Diagnose kopiëren
+Diagnostic copié.	Diagnose gekopieerd.
+Complet	Volledig
+Réduit	Beperkt
+État et version de Streamlink et de libmpv, mise à jour, et chemins personnalisés (facultatifs) vers streamlink.exe et libmpv-2.dll.	Status en versie van Streamlink en libmpv, bijwerken en optionele eigen paden naar streamlink.exe en libmpv-2.dll.
+Ouvre le dossier du journal, copie le diagnostic (version, Windows, carte graphique, composants) ou le rapport de plantage local pour le support. Rien n'est envoyé automatiquement.	Opent de logboekmap en kopieert de diagnose (versie, Windows, videokaart, onderdelen) of het lokale crashrapport voor support. Er wordt niets automatisch verzonden.
+À propos	Over
+Version de l'application	App-versie
+Décodage vidéo matériel (GPU)	Hardwarematige videodecodering (GPU)
+Utile si la vidéo saccade ou si le processeur chauffe. « Automatique » : réglage d'origine de l'application. « Activé » : la carte graphique décode la vidéo, avec retour automatique au décodage normal si elle n'y arrive pas. « Désactivé » : décodage normal par le processeur. Le changement s'applique tout de suite : le live en cours est relancé.	Handig als de video hapert of de processor heet wordt. ‘Automatisch’: de oorspronkelijke instelling van de app. ‘Aan’: de videokaart decodeert de video, met automatische terugval op normale decodering als dat mislukt. ‘Uit’: normale decodering door de processor. De wijziging geldt direct: de lopende livestream wordt opnieuw gestart.
+Périphérique de sortie	Uitvoerapparaat
+Périphérique par défaut du système	Standaardapparaat van het systeem
+Choisit le casque ou les enceintes pour le son des lives, sans changer le son de Windows. « Périphérique par défaut du système » suit le choix de Windows. Le changement s'applique tout de suite. Si le périphérique choisi disparaît (casque débranché), l'application revient au choix par défaut.	Kiest de koptelefoon of luidsprekers voor het geluid van livestreams, zonder het Windows-geluid te wijzigen. ‘Standaardapparaat van het systeem’ volgt de keuze van Windows. De wijziging geldt direct. Verdwijnt het gekozen apparaat (koptelefoon losgekoppeld), dan keert de app terug naar de standaardkeuze.
+Le périphérique audio choisi n'est plus disponible : retour au périphérique par défaut.	Het gekozen audioapparaat is niet meer beschikbaar: terug naar het standaardapparaat.
+Captures d'écran	Schermafbeeldingen
+Dossier d'enregistrement	Opslagmap
+Parcourir…	Bladeren…
+Ouvrir le dossier	Map openen
+Dossier où la touche S enregistre les captures d'écran. Par défaut : le dossier « Velka » de vos Images. Le dossier choisi doit accepter l'écriture ; s'il disparaît (disque débranché, dossier supprimé), l'application revient au dossier par défaut. Le changement s'applique à la prochaine capture.	Map waarin de S-toets schermafbeeldingen opslaat. Standaard: de map ‘Velka’ in je Afbeeldingen. De gekozen map moet schrijven toestaan; verdwijnt ze (schijf losgekoppeld, map verwijderd), dan keert de app terug naar de standaardmap. De wijziging geldt vanaf de volgende schermafbeelding.
+Le dossier des captures n'est plus disponible : retour au dossier par défaut.	De map voor schermafbeeldingen is niet meer beschikbaar: terug naar de standaardmap.
+Ce dossier n'accepte pas l'écriture : choisissez-en un autre.	In deze map kan niet worden geschreven: kies een andere.
+Aucun	Geen
+Effacer un raccourci	Sneltoets wissen
+Réduire dans la zone de notification à la fermeture	Bij sluiten minimaliseren naar het systeemvak
+L'application reste active en fond pour les notifications	De app blijft op de achtergrond actief voor meldingen
+La croix de fermeture cache la fenêtre dans la zone de notification (près de l'horloge) au lieu de quitter ; le live en cours est arrêté. Clic gauche sur l'icône : rouvrir. Clic droit : Ouvrir ou Quitter. Pour être prévenu quand un favori passe en direct, activez aussi « Notifications Windows ».	Het sluitkruisje verbergt het venster in het systeemvak (bij de klok) in plaats van af te sluiten; de lopende stream wordt gestopt. Linksklik op het pictogram: opnieuw openen. Rechtsklik: Openen of Afsluiten. Zet ook „Windows-meldingen” aan om een bericht te krijgen als een favoriet live gaat.
+Ouvrir Velka	Velka openen
+Quitter	Afsluiten
+Velka reste actif dans la zone de notification. Clic droit sur l'icône pour quitter.	Velka blijft actief in het systeemvak. Klik met rechts op het pictogram om af te sluiten.
+Rechercher des mises à jour	Naar updates zoeken
+Vous utilisez la dernière version.	Je gebruikt de nieuwste versie.
+Mise à jour {version} disponible	Update {version} beschikbaar
+Impossible de se connecter. Vérifiez votre connexion internet.	Verbinding mislukt. Controleer je internetverbinding.
+La recherche de mise à jour a échoué.	Zoeken naar updates is mislukt.
+Historique des chaînes	Kanaalgeschiedenis
+Effacer l'historique	Geschiedenis wissen
+Historique effacé.	Geschiedenis gewist.
+Ouvrir le dossier de configuration	Instellingenmap openen
+Options du lecteur	Spelleropties
+Perso	Eigen
+Durée personnalisée	Eigen duur
+Ajuster uniquement la taille du texte du chat	Alleen de tekstgrootte van de chat aanpassen
+Ajuster la taille globale de l'interface	De algehele grootte van de interface aanpassen
+Connectez-vous à Twitch pour activer	Meld je aan bij Twitch om te activeren
+Pas de connexion Internet.	Geen internetverbinding.
+La connexion Internet s'est coupée.	De internetverbinding is verbroken.
+Licences des composants	Licenties van componenten
+Le lecteur vidéo utilise libmpv (mpv) et FFmpeg, sous licence LGPL version 2.1 ou ultérieure. Vous pouvez remplacer libmpv par votre propre version dans {section}.	De videospeler gebruikt libmpv (mpv) en FFmpeg onder de LGPL-licentie versie 2.1 of hoger. U kunt libmpv vervangen door uw eigen versie bij {section}.
+Code source et compilation	Broncode en buildscripts
+Velka n'a pas pu ouvrir sa fenêtre : la carte graphique ou son pilote ne prend pas en charge OpenGL 3.0. Mettez à jour le pilote de la carte graphique, puis relancez Velka. Sur un bureau à distance ou une machine virtuelle, l'affichage peut ne pas être pris en charge.	Velka kon zijn venster niet openen: de videokaart of het stuurprogramma ervan ondersteunt OpenGL 3.0 niet. Werk het stuurprogramma van de videokaart bij en start Velka opnieuw. Op een extern bureaublad of een virtuele machine wordt weergave mogelijk niet ondersteund.
+La carte graphique n'annonce pas OpenGL 3.0 : la vidéo peut rester noire. Mettez à jour le pilote de la carte graphique. Sur un bureau à distance ou une machine virtuelle, l'affichage peut ne pas être pris en charge.	De videokaart meldt geen OpenGL 3.0: de video kan zwart blijven. Werk het stuurprogramma van de videokaart bij. Op een extern bureaublad of een virtuele machine wordt weergave mogelijk niet ondersteund.
+Démarrer avec macOS	Starten met macOS
+Démarrer avec Linux	Starten met Linux
+Lance Velka automatiquement quand vous ouvrez votre session macOS.	Start Velka automatisch wanneer je je aanmeldt bij macOS.
+Lance Velka automatiquement quand vous ouvrez votre session Linux.	Start Velka automatisch wanneer je je aanmeldt bij Linux.
+Notifications macOS	macOS-meldingen
+Notifications Linux	Linux-meldingen
+Affiche une notification macOS quand l'un de vos favoris passe en direct. L'application doit rester ouverte (elle peut être réduite).	Toont een macOS-melding als een van je favorieten live gaat. De app moet open blijven (hij mag geminimaliseerd zijn).
+Affiche une notification Linux quand l'un de vos favoris passe en direct. L'application doit rester ouverte (elle peut être réduite).	Toont een Linux-melding als een van je favorieten live gaat. De app moet open blijven (hij mag geminimaliseerd zijn).
+Multistream	Multistream
+Regardez jusqu'à 4 lives en même temps.	Bekijk tot 4 livestreams tegelijk.
+Ajouter une chaîne	Kanaal toevoegen
+Ajouter	Toevoegen
+Tout arrêter	Alles stoppen
+Cette chaîne est déjà affichée.	Dit kanaal wordt al getoond.
+4 lives au maximum.	Maximaal 4 livestreams.
+Ajoutez une chaîne pour commencer.	Voeg een kanaal toe om te beginnen.
+Retirer ce live	Deze livestream verwijderen
+Écouter ce live	Naar deze livestream luisteren
+Cumuler le son des lives en Multistream	Geluid van livestreams combineren in Multistream
+Un clic sur un live ajoute son son au lieu de le remplacer	Klikken op een livestream voegt het geluid toe in plaats van het te vervangen
+Sur la page Multistream, un clic sur un live fait entendre son son en plus de ceux déjà écoutés, jusqu'aux quatre lives. Le bouton du son de chaque live le coupe.	Op de Multistream-pagina hoor je na een klik op een livestream het geluid ervan naast dat van de livestreams die je al hoort, tot alle vier. De geluidsknop van elke livestream dempt die.
+Couper tous les sons	Alles dempen
+Lecteur Twitch léger avec multistream, chat et notifications.	Lichte Twitch-speler met multistream, chat en meldingen.
+Quelques composants sont nécessaires pour lire les lives Twitch.	Er zijn enkele onderdelen nodig om Twitch-streams af te spelen.
+Logiciel libre sous licence GPL-3.0 ou ultérieure.	Vrije software onder de licentie GPL-3.0 of later.
+Application non affiliée à Twitch.	Niet verbonden aan Twitch.
+Code source sur GitHub	Broncode op GitHub
+Soutenir le projet	Het project steunen
+La connexion Twitch n'a pas pu être enregistrée de façon sécurisée (trousseau du système indisponible) : elle sera perdue à la fermeture de Velka.	De Twitch-aanmelding kon niet veilig worden opgeslagen (sleutelhanger van het systeem niet beschikbaar): deze gaat verloren wanneer Velka sluit.
+Velka est gratuit et le restera. Si l'application vous plaît, un petit don aide à la faire vivre.	Velka is gratis en blijft dat. Vind je de app goed, dan helpt een kleine donatie om hem in leven te houden.
+Plus tard	Later
+Rappel pour soutenir le projet	Herinnering om het project te steunen
+Affiche de temps en temps sur l'accueil, au plus une fois par mois, un message avec un lien pour soutenir le projet.	Toont af en toe op de startpagina, hooguit eens per maand, een bericht met een link om het project te steunen.

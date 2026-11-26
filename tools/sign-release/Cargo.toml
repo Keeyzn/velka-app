@@ -1,0 +1,15 @@
+[package]
+name = "sign-release"
+version = "0.1.0"
+edition = "2021"
+description = "Signature des mises à jour sur le PC du mainteneur : clé Ed25519 et manifeste velka-maj.json"
+license = "GPL-3.0-or-later"
+repository = "https://github.com/Keeyzn/velka-app"
+publish = false
+
+[dependencies]
+licfmt = { path = "../../crates/licfmt" }
+ed25519-dalek = "2"
+sha2 = "0.10"
+serde_json = "1.0.154"
+getrandom = "0.3"

@@ -1,0 +1,4 @@
+# Scripts lances sur le Mac : toujours des fins de ligne LF (un CR fait echouer bash, "set: pipefail: invalid option name").
+tools/mac/*.sh text eol=lf
+tools/mac/*.swift text eol=lf
+tools/linux/*.sh text eol=lf

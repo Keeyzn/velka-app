@@ -1,0 +1,4 @@
+# Intègre la bibliothèque Visual C++ dans l'exécutable : il démarre sur un Windows vierge,
+# sans avoir à installer « Visual C++ Redistributable ».
+[target.'cfg(all(windows, target_env = "msvc"))']
+rustflags = ["-C", "target-feature=+crt-static"]

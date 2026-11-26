@@ -1,0 +1,535 @@
+Aide	Yardım
+Réduire	Simge durumuna küçült
+Agrandir	Ekranı kapla
+Restaurer	Önceki boyut
+Fermer	Kapat
+Échap	Esc
+Français	Fransızca
+Anglais	İngilizce
+Espagnol	İspanyolca
+Portugais	Portekizce
+Allemand	Almanca
+Italien	İtalyanca
+Néerlandais	Felemenkçe
+Polonais	Lehçe
+Russe	Rusça
+Ukrainien	Ukraynaca
+Turc	Türkçe
+Vietnamien	Vietnamca
+Indonésien	Endonezce
+Chinois simplifié	Basitleştirilmiş Çince
+Chinois traditionnel	Geleneksel Çince
+Japonais	Japonca
+Coréen	Korece
+Tchèque	Çekçe
+Roumain	Rumence
+Hongrois	Macarca
+Suédois	İsveççe
+Danois	Danca
+Norvégien	Norveççe
+Finnois	Fince
+Grec	Yunanca
+Annuler	İptal
+spectateurs	izleyici
+Hors ligne	Çevrimdışı
+Cette chaîne n'existe pas.	Bu kanal yok.
+Statut indisponible, vous pouvez quand même essayer.	Durum bilinmiyor, yine de deneyebilirsiniz.
+Accueil	Ana sayfa
+En direct	Canlı
+chaînes	kanal
+Favoris	Favoriler
+Spectateurs	İzleyiciler
+au total	toplam
+Résultat	Sonuç
+Vérification…	Denetleniyor…
+Regarder	İzle
+Nom de chaîne invalide.	Geçersiz kanal adı.
+En direct parmi vos favoris	Favorilerinizden canlı yayındakiler
+Aucun favori en direct pour le moment.	Şu anda canlı yayında favori yok.
+Récents	Son izlenenler
+Retirer de l'historique	Geçmişten kaldır
+Rechercher	Ara
+Plateforme	Platform
+Réglages	Ayarlar
+Quitter le PiP	PiP'ten çık
+Reprise dans un instant…	Birazdan devam ediyor…
+Retour	Geri
+Arrêter	Durdur
+Quitter le plein écran	Tam ekrandan çık
+Plein écran	Tam ekran
+Lecture	Oynat
+Réactiver le son	Sesi aç
+Couper le son	Sesi kapat
+Chat	Sohbet
+Changement de qualité…	Kalite değiştiriliyor…
+Réessayer	Yeniden dene
+depuis	süredir
+connexion…	bağlanılıyor…
+changement de qualité…	kalite değiştiriliyor…
+interrompu	kesildi
+Lecture vidéo	Video oynatma
+Qualité par défaut	Varsayılan kalite
+Faible latence	Düşük gecikme
+Désactiver pour un flux plus stable	Daha kararlı bir yayın için kapatın
+Réduire la barre latérale	Kenar çubuğunu daralt
+Agrandir la barre latérale	Kenar çubuğunu genişlet
+Chat à gauche de la vidéo	Sohbet videonun solunda
+Toujours au premier plan	Her zaman üstte
+Chat en surimpression en plein écran	Tam ekranda sohbet videonun üstünde
+Apparence	Görünüm
+Général	Genel
+Thème	Tema
+Langue	Dil
+Sombre	Arduvaz
+Dark	Koyu
+Clair	Açık
+Compte Twitch	Twitch hesabı
+Connecté en tant que	Oturum açan:
+Vous pouvez écrire dans le chat.	Sohbete yazabilirsiniz.
+chaînes suivies sur Twitch chargées.	takip edilen Twitch kanalı yüklendi.
+Impossible de charger vos chaînes suivies pour le moment.	Takip ettiğiniz kanallar şu anda yüklenemiyor.
+Chargement de vos chaînes suivies…	Takip ettiğiniz kanallar yükleniyor…
+En direct parmi vos chaînes suivies sur Twitch	Twitch'te takip ettiğiniz kanallardan canlı yayındakiler
+Suivies sur Twitch	Twitch'te takip edilenler
+Prévient quand un favori passe en direct	Bir favori yayına başladığında bildirir
+Activé : vos favoris sont vérifiés toutes les minutes en arrière-plan, même pendant un live. Cela utilise un peu plus d'internet et de mémoire.	Açık: favorileriniz arka planda her dakika denetlenir, yayın izlerken bile. Bu biraz daha fazla internet ve bellek kullanır.
+Chaînes dans la barre latérale	Kenar çubuğundaki kanallar
+Chaînes sur l'accueil	Ana sayfadaki kanallar
+Qualité utilisée à l'ouverture d'un live. « Source » est la qualité maximale de la chaîne ; « Audio » ne joue que le son.	Bir yayın açılırken kullanılan kalite. "Source" kanalın en yüksek kalitesidir; "Audio" yalnızca sesi çalar.
+Réduit le retard entre le streamer et vous. Désactivez-le si la vidéo saccade ou se coupe.	Yayıncıyla aranızdaki gecikmeyi azaltır. Görüntü takılır veya kesilirse kapatın.
+Garde la fenêtre devant toutes les autres applications.	Pencereyi diğer tüm uygulamaların önünde tutar.
+Affiche le chat par-dessus la vidéo quand vous êtes en plein écran.	Tam ekrandayken sohbeti videonun üstünde gösterir.
+Faire rouler la molette au-dessus de la vidéo monte ou baisse le volume.	Fare tekerleğini videonun üstünde çevirmek sesi açar veya kısar.
+Un clic sur la vidéo met en pause ou relance la lecture.	Videoya tıklamak oynatmayı duraklatır veya sürdürür.
+Garde un niveau sonore régulier (normalisation du son) : relève les passages faibles et atténue les passages forts, d'une chaîne à l'autre et au sein d'un même live.	Ses düzeyini dengeli tutar (ses normalleştirme): kısık bölümleri yükseltir, yüksek bölümleri bastırır; kanallar arasında ve aynı yayın içinde çalışır.
+Vitesse de la molette dans les listes et dans le chat. À 1,0 ×, un cran de molette fait défiler 3 lignes de 75 px, de façon fluide.	Listelerde ve sohbette fare tekerleği hızı. 1,0 × değerinde bir tık 75 piksellik 3 satırı akıcı biçimde kaydırır.
+À chaque lancement, l'application démarre avec le volume choisi ci-dessous, au lieu du dernier volume réglé.	Uygulama her açılışta son ayarlanan ses yerine aşağıda seçilen sesle başlar.
+100 % = volume normal. 130 % permet d'amplifier une chaîne trop silencieuse, mais le son peut saturer.	%100 = normal ses. %130 çok sessiz bir kanalı yükseltir ama ses bozulabilir.
+Temps sans bouger la souris avant que les boutons posés sur la vidéo disparaissent.	Video üzerindeki düğmelerin kaybolmasından önce fareyi hareket ettirmeden geçen süre.
+Quand vous quittez la page d'un live avec « Retour », il continue dans une petite fenêtre en bas à droite. Désactivé : il s'arrête.	Bir yayının sayfasından "Geri" ile çıktığınızda yayın sağ alttaki küçük bir pencerede devam eder. Kapalı: durur.
+Fréquence à laquelle l'accueil vérifie quelles chaînes sont en direct. Plus c'est rapide, plus cela utilise internet. « Manuelle » : seulement avec le bouton Actualiser.	Ana sayfanın hangi kanalların canlı olduğunu ne sıklıkla denetleyeceği. Ne kadar hızlıysa o kadar internet kullanır. "Elle": yalnızca Yenile düğmesiyle.
+Télécharge une image du direct pour chaque carte. Désactivez pour économiser des données.	Her kart için yayından bir görüntü indirir. Veri tasarrufu için kapatın.
+Les chaînes que vous suivez sur votre compte Twitch (il faut être connecté dans la carte « Compte Twitch »).	Twitch hesabınızda takip ettiğiniz kanallar ("Twitch hesabı" kartında oturum açmış olmanız gerekir).
+Nombre maximum de chaînes Twitch en direct listées dans la barre de gauche (ce n'est pas un délai).	Sol çubukta listelenen canlı Twitch kanallarının en fazla sayısı (bu bir süre değildir).
+Nombre maximum de chaînes Twitch en direct affichées sur la page d'accueil (ce n'est pas un délai).	Ana sayfada gösterilen canlı Twitch kanallarının en fazla sayısı (bu bir süre değildir).
+Garde le jeu sélectionné dans la barre « Jeux en direct » au prochain lancement.	"Canlı oyunlar" çubuğunda seçilen oyunu bir sonraki açılışta korur.
+Ouvrir : le live s'affiche en grand. PiP : il s'ouvre directement dans une petite fenêtre flottante.	Aç: yayın büyük gösterilir. PiP: doğrudan küçük, yüzen bir pencerede açılır.
+Les messages qui contiennent un de ces mots (séparés par des virgules) sont surlignés en jaune dans le chat.	Bu kelimelerden birini (virgülle ayrılmış) içeren mesajlar sohbette sarıyla vurgulanır.
+Quand une chaîne est hors ligne ou que son live se termine, propose d'autres lives : vos chaînes suivies du même jeu d'abord.	Bir kanal çevrimdışıysa veya yayını bittiyse başka yayınlar önerir: önce aynı oyundaki takip ettiğiniz kanallar.
+Nombre de chaînes proposées quand un live est hors ligne ou terminé.	Bir yayın çevrimdışıyken veya bittiğinde önerilen kanal sayısı.
+Les boutons latéraux de la souris changent de page, comme dans un navigateur. Alt + flèche gauche ou droite fait pareil.	Farenin yan düğmeleri, tarayıcıdaki gibi sayfa değiştirir. Alt + sol veya sağ ok da aynısını yapar.
+Le pointeur devient une main au-dessus des boutons et des cartes.	İşaretçi, düğmelerin ve kartların üstünde ele dönüşür.
+Complet : fondus, glissements, cascades et compteurs animés. Réduit : fondus et changements de couleur seulement, sans déplacement. Désactivé : aucune animation (utile sur un ordinateur lent). Le réglage d'animations de Windows n'est pas pris en compte.	Tam: geçiş efektleri, kaymalar, art arda beliren öğeler ve animasyonlu sayaçlar. Azaltılmış: yalnızca geçiş efektleri ve renk değişimleri, hareket yok. Kapalı: animasyon yok (yavaş bir bilgisayarda işe yarar). Windows’un animasyon ayarı dikkate alınmaz.
+Affiche une notification Windows quand l'un de vos favoris passe en direct. L'application doit rester ouverte (elle peut être réduite).	Favorilerinizden biri canlı yayına başlayınca bir Windows bildirimi gösterir. Uygulama açık kalmalıdır (simge durumunda olabilir).
+Lance Velka automatiquement quand vous ouvrez votre session Windows.	Windows oturumunuzu açtığınızda Velka'i otomatik başlatır.
+Photos de profil et émotes déjà téléchargées. Les vider libère de la place ; elles se retéléchargent au besoin.	Zaten indirilmiş profil fotoğrafları ve emote'lar. Temizlemek yer açar; gerektiğinde yeniden indirilirler.
+Notifications Windows	Windows bildirimleri
+Prévient quand un favori passe en direct. Vérifie vos favoris toutes les minutes, même pendant un live : utilise un peu plus d'internet et de mémoire.	Bir favori canlı yayına başlayınca haber verir. Favorilerinizi her dakika denetler, yayın izlerken bile: biraz daha fazla internet ve bellek kullanır.
+Envoyer une notification de test	Deneme bildirimi gönder
+est en direct	canlı yayında
+Notification de test : tout fonctionne.	Deneme bildirimi: her şey çalışıyor.
+Volume et lecteur	Ses ve oynatıcı
+Démarrer en muet	Sessiz başlat
+Volume fixe au lancement	Açılışta sabit ses
+Sinon : le dernier volume utilisé	Aksi halde: son kullanılan ses
+Volume au lancement	Açılıştaki ses
+Volume maximum	En yüksek ses
+Masquage des contrôles	Kontrolleri gizleme süresi
+Jamais	Asla
+Capture d'écran	Ekran görüntüsü
+Infos techniques	Teknik bilgiler
+Capture enregistrée :	Ekran görüntüsü kaydedildi:
+Capture impossible.	Ekran görüntüsü alınamadı.
+Minuteur de veille	Uyku zamanlayıcısı
+Désactivé	Kapalı
+Arrêt du live dans	Yayının durmasına kalan süre:
+logiciel	yazılım
+Résolution	Çözünürlük
+Images par seconde	Saniyedeki kare sayısı
+Débit vidéo	Video bit hızı
+Débit audio	Ses bit hızı
+Images perdues	Kaybolan kareler
+Images perdues au décodage	Kod çözmede kaybolan kareler
+Mémoire tampon	Arabellek
+Format vidéo	Video biçimi
+Décodage	Kod çözme
+Arrête le live automatiquement après la durée choisie, à partir du moment où vous changez ce réglage. Une minute avant, un compte à rebours s'affiche sur la vidéo. Le minuteur revient sur Désactivé à chaque nouveau live et à chaque lancement de l'application.	Seçilen süre sonunda yayını otomatik olarak durdurur; süre, bu ayarı değiştirdiğiniz andan itibaren sayılır. Bir dakika önce videonun üzerinde geri sayım görünür. Zamanlayıcı, her yeni yayında ve uygulama her başladığında Devre dışı konumuna döner.
+Émotes 7TV, BTTV et FFZ	7TV, BTTV ve FFZ emote'ları
+Émotes animées	Hareketli emote'lar
+Badges du chat	Sohbet rozetleri
+Affiche les émotes des extensions 7TV, BetterTTV et FrankerFaceZ (globales et propres à la chaîne). Elles sont chargées à l'ouverture du live.	7TV, BetterTTV ve FrankerFaceZ uzantılarının emote'larını gösterir (genel ve kanala özel). Yayın açılırken yüklenirler.
+Anime les émotes qui le sont (Twitch et extensions). Utilise un peu plus le processeur quand le chat en affiche.	Hareketli emote'ları oynatır (Twitch ve uzantılar). Sohbette göründüklerinde işlemciyi biraz daha fazla kullanır.
+Affiche les badges (abonné, modérateur, VIP…) devant les pseudos.	Rozetleri (abone, moderatör, VIP…) adların önünde gösterir.
+Netteté de l'image	Görüntü netliği
+Agrandissement de haute qualité	Yüksek kaliteli büyütme
+Désactivée	Kapalı
+Légère	Hafif
+Moyenne	Orta
+Forte	Güçlü
+Image plus fine en 480p et 720p	480p ve 720p'de daha net görüntü
+Renforce les contours de l'image (calculé par la carte graphique). Utile sur un flux flou ; trop fort, l'image paraît granuleuse.	Görüntünün kenarlarını belirginleştirir (ekran kartı hesaplar). Bulanık bir yayında işe yarar; çok güçlüyse görüntü grenli görünür.
+Utilise un filtre d'agrandissement plus fin quand la vidéo est plus petite que la fenêtre (480p, 720p). Demande davantage à la carte graphique.	Video pencereden küçükken (480p, 720p) daha ince bir büyütme filtresi kullanır. Ekran kartını daha çok yorar.
+Compte	Hesap
+Qualité et flux	Kalite ve akış
+Audio	Ses
+Lecteur et comportement	Oynatıcı ve davranış
+Affichage et lisibilité	Görünüm ve okunabilirlik
+Filtrage et alertes	Filtreleme ve uyarılar
+Notifications	Bildirimler
+Avancé et Système	Gelişmiş ve sistem
+Stockage et configuration	Depolama ve yapılandırma
+Émotes et badges	Emote'lar ve rozetler
+Les changements s'appliquent tout de suite.	Değişiklikler hemen uygulanır.
+2,5 s	2,5 sn
+Mo	MB
+Ko	KB
+Rechercher un réglage	Ayar ara
+Résultats de la recherche	Arama sonuçları
+Aucun réglage trouvé.	Ayar bulunamadı.
+Mini-lecteur	Mini oynatıcı
+Garder le live dans un coin quand on quitte la page	Sayfadan çıkınca yayını bir köşede tut
+Accueil et barre latérale	Ana sayfa ve kenar çubuğu
+Actualisation	Yenileme
+Manuelle	Elle
+Actualiser	Yenile
+Aperçus des lives	Yayın önizlemeleri
+Images du direct sur les cartes	Kartlarda canlı görüntüler
+Chaînes suivies sur Twitch	Twitch'te takip edilen kanallar
+Dans la barre latérale, sur l'accueil et dans les recommandations	Kenar çubuğunda, ana sayfada ve önerilerde
+Dans la barre latérale	Kenar çubuğunda
+Sur l'accueil	Ana sayfada
+Se souvenir du jeu choisi	Seçilen oyunu hatırla
+Clic sur une carte	Karta tıklama
+Ouvrir	Aç
+Taille du texte	Yazı boyutu
+Masquer les bots	Botları gizle
+Horodatage des messages	Mesaj saatleri
+Mots surlignés	Vurgulanan kelimeler
+mot, pseudo… (séparés par des virgules)	kelime, ad… (virgülle ayrılmış)
+Recommandations	Öneriler
+Recommandations de chaînes	Kanal önerileri
+Proposer des chaînes quand un live est hors ligne ou terminé	Bir yayın çevrimdışıysa veya bittiyse kanal öner
+Nombre de recommandations	Öneri sayısı
+Mouvement et lisibilité	Hareket ve okunabilirlik
+Navigation et souris	Gezinme ve fare
+Vérification des mises à jour	Güncelleme denetimi
+Nouvelle version disponible :	Yeni sürüm var:
+Mettre à jour	Güncelle
+Téléchargement de la mise à jour…	Güncelleme indiriliyor…
+Mise à jour impossible :	Güncellenemedi:
+Boutons Précédent / Suivant de la souris	Farenin Geri / İleri düğmeleri
+Main sur les éléments cliquables	Tıklanabilir öğelerde el imleci
+Animations	Animasyonlar
+Raccourcis clavier	Klavye kısayolları
+Appuyez sur une touche…	Bir tuşa basın…
+Rétablir les raccourcis	Kısayolları sıfırla
+Raccourcis non modifiables	Sabit kısayollar
+Quitter le plein écran, le PiP ou le live	Tam ekrandan, PiP'den veya yayından çık
+Rechercher une chaîne	Kanal ara
+Zoom de l'interface	Arayüz yakınlaştırma
+Page précédente / suivante	Önceki / sonraki sayfa
+Pause / lecture	Duraklat / oynat
+Volume +	Ses +
+Volume -	Ses -
+Afficher / masquer le chat	Sohbeti göster / gizle
+Image dans l'image	Resim içinde resim
+Système	Sistem
+Démarrer avec Windows	Windows ile başlat
+Ouvre l'application à l'ouverture de session	Oturum açılınca uygulamayı açar
+Cache des images	Görsel önbelleği
+Vider	Temizle
+Espace	Boşluk
+Flèche haut	Yukarı ok
+Flèche bas	Aşağı ok
+Flèche gauche	Sol ok
+Flèche droite	Sağ ok
+Entrée	Enter
+Jeux en direct	Canlı oyunlar
+Aucun live pour ce jeu en ce moment.	Şu anda bu oyunda canlı yayın yok.
+Chaînes recommandées	Önerilen kanallar
+Ajouter aux favoris	Favorilere ekle
+Se déconnecter	Oturumu kapat
+En attente de votre accord sur Twitch…	Twitch'te onayınız bekleniyor…
+Rouvrir la page Twitch	Twitch sayfasını yeniden aç
+Connexion à Twitch…	Twitch'e bağlanılıyor…
+Connectez-vous pour écrire dans le chat.	Sohbete yazmak için oturum açın.
+Se connecter avec Twitch	Twitch ile oturum aç
+La connexion Twitch n'est pas disponible dans cette version.	Twitch ile oturum açma bu sürümde kullanılamıyor.
+Connexion refusée sur Twitch.	Twitch oturum açmayı reddetti.
+Le code a expiré, recommencez.	Kodun süresi doldu, yeniden başlayın.
+Twitch a refusé la connexion.	Twitch oturum açmayı reddetti.
+Impossible de joindre Twitch. Vérifiez votre connexion.	Twitch'e ulaşılamıyor. Bağlantınızı denetleyin.
+Twitch a refusé la demande de connexion.	Twitch oturum açma isteğini reddetti.
+Composants externes	Harici bileşenler
+Non installé	Yüklü değil
+Prêt	Hazır
+Installer	Yükle
+Chemins personnalisés (facultatif)	Özel yollar (isteğe bağlı)
+Journaux et diagnostic	Günlükler ve tanılama
+Volume	Ses
+Molette de la souris sur la vidéo = volume	Videoda fare tekerleği = ses
+Clic sur la vidéo = pause	Videoya tıklama = duraklat
+Volume stable	Sabit ses seviyesi
+Limite les écarts de volume entre les chaînes	Kanallar arasındaki ses farklarını azaltır
+Vitesse de défilement	Kaydırma hızı
+Résultats	Sonuçlar
+Zone de réinitialisation	Sıfırlama alanı
+Réinitialiser	Sıfırla
+Désinstaller	Kaldır
+Oui, réinitialiser	Evet, sıfırla
+Oui, désinstaller	Evet, kaldır
+Ouvrir le dossier du journal	Günlük klasörünü aç
+Connexion au chat…	Sohbete bağlanılıyor…
+Chat connecté	Sohbet bağlı
+Reconnexion du chat	Sohbet yeniden bağlanıyor
+Envoyer un message	Mesaj gönder
+Jeton requis pour écrire (Réglages)	Yazmak için jeton gerekli (Ayarlar)
+Revenir en bas	Aşağıya dön
+Réponse de Twitch inattendue pour ce jeton.	Bu jeton için Twitch'ten beklenmeyen yanıt.
+Jeton refusé par Twitch (expiré ou invalide).	Twitch jetonu reddetti (süresi dolmuş veya geçersiz).
+Connexion refusée avec ce jeton.	Bu jetonla bağlantı reddedildi.
+Bienvenue dans Velka	Velka'e hoş geldiniz
+Tout installer	Tümünü yükle
+Installation en cours…	Yükleniyor…
+La chaîne est hors ligne.	Kanal çevrimdışı.
+Pas de connexion à Twitch. Vérifiez votre réseau.	Twitch'e bağlantı yok. Ağınızı denetleyin.
+Le flux met trop de temps à démarrer.	Yayının başlaması çok uzun sürüyor.
+Le flux s'est interrompu :	Yayın kesildi:
+arrêt inattendu	beklenmeyen durma
+Impossible de lancer Streamlink :	Streamlink başlatılamadı:
+Préparation…	Hazırlanıyor…
+Le rendu OpenGL n'est pas disponible.	OpenGL görüntüleme kullanılamıyor.
+Aucun port local disponible.	Kullanılabilir yerel bağlantı noktası yok.
+Impossible de joindre GitHub :	GitHub'a ulaşılamıyor:
+Réponse GitHub illisible :	GitHub yanıtı okunamadı:
+Aucune archive compatible dans la dernière version.	Son sürümde uyumlu arşiv yok.
+Téléchargement impossible :	İndirme başarısız:
+Écriture impossible :	Yazma başarısız:
+Téléchargement interrompu :	İndirme kesildi:
+Le fichier téléchargé est vide.	İndirilen dosya boş.
+Recherche de la dernière version…	Son sürüm aranıyor…
+Dossier inaccessible :	Klasöre erişilemiyor:
+Téléchargement…	İndiriliyor…
+Extraction…	Ayıklanıyor…
+Extraction impossible :	Ayıklama başarısız:
+Archive invalide :	Geçersiz arşiv:
+streamlink.exe introuvable dans l'archive.	Arşivde streamlink.exe bulunamadı.
+Structure d'archive inattendue.	Beklenmeyen arşiv yapısı.
+libmpv-2.dll introuvable dans l'archive.	Arşivde libmpv-2.dll bulunamadı.
+Installation impossible :	Yükleme başarısız:
+Fichier installé introuvable ou vide.	Yüklenen dosya yok veya boş.
+Installé	Yüklendi
+Accessibilité	Erişilebilirlik
+Taille de l'interface	Arayüz boyutu
+Mise à l'échelle	Ölçekleme
+Contraste élevé	Yüksek karşıtlık
+Automatique	Otomatik
+Activé	Açık
+Focus clavier renforcé	Güçlendirilmiş klavye odağı
+Couleurs	Renkler
+Palette de couleurs	Renk paleti
+Turquoise	Turkuaz
+Bleu	Mavi
+Vert	Yeşil
+Orange foncé	Koyu turuncu
+Rose	Pembe
+Personnalisée	Özel
+Couleur d'accent personnalisée	Özel vurgu rengi
+Code couleur	Renk kodu
+Rouge	Kırmızı
+Exemple	Örnek
+Contraste du texte sur l'accent	Vurgu üzerindeki metin karşıtlığı
+Conforme	Uygun
+Insuffisant, minimum	Yetersiz, en az
+Couleur non appliquée : le contraste est trop faible.	Renk uygulanmadı: karşıtlık çok düşük.
+Couleur conforme la plus proche :	En yakın uygun renk:
+Utiliser cette couleur	Bu rengi kullan
+Rétablir les couleurs par défaut	Varsayılan renkleri geri yükle
+Mises à jour	Güncellemeler
+À jour	Güncel
+Mise à jour disponible	Güncelleme var
+Chemin personnalisé	Özel yol
+Version inconnue	Bilinmeyen sürüm
+Installée :	Yüklü:
+Disponible :	Mevcut:
+Mise à jour en cours…	Güncelleniyor…
+Redémarrage nécessaire	Yeniden başlatma gerekli
+Impossible de vérifier les mises à jour :	Güncellemeler denetlenemedi:
+Échec de la mise à jour, version précédente conservée :	Güncelleme başarısız, önceki sürüm korundu:
+Versions des composants non validées par l'éditeur.	Bileşen sürümleri yayıncı tarafından onaylanmadı.
+Archive validée introuvable sur GitHub.	Onaylı arşiv GitHub'da bulunamadı.
+Adresse de téléchargement inattendue.	Beklenmeyen indirme adresi.
+Empreinte du fichier téléchargé incorrecte.	İndirilen dosyanın sağlama toplamı eşleşmiyor.
+Téléchargement refusé par le serveur.	İndirme sunucu tarafından reddedildi.
+Fichier reçu invalide (taille ou empreinte différente).	Alınan dosya geçersiz (boyut veya sağlama toplamı uyuşmuyor).
+Serveur injoignable :	Sunucuya ulaşılamıyor:
+Remplacement impossible :	Değiştirme başarısız:
+Relance impossible :	Yeniden başlatma başarısız:
+Impossible de charger libmpv :	libmpv yüklenemedi:
+Fonction libmpv manquante :	libmpv işlevi eksik:
+Le lecteur n'a pas pu démarrer.	Oynatıcı başlatılamadı.
+Initialisation du lecteur impossible :	Oynatıcı başlatılırken hata oluştu:
+Rendu vidéo impossible :	Video görüntülenemedi:
+Option du lecteur refusée :	Oynatıcı seçeneği reddedildi:
+Propriété du lecteur refusée :	Oynatıcı özelliği reddedildi:
+Commande du lecteur refusée :	Oynatıcı komutu reddedildi:
+Se connecter	Oturum aç
+Autres langues	Diğer diller
+Personnaliser	Özelleştir
+Améliorer le contraste	Karşıtlığı iyileştir
+Replier le chat	Sohbeti daralt
+Afficher le chat	Sohbeti göster
+Qualité maximale proposée par la chaîne, sans réduction.	Kanalın sunduğu en yüksek kalite, küçültme olmadan.
+Fenêtre PiP au format de la vidéo	PiP penceresi video biçiminde
+En mini-fenêtre PiP, la fenêtre prend le format du live pour supprimer les bandes noires.	PiP mini penceresinde pencere, siyah bantları kaldırmak için yayının en boy oranını alır.
+spectateur	izleyici
+Actualisation en cours	Yenileniyor…
+Qualité	Kalite
+Redémarrer l'application	Uygulamayı yeniden başlat
+Passer	Atla
+Suivant	İleri
+C'est parti	Başlayalım
+Chat avec émotes	Emote'lu sohbet
+Mini-lecteur et PiP	Mini oynatıcı ve PiP
+Choisissez votre style	Tarzınızı seçin
+Couleur d'accent	Vurgu rengi
+Réglez la lecture	Oynatmayı ayarlayın
+Restez informé	Haberdar olun
+Tout se règle aussi plus tard dans les Réglages.	Her şeyi daha sonra Ayarlar'dan değiştirebilirsiniz.
+Thème et couleur de l'application.	Uygulamanın teması ve rengi.
+Les réglages les plus utiles, en un coup d'œil.	En kullanışlı ayarlar tek bakışta.
+Ne ratez plus vos streamers préférés.	Favori yayıncılarınızı bir daha kaçırmayın.
+Ultra légère et optimisée, parfaite pour jouer en même temps.	Ultra hafif ve optimize, aynı anda oyun oynamak için ideal.
+Revoir le didacticiel	Tanıtımı yeniden göster
+Le live démarre sans le son ; vous le réactivez quand vous voulez.	Yayın sessiz başlar; sesi istediğiniz zaman açabilirsiniz.
+Agrandit ou réduit le texte des messages du chat.	Sohbet mesajlarının metnini büyütür veya küçültür.
+Affiche l'heure devant chaque message du chat.	Her sohbet mesajının önünde saati gösterir.
+Place le chat à gauche de la vidéo au lieu de la droite.	Sohbeti videonun sağı yerine soluna yerleştirir.
+Favori	Favori
+Aucun favori pour le moment. Cherchez une chaîne puis choisissez « Ajouter aux favoris ».	Henüz favori yok. Bir kanal arayın ve “Favorilere ekle” seçeneğini seçin.
+Orange (par défaut)	Turuncu (varsayılan)
+Retirer des favoris	Favorilerden kaldır
+Connexion en cours	Bağlanılıyor
+Audio du live uniquement	Yalnızca canlı yayının sesi
+Lecteur au format de la vidéo	Oynatıcı video biçiminde
+Dans la fenêtre principale, l'image prend exactement le format du live (coins arrondis, sans bandes autour) et reste centrée.	Ana pencerede görüntü, yayının biçimini tam olarak alır (yuvarlak köşeler, şeritsiz) ve ortalanmış kalır.
+Taille et place d'origine	Özgün boyut ve konum
+Chaîne ouverte au démarrage	Açılışta açılan kanal
+Démarrage et fenêtre	Başlangıç ve pencere
+Son live s'ouvre au lancement si elle est en direct. Sinon, l'accueil s'affiche normalement.	Kanal canlıysa yayını açılışta açılır. Değilse ana sayfa her zamanki gibi görünür.
+Nom de la chaîne	Kanal adı
+Au lancement, si cette chaîne est en direct, son live s'ouvre directement dans le lecteur. Hors ligne ou introuvable, l'accueil s'affiche normalement.	Kanal açılışta canlıysa yayını doğrudan oynatıcıda açılır. Çevrimdışı veya bulunamazsa ana sayfa normal görünür.
+Enregistrée	Kaydedildi
+En attente de messages…	Mesajlar bekleniyor…
+Confirmer la déconnexion	Oturumu kapatmayı onayla
+Affiche d'abord les lives qui ont le plus de spectateurs.	Önce en çok izleyicisi olan yayınları gösterir.
+Affiche d'abord les lives qui ont le moins de spectateurs.	Önce en az izleyicisi olan yayınları gösterir.
+Éclaircit ou assombrit la couleur choisie pour que le texte reste lisible.	Metnin okunaklı kalması için seçilen rengi açar veya koyulaştırır.
+Spectateurs : décroissant	İzleyiciler: azalan
+Spectateurs : croissant	İzleyiciler: artan
+5 s	5 sn
+10 s	10 sn
+Pour charger vos chaînes suivies, déconnectez-vous puis reconnectez-vous.	Takip ettiğin kanalları yüklemek için oturumu kapatıp yeniden aç.
+Reconnectez-vous dans Réglages pour afficher vos chaînes suivies sur Twitch.	Twitch'te takip ettiğin kanalları göstermek için Ayarlar bölümünde yeniden oturum aç.
+Une page Twitch s'est ouverte. Vérifiez ce code, puis cliquez sur « Autoriser » :	Bir Twitch sayfası açıldı. Bu kodu kontrol et, ardından “Yetkilendir” düğmesine tıkla:
+Utilisée en ce moment : redémarrez l'application pour la mettre à jour.	Şu anda kullanılıyor: güncellemek için uygulamayı yeniden başlat.
+Réinitialiser remet les réglages, les favoris et l'historique à zéro. Les outils restent installés.	Sıfırlama; ayarları, favorileri ve geçmişi sıfırlar. Araçlar yüklü kalır.
+Désinstaller supprime les outils, les réglages, l'historique et le cache, puis ferme l'application.	Kaldırma; araçları, ayarları, geçmişi ve önbelleği siler, sonra uygulamayı kapatır.
+Tout remettre à zéro ? Réglages, favoris et historique seront perdus.	Her şey sıfırlansın mı? Ayarlar, favoriler ve geçmiş kaybolacak.
+Tout supprimer ? Outils, réglages, historique et cache seront effacés définitivement.	Her şey silinsin mi? Araçlar, ayarlar, geçmiş ve önbellek kalıcı olarak silinecek.
+Ce jeton n'a pas le droit d'écrire dans le chat (chat:edit).	Bu belirtecin sohbete yazma izni yok (chat:edit).
+Ils sont installés dans votre dossier utilisateur, sans droits administrateur.	Yönetici hakları olmadan kullanıcı klasörüne yüklenirler.
+libmpv est introuvable. Réinstallez les outils depuis les réglages.	libmpv bulunamadı. Araçları ayarlardan yeniden yükle.
+Streamlink est introuvable. Réinstallez les outils depuis les réglages.	Streamlink bulunamadı. Araçları ayarlardan yeniden yükle.
+Afficher le menu	Menüyü göster
+Masquer le menu	Menüyü gizle
+Chat réservé aux followers	Yalnızca takipçilere açık sohbet
+Échec de la connexion.	Bağlantı başarısız oldu.
+Connexion annulée	Bağlantı iptal edildi
+Rapport de la dernière fermeture inattendue, sans donnée personnelle. Rien n'est envoyé automatiquement.	Son beklenmedik kapanmanın raporu, kişisel veri içermez. Hiçbir şey otomatik olarak gönderilmez.
+Copier le rapport de plantage	Çökme raporunu kopyala
+Rapport copié.	Rapor kopyalandı.
+Copier le diagnostic	Tanılamayı kopyala
+Diagnostic copié.	Tanılama kopyalandı.
+Complet	Tam
+Réduit	Azaltılmış
+État et version de Streamlink et de libmpv, mise à jour, et chemins personnalisés (facultatifs) vers streamlink.exe et libmpv-2.dll.	Streamlink ve libmpv durumu ve sürümü, güncelleme ve streamlink.exe ile libmpv-2.dll için isteğe bağlı özel yollar.
+Ouvre le dossier du journal, copie le diagnostic (version, Windows, carte graphique, composants) ou le rapport de plantage local pour le support. Rien n'est envoyé automatiquement.	Günlük klasörünü açar, destek için tanılamayı (sürüm, Windows, ekran kartı, bileşenler) veya yerel çökme raporunu kopyalar. Hiçbir şey otomatik olarak gönderilmez.
+À propos	Hakkında
+Version de l'application	Uygulama sürümü
+Décodage vidéo matériel (GPU)	Donanımsal video kod çözme (GPU)
+Utile si la vidéo saccade ou si le processeur chauffe. « Automatique » : réglage d'origine de l'application. « Activé » : la carte graphique décode la vidéo, avec retour automatique au décodage normal si elle n'y arrive pas. « Désactivé » : décodage normal par le processeur. Le changement s'applique tout de suite : le live en cours est relancé.	Video takılıyorsa veya işlemci ısınıyorsa işe yarar. “Otomatik”: uygulamanın özgün ayarı. “Açık”: video kodunu ekran kartı çözer, başarısız olursa otomatik olarak normal kod çözmeye dönülür. “Kapalı”: işlemci ile normal kod çözme. Değişiklik hemen geçerli olur: devam eden canlı yayın yeniden başlatılır.
+Périphérique de sortie	Çıkış aygıtı
+Périphérique par défaut du système	Sistemin varsayılan aygıtı
+Choisit le casque ou les enceintes pour le son des lives, sans changer le son de Windows. « Périphérique par défaut du système » suit le choix de Windows. Le changement s'applique tout de suite. Si le périphérique choisi disparaît (casque débranché), l'application revient au choix par défaut.	Windows sesini değiştirmeden canlı yayınların sesi için kulaklık veya hoparlörleri seçer. “Sistemin varsayılan aygıtı” Windows'un seçimini izler. Değişiklik hemen geçerli olur. Seçilen aygıt kaybolursa (kulaklık çıkarılırsa) uygulama varsayılan seçime döner.
+Le périphérique audio choisi n'est plus disponible : retour au périphérique par défaut.	Seçilen ses aygıtı artık kullanılamıyor: varsayılan aygıta dönülüyor.
+Captures d'écran	Ekran görüntüleri
+Dossier d'enregistrement	Kayıt klasörü
+Parcourir…	Gözat…
+Ouvrir le dossier	Klasörü aç
+Dossier où la touche S enregistre les captures d'écran. Par défaut : le dossier « Velka » de vos Images. Le dossier choisi doit accepter l'écriture ; s'il disparaît (disque débranché, dossier supprimé), l'application revient au dossier par défaut. Le changement s'applique à la prochaine capture.	S tuşunun ekran görüntülerini kaydettiği klasör. Varsayılan: Resimler içindeki “Velka” klasörü. Seçilen klasör yazmaya izin vermelidir; kaybolursa (sürücü çıkarıldı, klasör silindi) uygulama varsayılan klasöre döner. Değişiklik bir sonraki ekran görüntüsünde geçerli olur.
+Le dossier des captures n'est plus disponible : retour au dossier par défaut.	Ekran görüntüsü klasörü artık kullanılamıyor: varsayılan klasöre dönülüyor.
+Ce dossier n'accepte pas l'écriture : choisissez-en un autre.	Bu klasöre yazılamıyor: başka bir klasör seçin.
+Aucun	Yok
+Effacer un raccourci	Kısayolu temizle
+Réduire dans la zone de notification à la fermeture	Kapatırken bildirim alanına küçült
+L'application reste active en fond pour les notifications	Uygulama bildirimler için arka planda çalışmaya devam eder
+La croix de fermeture cache la fenêtre dans la zone de notification (près de l'horloge) au lieu de quitter ; le live en cours est arrêté. Clic gauche sur l'icône : rouvrir. Clic droit : Ouvrir ou Quitter. Pour être prévenu quand un favori passe en direct, activez aussi « Notifications Windows ».	Kapatma düğmesi uygulamadan çıkmak yerine pencereyi bildirim alanına (saatin yanına) gizler; devam eden yayın durdurulur. Simgeye sol tık: yeniden aç. Sağ tık: Aç veya Çık. Bir favori yayına başladığında haberdar olmak için “Windows bildirimleri”ni de açın.
+Ouvrir Velka	Velka'i aç
+Quitter	Çık
+Velka reste actif dans la zone de notification. Clic droit sur l'icône pour quitter.	Velka bildirim alanında çalışmaya devam ediyor. Çıkmak için simgeye sağ tıklayın.
+Rechercher des mises à jour	Güncellemeleri denetle
+Vous utilisez la dernière version.	En son sürümü kullanıyorsunuz.
+Mise à jour {version} disponible	{version} güncellemesi mevcut
+Impossible de se connecter. Vérifiez votre connexion internet.	Bağlanılamadı. İnternet bağlantınızı kontrol edin.
+La recherche de mise à jour a échoué.	Güncelleme denetimi başarısız oldu.
+Historique des chaînes	Kanal geçmişi
+Effacer l'historique	Geçmişi temizle
+Historique effacé.	Geçmiş temizlendi.
+Ouvrir le dossier de configuration	Ayarlar klasörünü aç
+Options du lecteur	Oynatıcı seçenekleri
+Perso	Özel
+Durée personnalisée	Özel süre
+Ajuster uniquement la taille du texte du chat	Yalnızca sohbet metni boyutunu ayarla
+Ajuster la taille globale de l'interface	Arayüzün genel boyutunu ayarla
+Connectez-vous à Twitch pour activer	Etkinleştirmek için Twitch'e giriş yapın
+Pas de connexion Internet.	İnternet bağlantısı yok.
+La connexion Internet s'est coupée.	İnternet bağlantısı kesildi.
+Licences des composants	Bileşen lisansları
+Le lecteur vidéo utilise libmpv (mpv) et FFmpeg, sous licence LGPL version 2.1 ou ultérieure. Vous pouvez remplacer libmpv par votre propre version dans {section}.	Video oynatıcı, LGPL 2.1 veya üzeri sürüm lisanslı libmpv (mpv) ve FFmpeg kullanır. libmpv'yi {section} bölümünde kendi sürümünüzle değiştirebilirsiniz.
+Code source et compilation	Kaynak kod ve derleme betikleri
+Velka n'a pas pu ouvrir sa fenêtre : la carte graphique ou son pilote ne prend pas en charge OpenGL 3.0. Mettez à jour le pilote de la carte graphique, puis relancez Velka. Sur un bureau à distance ou une machine virtuelle, l'affichage peut ne pas être pris en charge.	Velka penceresini açamadı: ekran kartı veya sürücüsü OpenGL 3.0'ı desteklemiyor. Ekran kartı sürücüsünü güncelleyin, ardından Velka'i yeniden başlatın. Uzak masaüstünde veya sanal makinede görüntü desteklenmeyebilir.
+La carte graphique n'annonce pas OpenGL 3.0 : la vidéo peut rester noire. Mettez à jour le pilote de la carte graphique. Sur un bureau à distance ou une machine virtuelle, l'affichage peut ne pas être pris en charge.	Ekran kartı OpenGL 3.0 bildirmiyor: video siyah kalabilir. Ekran kartı sürücüsünü güncelleyin. Uzak masaüstünde veya sanal makinede görüntü desteklenmeyebilir.
+Démarrer avec macOS	macOS ile başlat
+Démarrer avec Linux	Linux ile başlat
+Lance Velka automatiquement quand vous ouvrez votre session macOS.	macOS oturumunuzu açtığınızda Velka'i otomatik başlatır.
+Lance Velka automatiquement quand vous ouvrez votre session Linux.	Linux oturumunuzu açtığınızda Velka'i otomatik başlatır.
+Notifications macOS	macOS bildirimleri
+Notifications Linux	Linux bildirimleri
+Affiche une notification macOS quand l'un de vos favoris passe en direct. L'application doit rester ouverte (elle peut être réduite).	Favorilerinizden biri canlı yayına başlayınca bir macOS bildirimi gösterir. Uygulama açık kalmalıdır (simge durumunda olabilir).
+Affiche une notification Linux quand l'un de vos favoris passe en direct. L'application doit rester ouverte (elle peut être réduite).	Favorilerinizden biri canlı yayına başlayınca bir Linux bildirimi gösterir. Uygulama açık kalmalıdır (simge durumunda olabilir).
+Multistream	Çoklu yayın
+Regardez jusqu'à 4 lives en même temps.	Aynı anda en fazla 4 canlı yayın izleyin.
+Ajouter une chaîne	Kanal ekle
+Ajouter	Ekle
+Tout arrêter	Tümünü durdur
+Cette chaîne est déjà affichée.	Bu kanal zaten gösteriliyor.
+4 lives au maximum.	En fazla 4 canlı yayın.
+Ajoutez une chaîne pour commencer.	Başlamak için bir kanal ekleyin.
+Retirer ce live	Bu yayını kaldır
+Écouter ce live	Bu yayını dinle
+Cumuler le son des lives en Multistream	Çoklu yayında yayınların sesini birleştir
+Un clic sur un live ajoute son son au lieu de le remplacer	Bir yayına tıklamak sesini değiştirmek yerine ekler
+Sur la page Multistream, un clic sur un live fait entendre son son en plus de ceux déjà écoutés, jusqu'aux quatre lives. Le bouton du son de chaque live le coupe.	Çoklu yayın sayfasında bir yayına tıklamak, zaten dinlenen yayınların sesine ek olarak onun sesini de açar; dört yayının tümüne kadar. Her yayının ses düğmesi onu susturur.
+Couper tous les sons	Tüm sesleri kapat
+Lecteur Twitch léger avec multistream, chat et notifications.	Çoklu yayın, sohbet ve bildirimlerle hafif Twitch oynatıcısı.
+Quelques composants sont nécessaires pour lire les lives Twitch.	Twitch yayınlarını oynatmak için birkaç bileşen gerekiyor.
+Logiciel libre sous licence GPL-3.0 ou ultérieure.	GPL-3.0 veya sonraki sürüm lisanslı özgür yazılım.
+Application non affiliée à Twitch.	Twitch ile bağlantılı değildir.
+Code source sur GitHub	GitHub'da kaynak kodu
+Soutenir le projet	Projeyi destekle
+La connexion Twitch n'a pas pu être enregistrée de façon sécurisée (trousseau du système indisponible) : elle sera perdue à la fermeture de Velka.	Twitch oturumu güvenli şekilde kaydedilemedi (sistem anahtar zinciri kullanılamıyor): Velka kapandığında kaybolacak.
+Velka est gratuit et le restera. Si l'application vous plaît, un petit don aide à la faire vivre.	Velka ücretsizdir ve öyle kalacak. Uygulamayı beğendiyseniz küçük bir bağış onu yaşatmaya yardımcı olur.
+Plus tard	Daha sonra
+Rappel pour soutenir le projet	Projeyi destekleme hatırlatıcısı
+Affiche de temps en temps sur l'accueil, au plus une fois par mois, un message avec un lien pour soutenir le projet.	Ana sayfada ara sıra, ayda en fazla bir kez, projeyi desteklemek için bağlantı içeren bir mesaj gösterir.

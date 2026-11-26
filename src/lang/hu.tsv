@@ -1,0 +1,535 @@
+Aide	Súgó
+Réduire	Kis méret
+Agrandir	Teljes méret
+Restaurer	Előző méret
+Fermer	Bezárás
+Échap	Esc
+Français	Francia
+Anglais	Angol
+Espagnol	Spanyol
+Portugais	Portugál
+Allemand	Német
+Italien	Olasz
+Néerlandais	Holland
+Polonais	Lengyel
+Russe	Orosz
+Ukrainien	Ukrán
+Turc	Török
+Vietnamien	Vietnámi
+Indonésien	Indonéz
+Chinois simplifié	Egyszerűsített kínai
+Chinois traditionnel	Hagyományos kínai
+Japonais	Japán
+Coréen	Koreai
+Tchèque	Cseh
+Roumain	Román
+Hongrois	Magyar
+Suédois	Svéd
+Danois	Dán
+Norvégien	Norvég
+Finnois	Finn
+Grec	Görög
+Annuler	Mégse
+spectateurs	néző
+Hors ligne	Offline
+Cette chaîne n'existe pas.	Ez a csatorna nem létezik.
+Statut indisponible, vous pouvez quand même essayer.	Az állapot nem érhető el, de azért megpróbálhatod.
+Accueil	Kezdőlap
+En direct	Élő
+chaînes	csatorna
+Favoris	Kedvencek
+Spectateurs	Nézők
+au total	összesen
+Résultat	Eredmény
+Vérification…	Ellenőrzés…
+Regarder	Megnézem
+Nom de chaîne invalide.	Érvénytelen csatornanév.
+En direct parmi vos favoris	Élőben a kedvenceid közül
+Aucun favori en direct pour le moment.	Most egyik kedvenced sincs élőben.
+Récents	Legutóbbiak
+Retirer de l'historique	Eltávolítás az előzményekből
+Rechercher	Keresés
+Plateforme	Platform
+Réglages	Beállítások
+Quitter le PiP	Kilépés a PiP-ből
+Reprise dans un instant…	Mindjárt folytatódik…
+Retour	Vissza
+Arrêter	Leállítás
+Quitter le plein écran	Kilépés a teljes képernyőből
+Plein écran	Teljes képernyő
+Lecture	Lejátszás
+Réactiver le son	Hang bekapcsolása
+Couper le son	Némítás
+Chat	Chat
+Changement de qualité…	Minőség váltása…
+Réessayer	Újra
+depuis	óta
+connexion…	csatlakozás…
+changement de qualité…	minőség váltása…
+interrompu	megszakadt
+Lecture vidéo	Videólejátszás
+Qualité par défaut	Alapértelmezett minőség
+Faible latence	Alacsony késleltetés
+Désactiver pour un flux plus stable	Kapcsold ki a stabilabb streamért
+Réduire la barre latérale	Oldalsáv összecsukása
+Agrandir la barre latérale	Oldalsáv kinyitása
+Chat à gauche de la vidéo	Chat a videótól balra
+Toujours au premier plan	Mindig felül
+Chat en surimpression en plein écran	Chat a videón teljes képernyőn
+Apparence	Megjelenés
+Général	Általános
+Thème	Téma
+Langue	Nyelv
+Sombre	Pala
+Dark	Sötét
+Clair	Világos
+Compte Twitch	Twitch-fiók
+Connecté en tant que	Bejelentkezve:
+Vous pouvez écrire dans le chat.	Írhatsz a chatbe.
+chaînes suivies sur Twitch chargées.	követett Twitch-csatorna betöltve.
+Impossible de charger vos chaînes suivies pour le moment.	A követett csatornáidat most nem sikerült betölteni.
+Chargement de vos chaînes suivies…	A követett csatornák betöltése…
+En direct parmi vos chaînes suivies sur Twitch	Élőben a követett Twitch-csatornáid közül
+Suivies sur Twitch	Követett a Twitchen
+Prévient quand un favori passe en direct	Szól, ha egy kedvenced élőzni kezd
+Activé : vos favoris sont vérifiés toutes les minutes en arrière-plan, même pendant un live. Cela utilise un peu plus d'internet et de mémoire.	Be: a kedvenceidet percenként ellenőrzi a háttérben, nézés közben is. Ez kicsit több internetet és memóriát használ.
+Chaînes dans la barre latérale	Csatornák az oldalsávban
+Chaînes sur l'accueil	Csatornák a kezdőlapon
+Qualité utilisée à l'ouverture d'un live. « Source » est la qualité maximale de la chaîne ; « Audio » ne joue que le son.	A stream megnyitásakor használt minőség. A „Source” a csatorna legjobb minősége; az „Audio” csak a hangot játssza le.
+Réduit le retard entre le streamer et vous. Désactivez-le si la vidéo saccade ou se coupe.	Csökkenti a késést a streamerhez képest. Kapcsold ki, ha a kép akad vagy megszakad.
+Garde la fenêtre devant toutes les autres applications.	Az ablakot minden más alkalmazás előtt tartja.
+Affiche le chat par-dessus la vidéo quand vous êtes en plein écran.	Teljes képernyőn a chatet a videóra helyezi.
+Faire rouler la molette au-dessus de la vidéo monte ou baisse le volume.	Az egérgörgő a videó fölött hangosít vagy halkít.
+Un clic sur la vidéo met en pause ou relance la lecture.	Egy kattintás a videón szünetelteti vagy folytatja a lejátszást.
+Garde un niveau sonore régulier (normalisation du son) : relève les passages faibles et atténue les passages forts, d'une chaîne à l'autre et au sein d'un même live.	Egyenletes hangszintet tart (hangnormalizálás): felerősíti a halk részeket és lehalkítja a hangosakat, csatornák között és egy adáson belül is.
+Vitesse de la molette dans les listes et dans le chat. À 1,0 ×, un cran de molette fait défiler 3 lignes de 75 px, de façon fluide.	A görgő sebessége a listákban és a chatben. 1,0 ×-nél egy kattanás 3 darab 75 px-es sort görget simán.
+À chaque lancement, l'application démarre avec le volume choisi ci-dessous, au lieu du dernier volume réglé.	Minden indításkor az alkalmazás a lent választott hangerővel indul az utoljára beállított helyett.
+100 % = volume normal. 130 % permet d'amplifier une chaîne trop silencieuse, mais le son peut saturer.	100 % = normál hangerő. A 130 % felerősíti a túl halk csatornát, de a hang torzulhat.
+Temps sans bouger la souris avant que les boutons posés sur la vidéo disparaissent.	Ennyi idő egérmozgás nélkül, és eltűnnek a gombok a videóról.
+Quand vous quittez la page d'un live avec « Retour », il continue dans une petite fenêtre en bas à droite. Désactivé : il s'arrête.	Ha a „Vissza” gombbal elhagyod egy stream oldalát, egy kis ablakban folytatódik jobb lent. Ki: leáll.
+Fréquence à laquelle l'accueil vérifie quelles chaînes sont en direct. Plus c'est rapide, plus cela utilise internet. « Manuelle » : seulement avec le bouton Actualiser.	Milyen gyakran ellenőrzi a kezdőlap, mely csatornák élnek. Minél gyorsabb, annál több internetet használ. „Kézi”: csak a Frissítés gombbal.
+Télécharge une image du direct pour chaque carte. Désactivez pour économiser des données.	Minden kártyához letölt egy képet a streamből. Kapcsold ki az adatforgalom kíméléséhez.
+Les chaînes que vous suivez sur votre compte Twitch (il faut être connecté dans la carte « Compte Twitch »).	A Twitch-fiókodban követett csatornák (be kell jelentkezned a „Twitch-fiók” kártyán).
+Nombre maximum de chaînes Twitch en direct listées dans la barre de gauche (ce n'est pas un délai).	A bal sávban listázott élő Twitch-csatornák legnagyobb száma (nem időtartam).
+Nombre maximum de chaînes Twitch en direct affichées sur la page d'accueil (ce n'est pas un délai).	A kezdőlapon megjelenő élő Twitch-csatornák legnagyobb száma (nem időtartam).
+Garde le jeu sélectionné dans la barre « Jeux en direct » au prochain lancement.	A következő indításkor is megtartja az „Élő játékok” sávban választott játékot.
+Ouvrir : le live s'affiche en grand. PiP : il s'ouvre directement dans une petite fenêtre flottante.	Megnyitás: a stream nagyban jelenik meg. PiP: azonnal egy kis lebegő ablakban nyílik meg.
+Les messages qui contiennent un de ces mots (séparés par des virgules) sont surlignés en jaune dans le chat.	Az ezen szavak egyikét (vesszővel elválasztva) tartalmazó üzenetek sárgán kiemelve jelennek meg a chatben.
+Quand une chaîne est hors ligne ou que son live se termine, propose d'autres lives : vos chaînes suivies du même jeu d'abord.	Ha egy csatorna offline, vagy a streamje véget ér, más streameket ajánl: először az ugyanazzal a játékkal élő követett csatornákat.
+Nombre de chaînes proposées quand un live est hors ligne ou terminé.	Az ajánlott csatornák száma, ha egy stream offline vagy véget ért.
+Les boutons latéraux de la souris changent de page, comme dans un navigateur. Alt + flèche gauche ou droite fait pareil.	Az egér oldalsó gombjai lapot váltanak, mint a böngészőben. Az Alt + bal vagy jobb nyíl ugyanezt teszi.
+Le pointeur devient une main au-dessus des boutons et des cartes.	A mutató kézzé változik a gombok és kártyák fölött.
+Complet : fondus, glissements, cascades et compteurs animés. Réduit : fondus et changements de couleur seulement, sans déplacement. Désactivé : aucune animation (utile sur un ordinateur lent). Le réglage d'animations de Windows n'est pas pris en compte.	Teljes: áttűnések, csúszó mozgások, lépcsőzetes megjelenések és animált számlálók. Csökkentett: csak áttűnések és színváltások, mozgás nélkül. Kikapcsolva: nincs animáció (lassú számítógépen hasznos). A Windows animációs beállítását az alkalmazás nem veszi figyelembe.
+Affiche une notification Windows quand l'un de vos favoris passe en direct. L'application doit rester ouverte (elle peut être réduite).	Windows-értesítést jelenít meg, ha egy kedvenced élőzni kezd. Az alkalmazásnak nyitva kell maradnia (lehet kis méretben).
+Lance Velka automatiquement quand vous ouvrez votre session Windows.	A Windowsba való bejelentkezéskor automatikusan elindítja a Velkaet.
+Photos de profil et émotes déjà téléchargées. Les vider libère de la place ; elles se retéléchargent au besoin.	A már letöltött profilképek és emote-ok. Ürítéssel helyet szabadítasz fel; szükség esetén újra letöltődnek.
+Notifications Windows	Windows-értesítések
+Prévient quand un favori passe en direct. Vérifie vos favoris toutes les minutes, même pendant un live : utilise un peu plus d'internet et de mémoire.	Szól, ha egy kedvenced élőzni kezd. Percenként ellenőrzi a kedvenceidet, nézés közben is: kicsit több internetet és memóriát használ.
+Envoyer une notification de test	Próbaértesítés küldése
+est en direct	élőben van
+Notification de test : tout fonctionne.	Próbaértesítés: minden működik.
+Volume et lecteur	Hangerő és lejátszó
+Démarrer en muet	Indítás némítva
+Volume fixe au lancement	Rögzített hangerő induláskor
+Sinon : le dernier volume utilisé	Különben: az utoljára használt hangerő
+Volume au lancement	Hangerő induláskor
+Volume maximum	Legnagyobb hangerő
+Masquage des contrôles	Vezérlők elrejtése
+Jamais	Soha
+Capture d'écran	Képernyőkép
+Infos techniques	Műszaki adatok
+Capture enregistrée :	Képernyőkép mentve:
+Capture impossible.	Nem sikerült képernyőképet készíteni.
+Minuteur de veille	Elalvási időzítő
+Désactivé	Ki
+Arrêt du live dans	A stream leáll ennyi idő múlva:
+logiciel	szoftveres
+Résolution	Felbontás
+Images par seconde	Képkocka másodpercenként
+Débit vidéo	Videó bitráta
+Débit audio	Hang bitráta
+Images perdues	Elvesztett képkockák
+Images perdues au décodage	Dekódoláskor elvesztett képkockák
+Mémoire tampon	Puffer
+Format vidéo	Videóformátum
+Décodage	Dekódolás
+Arrête le live automatiquement après la durée choisie, à partir du moment où vous changez ce réglage. Une minute avant, un compte à rebours s'affiche sur la vidéo. Le minuteur revient sur Désactivé à chaque nouveau live et à chaque lancement de l'application.	A kiválasztott idő elteltével automatikusan leállítja az élő adást, attól a pillanattól számítva, hogy módosítod ezt a beállítást. Egy perccel előtte visszaszámlálás jelenik meg a videón. Az időzítő minden új adásnál és az alkalmazás minden indításakor visszaáll Kikapcsolt állapotra.
+Émotes 7TV, BTTV et FFZ	7TV-, BTTV- és FFZ-emote-ok
+Émotes animées	Animált emote-ok
+Badges du chat	Chatjelvények
+Affiche les émotes des extensions 7TV, BetterTTV et FrankerFaceZ (globales et propres à la chaîne). Elles sont chargées à l'ouverture du live.	Megjeleníti a 7TV, BetterTTV és FrankerFaceZ bővítmények emote-jait (általános és csatornához tartozó). A stream megnyitásakor töltődnek be.
+Anime les émotes qui le sont (Twitch et extensions). Utilise un peu plus le processeur quand le chat en affiche.	Animálja az animált emote-okat (Twitch és bővítmények). Kicsit jobban terheli a processzort, amikor a chat mutatja őket.
+Affiche les badges (abonné, modérateur, VIP…) devant les pseudos.	Megjeleníti a jelvényeket (feliratkozó, moderátor, VIP…) a nevek előtt.
+Netteté de l'image	Képélesség
+Agrandissement de haute qualité	Kiváló minőségű nagyítás
+Désactivée	Ki
+Légère	Enyhe
+Moyenne	Közepes
+Forte	Erős
+Image plus fine en 480p et 720p	Finomabb kép 480p és 720p esetén
+Renforce les contours de l'image (calculé par la carte graphique). Utile sur un flux flou ; trop fort, l'image paraît granuleuse.	Kiemeli a kép körvonalait (a videokártya számolja). Elmosódott streamnél hasznos; túl erősen a kép szemcsésnek tűnik.
+Utilise un filtre d'agrandissement plus fin quand la vidéo est plus petite que la fenêtre (480p, 720p). Demande davantage à la carte graphique.	Finomabb nagyítószűrőt használ, ha a videó kisebb az ablaknál (480p, 720p). Jobban terheli a videokártyát.
+Compte	Fiók
+Qualité et flux	Minőség és adatfolyam
+Audio	Hang
+Lecteur et comportement	Lejátszó és viselkedés
+Affichage et lisibilité	Megjelenés és olvashatóság
+Filtrage et alertes	Szűrés és értesítések
+Notifications	Értesítések
+Avancé et Système	Speciális és rendszer
+Stockage et configuration	Tárhely és konfiguráció
+Émotes et badges	Emote-ok és jelvények
+Les changements s'appliquent tout de suite.	A változások azonnal érvénybe lépnek.
+2,5 s	2,5 mp
+Mo	MB
+Ko	KB
+Rechercher un réglage	Beállítás keresése
+Résultats de la recherche	Keresési eredmények
+Aucun réglage trouvé.	Nincs találat.
+Mini-lecteur	Minilejátszó
+Garder le live dans un coin quand on quitte la page	A stream sarokban marad az oldal elhagyásakor
+Accueil et barre latérale	Kezdőlap és oldalsáv
+Actualisation	Frissítés gyakorisága
+Manuelle	Kézi
+Actualiser	Frissítés
+Aperçus des lives	Stream-előnézetek
+Images du direct sur les cartes	Élő képek a kártyákon
+Chaînes suivies sur Twitch	Követett Twitch-csatornák
+Dans la barre latérale, sur l'accueil et dans les recommandations	Az oldalsávban, a kezdőlapon és az ajánlásokban
+Dans la barre latérale	Az oldalsávban
+Sur l'accueil	A kezdőlapon
+Se souvenir du jeu choisi	A választott játék megjegyzése
+Clic sur une carte	Kattintás egy kártyára
+Ouvrir	Megnyitás
+Taille du texte	Szövegméret
+Masquer les bots	Botok elrejtése
+Horodatage des messages	Üzenetek időpontja
+Mots surlignés	Kiemelt szavak
+mot, pseudo… (séparés par des virgules)	szó, név… (vesszővel elválasztva)
+Recommandations	Ajánlások
+Recommandations de chaînes	Ajánlott csatornák
+Proposer des chaînes quand un live est hors ligne ou terminé	Csatornák ajánlása, ha egy stream offline vagy véget ért
+Nombre de recommandations	Ajánlások száma
+Mouvement et lisibilité	Mozgás és olvashatóság
+Navigation et souris	Navigáció és egér
+Vérification des mises à jour	Frissítések keresése
+Nouvelle version disponible :	Új verzió érhető el:
+Mettre à jour	Frissítés
+Téléchargement de la mise à jour…	A frissítés letöltése…
+Mise à jour impossible :	A frissítés nem sikerült:
+Boutons Précédent / Suivant de la souris	Az egér Vissza / Előre gombjai
+Main sur les éléments cliquables	Kéz a kattintható elemek fölött
+Animations	Animációk
+Raccourcis clavier	Billentyűparancsok
+Appuyez sur une touche…	Nyomj meg egy billentyűt…
+Rétablir les raccourcis	Billentyűparancsok visszaállítása
+Raccourcis non modifiables	Nem módosítható billentyűparancsok
+Quitter le plein écran, le PiP ou le live	Kilépés a teljes képernyőből, PiP-ből vagy az élőből
+Rechercher une chaîne	Csatorna keresése
+Zoom de l'interface	Felület nagyítása
+Page précédente / suivante	Előző / következő oldal
+Pause / lecture	Szünet / lejátszás
+Volume +	Hangerő +
+Volume -	Hangerő -
+Afficher / masquer le chat	Chat megjelenítése / elrejtése
+Image dans l'image	Kép a képben
+Système	Rendszer
+Démarrer avec Windows	Indítás a Windowszal
+Ouvre l'application à l'ouverture de session	Bejelentkezéskor megnyitja az alkalmazást
+Cache des images	Képgyorsítótár
+Vider	Ürítés
+Espace	Szóköz
+Flèche haut	Fel nyíl
+Flèche bas	Le nyíl
+Flèche gauche	Bal nyíl
+Flèche droite	Jobb nyíl
+Entrée	Enter
+Jeux en direct	Élő játékok
+Aucun live pour ce jeu en ce moment.	Ebből a játékból most nincs élő stream.
+Chaînes recommandées	Ajánlott csatornák
+Ajouter aux favoris	Hozzáadás a kedvencekhez
+Se déconnecter	Kijelentkezés
+En attente de votre accord sur Twitch…	Várakozás a jóváhagyásodra a Twitchen…
+Rouvrir la page Twitch	A Twitch-oldal újbóli megnyitása
+Connexion à Twitch…	Csatlakozás a Twitchhez…
+Connectez-vous pour écrire dans le chat.	Jelentkezz be, hogy írhass a chatbe.
+Se connecter avec Twitch	Bejelentkezés Twitch-csel
+La connexion Twitch n'est pas disponible dans cette version.	A Twitch-bejelentkezés ebben a verzióban nem érhető el.
+Connexion refusée sur Twitch.	A Twitch elutasította a bejelentkezést.
+Le code a expiré, recommencez.	A kód lejárt, kezdd újra.
+Twitch a refusé la connexion.	A Twitch elutasította a bejelentkezést.
+Impossible de joindre Twitch. Vérifiez votre connexion.	A Twitch nem érhető el. Ellenőrizd a kapcsolatot.
+Twitch a refusé la demande de connexion.	A Twitch elutasította a bejelentkezési kérést.
+Composants externes	Külső összetevők
+Non installé	Nincs telepítve
+Prêt	Kész
+Installer	Telepítés
+Chemins personnalisés (facultatif)	Egyéni elérési utak (nem kötelező)
+Journaux et diagnostic	Naplók és diagnosztika
+Volume	Hangerő
+Molette de la souris sur la vidéo = volume	Egérgörgő a videón = hangerő
+Clic sur la vidéo = pause	Kattintás a videón = szünet
+Volume stable	Állandó hangerő
+Limite les écarts de volume entre les chaînes	Csökkenti a csatornák közti hangerőkülönbségeket
+Vitesse de défilement	Görgetési sebesség
+Résultats	Eredmények
+Zone de réinitialisation	Visszaállítási zóna
+Réinitialiser	Visszaállítás
+Désinstaller	Eltávolítás
+Oui, réinitialiser	Igen, visszaállítom
+Oui, désinstaller	Igen, eltávolítom
+Ouvrir le dossier du journal	A naplómappa megnyitása
+Connexion au chat…	Csatlakozás a chathez…
+Chat connecté	Chat csatlakoztatva
+Reconnexion du chat	A chat újracsatlakozik
+Envoyer un message	Üzenet küldése
+Jeton requis pour écrire (Réglages)	Íráshoz token kell (Beállítások)
+Revenir en bas	Vissza az aljára
+Réponse de Twitch inattendue pour ce jeton.	Váratlan válasz a Twitchtől ehhez a tokenhez.
+Jeton refusé par Twitch (expiré ou invalide).	A Twitch elutasította a tokent (lejárt vagy érvénytelen).
+Connexion refusée avec ce jeton.	A kapcsolatot ezzel a tokennel elutasították.
+Bienvenue dans Velka	Üdvözöl a Velka
+Tout installer	Minden telepítése
+Installation en cours…	Telepítés…
+La chaîne est hors ligne.	A csatorna offline.
+Pas de connexion à Twitch. Vérifiez votre réseau.	Nincs kapcsolat a Twitchcsel. Ellenőrizd a hálózatot.
+Le flux met trop de temps à démarrer.	A stream túl lassan indul.
+Le flux s'est interrompu :	A stream megszakadt:
+arrêt inattendu	váratlan leállás
+Impossible de lancer Streamlink :	A Streamlink nem indítható:
+Préparation…	Előkészítés…
+Le rendu OpenGL n'est pas disponible.	Az OpenGL-megjelenítés nem érhető el.
+Aucun port local disponible.	Nincs szabad helyi port.
+Impossible de joindre GitHub :	A GitHub nem érhető el:
+Réponse GitHub illisible :	Olvashatatlan GitHub-válasz:
+Aucune archive compatible dans la dernière version.	A legújabb verzióban nincs megfelelő archívum.
+Téléchargement impossible :	A letöltés nem sikerült:
+Écriture impossible :	Az írás nem sikerült:
+Téléchargement interrompu :	A letöltés megszakadt:
+Le fichier téléchargé est vide.	A letöltött fájl üres.
+Recherche de la dernière version…	A legújabb verzió keresése…
+Dossier inaccessible :	A mappa nem érhető el:
+Téléchargement…	Letöltés…
+Extraction…	Kicsomagolás…
+Extraction impossible :	A kicsomagolás nem sikerült:
+Archive invalide :	Érvénytelen archívum:
+streamlink.exe introuvable dans l'archive.	A streamlink.exe nem található az archívumban.
+Structure d'archive inattendue.	Váratlan archívumszerkezet.
+libmpv-2.dll introuvable dans l'archive.	A libmpv-2.dll nem található az archívumban.
+Installation impossible :	A telepítés nem sikerült:
+Fichier installé introuvable ou vide.	A telepített fájl hiányzik vagy üres.
+Installé	Telepítve
+Accessibilité	Kisegítő lehetőségek
+Taille de l'interface	Felület mérete
+Mise à l'échelle	Méretezés
+Contraste élevé	Magas kontraszt
+Automatique	Automatikus
+Activé	Be
+Focus clavier renforcé	Erősített billentyűzetfókusz
+Couleurs	Színek
+Palette de couleurs	Színpaletta
+Turquoise	Türkiz
+Bleu	Kék
+Vert	Zöld
+Orange foncé	Sötét narancs
+Rose	Rózsaszín
+Personnalisée	Egyéni
+Couleur d'accent personnalisée	Egyéni kiemelőszín
+Code couleur	Színkód
+Rouge	Piros
+Exemple	Példa
+Contraste du texte sur l'accent	Szöveg kontrasztja a kiemelőszínen
+Conforme	Megfelel
+Insuffisant, minimum	Nem elegendő, minimum
+Couleur non appliquée : le contraste est trop faible.	A szín nem lett alkalmazva: túl alacsony a kontraszt.
+Couleur conforme la plus proche :	Legközelebbi megfelelő szín:
+Utiliser cette couleur	Ennek a színnek a használata
+Rétablir les couleurs par défaut	Alapértelmezett színek visszaállítása
+Mises à jour	Frissítések
+À jour	Naprakész
+Mise à jour disponible	Frissítés érhető el
+Chemin personnalisé	Egyéni útvonal
+Version inconnue	Ismeretlen verzió
+Installée :	Telepítve:
+Disponible :	Elérhető:
+Mise à jour en cours…	Frissítés…
+Redémarrage nécessaire	Újraindítás szükséges
+Impossible de vérifier les mises à jour :	Nem sikerült frissítéseket keresni:
+Échec de la mise à jour, version précédente conservée :	A frissítés sikertelen, a korábbi verzió megmaradt:
+Versions des composants non validées par l'éditeur.	Az összetevők verzióit a kiadó nem hagyta jóvá.
+Archive validée introuvable sur GitHub.	A jóváhagyott archívum nem található a GitHubon.
+Adresse de téléchargement inattendue.	Váratlan letöltési cím.
+Empreinte du fichier téléchargé incorrecte.	A letöltött fájl ellenőrzőösszege nem egyezik.
+Téléchargement refusé par le serveur.	A kiszolgáló elutasította a letöltést.
+Fichier reçu invalide (taille ou empreinte différente).	A kapott fájl érvénytelen (a méret vagy az ellenőrző összeg eltér).
+Serveur injoignable :	A kiszolgáló nem érhető el:
+Remplacement impossible :	A csere nem sikerült:
+Relance impossible :	Az újraindítás nem sikerült:
+Impossible de charger libmpv :	A libmpv nem tölthető be:
+Fonction libmpv manquante :	Hiányzik egy libmpv-függvény:
+Le lecteur n'a pas pu démarrer.	A lejátszó nem tudott elindulni.
+Initialisation du lecteur impossible :	A lejátszó inicializálása nem sikerült:
+Rendu vidéo impossible :	A videó megjelenítése nem sikerült:
+Option du lecteur refusée :	A lejátszó elutasította a beállítást:
+Propriété du lecteur refusée :	A lejátszó elutasította a tulajdonságot:
+Commande du lecteur refusée :	A lejátszó elutasította a parancsot:
+Se connecter	Bejelentkezés
+Autres langues	További nyelvek
+Personnaliser	Testreszabás
+Améliorer le contraste	Kontraszt javítása
+Replier le chat	Csevegés összecsukása
+Afficher le chat	Csevegés megjelenítése
+Qualité maximale proposée par la chaîne, sans réduction.	A csatorna által kínált legjobb minőség, kicsinyítés nélkül.
+Fenêtre PiP au format de la vidéo	PiP-ablak a videó méretarányában
+En mini-fenêtre PiP, la fenêtre prend le format du live pour supprimer les bandes noires.	A PiP-miniablak felveszi az élő adás képarányát, így nincsenek fekete sávok.
+spectateur	néző
+Actualisation en cours	Frissítés folyamatban…
+Qualité	Minőség
+Redémarrer l'application	Alkalmazás újraindítása
+Passer	Kihagyás
+Suivant	Tovább
+C'est parti	Kezdjük
+Chat avec émotes	Csevegés emote-okkal
+Mini-lecteur et PiP	Miniplayer és PiP
+Choisissez votre style	Válaszd ki a stílusod
+Couleur d'accent	Kiemelőszín
+Réglez la lecture	A lejátszás beállítása
+Restez informé	Maradj képben
+Tout se règle aussi plus tard dans les Réglages.	Minden később is módosítható a Beállításokban.
+Thème et couleur de l'application.	Az alkalmazás témája és színe.
+Les réglages les plus utiles, en un coup d'œil.	A leghasznosabb beállítások egy pillantásra.
+Ne ratez plus vos streamers préférés.	Soha többé ne maradj le a kedvenc streamereidről.
+Ultra légère et optimisée, parfaite pour jouer en même temps.	Ultrakönnyű és optimalizált, tökéletes játék közben.
+Revoir le didacticiel	Bemutató újranézése
+Le live démarre sans le son ; vous le réactivez quand vous voulez.	Az adás hang nélkül indul; bármikor visszakapcsolhatod a hangot.
+Agrandit ou réduit le texte des messages du chat.	Nagyítja vagy kicsinyíti a csevegőüzenetek szövegét.
+Affiche l'heure devant chaque message du chat.	Kiírja az időpontot minden csevegőüzenet elé.
+Place le chat à gauche de la vidéo au lieu de la droite.	A csevegőt a videótól balra helyezi jobb oldal helyett.
+Favori	Kedvenc
+Aucun favori pour le moment. Cherchez une chaîne puis choisissez « Ajouter aux favoris ».	Még nincs kedvenc. Keressen egy csatornát, és válassza a „Hozzáadás a kedvencekhez” lehetőséget.
+Orange (par défaut)	Narancs (alapértelmezett)
+Retirer des favoris	Eltávolítás a kedvencek közül
+Connexion en cours	Csatlakozás folyamatban
+Audio du live uniquement	Csak az élő adás hangja
+Lecteur au format de la vidéo	Lejátszó a videó képarányában
+Dans la fenêtre principale, l'image prend exactement le format du live (coins arrondis, sans bandes autour) et reste centrée.	A főablakban a kép pontosan az élő adás képarányát kapja (lekerekített sarkok, sávok nélkül), és középen marad.
+Taille et place d'origine	Eredeti méret és hely
+Chaîne ouverte au démarrage	Induláskor megnyitott csatorna
+Démarrage et fenêtre	Indítás és ablak
+Son live s'ouvre au lancement si elle est en direct. Sinon, l'accueil s'affiche normalement.	Az élő adása induláskor megnyílik, ha a csatorna élőben van. Egyébként a kezdőlap jelenik meg.
+Nom de la chaîne	Csatorna neve
+Au lancement, si cette chaîne est en direct, son live s'ouvre directement dans le lecteur. Hors ligne ou introuvable, l'accueil s'affiche normalement.	Ha a csatorna induláskor élőben van, az adás közvetlenül a lejátszóban nyílik meg. Offline vagy nem található: a kezdőlap jelenik meg.
+Enregistrée	Mentve
+En attente de messages…	Várakozás üzenetekre…
+Confirmer la déconnexion	Kijelentkezés megerősítése
+Affiche d'abord les lives qui ont le plus de spectateurs.	Először a legtöbb nézővel rendelkező adásokat mutatja.
+Affiche d'abord les lives qui ont le moins de spectateurs.	Először a legkevesebb nézővel rendelkező adásokat mutatja.
+Éclaircit ou assombrit la couleur choisie pour que le texte reste lisible.	Világosítja vagy sötétíti a választott színt, hogy a szöveg olvasható maradjon.
+Spectateurs : décroissant	Nézők: csökkenő
+Spectateurs : croissant	Nézők: növekvő
+5 s	5 mp
+10 s	10 mp
+Pour charger vos chaînes suivies, déconnectez-vous puis reconnectez-vous.	A követett csatornák betöltéséhez jelentkezz ki, majd jelentkezz be újra.
+Reconnectez-vous dans Réglages pour afficher vos chaînes suivies sur Twitch.	Jelentkezz be újra a(z) Beállítások részben, hogy megjelenjenek a követett csatornáid a Twitchen.
+Une page Twitch s'est ouverte. Vérifiez ce code, puis cliquez sur « Autoriser » :	Megnyílt egy Twitch-oldal. Ellenőrizd ezt a kódot, majd kattints a(z) „Engedélyezés” gombra:
+Utilisée en ce moment : redémarrez l'application pour la mettre à jour.	Jelenleg használatban van: indítsd újra az alkalmazást a frissítéshez.
+Réinitialiser remet les réglages, les favoris et l'historique à zéro. Les outils restent installés.	A visszaállítás nullázza a beállításokat, a kedvenceket és az előzményeket. Az eszközök telepítve maradnak.
+Désinstaller supprime les outils, les réglages, l'historique et le cache, puis ferme l'application.	Az eltávolítás törli az eszközöket, a beállításokat, az előzményeket és a gyorsítótárat, majd bezárja az alkalmazást.
+Tout remettre à zéro ? Réglages, favoris et historique seront perdus.	Mindent nullázol? A beállítások, a kedvencek és az előzmények elvesznek.
+Tout supprimer ? Outils, réglages, historique et cache seront effacés définitivement.	Mindent törölsz? Az eszközök, a beállítások, az előzmények és a gyorsítótár véglegesen törlődnek.
+Ce jeton n'a pas le droit d'écrire dans le chat (chat:edit).	Ez a token nem írhat a chatbe (chat:edit).
+Ils sont installés dans votre dossier utilisateur, sans droits administrateur.	A felhasználói mappádba települnek, rendszergazdai jogok nélkül.
+libmpv est introuvable. Réinstallez les outils depuis les réglages.	A libmpv nem található. Telepítsd újra az eszközöket a beállításokból.
+Streamlink est introuvable. Réinstallez les outils depuis les réglages.	A Streamlink nem található. Telepítsd újra az eszközöket a beállításokból.
+Afficher le menu	Menü megjelenítése
+Masquer le menu	Menü elrejtése
+Chat réservé aux followers	Csak követőknek szóló chat
+Échec de la connexion.	A csatlakozás sikertelen.
+Connexion annulée	Csatlakozás megszakítva
+Rapport de la dernière fermeture inattendue, sans donnée personnelle. Rien n'est envoyé automatiquement.	Jelentés a legutóbbi váratlan leállásról, személyes adatok nélkül. Semmi sem kerül automatikusan elküldésre.
+Copier le rapport de plantage	Összeomlási jelentés másolása
+Rapport copié.	Jelentés másolva.
+Copier le diagnostic	Diagnosztika másolása
+Diagnostic copié.	Diagnosztika kimásolva.
+Complet	Teljes
+Réduit	Csökkentett
+État et version de Streamlink et de libmpv, mise à jour, et chemins personnalisés (facultatifs) vers streamlink.exe et libmpv-2.dll.	A Streamlink és a libmpv állapota és verziója, frissítés, valamint opcionális egyéni elérési utak a streamlink.exe és libmpv-2.dll fájlokhoz.
+Ouvre le dossier du journal, copie le diagnostic (version, Windows, carte graphique, composants) ou le rapport de plantage local pour le support. Rien n'est envoyé automatiquement.	Megnyitja a naplómappát, és a támogatáshoz kimásolja a diagnosztikát (verzió, Windows, videókártya, összetevők) vagy a helyi összeomlási jelentést. Semmi sem kerül automatikusan elküldésre.
+À propos	Névjegy
+Version de l'application	Alkalmazás verziója
+Décodage vidéo matériel (GPU)	Hardveres videódekódolás (GPU)
+Utile si la vidéo saccade ou si le processeur chauffe. « Automatique » : réglage d'origine de l'application. « Activé » : la carte graphique décode la vidéo, avec retour automatique au décodage normal si elle n'y arrive pas. « Désactivé » : décodage normal par le processeur. Le changement s'applique tout de suite : le live en cours est relancé.	Segít, ha a videó akadozik vagy a processzor felmelegszik. „Automatikus”: az alkalmazás eredeti beállítása. „Be”: a videót a videókártya dekódolja, hiba esetén automatikusan visszavált a normál dekódolásra. „Ki”: normál dekódolás a processzorral. A módosítás azonnal érvénybe lép: a folyamatban lévő élő adás újraindul.
+Périphérique de sortie	Kimeneti eszköz
+Périphérique par défaut du système	A rendszer alapértelmezett eszköze
+Choisit le casque ou les enceintes pour le son des lives, sans changer le son de Windows. « Périphérique par défaut du système » suit le choix de Windows. Le changement s'applique tout de suite. Si le périphérique choisi disparaît (casque débranché), l'application revient au choix par défaut.	Kiválasztja a fejhallgatót vagy a hangszórókat az élő adások hangjához, a Windows hangjának módosítása nélkül. „A rendszer alapértelmezett eszköze” a Windows választását követi. A módosítás azonnal érvénybe lép. Ha a kiválasztott eszköz eltűnik (kihúzott fejhallgató), az alkalmazás visszatér az alapértelmezett választáshoz.
+Le périphérique audio choisi n'est plus disponible : retour au périphérique par défaut.	A kiválasztott hangeszköz már nem érhető el: visszatérés az alapértelmezett eszközhöz.
+Captures d'écran	Képernyőképek
+Dossier d'enregistrement	Mentési mappa
+Parcourir…	Tallózás…
+Ouvrir le dossier	Mappa megnyitása
+Dossier où la touche S enregistre les captures d'écran. Par défaut : le dossier « Velka » de vos Images. Le dossier choisi doit accepter l'écriture ; s'il disparaît (disque débranché, dossier supprimé), l'application revient au dossier par défaut. Le changement s'applique à la prochaine capture.	A mappa, ahová az S billentyű a képernyőképeket menti. Alapértelmezés: a Képek mappa „Velka” mappája. A kiválasztott mappának engednie kell az írást; ha eltűnik (kihúzott meghajtó, törölt mappa), az alkalmazás visszatér az alapértelmezett mappához. A módosítás a következő képernyőképnél lép érvénybe.
+Le dossier des captures n'est plus disponible : retour au dossier par défaut.	A képernyőképek mappája már nem érhető el: visszatérés az alapértelmezett mappához.
+Ce dossier n'accepte pas l'écriture : choisissez-en un autre.	Ebbe a mappába nem lehet írni: válasszon másikat.
+Aucun	Nincs
+Effacer un raccourci	Billentyűparancs törlése
+Réduire dans la zone de notification à la fermeture	Bezáráskor kicsinyítés az értesítési területre
+L'application reste active en fond pour les notifications	Az alkalmazás a háttérben fut az értesítések miatt
+La croix de fermeture cache la fenêtre dans la zone de notification (près de l'horloge) au lieu de quitter ; le live en cours est arrêté. Clic gauche sur l'icône : rouvrir. Clic droit : Ouvrir ou Quitter. Pour être prévenu quand un favori passe en direct, activez aussi « Notifications Windows ».	A bezárás gomb az értesítési területre (az óra mellé) rejti az ablakot a kilépés helyett; a folyamatban lévő adás leáll. Bal kattintás az ikonra: megnyitás. Jobb kattintás: Megnyitás vagy Kilépés. Kapcsold be a „Windows-értesítések” funkciót is, hogy értesülj, ha egy kedvenc élő adásba kezd.
+Ouvrir Velka	Velka megnyitása
+Quitter	Kilépés
+Velka reste actif dans la zone de notification. Clic droit sur l'icône pour quitter.	A Velka továbbra is fut az értesítési területen. Kilépéshez kattints jobb gombbal az ikonra.
+Rechercher des mises à jour	Frissítések keresése
+Vous utilisez la dernière version.	A legújabb verziót használod.
+Mise à jour {version} disponible	Elérhető a(z) {version} frissítés
+Impossible de se connecter. Vérifiez votre connexion internet.	Nem sikerült csatlakozni. Ellenőrizd az internetkapcsolatot.
+La recherche de mise à jour a échoué.	A frissítés keresése nem sikerült.
+Historique des chaînes	Csatornaelőzmények
+Effacer l'historique	Előzmények törlése
+Historique effacé.	Az előzmények törölve.
+Ouvrir le dossier de configuration	Beállítások mappájának megnyitása
+Options du lecteur	Lejátszó beállításai
+Perso	Egyéni
+Durée personnalisée	Egyéni időtartam
+Ajuster uniquement la taille du texte du chat	Csak a chat szövegméretének módosítása
+Ajuster la taille globale de l'interface	A teljes felület méretének módosítása
+Connectez-vous à Twitch pour activer	A bekapcsoláshoz jelentkezz be a Twitchre
+Pas de connexion Internet.	Nincs internetkapcsolat.
+La connexion Internet s'est coupée.	Megszakadt az internetkapcsolat.
+Licences des composants	Összetevők licencei
+Le lecteur vidéo utilise libmpv (mpv) et FFmpeg, sous licence LGPL version 2.1 ou ultérieure. Vous pouvez remplacer libmpv par votre propre version dans {section}.	A videólejátszó a libmpv (mpv) és az FFmpeg könyvtárat használja, LGPL 2.1-es vagy újabb verziójú licenccel. A libmpv-t saját verzióra cserélheti itt: {section}.
+Code source et compilation	Forráskód és fordítási szkriptek
+Velka n'a pas pu ouvrir sa fenêtre : la carte graphique ou son pilote ne prend pas en charge OpenGL 3.0. Mettez à jour le pilote de la carte graphique, puis relancez Velka. Sur un bureau à distance ou une machine virtuelle, l'affichage peut ne pas être pris en charge.	A Velka nem tudta megnyitni az ablakát: a videokártya vagy az illesztőprogramja nem támogatja az OpenGL 3.0-t. Frissítse a videokártya illesztőprogramját, majd indítsa újra a Velkaet. Távoli asztalon vagy virtuális gépen előfordulhat, hogy a megjelenítés nem támogatott.
+La carte graphique n'annonce pas OpenGL 3.0 : la vidéo peut rester noire. Mettez à jour le pilote de la carte graphique. Sur un bureau à distance ou une machine virtuelle, l'affichage peut ne pas être pris en charge.	A videokártya nem jelez OpenGL 3.0-t: a videó fekete maradhat. Frissítse a videokártya illesztőprogramját. Távoli asztalon vagy virtuális gépen előfordulhat, hogy a megjelenítés nem támogatott.
+Démarrer avec macOS	Indítás a macOS-szel
+Démarrer avec Linux	Indítás a Linuxszal
+Lance Velka automatiquement quand vous ouvrez votre session macOS.	A macOS-be való bejelentkezéskor automatikusan elindítja a Velkaet.
+Lance Velka automatiquement quand vous ouvrez votre session Linux.	A Linuxba való bejelentkezéskor automatikusan elindítja a Velkaet.
+Notifications macOS	macOS-értesítések
+Notifications Linux	Linux-értesítések
+Affiche une notification macOS quand l'un de vos favoris passe en direct. L'application doit rester ouverte (elle peut être réduite).	macOS-értesítést jelenít meg, ha egy kedvenced élőzni kezd. Az alkalmazásnak nyitva kell maradnia (lehet kis méretben).
+Affiche une notification Linux quand l'un de vos favoris passe en direct. L'application doit rester ouverte (elle peut être réduite).	Linux-értesítést jelenít meg, ha egy kedvenced élőzni kezd. Az alkalmazásnak nyitva kell maradnia (lehet kis méretben).
+Multistream	Multistream
+Regardez jusqu'à 4 lives en même temps.	Nézz akár 4 élő adást egyszerre.
+Ajouter une chaîne	Csatorna hozzáadása
+Ajouter	Hozzáadás
+Tout arrêter	Összes leállítása
+Cette chaîne est déjà affichée.	Ez a csatorna már látható.
+4 lives au maximum.	Legfeljebb 4 élő adás.
+Ajoutez une chaîne pour commencer.	A kezdéshez adj hozzá egy csatornát.
+Retirer ce live	Élő adás eltávolítása
+Écouter ce live	Élő adás hallgatása
+Cumuler le son des lives en Multistream	Élő adások hangjának összevonása a Multistreamben
+Un clic sur un live ajoute son son au lieu de le remplacer	Egy élő adásra kattintva a hangja hozzáadódik ahelyett, hogy lecserélné
+Sur la page Multistream, un clic sur un live fait entendre son son en plus de ceux déjà écoutés, jusqu'aux quatre lives. Le bouton du son de chaque live le coupe.	A Multistream oldalon egy élő adásra kattintva a hangja a már hallgatott adások mellett is szól, akár mind a négy adásnál. Minden adás hanggombja elnémítja azt.
+Couper tous les sons	Összes némítása
+Lecteur Twitch léger avec multistream, chat et notifications.	Könnyű Twitch-lejátszó multistreammel, csevegéssel és értesítésekkel.
+Quelques composants sont nécessaires pour lire les lives Twitch.	A Twitch-közvetítések lejátszásához néhány összetevő szükséges.
+Logiciel libre sous licence GPL-3.0 ou ultérieure.	Szabad szoftver GPL-3.0 vagy újabb licenccel.
+Application non affiliée à Twitch.	Az alkalmazás nem áll kapcsolatban a Twitch-csel.
+Code source sur GitHub	Forráskód a GitHubon
+Soutenir le projet	A projekt támogatása
+La connexion Twitch n'a pas pu être enregistrée de façon sécurisée (trousseau du système indisponible) : elle sera perdue à la fermeture de Velka.	A Twitch-bejelentkezést nem sikerült biztonságosan menteni (a rendszer kulcskarikája nem érhető el): a Velka bezárásakor elvész.
+Velka est gratuit et le restera. Si l'application vous plaît, un petit don aide à la faire vivre.	A Velka ingyenes, és az is marad. Ha tetszik az alkalmazás, egy kis adomány segít fenntartani.
+Plus tard	Később
+Rappel pour soutenir le projet	Emlékeztető a projekt támogatására
+Affiche de temps en temps sur l'accueil, au plus une fois par mois, un message avec un lien pour soutenir le projet.	Időnként, legfeljebb havonta egyszer, a kezdőlapon egy üzenetet jelenít meg a projekt támogatására mutató hivatkozással.

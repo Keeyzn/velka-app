@@ -1,0 +1,535 @@
+Aide	帮助
+Réduire	最小化
+Agrandir	最大化
+Restaurer	还原
+Fermer	关闭
+Échap	Esc
+Français	法语
+Anglais	英语
+Espagnol	西班牙语
+Portugais	葡萄牙语
+Allemand	德语
+Italien	意大利语
+Néerlandais	荷兰语
+Polonais	波兰语
+Russe	俄语
+Ukrainien	乌克兰语
+Turc	土耳其语
+Vietnamien	越南语
+Indonésien	印度尼西亚语
+Chinois simplifié	简体中文
+Chinois traditionnel	繁体中文
+Japonais	日语
+Coréen	韩语
+Tchèque	捷克语
+Roumain	罗马尼亚语
+Hongrois	匈牙利语
+Suédois	瑞典语
+Danois	丹麦语
+Norvégien	挪威语
+Finnois	芬兰语
+Grec	希腊语
+Annuler	取消
+spectateurs	位观众
+Hors ligne	离线
+Cette chaîne n'existe pas.	此频道不存在。
+Statut indisponible, vous pouvez quand même essayer.	状态不可用，你仍然可以尝试。
+Accueil	首页
+En direct	直播中
+chaînes	个频道
+Favoris	收藏
+Spectateurs	观众
+au total	合计
+Résultat	结果
+Vérification…	正在检查…
+Regarder	观看
+Nom de chaîne invalide.	频道名称无效。
+En direct parmi vos favoris	收藏中正在直播
+Aucun favori en direct pour le moment.	目前没有收藏的频道在直播。
+Récents	最近
+Retirer de l'historique	从历史记录中移除
+Rechercher	搜索
+Plateforme	平台
+Réglages	设置
+Quitter le PiP	退出画中画
+Reprise dans un instant…	即将恢复…
+Retour	返回
+Arrêter	停止
+Quitter le plein écran	退出全屏
+Plein écran	全屏
+Lecture	播放
+Réactiver le son	取消静音
+Couper le son	静音
+Chat	聊天
+Changement de qualité…	正在切换画质…
+Réessayer	重试
+depuis	已开播
+connexion…	正在连接…
+changement de qualité…	正在切换画质…
+interrompu	已中断
+Lecture vidéo	视频播放
+Qualité par défaut	默认画质
+Faible latence	低延迟
+Désactiver pour un flux plus stable	关闭可让直播流更稳定
+Réduire la barre latérale	收起侧边栏
+Agrandir la barre latérale	展开侧边栏
+Chat à gauche de la vidéo	聊天在视频左侧
+Toujours au premier plan	始终置顶
+Chat en surimpression en plein écran	全屏时在视频上显示聊天
+Apparence	外观
+Général	常规
+Thème	主题
+Langue	语言
+Sombre	石板
+Dark	深色
+Clair	浅色
+Compte Twitch	Twitch 账户
+Connecté en tant que	已登录为
+Vous pouvez écrire dans le chat.	你可以在聊天中发言。
+chaînes suivies sur Twitch chargées.	个已关注的 Twitch 频道已加载。
+Impossible de charger vos chaînes suivies pour le moment.	暂时无法加载你关注的频道。
+Chargement de vos chaînes suivies…	正在加载你关注的频道…
+En direct parmi vos chaînes suivies sur Twitch	你关注的 Twitch 频道中正在直播
+Suivies sur Twitch	Twitch 上的关注
+Prévient quand un favori passe en direct	收藏的频道开播时通知你
+Activé : vos favoris sont vérifiés toutes les minutes en arrière-plan, même pendant un live. Cela utilise un peu plus d'internet et de mémoire.	开启：即使在观看直播时，也会每分钟在后台检查你的收藏。这会多用一点网络和内存。
+Chaînes dans la barre latérale	侧边栏中的频道
+Chaînes sur l'accueil	首页上的频道
+Qualité utilisée à l'ouverture d'un live. « Source » est la qualité maximale de la chaîne ; « Audio » ne joue que le son.	打开直播时使用的画质。“Source”是频道的最高画质；“Audio”只播放声音。
+Réduit le retard entre le streamer et vous. Désactivez-le si la vidéo saccade ou se coupe.	减少与主播之间的延迟。如果视频卡顿或中断，请关闭。
+Garde la fenêtre devant toutes les autres applications.	让窗口始终位于其他所有应用之前。
+Affiche le chat par-dessus la vidéo quand vous êtes en plein écran.	全屏时在视频上方显示聊天。
+Faire rouler la molette au-dessus de la vidéo monte ou baisse le volume.	在视频上滚动鼠标滚轮可调高或调低音量。
+Un clic sur la vidéo met en pause ou relance la lecture.	单击视频可暂停或继续播放。
+Garde un niveau sonore régulier (normalisation du son) : relève les passages faibles et atténue les passages forts, d'une chaîne à l'autre et au sein d'un même live.	保持稳定的音量（音频标准化）：提高轻声部分、压低响亮部分，在频道之间和同一直播内都有效。
+Vitesse de la molette dans les listes et dans le chat. À 1,0 ×, un cran de molette fait défiler 3 lignes de 75 px, de façon fluide.	列表和聊天中的滚轮速度。在 1.0 × 时，滚轮每格平滑滚动 3 行（每行 75 像素）。
+À chaque lancement, l'application démarre avec le volume choisi ci-dessous, au lieu du dernier volume réglé.	每次启动时，应用使用下方选择的音量，而不是上次调节的音量。
+100 % = volume normal. 130 % permet d'amplifier une chaîne trop silencieuse, mais le son peut saturer.	100 % = 正常音量。130 % 可放大声音太小的频道，但可能失真。
+Temps sans bouger la souris avant que les boutons posés sur la vidéo disparaissent.	鼠标静止多久后，视频上的按钮会消失。
+Quand vous quittez la page d'un live avec « Retour », il continue dans une petite fenêtre en bas à droite. Désactivé : il s'arrête.	用“返回”离开直播页面时，直播会在右下角的小窗口中继续。关闭：直播停止。
+Fréquence à laquelle l'accueil vérifie quelles chaînes sont en direct. Plus c'est rapide, plus cela utilise internet. « Manuelle » : seulement avec le bouton Actualiser.	首页检查哪些频道正在直播的频率。越快，用的网络越多。“手动”：仅在点击“刷新”按钮时检查。
+Télécharge une image du direct pour chaque carte. Désactivez pour économiser des données.	为每张卡片下载一张直播画面。关闭可节省流量。
+Les chaînes que vous suivez sur votre compte Twitch (il faut être connecté dans la carte « Compte Twitch »).	你在 Twitch 账户上关注的频道（需要在“Twitch 账户”卡片中登录）。
+Nombre maximum de chaînes Twitch en direct listées dans la barre de gauche (ce n'est pas un délai).	左侧栏中列出的直播中 Twitch 频道的最大数量（不是时间）。
+Nombre maximum de chaînes Twitch en direct affichées sur la page d'accueil (ce n'est pas un délai).	首页上显示的直播中 Twitch 频道的最大数量（不是时间）。
+Garde le jeu sélectionné dans la barre « Jeux en direct » au prochain lancement.	下次启动时保留在“直播中的游戏”栏中选择的游戏。
+Ouvrir : le live s'affiche en grand. PiP : il s'ouvre directement dans une petite fenêtre flottante.	打开：直播以大窗口显示。画中画：直接在小型浮动窗口中打开。
+Les messages qui contiennent un de ces mots (séparés par des virgules) sont surlignés en jaune dans le chat.	包含这些词之一（用逗号分隔）的消息会在聊天中以黄色高亮显示。
+Quand une chaîne est hors ligne ou que son live se termine, propose d'autres lives : vos chaînes suivies du même jeu d'abord.	频道离线或直播结束时，推荐其他直播：优先推荐你关注的同一游戏的频道。
+Nombre de chaînes proposées quand un live est hors ligne ou terminé.	直播离线或结束时推荐的频道数量。
+Les boutons latéraux de la souris changent de page, comme dans un navigateur. Alt + flèche gauche ou droite fait pareil.	鼠标侧键可以切换页面，就像在浏览器中一样。Alt + 左方向键或右方向键也可以。
+Le pointeur devient une main au-dessus des boutons et des cartes.	鼠标指针在按钮和卡片上方时变成手形。
+Complet : fondus, glissements, cascades et compteurs animés. Réduit : fondus et changements de couleur seulement, sans déplacement. Désactivé : aucune animation (utile sur un ordinateur lent). Le réglage d'animations de Windows n'est pas pris en compte.	完整：淡入淡出、滑动、依次出现和动态计数器。减少：仅保留淡入淡出和颜色变化，不含位移。关闭：无任何动画（适合较慢的电脑）。不会参考 Windows 的动画设置。
+Affiche une notification Windows quand l'un de vos favoris passe en direct. L'application doit rester ouverte (elle peut être réduite).	收藏的频道开播时显示 Windows 通知。应用需要保持打开（可以最小化）。
+Lance Velka automatiquement quand vous ouvrez votre session Windows.	登录 Windows 时自动启动 Velka。
+Photos de profil et émotes déjà téléchargées. Les vider libère de la place ; elles se retéléchargent au besoin.	已下载的头像和表情。清空可释放空间；需要时会重新下载。
+Notifications Windows	Windows 通知
+Prévient quand un favori passe en direct. Vérifie vos favoris toutes les minutes, même pendant un live : utilise un peu plus d'internet et de mémoire.	收藏的频道开播时提醒你。即使在观看直播时也会每分钟检查收藏：会多用一点网络和内存。
+Envoyer une notification de test	发送测试通知
+est en direct	正在直播
+Notification de test : tout fonctionne.	测试通知：一切正常。
+Volume et lecteur	音量和播放器
+Démarrer en muet	启动时静音
+Volume fixe au lancement	启动时固定音量
+Sinon : le dernier volume utilisé	否则：使用上次的音量
+Volume au lancement	启动音量
+Volume maximum	最大音量
+Masquage des contrôles	隐藏控件的时间
+Jamais	从不
+Capture d'écran	截图
+Infos techniques	技术信息
+Capture enregistrée :	截图已保存：
+Capture impossible.	无法截图。
+Minuteur de veille	睡眠定时器
+Désactivé	关闭
+Arrêt du live dans	直播将在以下时间后停止：
+logiciel	软件
+Résolution	分辨率
+Images par seconde	每秒帧数
+Débit vidéo	视频码率
+Débit audio	音频码率
+Images perdues	丢帧
+Images perdues au décodage	解码丢帧
+Mémoire tampon	缓冲
+Format vidéo	视频格式
+Décodage	解码
+Arrête le live automatiquement après la durée choisie, à partir du moment où vous changez ce réglage. Une minute avant, un compte à rebours s'affiche sur la vidéo. Le minuteur revient sur Désactivé à chaque nouveau live et à chaque lancement de l'application.	在所选时长后自动停止直播，从你更改此设置的时刻开始计时。提前一分钟会在视频上显示倒计时。每次打开新直播和每次启动应用时，定时器都会恢复为“已禁用”。
+Émotes 7TV, BTTV et FFZ	7TV、BTTV 和 FFZ 表情
+Émotes animées	动态表情
+Badges du chat	聊天徽章
+Affiche les émotes des extensions 7TV, BetterTTV et FrankerFaceZ (globales et propres à la chaîne). Elles sont chargées à l'ouverture du live.	显示 7TV、BetterTTV 和 FrankerFaceZ 扩展的表情（全局和频道专属）。在打开直播时加载。
+Anime les émotes qui le sont (Twitch et extensions). Utilise un peu plus le processeur quand le chat en affiche.	让动态表情动起来（Twitch 和扩展）。聊天中显示时会稍微多占用处理器。
+Affiche les badges (abonné, modérateur, VIP…) devant les pseudos.	在用户名前显示徽章（订阅者、管理员、VIP…）。
+Netteté de l'image	画面锐度
+Agrandissement de haute qualité	高质量放大
+Désactivée	关闭
+Légère	轻度
+Moyenne	中度
+Forte	强
+Image plus fine en 480p et 720p	480p 和 720p 下画面更细腻
+Renforce les contours de l'image (calculé par la carte graphique). Utile sur un flux flou ; trop fort, l'image paraît granuleuse.	增强画面边缘（由显卡计算）。适合模糊的直播流；过强会让画面显得粗糙。
+Utilise un filtre d'agrandissement plus fin quand la vidéo est plus petite que la fenêtre (480p, 720p). Demande davantage à la carte graphique.	当视频小于窗口时（480p、720p）使用更精细的放大滤镜。对显卡要求更高。
+Compte	账户
+Qualité et flux	画质与流
+Audio	声音
+Lecteur et comportement	播放器与行为
+Affichage et lisibilité	显示与可读性
+Filtrage et alertes	过滤与提醒
+Notifications	通知
+Avancé et Système	高级与系统
+Stockage et configuration	存储与配置
+Émotes et badges	表情和徽章
+Les changements s'appliquent tout de suite.	更改会立即生效。
+2,5 s	2.5 秒
+Mo	MB
+Ko	KB
+Rechercher un réglage	搜索设置
+Résultats de la recherche	搜索结果
+Aucun réglage trouvé.	未找到设置。
+Mini-lecteur	迷你播放器
+Garder le live dans un coin quand on quitte la page	离开页面时将直播保留在角落
+Accueil et barre latérale	首页和侧边栏
+Actualisation	刷新频率
+Manuelle	手动
+Actualiser	刷新
+Aperçus des lives	直播预览
+Images du direct sur les cartes	卡片上的直播画面
+Chaînes suivies sur Twitch	Twitch 上关注的频道
+Dans la barre latérale, sur l'accueil et dans les recommandations	在侧边栏、首页和推荐中
+Dans la barre latérale	在侧边栏中
+Sur l'accueil	在首页上
+Se souvenir du jeu choisi	记住所选游戏
+Clic sur une carte	点击卡片
+Ouvrir	打开
+Taille du texte	文字大小
+Masquer les bots	隐藏机器人
+Horodatage des messages	消息时间
+Mots surlignés	高亮词语
+mot, pseudo… (séparés par des virgules)	词语、昵称…（用逗号分隔）
+Recommandations	推荐
+Recommandations de chaînes	频道推荐
+Proposer des chaînes quand un live est hors ligne ou terminé	直播离线或结束时推荐频道
+Nombre de recommandations	推荐数量
+Mouvement et lisibilité	动效与可读性
+Navigation et souris	导航与鼠标
+Vérification des mises à jour	检查更新
+Nouvelle version disponible :	有新版本：
+Mettre à jour	更新
+Téléchargement de la mise à jour…	正在下载更新…
+Mise à jour impossible :	无法更新：
+Boutons Précédent / Suivant de la souris	鼠标后退 / 前进按键
+Main sur les éléments cliquables	可点击元素上显示手形指针
+Animations	动画
+Raccourcis clavier	键盘快捷键
+Appuyez sur une touche…	请按一个键…
+Rétablir les raccourcis	恢复默认快捷键
+Raccourcis non modifiables	不可修改的快捷键
+Quitter le plein écran, le PiP ou le live	退出全屏、画中画或直播
+Rechercher une chaîne	搜索频道
+Zoom de l'interface	界面缩放
+Page précédente / suivante	上一页 / 下一页
+Pause / lecture	暂停 / 播放
+Volume +	音量 +
+Volume -	音量 -
+Afficher / masquer le chat	显示 / 隐藏聊天
+Image dans l'image	画中画
+Système	系统
+Démarrer avec Windows	随 Windows 启动
+Ouvre l'application à l'ouverture de session	登录时打开应用
+Cache des images	图片缓存
+Vider	清空
+Espace	空格
+Flèche haut	上方向键
+Flèche bas	下方向键
+Flèche gauche	左方向键
+Flèche droite	右方向键
+Entrée	回车
+Jeux en direct	直播中的游戏
+Aucun live pour ce jeu en ce moment.	这个游戏目前没有直播。
+Chaînes recommandées	推荐频道
+Ajouter aux favoris	添加到收藏
+Se déconnecter	退出登录
+En attente de votre accord sur Twitch…	正在等待你在 Twitch 上授权…
+Rouvrir la page Twitch	重新打开 Twitch 页面
+Connexion à Twitch…	正在连接 Twitch…
+Connectez-vous pour écrire dans le chat.	登录后即可在聊天中发言。
+Se connecter avec Twitch	使用 Twitch 登录
+La connexion Twitch n'est pas disponible dans cette version.	此版本不支持 Twitch 登录。
+Connexion refusée sur Twitch.	Twitch 拒绝了登录。
+Le code a expiré, recommencez.	代码已过期，请重新开始。
+Twitch a refusé la connexion.	Twitch 拒绝了登录。
+Impossible de joindre Twitch. Vérifiez votre connexion.	无法连接 Twitch。请检查你的网络连接。
+Twitch a refusé la demande de connexion.	Twitch 拒绝了登录请求。
+Composants externes	外部组件
+Non installé	未安装
+Prêt	就绪
+Installer	安装
+Chemins personnalisés (facultatif)	自定义路径（可选）
+Journaux et diagnostic	日志与诊断
+Volume	音量
+Molette de la souris sur la vidéo = volume	在视频上滚动鼠标滚轮 = 音量
+Clic sur la vidéo = pause	单击视频 = 暂停
+Volume stable	稳定音量
+Limite les écarts de volume entre les chaînes	减少频道之间的音量差异
+Vitesse de défilement	滚动速度
+Résultats	结果
+Zone de réinitialisation	重置区域
+Réinitialiser	重置
+Désinstaller	卸载
+Oui, réinitialiser	是，重置
+Oui, désinstaller	是，卸载
+Ouvrir le dossier du journal	打开日志文件夹
+Connexion au chat…	正在连接聊天…
+Chat connecté	聊天已连接
+Reconnexion du chat	正在重新连接聊天
+Envoyer un message	发送消息
+Jeton requis pour écrire (Réglages)	发言需要令牌（设置）
+Revenir en bas	回到底部
+Réponse de Twitch inattendue pour ce jeton.	Twitch 对此令牌的响应异常。
+Jeton refusé par Twitch (expiré ou invalide).	Twitch 拒绝了令牌（已过期或无效）。
+Connexion refusée avec ce jeton.	使用此令牌的连接被拒绝。
+Bienvenue dans Velka	欢迎使用 Velka
+Tout installer	全部安装
+Installation en cours…	正在安装…
+La chaîne est hors ligne.	频道已离线。
+Pas de connexion à Twitch. Vérifiez votre réseau.	无法连接 Twitch。请检查你的网络。
+Le flux met trop de temps à démarrer.	直播流启动时间过长。
+Le flux s'est interrompu :	直播流已中断：
+arrêt inattendu	意外停止
+Impossible de lancer Streamlink :	无法启动 Streamlink：
+Préparation…	正在准备…
+Le rendu OpenGL n'est pas disponible.	OpenGL 渲染不可用。
+Aucun port local disponible.	没有可用的本地端口。
+Impossible de joindre GitHub :	无法连接 GitHub：
+Réponse GitHub illisible :	无法读取 GitHub 的响应：
+Aucune archive compatible dans la dernière version.	最新版本中没有兼容的压缩包。
+Téléchargement impossible :	下载失败：
+Écriture impossible :	写入失败：
+Téléchargement interrompu :	下载中断：
+Le fichier téléchargé est vide.	下载的文件为空。
+Recherche de la dernière version…	正在查找最新版本…
+Dossier inaccessible :	无法访问文件夹：
+Téléchargement…	正在下载…
+Extraction…	正在解压…
+Extraction impossible :	解压失败：
+Archive invalide :	压缩包无效：
+streamlink.exe introuvable dans l'archive.	压缩包中找不到 streamlink.exe。
+Structure d'archive inattendue.	压缩包结构异常。
+libmpv-2.dll introuvable dans l'archive.	压缩包中找不到 libmpv-2.dll。
+Installation impossible :	安装失败：
+Fichier installé introuvable ou vide.	已安装的文件缺失或为空。
+Installé	已安装
+Accessibilité	辅助功能
+Taille de l'interface	界面大小
+Mise à l'échelle	缩放
+Contraste élevé	高对比度
+Automatique	自动
+Activé	开
+Focus clavier renforcé	加强键盘焦点
+Couleurs	颜色
+Palette de couleurs	调色板
+Turquoise	青绿色
+Bleu	蓝色
+Vert	绿色
+Orange foncé	深橙色
+Rose	粉色
+Personnalisée	自定义
+Couleur d'accent personnalisée	自定义强调色
+Code couleur	颜色代码
+Rouge	红
+Exemple	示例
+Contraste du texte sur l'accent	强调色上文字的对比度
+Conforme	符合
+Insuffisant, minimum	不足，至少
+Couleur non appliquée : le contraste est trop faible.	未应用该颜色：对比度过低。
+Couleur conforme la plus proche :	最接近的合规颜色：
+Utiliser cette couleur	使用此颜色
+Rétablir les couleurs par défaut	恢复默认颜色
+Mises à jour	更新
+À jour	已是最新
+Mise à jour disponible	有可用更新
+Chemin personnalisé	自定义路径
+Version inconnue	版本未知
+Installée :	已安装：
+Disponible :	可用版本：
+Mise à jour en cours…	正在更新…
+Redémarrage nécessaire	需要重启
+Impossible de vérifier les mises à jour :	无法检查更新：
+Échec de la mise à jour, version précédente conservée :	更新失败，已保留之前的版本：
+Versions des composants non validées par l'éditeur.	组件版本未经发布者验证。
+Archive validée introuvable sur GitHub.	在 GitHub 上找不到已验证的压缩包。
+Adresse de téléchargement inattendue.	下载地址异常。
+Empreinte du fichier téléchargé incorrecte.	下载文件的校验值不匹配。
+Téléchargement refusé par le serveur.	服务器拒绝了下载。
+Fichier reçu invalide (taille ou empreinte différente).	收到的文件无效（大小或校验值不一致）。
+Serveur injoignable :	无法连接到服务器：
+Remplacement impossible :	替换失败：
+Relance impossible :	重新启动失败：
+Impossible de charger libmpv :	无法加载 libmpv：
+Fonction libmpv manquante :	缺少 libmpv 函数：
+Le lecteur n'a pas pu démarrer.	播放器无法启动。
+Initialisation du lecteur impossible :	播放器初始化失败：
+Rendu vidéo impossible :	视频渲染失败：
+Option du lecteur refusée :	播放器拒绝了选项：
+Propriété du lecteur refusée :	播放器拒绝了属性：
+Commande du lecteur refusée :	播放器拒绝了命令：
+Se connecter	登录
+Autres langues	其他语言
+Personnaliser	自定义
+Améliorer le contraste	提高对比度
+Replier le chat	收起聊天
+Afficher le chat	显示聊天
+Qualité maximale proposée par la chaîne, sans réduction.	频道提供的最高画质，不做缩减。
+Fenêtre PiP au format de la vidéo	画中画窗口匹配视频比例
+En mini-fenêtre PiP, la fenêtre prend le format du live pour supprimer les bandes noires.	在画中画小窗口中，窗口采用直播的画面比例，以消除黑边。
+spectateur	观众
+Actualisation en cours	正在刷新…
+Qualité	画质
+Redémarrer l'application	重启应用
+Passer	跳过
+Suivant	下一步
+C'est parti	开始吧
+Chat avec émotes	带表情的聊天
+Mini-lecteur et PiP	迷你播放器和画中画
+Choisissez votre style	选择你的风格
+Couleur d'accent	强调色
+Réglez la lecture	设置播放
+Restez informé	随时掌握动态
+Tout se règle aussi plus tard dans les Réglages.	之后都可以在设置中更改。
+Thème et couleur de l'application.	应用的主题和颜色。
+Les réglages les plus utiles, en un coup d'œil.	最实用的设置，一目了然。
+Ne ratez plus vos streamers préférés.	不再错过喜欢的主播。
+Ultra légère et optimisée, parfaite pour jouer en même temps.	超轻量且经过优化，边玩游戏边看也很流畅。
+Revoir le didacticiel	重新查看引导
+Le live démarre sans le son ; vous le réactivez quand vous voulez.	直播会静音开始，你可以随时打开声音。
+Agrandit ou réduit le texte des messages du chat.	放大或缩小聊天消息的文字。
+Affiche l'heure devant chaque message du chat.	在每条聊天消息前显示时间。
+Place le chat à gauche de la vidéo au lieu de la droite.	将聊天放在视频左侧而不是右侧。
+Favori	收藏
+Aucun favori pour le moment. Cherchez une chaîne puis choisissez « Ajouter aux favoris ».	还没有收藏。搜索频道后选择“添加到收藏”。
+Orange (par défaut)	橙色（默认）
+Retirer des favoris	从收藏中移除
+Connexion en cours	正在连接
+Audio du live uniquement	仅直播音频
+Lecteur au format de la vidéo	播放器采用视频比例
+Dans la fenêtre principale, l'image prend exactement le format du live (coins arrondis, sans bandes autour) et reste centrée.	在主窗口中，画面完全采用直播的比例（圆角，无黑边）并居中显示。
+Taille et place d'origine	原始大小和位置
+Chaîne ouverte au démarrage	启动时打开的频道
+Démarrage et fenêtre	启动和窗口
+Son live s'ouvre au lancement si elle est en direct. Sinon, l'accueil s'affiche normalement.	如果该频道正在直播，启动时会直接打开其直播。否则照常显示主页。
+Nom de la chaîne	频道名称
+Au lancement, si cette chaîne est en direct, son live s'ouvre directement dans le lecteur. Hors ligne ou introuvable, l'accueil s'affiche normalement.	启动时如果该频道正在直播，会直接在播放器中打开。离线或找不到时照常显示主页。
+Enregistrée	已保存
+En attente de messages…	正在等待消息…
+Confirmer la déconnexion	确认退出登录
+Affiche d'abord les lives qui ont le plus de spectateurs.	优先显示观众最多的直播。
+Affiche d'abord les lives qui ont le moins de spectateurs.	优先显示观众最少的直播。
+Éclaircit ou assombrit la couleur choisie pour que le texte reste lisible.	调亮或调暗所选颜色，使文字保持清晰可读。
+Spectateurs : décroissant	观众：降序
+Spectateurs : croissant	观众：升序
+5 s	5 秒
+10 s	10 秒
+Pour charger vos chaînes suivies, déconnectez-vous puis reconnectez-vous.	要加载你关注的频道，请先退出登录再重新登录。
+Reconnectez-vous dans Réglages pour afficher vos chaînes suivies sur Twitch.	请在设置中重新登录，以显示你在 Twitch 上关注的频道。
+Une page Twitch s'est ouverte. Vérifiez ce code, puis cliquez sur « Autoriser » :	已打开 Twitch 页面。请核对此代码，然后点击“授权”：
+Utilisée en ce moment : redémarrez l'application pour la mettre à jour.	正在使用中：请重启应用以更新。
+Réinitialiser remet les réglages, les favoris et l'historique à zéro. Les outils restent installés.	重置会将设置、收藏和历史记录恢复为初始状态。工具仍保持已安装。
+Désinstaller supprime les outils, les réglages, l'historique et le cache, puis ferme l'application.	卸载会删除工具、设置、历史记录和缓存，然后关闭应用。
+Tout remettre à zéro ? Réglages, favoris et historique seront perdus.	全部重置？设置、收藏和历史记录将丢失。
+Tout supprimer ? Outils, réglages, historique et cache seront effacés définitivement.	全部删除？工具、设置、历史记录和缓存将被永久清除。
+Ce jeton n'a pas le droit d'écrire dans le chat (chat:edit).	此令牌无权在聊天中发言（chat:edit）。
+Ils sont installés dans votre dossier utilisateur, sans droits administrateur.	它们安装在你的用户文件夹中，无需管理员权限。
+libmpv est introuvable. Réinstallez les outils depuis les réglages.	找不到 libmpv。请在设置中重新安装工具。
+Streamlink est introuvable. Réinstallez les outils depuis les réglages.	找不到 Streamlink。请在设置中重新安装工具。
+Afficher le menu	显示菜单
+Masquer le menu	隐藏菜单
+Chat réservé aux followers	仅限关注者的聊天
+Échec de la connexion.	连接失败。
+Connexion annulée	连接已取消
+Rapport de la dernière fermeture inattendue, sans donnée personnelle. Rien n'est envoyé automatiquement.	上次意外关闭的报告，不含个人数据。不会自动发送任何内容。
+Copier le rapport de plantage	复制崩溃报告
+Rapport copié.	报告已复制。
+Copier le diagnostic	复制诊断信息
+Diagnostic copié.	诊断信息已复制。
+Complet	完整
+Réduit	减少
+État et version de Streamlink et de libmpv, mise à jour, et chemins personnalisés (facultatifs) vers streamlink.exe et libmpv-2.dll.	Streamlink 和 libmpv 的状态与版本、更新，以及指向 streamlink.exe 和 libmpv-2.dll 的可选自定义路径。
+Ouvre le dossier du journal, copie le diagnostic (version, Windows, carte graphique, composants) ou le rapport de plantage local pour le support. Rien n'est envoyé automatiquement.	打开日志文件夹，并复制诊断信息（版本、Windows、显卡、组件）或本地崩溃报告以供支持使用。不会自动发送任何内容。
+À propos	关于
+Version de l'application	应用版本
+Décodage vidéo matériel (GPU)	硬件视频解码(GPU)
+Utile si la vidéo saccade ou si le processeur chauffe. « Automatique » : réglage d'origine de l'application. « Activé » : la carte graphique décode la vidéo, avec retour automatique au décodage normal si elle n'y arrive pas. « Désactivé » : décodage normal par le processeur. Le changement s'applique tout de suite : le live en cours est relancé.	视频卡顿或处理器发热时很有用。“自动”:应用的原始设置。“开启”:由显卡解码视频,失败时自动回退到常规解码。“关闭”:由处理器进行常规解码。更改立即生效:正在进行的直播将重新启动。
+Périphérique de sortie	输出设备
+Périphérique par défaut du système	系统默认设备
+Choisit le casque ou les enceintes pour le son des lives, sans changer le son de Windows. « Périphérique par défaut du système » suit le choix de Windows. Le changement s'applique tout de suite. Si le périphérique choisi disparaît (casque débranché), l'application revient au choix par défaut.	为直播声音选择耳机或扬声器,而不更改 Windows 的声音设置。“系统默认设备”跟随 Windows 的选择。更改立即生效。如果所选设备消失(耳机被拔出),应用会回到默认选择。
+Le périphérique audio choisi n'est plus disponible : retour au périphérique par défaut.	所选音频设备已不可用:已返回系统默认设备。
+Captures d'écran	屏幕截图
+Dossier d'enregistrement	保存文件夹
+Parcourir…	浏览…
+Ouvrir le dossier	打开文件夹
+Dossier où la touche S enregistre les captures d'écran. Par défaut : le dossier « Velka » de vos Images. Le dossier choisi doit accepter l'écriture ; s'il disparaît (disque débranché, dossier supprimé), l'application revient au dossier par défaut. Le changement s'applique à la prochaine capture.	按 S 键保存屏幕截图的文件夹。默认:“图片”中的“Velka”文件夹。所选文件夹必须允许写入;如果它消失(磁盘被拔出、文件夹被删除),应用会回到默认文件夹。更改将在下一次截图时生效。
+Le dossier des captures n'est plus disponible : retour au dossier par défaut.	截图文件夹已不可用:已返回默认文件夹。
+Ce dossier n'accepte pas l'écriture : choisissez-en un autre.	此文件夹不允许写入:请选择其他文件夹。
+Aucun	无
+Effacer un raccourci	清除快捷键
+Réduire dans la zone de notification à la fermeture	关闭时最小化到通知区域
+L'application reste active en fond pour les notifications	应用将在后台继续运行以发送通知
+La croix de fermeture cache la fenêtre dans la zone de notification (près de l'horloge) au lieu de quitter ; le live en cours est arrêté. Clic gauche sur l'icône : rouvrir. Clic droit : Ouvrir ou Quitter. Pour être prévenu quand un favori passe en direct, activez aussi « Notifications Windows ».	点击关闭按钮时，窗口会隐藏到通知区域（时钟旁）而不是退出；正在播放的直播会停止。左键单击图标可重新打开，右键单击可选择“打开”或“退出”。如需在收藏的主播开播时收到提醒，请同时开启“Windows 通知”。
+Ouvrir Velka	打开 Velka
+Quitter	退出
+Velka reste actif dans la zone de notification. Clic droit sur l'icône pour quitter.	Velka 仍在通知区域运行。右键单击图标可退出。
+Rechercher des mises à jour	检查更新
+Vous utilisez la dernière version.	你使用的已是最新版本。
+Mise à jour {version} disponible	有可用更新 {version}
+Impossible de se connecter. Vérifiez votre connexion internet.	无法连接。请检查网络连接。
+La recherche de mise à jour a échoué.	检查更新失败。
+Historique des chaînes	频道历史
+Effacer l'historique	清除历史记录
+Historique effacé.	历史记录已清除。
+Ouvrir le dossier de configuration	打开配置文件夹
+Options du lecteur	播放器选项
+Perso	自定义
+Durée personnalisée	自定义时长
+Ajuster uniquement la taille du texte du chat	仅调整聊天文字大小
+Ajuster la taille globale de l'interface	调整界面整体大小
+Connectez-vous à Twitch pour activer	登录 Twitch 后即可启用
+Pas de connexion Internet.	没有互联网连接。
+La connexion Internet s'est coupée.	互联网连接已断开。
+Licences des composants	组件许可证
+Le lecteur vidéo utilise libmpv (mpv) et FFmpeg, sous licence LGPL version 2.1 ou ultérieure. Vous pouvez remplacer libmpv par votre propre version dans {section}.	视频播放器使用 libmpv (mpv) 和 FFmpeg，许可证为 LGPL 2.1 或更高版本。你可以在“{section}”中将 libmpv 替换为自己的版本。
+Code source et compilation	源代码与构建脚本
+Velka n'a pas pu ouvrir sa fenêtre : la carte graphique ou son pilote ne prend pas en charge OpenGL 3.0. Mettez à jour le pilote de la carte graphique, puis relancez Velka. Sur un bureau à distance ou une machine virtuelle, l'affichage peut ne pas être pris en charge.	Velka 无法打开窗口：显卡或其驱动程序不支持 OpenGL 3.0。请更新显卡驱动程序，然后重新启动 Velka。在远程桌面或虚拟机中可能不支持显示。
+La carte graphique n'annonce pas OpenGL 3.0 : la vidéo peut rester noire. Mettez à jour le pilote de la carte graphique. Sur un bureau à distance ou une machine virtuelle, l'affichage peut ne pas être pris en charge.	显卡未报告 OpenGL 3.0：视频可能保持黑屏。请更新显卡驱动程序。在远程桌面或虚拟机中可能不支持显示。
+Démarrer avec macOS	随 macOS 启动
+Démarrer avec Linux	随 Linux 启动
+Lance Velka automatiquement quand vous ouvrez votre session macOS.	登录 macOS 时自动启动 Velka。
+Lance Velka automatiquement quand vous ouvrez votre session Linux.	登录 Linux 时自动启动 Velka。
+Notifications macOS	macOS 通知
+Notifications Linux	Linux 通知
+Affiche une notification macOS quand l'un de vos favoris passe en direct. L'application doit rester ouverte (elle peut être réduite).	收藏的频道开播时显示 macOS 通知。应用需要保持打开（可以最小化）。
+Affiche une notification Linux quand l'un de vos favoris passe en direct. L'application doit rester ouverte (elle peut être réduite).	收藏的频道开播时显示 Linux 通知。应用需要保持打开（可以最小化）。
+Multistream	多路直播
+Regardez jusqu'à 4 lives en même temps.	最多同时观看 4 个直播。
+Ajouter une chaîne	添加频道
+Ajouter	添加
+Tout arrêter	全部停止
+Cette chaîne est déjà affichée.	该频道已在显示。
+4 lives au maximum.	最多 4 个直播。
+Ajoutez une chaîne pour commencer.	添加一个频道即可开始。
+Retirer ce live	移除此直播
+Écouter ce live	收听此直播
+Cumuler le son des lives en Multistream	多路直播中叠加直播的声音
+Un clic sur un live ajoute son son au lieu de le remplacer	点击直播会添加其声音，而不是替换
+Sur la page Multistream, un clic sur un live fait entendre son son en plus de ceux déjà écoutés, jusqu'aux quatre lives. Le bouton du son de chaque live le coupe.	在多路直播页面，点击一个直播会在已收听的直播之外再播放它的声音，最多四个直播全部播放。每个直播的声音按钮可将其静音。
+Couper tous les sons	全部静音
+Lecteur Twitch léger avec multistream, chat et notifications.	轻量级 Twitch 播放器，支持多路直播、聊天和通知。
+Quelques composants sont nécessaires pour lire les lives Twitch.	播放 Twitch 直播需要一些组件。
+Logiciel libre sous licence GPL-3.0 ou ultérieure.	以 GPL-3.0 或更高版本许可证发布的自由软件。
+Application non affiliée à Twitch.	本应用与 Twitch 无关联。
+Code source sur GitHub	GitHub 上的源代码
+Soutenir le projet	支持本项目
+La connexion Twitch n'a pas pu être enregistrée de façon sécurisée (trousseau du système indisponible) : elle sera perdue à la fermeture de Velka.	无法安全保存 Twitch 登录（系统钥匙串不可用）：关闭 Velka 后登录将丢失。
+Velka est gratuit et le restera. Si l'application vous plaît, un petit don aide à la faire vivre.	Velka 免费，并将一直免费。如果你喜欢这个应用，一点小小的捐助能帮助它持续发展。
+Plus tard	稍后
+Rappel pour soutenir le projet	支持项目的提醒
+Affiche de temps en temps sur l'accueil, au plus une fois par mois, un message avec un lien pour soutenir le projet.	偶尔在主页显示一条带有支持项目链接的消息，每月最多一次。

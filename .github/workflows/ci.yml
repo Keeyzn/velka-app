@@ -1,0 +1,53 @@
+name: CI
+
+# Vérifications de chaque pull request et de chaque envoi sur main : clippy et tests (Windows et Linux).
+# Aucun secret, droits en lecture seule.
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  windows:
+    runs-on: windows-latest
+    steps:
+      # Actions épinglées par empreinte de commit (une étiquette mobile pourrait être redirigée vers du code modifié).
+      - uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4.3.1
+      - uses: dtolnay/rust-toolchain@39008827e6b4319a349e9a42dfc90579dd25f1ca # branche stable
+        with:
+          toolchain: stable
+          components: clippy
+      - uses: Swatinem/rust-cache@d1527c8f67ef9af357290475d4af4b0fab8f12e0 # v2.9.3
+      - name: Clippy
+        run: cargo clippy --workspace --all-targets -- -D warnings
+      - name: Tests
+        run: cargo test --workspace
+
+  linux:
+    runs-on: ubuntu-22.04
+    steps:
+      - uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4.3.1
+      - name: Bibliothèques de développement
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends pkg-config libxkbcommon-dev libwayland-dev libx11-dev \
+            libxcursor-dev libxrandr-dev libxi-dev libgl1-mesa-dev libdbus-1-dev
+      - uses: dtolnay/rust-toolchain@39008827e6b4319a349e9a42dfc90579dd25f1ca # branche stable
+        with:
+          toolchain: stable
+          components: clippy
+      - uses: Swatinem/rust-cache@d1527c8f67ef9af357290475d4af4b0fab8f12e0 # v2.9.3
+      - name: Clippy
+        run: cargo clippy --workspace --all-targets -- -D warnings
+      # Le trousseau du bureau n'existe pas sur la machine de CI : les essais utilisent un fichier de clé à part.
+      - name: Tests
+        env:
+          VELKA_TROUSSEAU: ${{ runner.temp }}/essai-secrets.key
+        run: cargo test --workspace

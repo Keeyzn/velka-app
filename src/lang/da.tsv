@@ -1,0 +1,535 @@
+Aide	Hjælp
+Réduire	Minimer
+Agrandir	Maksimer
+Restaurer	Gendan
+Fermer	Luk
+Échap	Esc
+Français	Fransk
+Anglais	Engelsk
+Espagnol	Spansk
+Portugais	Portugisisk
+Allemand	Tysk
+Italien	Italiensk
+Néerlandais	Nederlandsk
+Polonais	Polsk
+Russe	Russisk
+Ukrainien	Ukrainsk
+Turc	Tyrkisk
+Vietnamien	Vietnamesisk
+Indonésien	Indonesisk
+Chinois simplifié	Forenklet kinesisk
+Chinois traditionnel	Traditionelt kinesisk
+Japonais	Japansk
+Coréen	Koreansk
+Tchèque	Tjekkisk
+Roumain	Rumænsk
+Hongrois	Ungarsk
+Suédois	Svensk
+Danois	Dansk
+Norvégien	Norsk
+Finnois	Finsk
+Grec	Græsk
+Annuler	Annuller
+spectateurs	seere
+Hors ligne	Offline
+Cette chaîne n'existe pas.	Kanalen findes ikke.
+Statut indisponible, vous pouvez quand même essayer.	Status er ikke tilgængelig, men du kan prøve alligevel.
+Accueil	Start
+En direct	Live
+chaînes	kanaler
+Favoris	Favoritter
+Spectateurs	Seere
+au total	i alt
+Résultat	Resultat
+Vérification…	Kontrollerer…
+Regarder	Se
+Nom de chaîne invalide.	Ugyldigt kanalnavn.
+En direct parmi vos favoris	Live blandt dine favoritter
+Aucun favori en direct pour le moment.	Ingen favoritter sender lige nu.
+Récents	Seneste
+Retirer de l'historique	Fjern fra historikken
+Rechercher	Søg
+Plateforme	Platform
+Réglages	Indstillinger
+Quitter le PiP	Afslut PiP
+Reprise dans un instant…	Fortsætter om et øjeblik…
+Retour	Tilbage
+Arrêter	Stop
+Quitter le plein écran	Afslut fuld skærm
+Plein écran	Fuld skærm
+Lecture	Afspil
+Réactiver le son	Slå lyd til
+Couper le son	Slå lyd fra
+Chat	Chat
+Changement de qualité…	Skifter kvalitet…
+Réessayer	Prøv igen
+depuis	siden
+connexion…	forbinder…
+changement de qualité…	skifter kvalitet…
+interrompu	afbrudt
+Lecture vidéo	Videoafspilning
+Qualité par défaut	Standardkvalitet
+Faible latence	Lav forsinkelse
+Désactiver pour un flux plus stable	Slå fra for en mere stabil stream
+Réduire la barre latérale	Skjul sidepanelet
+Agrandir la barre latérale	Udvid sidepanelet
+Chat à gauche de la vidéo	Chat til venstre for videoen
+Toujours au premier plan	Altid øverst
+Chat en surimpression en plein écran	Chat over videoen i fuld skærm
+Apparence	Udseende
+Général	Generelt
+Thème	Tema
+Langue	Sprog
+Sombre	Skifer
+Dark	Mørkt
+Clair	Lyst
+Compte Twitch	Twitch-konto
+Connecté en tant que	Logget ind som
+Vous pouvez écrire dans le chat.	Du kan skrive i chatten.
+chaînes suivies sur Twitch chargées.	fulgte Twitch-kanaler indlæst.
+Impossible de charger vos chaînes suivies pour le moment.	Dine fulgte kanaler kan ikke indlæses lige nu.
+Chargement de vos chaînes suivies…	Indlæser dine fulgte kanaler…
+En direct parmi vos chaînes suivies sur Twitch	Live blandt dine fulgte Twitch-kanaler
+Suivies sur Twitch	Fulgt på Twitch
+Prévient quand un favori passe en direct	Giver besked, når en favorit går live
+Activé : vos favoris sont vérifiés toutes les minutes en arrière-plan, même pendant un live. Cela utilise un peu plus d'internet et de mémoire.	Til: dine favoritter tjekkes hvert minut i baggrunden, også mens du ser. Det bruger lidt mere internet og hukommelse.
+Chaînes dans la barre latérale	Kanaler i sidepanelet
+Chaînes sur l'accueil	Kanaler på startsiden
+Qualité utilisée à l'ouverture d'un live. « Source » est la qualité maximale de la chaîne ; « Audio » ne joue que le son.	Kvalitet, når en stream åbnes. "Source" er kanalens højeste kvalitet; "Audio" afspiller kun lyden.
+Réduit le retard entre le streamer et vous. Désactivez-le si la vidéo saccade ou se coupe.	Mindsker forsinkelsen til streameren. Slå fra, hvis videoen hakker eller falder ud.
+Garde la fenêtre devant toutes les autres applications.	Holder vinduet foran alle andre apps.
+Affiche le chat par-dessus la vidéo quand vous êtes en plein écran.	Viser chatten over videoen i fuld skærm.
+Faire rouler la molette au-dessus de la vidéo monte ou baisse le volume.	Musehjulet over videoen skruer op eller ned for lyden.
+Un clic sur la vidéo met en pause ou relance la lecture.	Et klik på videoen sætter på pause eller fortsætter afspilningen.
+Garde un niveau sonore régulier (normalisation du son) : relève les passages faibles et atténue les passages forts, d'une chaîne à l'autre et au sein d'un même live.	Holder lydniveauet jævnt (lydnormalisering): løfter svage passager og dæmper høje, både mellem kanaler og inden for samme live.
+Vitesse de la molette dans les listes et dans le chat. À 1,0 ×, un cran de molette fait défiler 3 lignes de 75 px, de façon fluide.	Musehjulets hastighed i lister og i chatten. Ved 1,0 × ruller et hak blødt 3 linjer á 75 px.
+À chaque lancement, l'application démarre avec le volume choisi ci-dessous, au lieu du dernier volume réglé.	Ved hver start bruger appen lydstyrken valgt nedenfor i stedet for den sidst indstillede.
+100 % = volume normal. 130 % permet d'amplifier une chaîne trop silencieuse, mais le son peut saturer.	100 % = normal lydstyrke. 130 % forstærker en for stille kanal, men lyden kan blive forvrænget.
+Temps sans bouger la souris avant que les boutons posés sur la vidéo disparaissent.	Tid uden musebevægelse, før knapperne over videoen forsvinder.
+Quand vous quittez la page d'un live avec « Retour », il continue dans une petite fenêtre en bas à droite. Désactivé : il s'arrête.	Når du forlader en streams side med "Tilbage", fortsætter den i et lille vindue nederst til højre. Fra: den stopper.
+Fréquence à laquelle l'accueil vérifie quelles chaînes sont en direct. Plus c'est rapide, plus cela utilise internet. « Manuelle » : seulement avec le bouton Actualiser.	Hvor ofte startsiden tjekker, hvilke kanaler der sender. Jo oftere, jo mere internet. "Manuel": kun med knappen Opdater.
+Télécharge une image du direct pour chaque carte. Désactivez pour économiser des données.	Henter et billede fra streamen til hvert kort. Slå fra for at spare data.
+Les chaînes que vous suivez sur votre compte Twitch (il faut être connecté dans la carte « Compte Twitch »).	De kanaler, du følger på din Twitch-konto (du skal være logget ind i kortet "Twitch-konto").
+Nombre maximum de chaînes Twitch en direct listées dans la barre de gauche (ce n'est pas un délai).	Højeste antal live Twitch-kanaler i venstre panel (ikke en tid).
+Nombre maximum de chaînes Twitch en direct affichées sur la page d'accueil (ce n'est pas un délai).	Højeste antal live Twitch-kanaler på startsiden (ikke en tid).
+Garde le jeu sélectionné dans la barre « Jeux en direct » au prochain lancement.	Husker spillet valgt i bjælken "Live spil" til næste start.
+Ouvrir : le live s'affiche en grand. PiP : il s'ouvre directement dans une petite fenêtre flottante.	Åbn: streamen vises stort. PiP: den åbner direkte i et lille svævende vindue.
+Les messages qui contiennent un de ces mots (séparés par des virgules) sont surlignés en jaune dans le chat.	Beskeder med et af disse ord (adskilt med komma) fremhæves med gult i chatten.
+Quand une chaîne est hors ligne ou que son live se termine, propose d'autres lives : vos chaînes suivies du même jeu d'abord.	Når en kanal er offline, eller streamen slutter, foreslås andre streams: først dine fulgte kanaler med samme spil.
+Nombre de chaînes proposées quand un live est hors ligne ou terminé.	Antal foreslåede kanaler, når en stream er offline eller slut.
+Les boutons latéraux de la souris changent de page, comme dans un navigateur. Alt + flèche gauche ou droite fait pareil.	Musens sideknapper skifter side, som i en browser. Alt + venstre- eller højrepil gør det samme.
+Le pointeur devient une main au-dessus des boutons et des cartes.	Markøren bliver til en hånd over knapper og kort.
+Complet : fondus, glissements, cascades et compteurs animés. Réduit : fondus et changements de couleur seulement, sans déplacement. Désactivé : aucune animation (utile sur un ordinateur lent). Le réglage d'animations de Windows n'est pas pris en compte.	Fuld: toninger, glidende bevægelser, kaskader og animerede tællere. Reduceret: kun toninger og farveskift, uden bevægelse. Deaktiveret: ingen animationer (nyttigt på en langsom computer). Windows’ animationsindstilling tages ikke i betragtning.
+Affiche une notification Windows quand l'un de vos favoris passe en direct. L'application doit rester ouverte (elle peut être réduite).	Viser en Windows-meddelelse, når en af dine favoritter går live. Appen skal være åben (den må være minimeret).
+Lance Velka automatiquement quand vous ouvrez votre session Windows.	Starter Velka automatisk, når du logger på Windows.
+Photos de profil et émotes déjà téléchargées. Les vider libère de la place ; elles se retéléchargent au besoin.	Profilbilleder og emotes, der allerede er hentet. Tømning frigør plads; de hentes igen efter behov.
+Notifications Windows	Windows-meddelelser
+Prévient quand un favori passe en direct. Vérifie vos favoris toutes les minutes, même pendant un live : utilise un peu plus d'internet et de mémoire.	Giver besked, når en favorit går live. Tjekker dine favoritter hvert minut, også mens du ser: bruger lidt mere internet og hukommelse.
+Envoyer une notification de test	Send en testmeddelelse
+est en direct	er live
+Notification de test : tout fonctionne.	Testmeddelelse: alt virker.
+Volume et lecteur	Lydstyrke og afspiller
+Démarrer en muet	Start uden lyd
+Volume fixe au lancement	Fast lydstyrke ved start
+Sinon : le dernier volume utilisé	Ellers: den senest brugte lydstyrke
+Volume au lancement	Lydstyrke ved start
+Volume maximum	Maks. lydstyrke
+Masquage des contrôles	Skjul knapperne efter
+Jamais	Aldrig
+Capture d'écran	Skærmbillede
+Infos techniques	Teknisk info
+Capture enregistrée :	Skærmbillede gemt:
+Capture impossible.	Skærmbilledet mislykkedes.
+Minuteur de veille	Sleep-timer
+Désactivé	Fra
+Arrêt du live dans	Streamen stopper om
+logiciel	software
+Résolution	Opløsning
+Images par seconde	Billeder pr. sekund
+Débit vidéo	Videobithastighed
+Débit audio	Lydbithastighed
+Images perdues	Tabte billeder
+Images perdues au décodage	Billeder tabt ved afkodning
+Mémoire tampon	Buffer
+Format vidéo	Videoformat
+Décodage	Afkodning
+Arrête le live automatiquement après la durée choisie, à partir du moment où vous changez ce réglage. Une minute avant, un compte à rebours s'affiche sur la vidéo. Le minuteur revient sur Désactivé à chaque nouveau live et à chaque lancement de l'application.	Stopper livestreamen automatisk efter den valgte varighed, regnet fra det øjeblik du ændrer indstillingen. Et minut før vises en nedtælling på videoen. Timeren vender tilbage til Deaktiveret ved hver ny livestream og ved hver start af appen.
+Émotes 7TV, BTTV et FFZ	Emotes fra 7TV, BTTV og FFZ
+Émotes animées	Animerede emotes
+Badges du chat	Chatmærker
+Affiche les émotes des extensions 7TV, BetterTTV et FrankerFaceZ (globales et propres à la chaîne). Elles sont chargées à l'ouverture du live.	Viser emotes fra udvidelserne 7TV, BetterTTV og FrankerFaceZ (globale og kanalens egne). De indlæses, når streamen åbnes.
+Anime les émotes qui le sont (Twitch et extensions). Utilise un peu plus le processeur quand le chat en affiche.	Animerer animerede emotes (Twitch og udvidelser). Bruger processoren lidt mere, når chatten viser dem.
+Affiche les badges (abonné, modérateur, VIP…) devant les pseudos.	Viser mærker (abonnent, moderator, VIP…) foran navnene.
+Netteté de l'image	Billedskarphed
+Agrandissement de haute qualité	Opskalering i høj kvalitet
+Désactivée	Fra
+Légère	Let
+Moyenne	Middel
+Forte	Kraftig
+Image plus fine en 480p et 720p	Finere billede i 480p og 720p
+Renforce les contours de l'image (calculé par la carte graphique). Utile sur un flux flou ; trop fort, l'image paraît granuleuse.	Fremhæver billedets konturer (beregnes af grafikkortet). Nyttigt ved en sløret stream; for kraftig giver et kornet billede.
+Utilise un filtre d'agrandissement plus fin quand la vidéo est plus petite que la fenêtre (480p, 720p). Demande davantage à la carte graphique.	Bruger et finere opskaleringsfilter, når videoen er mindre end vinduet (480p, 720p). Kræver mere af grafikkortet.
+Compte	Konto
+Qualité et flux	Kvalitet og stream
+Audio	Lyd
+Lecteur et comportement	Afspiller og adfærd
+Affichage et lisibilité	Visning og læsbarhed
+Filtrage et alertes	Filtrering og advarsler
+Notifications	Notifikationer
+Avancé et Système	Avanceret og system
+Stockage et configuration	Lager og konfiguration
+Émotes et badges	Emotes og mærker
+Les changements s'appliquent tout de suite.	Ændringer træder i kraft med det samme.
+2,5 s	2,5 s
+Mo	MB
+Ko	KB
+Rechercher un réglage	Søg efter en indstilling
+Résultats de la recherche	Søgeresultater
+Aucun réglage trouvé.	Ingen indstilling fundet.
+Mini-lecteur	Miniafspiller
+Garder le live dans un coin quand on quitte la page	Behold streamen i et hjørne, når du forlader siden
+Accueil et barre latérale	Startside og sidepanel
+Actualisation	Opdatering
+Manuelle	Manuel
+Actualiser	Opdater
+Aperçus des lives	Forhåndsvisninger
+Images du direct sur les cartes	Livebilleder på kortene
+Chaînes suivies sur Twitch	Fulgte Twitch-kanaler
+Dans la barre latérale, sur l'accueil et dans les recommandations	I sidepanelet, på startsiden og i anbefalingerne
+Dans la barre latérale	I sidepanelet
+Sur l'accueil	På startsiden
+Se souvenir du jeu choisi	Husk det valgte spil
+Clic sur une carte	Klik på et kort
+Ouvrir	Åbn
+Taille du texte	Tekststørrelse
+Masquer les bots	Skjul bots
+Horodatage des messages	Tidspunkt for beskeder
+Mots surlignés	Fremhævede ord
+mot, pseudo… (séparés par des virgules)	ord, navn… (adskilt med komma)
+Recommandations	Anbefalinger
+Recommandations de chaînes	Anbefalede kanaler
+Proposer des chaînes quand un live est hors ligne ou terminé	Foreslå kanaler, når en stream er offline eller slut
+Nombre de recommandations	Antal anbefalinger
+Mouvement et lisibilité	Bevægelse og læsbarhed
+Navigation et souris	Navigation og mus
+Vérification des mises à jour	Søgning efter opdateringer
+Nouvelle version disponible :	Ny version tilgængelig:
+Mettre à jour	Opdater
+Téléchargement de la mise à jour…	Henter opdateringen…
+Mise à jour impossible :	Opdateringen mislykkedes:
+Boutons Précédent / Suivant de la souris	Musens Tilbage / Frem-knapper
+Main sur les éléments cliquables	Hånd over klikbare elementer
+Animations	Animationer
+Raccourcis clavier	Tastaturgenveje
+Appuyez sur une touche…	Tryk på en tast…
+Rétablir les raccourcis	Nulstil genveje
+Raccourcis non modifiables	Faste genveje
+Quitter le plein écran, le PiP ou le live	Forlad fuldskærm, PiP eller livestream
+Rechercher une chaîne	Søg efter en kanal
+Zoom de l'interface	Zoom på grænsefladen
+Page précédente / suivante	Forrige / næste side
+Pause / lecture	Pause / afspil
+Volume +	Lydstyrke +
+Volume -	Lydstyrke -
+Afficher / masquer le chat	Vis / skjul chatten
+Image dans l'image	Billede i billede
+Système	System
+Démarrer avec Windows	Start med Windows
+Ouvre l'application à l'ouverture de session	Åbner appen ved logon
+Cache des images	Billedcache
+Vider	Tøm
+Espace	Mellemrum
+Flèche haut	Pil op
+Flèche bas	Pil ned
+Flèche gauche	Venstrepil
+Flèche droite	Højrepil
+Entrée	Enter
+Jeux en direct	Live spil
+Aucun live pour ce jeu en ce moment.	Ingen stream af dette spil lige nu.
+Chaînes recommandées	Anbefalede kanaler
+Ajouter aux favoris	Føj til favoritter
+Se déconnecter	Log ud
+En attente de votre accord sur Twitch…	Venter på din godkendelse på Twitch…
+Rouvrir la page Twitch	Åbn Twitch-siden igen
+Connexion à Twitch…	Opretter forbindelse til Twitch…
+Connectez-vous pour écrire dans le chat.	Log ind for at skrive i chatten.
+Se connecter avec Twitch	Log ind med Twitch
+La connexion Twitch n'est pas disponible dans cette version.	Login med Twitch er ikke tilgængeligt i denne version.
+Connexion refusée sur Twitch.	Login afvist på Twitch.
+Le code a expiré, recommencez.	Koden er udløbet, start forfra.
+Twitch a refusé la connexion.	Twitch afviste login.
+Impossible de joindre Twitch. Vérifiez votre connexion.	Kan ikke nå Twitch. Kontrollér din forbindelse.
+Twitch a refusé la demande de connexion.	Twitch afviste loginanmodningen.
+Composants externes	Eksterne komponenter
+Non installé	Ikke installeret
+Prêt	Klar
+Installer	Installer
+Chemins personnalisés (facultatif)	Egne stier (valgfrit)
+Journaux et diagnostic	Logfiler og diagnostik
+Volume	Lydstyrke
+Molette de la souris sur la vidéo = volume	Musehjul på videoen = lydstyrke
+Clic sur la vidéo = pause	Klik på videoen = pause
+Volume stable	Stabil lydstyrke
+Limite les écarts de volume entre les chaînes	Begrænser forskelle i lydstyrke mellem kanaler
+Vitesse de défilement	Rullehastighed
+Résultats	Resultater
+Zone de réinitialisation	Nulstillingszone
+Réinitialiser	Nulstil
+Désinstaller	Afinstaller
+Oui, réinitialiser	Ja, nulstil
+Oui, désinstaller	Ja, afinstaller
+Ouvrir le dossier du journal	Åbn mappen med loggen
+Connexion au chat…	Opretter forbindelse til chatten…
+Chat connecté	Chat forbundet
+Reconnexion du chat	Chatten genopretter forbindelse
+Envoyer un message	Send en besked
+Jeton requis pour écrire (Réglages)	Token kræves for at skrive (Indstillinger)
+Revenir en bas	Tilbage til bunden
+Réponse de Twitch inattendue pour ce jeton.	Uventet svar fra Twitch for dette token.
+Jeton refusé par Twitch (expiré ou invalide).	Twitch afviste tokenet (udløbet eller ugyldigt).
+Connexion refusée avec ce jeton.	Forbindelse afvist med dette token.
+Bienvenue dans Velka	Velkommen til Velka
+Tout installer	Installer alt
+Installation en cours…	Installerer…
+La chaîne est hors ligne.	Kanalen er offline.
+Pas de connexion à Twitch. Vérifiez votre réseau.	Ingen forbindelse til Twitch. Kontrollér dit netværk.
+Le flux met trop de temps à démarrer.	Streamen er for længe om at starte.
+Le flux s'est interrompu :	Streamen blev afbrudt:
+arrêt inattendu	uventet stop
+Impossible de lancer Streamlink :	Streamlink kunne ikke starte:
+Préparation…	Forbereder…
+Le rendu OpenGL n'est pas disponible.	OpenGL-gengivelse er ikke tilgængelig.
+Aucun port local disponible.	Ingen lokal port tilgængelig.
+Impossible de joindre GitHub :	Kan ikke nå GitHub:
+Réponse GitHub illisible :	Ulæseligt svar fra GitHub:
+Aucune archive compatible dans la dernière version.	Intet passende arkiv i den seneste version.
+Téléchargement impossible :	Download mislykkedes:
+Écriture impossible :	Skrivning mislykkedes:
+Téléchargement interrompu :	Download afbrudt:
+Le fichier téléchargé est vide.	Den hentede fil er tom.
+Recherche de la dernière version…	Søger efter den seneste version…
+Dossier inaccessible :	Mappen er ikke tilgængelig:
+Téléchargement…	Henter…
+Extraction…	Pakker ud…
+Extraction impossible :	Udpakning mislykkedes:
+Archive invalide :	Ugyldigt arkiv:
+streamlink.exe introuvable dans l'archive.	streamlink.exe blev ikke fundet i arkivet.
+Structure d'archive inattendue.	Uventet arkivstruktur.
+libmpv-2.dll introuvable dans l'archive.	libmpv-2.dll blev ikke fundet i arkivet.
+Installation impossible :	Installationen mislykkedes:
+Fichier installé introuvable ou vide.	Den installerede fil mangler eller er tom.
+Installé	Installeret
+Accessibilité	Tilgængelighed
+Taille de l'interface	Størrelse på grænsefladen
+Mise à l'échelle	Skalering
+Contraste élevé	Høj kontrast
+Automatique	Automatisk
+Activé	Til
+Focus clavier renforcé	Forstærket tastaturfokus
+Couleurs	Farver
+Palette de couleurs	Farvepalet
+Turquoise	Turkis
+Bleu	Blå
+Vert	Grøn
+Orange foncé	Mørk orange
+Rose	Pink
+Personnalisée	Brugerdefineret
+Couleur d'accent personnalisée	Brugerdefineret accentfarve
+Code couleur	Farvekode
+Rouge	Rød
+Exemple	Eksempel
+Contraste du texte sur l'accent	Tekstkontrast på accentfarven
+Conforme	Opfylder kravet
+Insuffisant, minimum	Utilstrækkelig, minimum
+Couleur non appliquée : le contraste est trop faible.	Farven er ikke anvendt: kontrasten er for lav.
+Couleur conforme la plus proche :	Nærmeste farve der opfylder kravet:
+Utiliser cette couleur	Brug denne farve
+Rétablir les couleurs par défaut	Gendan standardfarver
+Mises à jour	Opdateringer
+À jour	Opdateret
+Mise à jour disponible	Opdatering tilgængelig
+Chemin personnalisé	Brugerdefineret sti
+Version inconnue	Ukendt version
+Installée :	Installeret:
+Disponible :	Tilgængelig:
+Mise à jour en cours…	Opdaterer…
+Redémarrage nécessaire	Genstart påkrævet
+Impossible de vérifier les mises à jour :	Kunne ikke søge efter opdateringer:
+Échec de la mise à jour, version précédente conservée :	Opdateringen mislykkedes, forrige version bevaret:
+Versions des composants non validées par l'éditeur.	Komponentversionerne er ikke godkendt af udgiveren.
+Archive validée introuvable sur GitHub.	Det godkendte arkiv blev ikke fundet på GitHub.
+Adresse de téléchargement inattendue.	Uventet downloadadresse.
+Empreinte du fichier téléchargé incorrecte.	Den downloadede fils kontrolsum stemmer ikke.
+Téléchargement refusé par le serveur.	Serveren afviste download.
+Fichier reçu invalide (taille ou empreinte différente).	Den modtagne fil er ugyldig (størrelsen eller kontrolsummen stemmer ikke).
+Serveur injoignable :	Serveren kan ikke nås:
+Remplacement impossible :	Udskiftning mislykkedes:
+Relance impossible :	Genstart mislykkedes:
+Impossible de charger libmpv :	libmpv kunne ikke indlæses:
+Fonction libmpv manquante :	En libmpv-funktion mangler:
+Le lecteur n'a pas pu démarrer.	Afspilleren kunne ikke starte.
+Initialisation du lecteur impossible :	Afspilleren kunne ikke initialiseres:
+Rendu vidéo impossible :	Videoen kunne ikke vises:
+Option du lecteur refusée :	Afspilleren afviste indstillingen:
+Propriété du lecteur refusée :	Afspilleren afviste egenskaben:
+Commande du lecteur refusée :	Afspilleren afviste kommandoen:
+Se connecter	Log ind
+Autres langues	Andre sprog
+Personnaliser	Tilpas
+Améliorer le contraste	Forbedr kontrasten
+Replier le chat	Skjul chat
+Afficher le chat	Vis chat
+Qualité maximale proposée par la chaîne, sans réduction.	Højeste kvalitet, kanalen tilbyder, uden nedskalering.
+Fenêtre PiP au format de la vidéo	PiP-vindue i videoens format
+En mini-fenêtre PiP, la fenêtre prend le format du live pour supprimer les bandes noires.	I PiP-minivinduet får vinduet livestreamens format, så de sorte bånd forsvinder.
+spectateur	seer
+Actualisation en cours	Opdaterer…
+Qualité	Kvalitet
+Redémarrer l'application	Genstart appen
+Passer	Spring over
+Suivant	Næste
+C'est parti	Kom i gang
+Chat avec émotes	Chat med emotes
+Mini-lecteur et PiP	Miniafspiller og PiP
+Choisissez votre style	Vælg din stil
+Couleur d'accent	Accentfarve
+Réglez la lecture	Indstil afspilning
+Restez informé	Hold dig opdateret
+Tout se règle aussi plus tard dans les Réglages.	Du kan ændre alt senere i Indstillinger.
+Thème et couleur de l'application.	Tema og farve i appen.
+Les réglages les plus utiles, en un coup d'œil.	De mest nyttige indstillinger med ét blik.
+Ne ratez plus vos streamers préférés.	Gå aldrig glip af dine yndlingsstreamere.
+Ultra légère et optimisée, parfaite pour jouer en même temps.	Ultralet og optimeret, perfekt til at spille samtidig.
+Revoir le didacticiel	Se introduktionen igen
+Le live démarre sans le son ; vous le réactivez quand vous voulez.	Livestreamen starter uden lyd; du kan slå lyden til, når du vil.
+Agrandit ou réduit le texte des messages du chat.	Gør teksten i chatbeskeder større eller mindre.
+Affiche l'heure devant chaque message du chat.	Viser klokkeslættet foran hver chatbesked.
+Place le chat à gauche de la vidéo au lieu de la droite.	Placerer chatten til venstre for videoen i stedet for til højre.
+Favori	Favorit
+Aucun favori pour le moment. Cherchez une chaîne puis choisissez « Ajouter aux favoris ».	Ingen favoritter endnu. Søg efter en kanal, og vælg „Tilføj til favoritter“.
+Orange (par défaut)	Orange (standard)
+Retirer des favoris	Fjern fra favoritter
+Connexion en cours	Opretter forbindelse
+Audio du live uniquement	Kun lyd fra livestreamen
+Lecteur au format de la vidéo	Afspiller i videoens format
+Dans la fenêtre principale, l'image prend exactement le format du live (coins arrondis, sans bandes autour) et reste centrée.	I hovedvinduet får billedet præcis livestreamens format (afrundede hjørner, ingen bjælker) og står centreret.
+Taille et place d'origine	Oprindelig størrelse og placering
+Chaîne ouverte au démarrage	Kanal åbnet ved start
+Démarrage et fenêtre	Start og vindue
+Son live s'ouvre au lancement si elle est en direct. Sinon, l'accueil s'affiche normalement.	Dens livestream åbner ved start, hvis kanalen er live. Ellers vises forsiden som normalt.
+Nom de la chaîne	Kanalnavn
+Au lancement, si cette chaîne est en direct, son live s'ouvre directement dans le lecteur. Hors ligne ou introuvable, l'accueil s'affiche normalement.	Hvis kanalen er live ved start, åbnes streamen direkte i afspilleren. Offline eller ikke fundet: forsiden vises som normalt.
+Enregistrée	Gemt
+En attente de messages…	Venter på beskeder…
+Confirmer la déconnexion	Bekræft log ud
+Affiche d'abord les lives qui ont le plus de spectateurs.	Viser først de lives, der har flest seere.
+Affiche d'abord les lives qui ont le moins de spectateurs.	Viser først de lives, der har færrest seere.
+Éclaircit ou assombrit la couleur choisie pour que le texte reste lisible.	Gør den valgte farve lysere eller mørkere, så teksten forbliver læselig.
+Spectateurs : décroissant	Seere: faldende
+Spectateurs : croissant	Seere: stigende
+5 s	5 s
+10 s	10 s
+Pour charger vos chaînes suivies, déconnectez-vous puis reconnectez-vous.	For at indlæse dine fulgte kanaler skal du logge ud og ind igen.
+Reconnectez-vous dans Réglages pour afficher vos chaînes suivies sur Twitch.	Log ind igen under Indstillinger for at vise dine fulgte kanaler på Twitch.
+Une page Twitch s'est ouverte. Vérifiez ce code, puis cliquez sur « Autoriser » :	En Twitch-side er åbnet. Kontrollér denne kode, og klik på “Godkend”:
+Utilisée en ce moment : redémarrez l'application pour la mettre à jour.	Bruges lige nu: genstart appen for at opdatere den.
+Réinitialiser remet les réglages, les favoris et l'historique à zéro. Les outils restent installés.	Nulstil sætter indstillinger, favoritter og historik tilbage til nul. Værktøjerne forbliver installeret.
+Désinstaller supprime les outils, les réglages, l'historique et le cache, puis ferme l'application.	Afinstallér sletter værktøjer, indstillinger, historik og cache og lukker derefter appen.
+Tout remettre à zéro ? Réglages, favoris et historique seront perdus.	Nulstille alt? Indstillinger, favoritter og historik går tabt.
+Tout supprimer ? Outils, réglages, historique et cache seront effacés définitivement.	Slette alt? Værktøjer, indstillinger, historik og cache slettes permanent.
+Ce jeton n'a pas le droit d'écrire dans le chat (chat:edit).	Dette token har ikke tilladelse til at skrive i chatten (chat:edit).
+Ils sont installés dans votre dossier utilisateur, sans droits administrateur.	De installeres i din brugermappe uden administratorrettigheder.
+libmpv est introuvable. Réinstallez les outils depuis les réglages.	libmpv blev ikke fundet. Geninstaller værktøjerne fra indstillingerne.
+Streamlink est introuvable. Réinstallez les outils depuis les réglages.	Streamlink blev ikke fundet. Geninstaller værktøjerne fra indstillingerne.
+Afficher le menu	Vis menu
+Masquer le menu	Skjul menu
+Chat réservé aux followers	Chat kun for følgere
+Échec de la connexion.	Forbindelsen mislykkedes.
+Connexion annulée	Forbindelsen blev annulleret
+Rapport de la dernière fermeture inattendue, sans donnée personnelle. Rien n'est envoyé automatiquement.	Rapport fra den seneste uventede lukning, uden personlige data. Intet sendes automatisk.
+Copier le rapport de plantage	Kopiér nedbrudsrapporten
+Rapport copié.	Rapporten er kopieret.
+Copier le diagnostic	Kopiér diagnostik
+Diagnostic copié.	Diagnostik kopieret.
+Complet	Fuld
+Réduit	Reduceret
+État et version de Streamlink et de libmpv, mise à jour, et chemins personnalisés (facultatifs) vers streamlink.exe et libmpv-2.dll.	Status og version af Streamlink og libmpv, opdatering og valgfrie egne stier til streamlink.exe og libmpv-2.dll.
+Ouvre le dossier du journal, copie le diagnostic (version, Windows, carte graphique, composants) ou le rapport de plantage local pour le support. Rien n'est envoyé automatiquement.	Åbner logmappen, kopierer diagnostikken (version, Windows, grafikkort, komponenter) eller den lokale nedbrudsrapport til support. Intet sendes automatisk.
+À propos	Om
+Version de l'application	Appens version
+Décodage vidéo matériel (GPU)	Hardwareaccelereret videoafkodning (GPU)
+Utile si la vidéo saccade ou si le processeur chauffe. « Automatique » : réglage d'origine de l'application. « Activé » : la carte graphique décode la vidéo, avec retour automatique au décodage normal si elle n'y arrive pas. « Désactivé » : décodage normal par le processeur. Le changement s'applique tout de suite : le live en cours est relancé.	Hjælper, hvis videoen hakker, eller processoren bliver varm. “Automatisk”: programmets oprindelige indstilling. “Til”: grafikkortet afkoder videoen, med automatisk tilbagevenden til normal afkodning, hvis det mislykkes. “Fra”: normal afkodning med processoren. Ændringen gælder med det samme: den igangværende live genstartes.
+Périphérique de sortie	Udgangsenhed
+Périphérique par défaut du système	Systemets standardenhed
+Choisit le casque ou les enceintes pour le son des lives, sans changer le son de Windows. « Périphérique par défaut du système » suit le choix de Windows. Le changement s'applique tout de suite. Si le périphérique choisi disparaît (casque débranché), l'application revient au choix par défaut.	Vælger hovedtelefoner eller højttalere til lyden fra live-udsendelser uden at ændre Windows-lyden. “Systemets standardenhed” følger Windows' valg. Ændringen gælder med det samme. Hvis den valgte enhed forsvinder (hovedtelefoner taget ud), vender programmet tilbage til standardvalget.
+Le périphérique audio choisi n'est plus disponible : retour au périphérique par défaut.	Den valgte lydenhed er ikke længere tilgængelig: tilbage til standardenheden.
+Captures d'écran	Skærmbilleder
+Dossier d'enregistrement	Gemmemappe
+Parcourir…	Gennemse…
+Ouvrir le dossier	Åbn mappen
+Dossier où la touche S enregistre les captures d'écran. Par défaut : le dossier « Velka » de vos Images. Le dossier choisi doit accepter l'écriture ; s'il disparaît (disque débranché, dossier supprimé), l'application revient au dossier par défaut. Le changement s'applique à la prochaine capture.	Mappen hvor tasten S gemmer skærmbilleder. Standard: mappen “Velka” i dine Billeder. Den valgte mappe skal tillade skrivning; hvis den forsvinder (drev fjernet, mappe slettet), vender programmet tilbage til standardmappen. Ændringen gælder fra det næste skærmbillede.
+Le dossier des captures n'est plus disponible : retour au dossier par défaut.	Mappen til skærmbilleder er ikke længere tilgængelig: tilbage til standardmappen.
+Ce dossier n'accepte pas l'écriture : choisissez-en un autre.	Denne mappe tillader ikke skrivning: vælg en anden.
+Aucun	Ingen
+Effacer un raccourci	Ryd genvej
+Réduire dans la zone de notification à la fermeture	Minimér til meddelelsesområdet ved lukning
+L'application reste active en fond pour les notifications	Appen kører videre i baggrunden til meddelelser
+La croix de fermeture cache la fenêtre dans la zone de notification (près de l'horloge) au lieu de quitter ; le live en cours est arrêté. Clic gauche sur l'icône : rouvrir. Clic droit : Ouvrir ou Quitter. Pour être prévenu quand un favori passe en direct, activez aussi « Notifications Windows ».	Lukkeknappen skjuler vinduet i meddelelsesområdet (ved uret) i stedet for at afslutte; den aktuelle livestream stoppes. Venstreklik på ikonet åbner vinduet igen, højreklik viser Åbn eller Afslut. Slå også „Windows-meddelelser“ til for at få besked, når en favorit går live.
+Ouvrir Velka	Åbn Velka
+Quitter	Afslut
+Velka reste actif dans la zone de notification. Clic droit sur l'icône pour quitter.	Velka kører stadig i meddelelsesområdet. Højreklik på ikonet for at afslutte.
+Rechercher des mises à jour	Søg efter opdateringer
+Vous utilisez la dernière version.	Du bruger den nyeste version.
+Mise à jour {version} disponible	Opdatering {version} er tilgængelig
+Impossible de se connecter. Vérifiez votre connexion internet.	Kunne ikke forbinde. Tjek din internetforbindelse.
+La recherche de mise à jour a échoué.	Søgningen efter opdatering mislykkedes.
+Historique des chaînes	Kanalhistorik
+Effacer l'historique	Ryd historik
+Historique effacé.	Historik ryddet.
+Ouvrir le dossier de configuration	Åbn indstillingsmappen
+Options du lecteur	Afspillerindstillinger
+Perso	Brugerdef.
+Durée personnalisée	Brugerdefineret varighed
+Ajuster uniquement la taille du texte du chat	Juster kun størrelsen på chatteksten
+Ajuster la taille globale de l'interface	Juster den samlede størrelse på grænsefladen
+Connectez-vous à Twitch pour activer	Log ind på Twitch for at aktivere
+Pas de connexion Internet.	Ingen internetforbindelse.
+La connexion Internet s'est coupée.	Internetforbindelsen blev afbrudt.
+Licences des composants	Komponentlicenser
+Le lecteur vidéo utilise libmpv (mpv) et FFmpeg, sous licence LGPL version 2.1 ou ultérieure. Vous pouvez remplacer libmpv par votre propre version dans {section}.	Videoafspilleren bruger libmpv (mpv) og FFmpeg under LGPL version 2.1 eller nyere. Du kan erstatte libmpv med din egen version i {section}.
+Code source et compilation	Kildekode og byggescripts
+Velka n'a pas pu ouvrir sa fenêtre : la carte graphique ou son pilote ne prend pas en charge OpenGL 3.0. Mettez à jour le pilote de la carte graphique, puis relancez Velka. Sur un bureau à distance ou une machine virtuelle, l'affichage peut ne pas être pris en charge.	Velka kunne ikke åbne sit vindue: grafikkortet eller dets driver understøtter ikke OpenGL 3.0. Opdater grafikkortets driver, og genstart derefter Velka. På et fjernskrivebord eller en virtuel maskine understøttes visningen muligvis ikke.
+La carte graphique n'annonce pas OpenGL 3.0 : la vidéo peut rester noire. Mettez à jour le pilote de la carte graphique. Sur un bureau à distance ou une machine virtuelle, l'affichage peut ne pas être pris en charge.	Grafikkortet angiver ikke OpenGL 3.0: videoen kan forblive sort. Opdater grafikkortets driver. På et fjernskrivebord eller en virtuel maskine understøttes visningen muligvis ikke.
+Démarrer avec macOS	Start med macOS
+Démarrer avec Linux	Start med Linux
+Lance Velka automatiquement quand vous ouvrez votre session macOS.	Starter Velka automatisk, når du logger på macOS.
+Lance Velka automatiquement quand vous ouvrez votre session Linux.	Starter Velka automatisk, når du logger på Linux.
+Notifications macOS	macOS-meddelelser
+Notifications Linux	Linux-meddelelser
+Affiche une notification macOS quand l'un de vos favoris passe en direct. L'application doit rester ouverte (elle peut être réduite).	Viser en macOS-meddelelse, når en af dine favoritter går live. Appen skal være åben (den må være minimeret).
+Affiche une notification Linux quand l'un de vos favoris passe en direct. L'application doit rester ouverte (elle peut être réduite).	Viser en Linux-meddelelse, når en af dine favoritter går live. Appen skal være åben (den må være minimeret).
+Multistream	Multistream
+Regardez jusqu'à 4 lives en même temps.	Se op til 4 livestreams på én gang.
+Ajouter une chaîne	Tilføj en kanal
+Ajouter	Tilføj
+Tout arrêter	Stop alle
+Cette chaîne est déjà affichée.	Denne kanal vises allerede.
+4 lives au maximum.	Højst 4 livestreams.
+Ajoutez une chaîne pour commencer.	Tilføj en kanal for at begynde.
+Retirer ce live	Fjern denne livestream
+Écouter ce live	Lyt til denne livestream
+Cumuler le son des lives en Multistream	Kombinér lyden fra livestreams i Multistream
+Un clic sur un live ajoute son son au lieu de le remplacer	Et klik på en livestream tilføjer dens lyd i stedet for at erstatte den
+Sur la page Multistream, un clic sur un live fait entendre son son en plus de ceux déjà écoutés, jusqu'aux quatre lives. Le bouton du son de chaque live le coupe.	På Multistream-siden afspilles lyden fra en livestream, du klikker på, ud over lyden fra dem, du allerede lytter til, op til alle fire livestreams. Hver livestreams lydknap slår den fra.
+Couper tous les sons	Slå al lyd fra
+Lecteur Twitch léger avec multistream, chat et notifications.	Let Twitch-afspiller med multistream, chat og notifikationer.
+Quelques composants sont nécessaires pour lire les lives Twitch.	Der kræves nogle komponenter for at afspille Twitch-streams.
+Logiciel libre sous licence GPL-3.0 ou ultérieure.	Fri software under licensen GPL-3.0 eller nyere.
+Application non affiliée à Twitch.	Ikke tilknyttet Twitch.
+Code source sur GitHub	Kildekode på GitHub
+Soutenir le projet	Støt projektet
+La connexion Twitch n'a pas pu être enregistrée de façon sécurisée (trousseau du système indisponible) : elle sera perdue à la fermeture de Velka.	Twitch-login kunne ikke gemmes sikkert (systemets nøglering er ikke tilgængelig): det går tabt, når Velka lukkes.
+Velka est gratuit et le restera. Si l'application vous plaît, un petit don aide à la faire vivre.	Velka er gratis og forbliver gratis. Kan du lide appen, hjælper en lille donation med at holde den i live.
+Plus tard	Senere
+Rappel pour soutenir le projet	Påmindelse om at støtte projektet
+Affiche de temps en temps sur l'accueil, au plus une fois par mois, un message avec un lien pour soutenir le projet.	Viser af og til på forsiden, højst én gang om måneden, en besked med et link til at støtte projektet.
