@@ -94,6 +94,10 @@ code { font-family: ui-monospace, "Cascadia Code", Consolas, monospace; font-siz
 .btn-primary:hover { background: var(--accent-hover); }
 .btn-secondary { background: var(--s2); color: var(--text); border-color: var(--border); }
 .btn-secondary:hover { background: var(--s3); border-color: var(--border-hover); }
+.btn-donate { background: var(--accent); color: #fff; }
+.btn-donate:hover { background: var(--accent-hover); }
+.btn-donate svg { fill: currentColor; stroke: none; }
+.btn-lg { height: 48px; padding: 0 28px; font-size: 1.05rem; }
 .btn-sm { height: 32px; padding: 0 12px; font-size: 0.88rem; }
 .btn-block { width: 100%; margin-top: 14px; }
 .pill-btn { height: 32px; min-width: 40px; padding: 0 10px; border-radius: 999px; background: var(--s2); color: var(--muted); border: 1px solid var(--border); font: 600 0.8rem "Inter", sans-serif; cursor: pointer; }
@@ -143,7 +147,7 @@ code { font-family: ui-monospace, "Cascadia Code", Consolas, monospace; font-siz
 .faq[open] summary::after { transform: rotate(45deg); }
 .faq p { padding: 0 20px 18px; }
 
-.support { display: flex; align-items: center; justify-content: space-between; gap: 24px; padding: 28px 32px; background: linear-gradient(120deg, var(--accent-soft), transparent 60%), var(--s1); }
+.support { display: flex; align-items: center; justify-content: space-between; gap: 24px; padding: 40px; border-color: var(--accent-text); background: linear-gradient(120deg, var(--accent-soft), transparent 60%), var(--s1); }
 .support .sub { margin-bottom: 0; }
 
 .foot { border-top: 1px solid var(--border); padding: 28px 0 40px; color: var(--faint); font-size: 0.88rem; }
