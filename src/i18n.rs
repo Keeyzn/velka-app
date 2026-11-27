@@ -914,8 +914,6 @@ pub(crate) fn english(fr: &str) -> Option<&'static str> {
         // Rappel de soutien
         "Velka est gratuit et le restera. Si l'application vous plaît, un petit don aide à la faire vivre." => "Velka is free and will stay free. If you like the app, a small donation helps keep it going.",
         "Plus tard" => "Later",
-        "Rappel pour soutenir le projet" => "Reminder to support the project",
-        "Affiche de temps en temps sur l'accueil, au plus une fois par mois, un message avec un lien pour soutenir le projet." => "Occasionally shows a message on the home page, at most once a month, with a link to support the project.",
         _ => return None,
     })
 }

@@ -1163,13 +1163,6 @@ impl VelkaApp {
                 ui.ctx()
                     .open_url(egui::OpenUrl::new_tab(crate::app::soutien::SUPPORT_URL));
             }
-            ui.add_space(t::SP_S);
-            t::switch_row(
-                ui,
-                tr("Rappel pour soutenir le projet"),
-                None,
-                &mut self.settings.support_reminder,
-            );
         });
         cols[c].add_space(t::SP_M);
     }

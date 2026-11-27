@@ -125,10 +125,6 @@ const HELP: &[(&str, &str)] = &[
         "Complet : fondus, glissements, cascades et compteurs animés. Réduit : fondus et changements de couleur seulement, sans déplacement. Désactivé : aucune animation (utile sur un ordinateur lent). Le réglage d'animations de Windows n'est pas pris en compte.",
     ),
     (
-        "Rappel pour soutenir le projet",
-        "Affiche de temps en temps sur l'accueil, au plus une fois par mois, un message avec un lien pour soutenir le projet.",
-    ),
-    (
         crate::i18n::os::NOTIFY,
         crate::i18n::os::NOTIFY_HELP,
     ),

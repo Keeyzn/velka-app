@@ -1,10 +1,11 @@
 //! Rappel de soutien : de temps en temps, un bandeau sur l'accueil propose de soutenir le projet (lien de don).
-//! Jamais aux premiers lancements, au plus une fois tous les `INTERVALLE_JOURS`, et désactivable dans
-//! Réglages > À propos.
+//! Jamais aux premiers lancements, et au plus une fois tous les `INTERVALLE_JOURS`.
 use super::*;
 
-/// Page de soutien au projet (dons sans contrepartie).
-pub(crate) const SUPPORT_URL: &str = "https://ko-fi.com/velkaapp";
+/// Formulaire de don de la page Ko-fi du projet (dons sans contrepartie), ouvert directement, sans le reste de la
+/// page.
+pub(crate) const SUPPORT_URL: &str =
+    "https://ko-fi.com/velkaapp/?hidefeed=true&widget=true&embed=true";
 
 /// Nombre de lancements avant le premier rappel.
 const LANCEMENTS_MIN: u32 = 5;
@@ -14,9 +15,8 @@ const JOURS_MIN: u32 = 7;
 const INTERVALLE_JOURS: u32 = 30;
 
 /// Le rappel est-il dû ce jour (`today`, jours depuis 1970) ?
-fn support_due(enabled: bool, launches: u32, first_day: u32, last_day: u32, today: u32) -> bool {
-    enabled
-        && launches >= LANCEMENTS_MIN
+fn support_due(launches: u32, first_day: u32, last_day: u32, today: u32) -> bool {
+    launches >= LANCEMENTS_MIN
         && first_day > 0
         && today >= first_day.saturating_add(JOURS_MIN)
         && (last_day == 0 || today >= last_day.saturating_add(INTERVALLE_JOURS))
@@ -35,13 +35,8 @@ impl VelkaApp {
             s.first_use_day = today;
         }
         s.launch_count = s.launch_count.saturating_add(1);
-        self.support_visible = support_due(
-            s.support_reminder,
-            s.launch_count,
-            s.first_use_day,
-            s.support_last_day,
-            today,
-        );
+        self.support_visible =
+            support_due(s.launch_count, s.first_use_day, s.support_last_day, today);
         if self.support_visible {
             s.support_last_day = today;
         }
@@ -49,7 +44,7 @@ impl VelkaApp {
 
     /// Bandeau de soutien (accueil et multistream), avec le bouton vers la page de don.
     pub(super) fn support_banner(&mut self, ui: &mut egui::Ui, ctx: &egui::Context) {
-        if !self.support_visible || !self.settings.support_reminder {
+        if !self.support_visible {
             return;
         }
         let tr = crate::i18n::tr;
@@ -88,16 +83,15 @@ mod tests {
     fn rappel_de_temps_en_temps_seulement() {
         let jour = 20_000;
         // Premiers lancements ou première semaine : jamais.
-        assert!(!support_due(true, 1, jour, 0, jour));
-        assert!(!support_due(true, 4, jour, 0, jour + 60));
-        assert!(!support_due(true, 10, jour, 0, jour + 6));
+        assert!(!support_due(1, jour, 0, jour));
+        assert!(!support_due(4, jour, 0, jour + 60));
+        assert!(!support_due(10, jour, 0, jour + 6));
         // Ensuite, une première fois…
-        assert!(support_due(true, 5, jour, 0, jour + 7));
+        assert!(support_due(5, jour, 0, jour + 7));
         // …puis pas avant 30 jours.
-        assert!(!support_due(true, 50, jour, jour + 7, jour + 36));
-        assert!(support_due(true, 50, jour, jour + 7, jour + 37));
-        // Désactivé dans les Réglages, ou date de première utilisation inconnue : jamais.
-        assert!(!support_due(false, 50, jour, 0, jour + 100));
-        assert!(!support_due(true, 50, 0, 0, jour + 100));
+        assert!(!support_due(50, jour, jour + 7, jour + 36));
+        assert!(support_due(50, jour, jour + 7, jour + 37));
+        // Date de première utilisation inconnue : jamais.
+        assert!(!support_due(50, 0, 0, jour + 100));
     }
 }

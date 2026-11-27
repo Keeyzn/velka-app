@@ -661,7 +661,6 @@ const SEARCH_INDEX: &[(&str, u8)] = &[
     ("Revoir le didacticiel", TAB_ABOUT),
     ("Licences des composants", TAB_ABOUT),
     ("Soutenir le projet", TAB_ABOUT),
-    ("Rappel pour soutenir le projet", TAB_ABOUT),
 ];
 
 /// Minuscules sans accents, pour une recherche tolérante (« nettete » trouve « Netteté »).

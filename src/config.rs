@@ -178,8 +178,6 @@ pub struct Settings {
     /// version antérieure : pas de didacticiel ; une nouvelle installation (valeur par défaut) l'affiche une fois.
     #[serde(default = "onboarding_seen")]
     pub onboarding_done: bool,
-    /// Rappel de soutien : de temps en temps, un bandeau sur l'accueil avec le lien de don (`app/soutien.rs`).
-    pub support_reminder: bool,
     /// Jour (depuis 1970) de la première utilisation ; 0 = pas encore connu.
     pub first_use_day: u32,
     /// Jour du dernier rappel de soutien affiché ; 0 = jamais.
@@ -335,7 +333,6 @@ impl Default for Settings {
             window_ppp: 1.0,
             window_maximized: false,
             onboarding_done: false,
-            support_reminder: true,
             first_use_day: 0,
             support_last_day: 0,
             launch_count: 0,
